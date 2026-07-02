@@ -1,0 +1,59 @@
+{
+  "portfolio": {
+    "cash": 100000.0,
+    "total_value": 100000.0,
+    "positions": []
+  },
+  "research": {
+    "SPY": {
+      "sma20": null,
+      "sma50": null,
+      "last_close": 742.52,
+      "pct_change": 0.0,
+      "trend": "bearish \u2014 below both MAs",
+      "news": "EXCLUSIVE: Market Expert Jay Woods Says Micron Stock is New Market \u2018Tell,\u2019 Following Footsteps of Nvidia, Apple, Microsoft; U.S. Baker Hughes Oil Rig Count  +5 To 445; U.S. Baker Hughes NatGas Rig Count +1 To 126; U.S. Baker Hughes Total Rig Count 580 Vs 573 Prior; Dow Jones Hits Record High as Chip Bloodbath Sinks Nasdaq 100: Stock Market Today",
+      "notes": "",
+      "position": null
+    },
+    "QQQ": {
+      "sma20": null,
+      "sma50": null,
+      "last_close": 710.7,
+      "pct_change": 0.0,
+      "trend": "bearish \u2014 below both MAs",
+      "news": "Dow Jones Hits Record High as Chip Bloodbath Sinks Nasdaq 100: Stock Market Today; Stock Market Today: Dow Jones, S&P 500 Futures Gain Despite Weak June Jobs Data \u2014 CoreWeave, Nebius, Micron, Franklin Covey In Focus (UPDATED); Trump Hails S&P 500's Best Quarter Since 2020 as US-Iran Indirect Talks Wrap Up",
+      "notes": "",
+      "position": null
+    },
+    "NVDA": {
+      "sma20": null,
+      "sma50": null,
+      "last_close": 193.23,
+      "pct_change": 0.0,
+      "trend": "bearish \u2014 below both MAs",
+      "news": "SOXX ETF's Worst 2-Day Drop in Over a Year: These 3 Chip Stocks Now Screen with 50% Upside; EXCLUSIVE: Market Expert Jay Woods Says Micron Stock is New Market \u2018Tell,\u2019 Following Footsteps of Nvidia, Apple, Microsoft; EXCLUSIVE: Top 12 Most-Searched Tickers in June on Benzinga Pro \u2014 SpaceX, Marvell Join List, Micron Stays On Top",
+      "notes": "",
+      "position": null
+    },
+    "AAPL": {
+      "sma20": null,
+      "sma50": null,
+      "last_close": 307.95,
+      "pct_change": 0.0,
+      "trend": "bearish \u2014 below both MAs",
+      "news": "What's Going on With Apple Stock Thursday?; EXCLUSIVE: Top 12 Most-Searched Tickers in June on Benzinga Pro \u2014 SpaceX, Marvell Join List, Micron Stays On Top; From Nvidia's 'Godfather of AI' to Palantir's 'Messi of AI': Dan Ives' Stock Calls That Defined a Bull Market",
+      "notes": "",
+      "position": null
+    },
+    "MSFT": {
+      "sma20": null,
+      "sma50": null,
+      "last_close": 390.7,
+      "pct_change": 0.0,
+      "trend": "bearish \u2014 below both MAs",
+      "news": "'Microsoft Is Planning To Merge Its Consumer And Enterprise Copilot Chatbots In August; Microsoft Copilot Exec Jacob Andreou Is Cutting Low-Value Copilot Features' - The Information; From Nvidia's 'Godfather of AI' to Palantir's 'Messi of AI': Dan Ives' Stock Calls That Defined a Bull Market; Microsoft Investing $2.5B To Launch New Operating Business For AI-Led Frontier Transformation For Clients",
+      "notes": "",
+      "position": null
+    }
+  }
+}
