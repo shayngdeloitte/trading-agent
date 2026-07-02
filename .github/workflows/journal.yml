@@ -5,12 +5,17 @@ on:
     - cron: '15 20 * * 1-5'  # 4:15 PM ET = 20:15 UTC
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
   journal:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repo
         uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Set up Python
         uses: actions/setup-python@v5
