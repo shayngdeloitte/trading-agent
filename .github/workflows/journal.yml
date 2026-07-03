@@ -39,6 +39,6 @@ jobs:
         run: |
           git config user.name "trading-agent"
           git config user.email "agent@noreply.github.com"
-          git add journal/
-          git diff --cached --quiet || git commit -m "Journal: $(date -u '+%Y-%m-%d')"
+          git add -A
+          git diff --cached --quiet && echo "Nothing to commit" || git commit -m "Journal: $(date -u '+%Y-%m-%d')"
           git push

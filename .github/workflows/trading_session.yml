@@ -1,0 +1,76 @@
+name: Trading Session
+
+on:
+  schedule:
+    - cron: '45 13 * * 1-5'  # 9:45 AM ET = 13:45 UTC
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  research:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install requests python-dotenv sendgrid
+
+      - name: Run research phase
+        env:
+          APCA_API_KEY_ID: ${{ secrets.APCA_API_KEY_ID }}
+          APCA_API_SECRET_KEY: ${{ secrets.APCA_API_SECRET_KEY }}
+          APCA_BASE_URL: ${{ secrets.APCA_BASE_URL }}
+        run: python agent.py research
+
+      - name: Commit research
+        run: |
+          git config user.name "trading-agent"
+          git config user.email "agent@noreply.github.com"
+          git add -A
+          git diff --cached --quiet && echo "Nothing to commit" || git commit -m "Research: $(date -u '+%Y-%m-%d')"
+          git push
+
+  trade:
+    runs-on: ubuntu-latest
+    needs: research
+    steps:
+      - name: Wait 15 minutes before trading
+        run: sleep 900
+
+      - name: Checkout repo
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install requests python-dotenv sendgrid
+
+      - name: Run trade phase
+        env:
+          APCA_API_KEY_ID: ${{ secrets.APCA_API_KEY_ID }}
+          APCA_API_SECRET_KEY: ${{ secrets.APCA_API_SECRET_KEY }}
+          APCA_BASE_URL: ${{ secrets.APCA_BASE_URL }}
+        run: python agent.py trade
+
+      - name: Commit trades
+        run: |
+          git config user.name "trading-agent"
+          git config user.email "agent@noreply.github.com"
+          git add -A
+          git diff --cached --quiet && echo "Nothing to commit" || git commit -m "Trades: $(date -u '+%Y-%m-%d')"
+          git push
