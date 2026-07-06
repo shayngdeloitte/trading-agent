@@ -1,0 +1,59 @@
+{
+  "portfolio": {
+    "cash": 100000.0,
+    "total_value": 100000.0,
+    "positions": []
+  },
+  "research": {
+    "SPY": {
+      "sma20": null,
+      "sma50": null,
+      "last_close": 752.3,
+      "pct_change": 0.0,
+      "trend": "bearish \u2014 below both MAs",
+      "news": "Too Many ETFs? Record 214 Fund Launches In June Raise Questions About Market Saturation; Semi Stocks Gain Ahead Of Samsung Earnings And SK Hynix US Listing; Yields Ease; The S&P 500 Just Flashed A Signal That's Been Bullish Since 1950",
+      "notes": "",
+      "position": null
+    },
+    "QQQ": {
+      "sma20": null,
+      "sma50": null,
+      "last_close": 725.08,
+      "pct_change": 0.0,
+      "trend": "bearish \u2014 below both MAs",
+      "news": "Semi Stocks Gain Ahead Of Samsung Earnings And SK Hynix US Listing; Yields Ease; Chip Rally Ignites Nasdaq 100 Rebound Ahead of SK Hynix's US Listing: Stock Market Today; Stock Market Today: Dow Jones Futures Fall,  S&P 500, Nasdaq Gain Following Independence Day Weekend\u2014 Intel, SanDisk, Tesla, Ford In Focus (UPDATED)",
+      "notes": "",
+      "position": null
+    },
+    "NVDA": {
+      "sma20": null,
+      "sma50": null,
+      "last_close": 196.97,
+      "pct_change": 0.0,
+      "trend": "bearish \u2014 below both MAs",
+      "news": "Semi Stocks Gain Ahead Of Samsung Earnings And SK Hynix US Listing; Yields Ease; Chip Rally Ignites Nasdaq 100 Rebound Ahead of SK Hynix's US Listing: Stock Market Today; Watching Nvidia; Traders Circulate X Post Saying An Nvidia spokesperson just responded to this story \"Our roadmap is intact.\"; Original X Post Says \"Nvidia's next generation AI server rack system Kyber NVL144 has reportedly been delayed by more than a year - SemiAnalysis\"",
+      "notes": "",
+      "position": null
+    },
+    "AAPL": {
+      "sma20": null,
+      "sma50": null,
+      "last_close": 313.38,
+      "pct_change": 0.0,
+      "trend": "bearish \u2014 below both MAs",
+      "news": "ALAB Shares Rise as Sector Rebounds from June Slump; Why Apple And Palantir Could Become Wall Street's New AI Favorites; 'U.S. Supreme Court Declines To Block Texas Law Requiring Age Verification And Parental Consent To Download Apps' - Reuters News",
+      "notes": "",
+      "position": null
+    },
+    "MSFT": {
+      "sma20": null,
+      "sma50": null,
+      "last_close": 386.25,
+      "pct_change": 0.0,
+      "trend": "bearish \u2014 below both MAs",
+      "news": "Microsoft Lays Off 4,800 Employees: What Next for MSFT Stock; Semi Stocks Gain Ahead Of Samsung Earnings And SK Hynix US Listing; Yields Ease; Chip Rally Ignites Nasdaq 100 Rebound Ahead of SK Hynix's US Listing: Stock Market Today",
+      "notes": "",
+      "position": null
+    }
+  }
+}
