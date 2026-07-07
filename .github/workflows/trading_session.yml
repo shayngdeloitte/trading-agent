@@ -32,22 +32,25 @@ jobs:
           APCA_BASE_URL: ${{ secrets.APCA_BASE_URL }}
         run: python agent.py research
 
-      - name: Commit research
+      - name: Upload research cache as artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: research-cache
+          path: journal/
+          retention-days: 1
+
+      - name: Commit journal
         run: |
           git config user.name "trading-agent"
           git config user.email "agent@noreply.github.com"
           git add -A
           git diff --cached --quiet && echo "Nothing to commit" || git commit -m "Research: $(date -u '+%Y-%m-%d')"
-          git pull --rebase
-          git push
+          git push || (git fetch origin main && git reset --soft origin/main && git commit -m "Research: $(date -u '+%Y-%m-%d')" && git push)
 
   trade:
     runs-on: ubuntu-latest
     needs: research
     steps:
-      - name: Wait 15 minutes before trading
-        run: sleep 900
-
       - name: Checkout repo
         uses: actions/checkout@v4
         with:
@@ -60,6 +63,12 @@ jobs:
 
       - name: Install dependencies
         run: pip install requests python-dotenv sendgrid
+
+      - name: Download research cache
+        uses: actions/download-artifact@v4
+        with:
+          name: research-cache
+          path: journal/
 
       - name: Run trade phase
         env:
@@ -74,5 +83,4 @@ jobs:
           git config user.email "agent@noreply.github.com"
           git add -A
           git diff --cached --quiet && echo "Nothing to commit" || git commit -m "Trades: $(date -u '+%Y-%m-%d')"
-          git pull --rebase
-          git push
+          git push || (git fetch origin main && git reset --soft origin/main && git commit -m "Trades: $(date -u '+%Y-%m-%d')" && git push)
