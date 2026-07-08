@@ -1,0 +1,59 @@
+{
+  "portfolio": {
+    "cash": 100000.0,
+    "total_value": 100000.0,
+    "positions": []
+  },
+  "research": {
+    "SPY": {
+      "sma20": null,
+      "sma50": null,
+      "last_close": 744.4,
+      "pct_change": 0.0,
+      "trend": "bearish \u2014 below both MAs",
+      "news": "President Trump Says Don't Think War With Iran Will Start Again; Anything That Happens Will Be Over Very Quickly; Will Make Things Safer For Oil;  We're Not Looking For Long-Term; Says When Iran Hits, We Hit; President Trump Says Lockheed Building 5 New Plants; Altogether, New Defense Plants To Quadruple Output; President Trump Says We'll Give Companies Up To 2 Years To Build In U.S.; If Not, They Must Pay Up To 250% Tariff",
+      "notes": "",
+      "position": null
+    },
+    "QQQ": {
+      "sma20": null,
+      "sma50": null,
+      "last_close": 708.68,
+      "pct_change": 0.0,
+      "trend": "bearish \u2014 below both MAs",
+      "news": "Oil Stocks Rally, S&P 500 Plunges As Iran Ceasefire Sinks: Stock Market Today; Stock Market Today: S&P 500, Dow, Nasdaq Futures Fall as Trump Says Iran Ceasefire Is 'Over'\u2014 Saratoga, Exxon Mobil, Levi's Strauss In Focus (UPDATED); Trump Declares Iran Ceasefire 'Over,' Says Talks Are 'a Waste of Time:' Report",
+      "notes": "",
+      "position": null
+    },
+    "NVDA": {
+      "sma20": null,
+      "sma50": null,
+      "last_close": 201.01,
+      "pct_change": 0.0,
+      "trend": "bearish \u2014 below both MAs",
+      "news": "CNBC Halftime Report Final Trades: Nvidia, Vertex Pharmaceuticals, Vanguard Real Estate ETF, Roundhill Memory ETF; Nvidia Cheaper Than Apple, Microsoft, Meta? Analyst Sees 'Compelling Value'; Live On CNBC, Joe Terranova Announces Bought Nvidia",
+      "notes": "",
+      "position": null
+    },
+    "AAPL": {
+      "sma20": null,
+      "sma50": null,
+      "last_close": 313.98,
+      "pct_change": 0.0,
+      "trend": "bearish \u2014 below both MAs",
+      "news": "Nvidia Cheaper Than Apple, Microsoft, Meta? Analyst Sees 'Compelling Value'; Live On CNBC, Joe Terranova Announces Bought More Apple; Apple Unveils $30 Billion Broadcom Deal",
+      "notes": "",
+      "position": null
+    },
+    "MSFT": {
+      "sma20": null,
+      "sma50": null,
+      "last_close": 382.14,
+      "pct_change": 0.0,
+      "trend": "bearish \u2014 below both MAs",
+      "news": "OpenAI Introduces GPT-Live; Beginning To Roll Out Two Versions Of GPT\u2011Live \u2013 GPT\u2011Live\u20111 And GPT\u2011Live\u20111 Mini \u2013 To ChatGPT Users Globally Today; LIVE: Watch OpenAI Announces \"The next generation of ChatGPT Voice\"; Nvidia Cheaper Than Apple, Microsoft, Meta? Analyst Sees 'Compelling Value'",
+      "notes": "",
+      "position": null
+    }
+  }
+}
