@@ -195,8 +195,8 @@ def run_trade():
                 })
                 continue
 
-        # Buy signal: price above both MAs, positive momentum, no existing position
-        if sma20 and sma50 and last_close > sma20 and last_close > sma50 and pct_change > 0 and not pos:
+        # Buy signal: price above both MAs, no existing position
+        if sma20 and sma50 and last_close > sma20 and last_close > sma50 and not pos:
             max_alloc = item.get("max_allocation_pct", 8) / 100
             max_dollars = account_value * max_alloc
             qty = max(1, int(max_dollars / last_close))
@@ -216,7 +216,7 @@ def run_trade():
                     "action": "BUY",
                     "qty": qty,
                     "price": limit_price,
-                    "reasoning": f"Above SMA20 (${sma20}) and SMA50 (${sma50}), +{pct_change}% momentum",
+                    "reasoning": f"Above SMA20 (${sma20}) and SMA50 (${sma50}), pct_change={pct_change:.2f}%",
                 })
             else:
                 print(f"  {sym}: BUY blocked — {reason}")
