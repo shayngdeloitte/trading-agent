@@ -17,10 +17,13 @@ def get_bars(symbol, timeframe="1Day", limit=60):
         "APCA-API-SECRET-KEY": ALPACA_SECRET,
     }
     url = f"https://data.alpaca.markets/v2/stocks/{symbol}/bars"
+    start = (datetime.utcnow() - timedelta(days=100)).strftime("%Y-%m-%dT%H:%M:%SZ")
     params = {
         "timeframe": timeframe,
         "limit": limit,
-        "adjustment": "raw"
+        "adjustment": "raw",
+        "start": start,
+        "feed": "iex",
     }
     response = requests.get(url, headers=headers, params=params)
     return response.json()
