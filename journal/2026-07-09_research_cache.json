@@ -12,7 +12,7 @@
       "pct_change": -0.54,
       "trend": "bearish \u2014 below both MAs",
       "news": "Mehr News Agency Repots Three Explosion Sound Heard In Iran's Konarak; Six Explosions Heard In Iran's Bushehr And Choghadak; U.S. Commodity Futures Trading Commission Exercising Authority To Stay Listing Of CME's 24/7 Trading On Crude Oil Futures; USA Existing Home Sales (MoM) For June -2.4% Vs 3.7% Prior",
-      "notes": "",
+      "notes": "Hold \u2014 below SMA20, no entry",
       "position": null
     },
     "QQQ": {
@@ -22,7 +22,7 @@
       "pct_change": -1.49,
       "trend": "mixed \u2014 between MAs",
       "news": "Nasdaq 'Cheated and Changed the Laws' to Fit SpaceX in, Famed Investor Jeremy Grantham Says; BlackRock Just Took The Fight To QQQ \u2014 The Nasdaq\u2011100 ETF War Is On; Oil Surges Again as US-Iran War Escalates: Top Economist Justin Wolfers Explains the \u2018Hidden Pattern\u2019 Driving Gas Prices",
-      "notes": "",
+      "notes": "Hold \u2014 below SMA20, no entry",
       "position": null
     },
     "NVDA": {
@@ -32,7 +32,7 @@
       "pct_change": -2.0,
       "trend": "bearish \u2014 below both MAs",
       "news": "Nancy Pelosi, Donald Trump Bet On The Same 10 Stocks \u2013 Some Might Surprise You; 10 Information Technology Stocks With Whale Alerts In Today\u2019s Session; Tesla, Nvidia, Amazon Power SoFi's New Monthly Income ETF",
-      "notes": "",
+      "notes": "Hold \u2014 below SMA20, no entry",
       "position": null
     },
     "AAPL": {
@@ -42,7 +42,7 @@
       "pct_change": 2.22,
       "trend": "bearish \u2014 below both MAs",
       "news": "Nancy Pelosi, Donald Trump Bet On The Same 10 Stocks \u2013 Some Might Surprise You; This Senator Just Sold Up To $165K In Apple Stock; 'Khosla-Backed Startup Claims Breakthrough With Largest-Ever AI Model on an iPhone' - The Information",
-      "notes": "",
+      "notes": "Hold \u2014 below SMA20, no entry",
       "position": null
     },
     "MSFT": {
@@ -52,8 +52,10 @@
       "pct_change": 5.46,
       "trend": "bearish \u2014 below both MAs",
       "news": "Starbucks Stock Rises Amid In-House Software Push; OpenAI Rolling Out Sol, Terra, Luna GPT-5.6 Family Of Models In ChatGPT, Codex, API; BlackRock Just Took The Fight To QQQ \u2014 The Nasdaq\u2011100 ETF War Is On",
-      "notes": "",
+      "notes": "Hold \u2014 below SMA20, no entry",
       "position": null
     }
-  }
+  },
+  "trades": [],
+  "closed": []
 }
