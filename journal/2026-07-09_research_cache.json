@@ -1,0 +1,59 @@
+{
+  "portfolio": {
+    "cash": 100000.0,
+    "total_value": 100000.0,
+    "positions": []
+  },
+  "research": {
+    "SPY": {
+      "sma20": 743.55,
+      "sma50": 734.31,
+      "last_close": 729.35,
+      "pct_change": -0.54,
+      "trend": "bearish \u2014 below both MAs",
+      "news": "Mehr News Agency Repots Three Explosion Sound Heard In Iran's Konarak; Six Explosions Heard In Iran's Bushehr And Choghadak; U.S. Commodity Futures Trading Commission Exercising Authority To Stay Listing Of CME's 24/7 Trading On Crude Oil Futures; USA Existing Home Sales (MoM) For June -2.4% Vs 3.7% Prior",
+      "notes": "",
+      "position": null
+    },
+    "QQQ": {
+      "sma20": 724.64,
+      "sma50": 702.71,
+      "last_close": 705.62,
+      "pct_change": -1.49,
+      "trend": "mixed \u2014 between MAs",
+      "news": "Nasdaq 'Cheated and Changed the Laws' to Fit SpaceX in, Famed Investor Jeremy Grantham Says; BlackRock Just Took The Fight To QQQ \u2014 The Nasdaq\u2011100 ETF War Is On; Oil Surges Again as US-Iran War Escalates: Top Economist Justin Wolfers Explains the \u2018Hidden Pattern\u2019 Driving Gas Prices",
+      "notes": "",
+      "position": null
+    },
+    "NVDA": {
+      "sma20": 207.74,
+      "sma50": 210.07,
+      "last_close": 191.97,
+      "pct_change": -2.0,
+      "trend": "bearish \u2014 below both MAs",
+      "news": "Nancy Pelosi, Donald Trump Bet On The Same 10 Stocks \u2013 Some Might Surprise You; 10 Information Technology Stocks With Whale Alerts In Today\u2019s Session; Tesla, Nvidia, Amazon Power SoFi's New Monthly Income ETF",
+      "notes": "",
+      "position": null
+    },
+    "AAPL": {
+      "sma20": 298.16,
+      "sma50": 291.44,
+      "last_close": 281.31,
+      "pct_change": 2.22,
+      "trend": "bearish \u2014 below both MAs",
+      "news": "Nancy Pelosi, Donald Trump Bet On The Same 10 Stocks \u2013 Some Might Surprise You; This Senator Just Sold Up To $165K In Apple Stock; 'Khosla-Backed Startup Claims Breakthrough With Largest-Ever AI Model on an iPhone' - The Information",
+      "notes": "",
+      "position": null
+    },
+    "MSFT": {
+      "sma20": 399.98,
+      "sma50": 410.92,
+      "last_close": 371.67,
+      "pct_change": 5.46,
+      "trend": "bearish \u2014 below both MAs",
+      "news": "Starbucks Stock Rises Amid In-House Software Push; OpenAI Rolling Out Sol, Terra, Luna GPT-5.6 Family Of Models In ChatGPT, Codex, API; BlackRock Just Took The Fight To QQQ \u2014 The Nasdaq\u2011100 ETF War Is On",
+      "notes": "",
+      "position": null
+    }
+  }
+}
