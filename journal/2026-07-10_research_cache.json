@@ -1,0 +1,59 @@
+{
+  "portfolio": {
+    "cash": 100000.0,
+    "total_value": 100000.0,
+    "positions": []
+  },
+  "research": {
+    "SPY": {
+      "sma20": 742.78,
+      "sma50": 735.1,
+      "last_close": 740.86,
+      "pct_change": 1.58,
+      "trend": "mixed \u2014 between MAs",
+      "news": "'U.S. Senators Say Agreement Reached With Trump On Russia Sanctions Bill' - Reuters News; New 'Ex-Elon' ETFs Would Strip Musk's Tesla And SpaceX From Major Indexes; U.S. Baker Hughes Oil Rig Count +0 To 445 (Unchnaged); U.S. Baker Hughes NatGas Rig Count +1 To 127; U.S. Baker Hughes Total Rig Count 581 Vs 580 Prior",
+      "notes": "",
+      "position": null
+    },
+    "QQQ": {
+      "sma20": 723.92,
+      "sma50": 704.38,
+      "last_close": 723.95,
+      "pct_change": 2.6,
+      "trend": "bullish \u2014 above both MAs",
+      "news": "New 'Ex-Elon' ETFs Would Strip Musk's Tesla And SpaceX From Major Indexes; Semis Volatile As Traders Wait For SK Hynix's Discount To Micron To Close; US Approves Cryptobank; Stock Market Today: Dow Jones, S&P 500 Futures Fall as Investors Await SK Hynix Debut and US Reportedly Mulls \u2018Technical Talks\u2019 With Iran\u2014 PMGC Holdings, WD-40, Netflix In Focus (UPDATED)",
+      "notes": "",
+      "position": null
+    },
+    "NVDA": {
+      "sma20": 206.93,
+      "sma50": 210.01,
+      "last_close": 194.92,
+      "pct_change": 1.54,
+      "trend": "bearish \u2014 below both MAs",
+      "news": "10 Information Technology Stocks With Whale Alerts In Today\u2019s Session; CNBC Halftime Report Final Trades: Nvidia, Nebius Group, Clorox, Dick's Sporting Goods; Semis Volatile As Traders Wait For SK Hynix's Discount To Micron To Close; US Approves Cryptobank",
+      "notes": "",
+      "position": null
+    },
+    "AAPL": {
+      "sma20": 296.64,
+      "sma50": 291.81,
+      "last_close": 281.69,
+      "pct_change": 0.14,
+      "trend": "bearish \u2014 below both MAs",
+      "news": "Semis Volatile As Traders Wait For SK Hynix's Discount To Micron To Close; US Approves Cryptobank; Meta Could Face Billions in Fines as EU Cracks Down on 'Addictive' Facebook and Instagram Features; 'Record Companies Push to Label AI Songs on Streaming Platforms' - WSJ Exclusive",
+      "notes": "",
+      "position": null
+    },
+    "MSFT": {
+      "sma20": 395.93,
+      "sma50": 409.89,
+      "last_close": 368.51,
+      "pct_change": -0.85,
+      "trend": "bearish \u2014 below both MAs",
+      "news": "Bill Ackman\u2019s Big Bet On Meta Stock Is Finally Paying Off: Here\u2019s The 2026 Gain So Far; 10 Information Technology Stocks With Whale Alerts In Today\u2019s Session; Semis Volatile As Traders Wait For SK Hynix's Discount To Micron To Close; US Approves Cryptobank",
+      "notes": "",
+      "position": null
+    }
+  }
+}
