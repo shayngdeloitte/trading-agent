@@ -12,7 +12,7 @@
       "pct_change": 1.58,
       "trend": "mixed \u2014 between MAs",
       "news": "'U.S. Senators Say Agreement Reached With Trump On Russia Sanctions Bill' - Reuters News; New 'Ex-Elon' ETFs Would Strip Musk's Tesla And SpaceX From Major Indexes; U.S. Baker Hughes Oil Rig Count +0 To 445 (Unchnaged); U.S. Baker Hughes NatGas Rig Count +1 To 127; U.S. Baker Hughes Total Rig Count 581 Vs 580 Prior",
-      "notes": "",
+      "notes": "Hold \u2014 below SMA20, no entry",
       "position": null
     },
     "QQQ": {
@@ -32,7 +32,7 @@
       "pct_change": 1.54,
       "trend": "bearish \u2014 below both MAs",
       "news": "10 Information Technology Stocks With Whale Alerts In Today\u2019s Session; CNBC Halftime Report Final Trades: Nvidia, Nebius Group, Clorox, Dick's Sporting Goods; Semis Volatile As Traders Wait For SK Hynix's Discount To Micron To Close; US Approves Cryptobank",
-      "notes": "",
+      "notes": "Hold \u2014 below SMA20, no entry",
       "position": null
     },
     "AAPL": {
@@ -42,7 +42,7 @@
       "pct_change": 0.14,
       "trend": "bearish \u2014 below both MAs",
       "news": "Semis Volatile As Traders Wait For SK Hynix's Discount To Micron To Close; US Approves Cryptobank; Meta Could Face Billions in Fines as EU Cracks Down on 'Addictive' Facebook and Instagram Features; 'Record Companies Push to Label AI Songs on Streaming Platforms' - WSJ Exclusive",
-      "notes": "",
+      "notes": "Hold \u2014 below SMA20, no entry",
       "position": null
     },
     "MSFT": {
@@ -52,8 +52,19 @@
       "pct_change": -0.85,
       "trend": "bearish \u2014 below both MAs",
       "news": "Bill Ackman\u2019s Big Bet On Meta Stock Is Finally Paying Off: Here\u2019s The 2026 Gain So Far; 10 Information Technology Stocks With Whale Alerts In Today\u2019s Session; Semis Volatile As Traders Wait For SK Hynix's Discount To Micron To Close; US Approves Cryptobank",
-      "notes": "",
+      "notes": "Hold \u2014 below SMA20, no entry",
       "position": null
     }
-  }
+  },
+  "trades": [
+    {
+      "time": "18:09",
+      "symbol": "QQQ",
+      "action": "BUY",
+      "qty": 13,
+      "price": 725.4,
+      "reasoning": "Above SMA20 ($723.92) and SMA50 ($704.38), pct_change=2.60%"
+    }
+  ],
+  "closed": []
 }
