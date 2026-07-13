@@ -1,0 +1,84 @@
+{
+  "portfolio": {
+    "cash": 90570.39,
+    "total_value": 99825.22,
+    "positions": [
+      {
+        "symbol": "QQQ",
+        "qty": 13,
+        "avg_price": 725.353846
+      }
+    ]
+  },
+  "research": {
+    "SPY": {
+      "sma20": 742.19,
+      "sma50": 735.83,
+      "last_close": 746.65,
+      "pct_change": 0.78,
+      "trend": "bullish \u2014 above both MAs",
+      "news": "USA Federal Budget Balance For June -120.0B Vs -132.8B Est; Fed's Waller Says Personally Would Prefer An Inflation Range As A Target; I Personally Would Prefer A Range For A Target; Seems Reasonable To Aim For 1.5%-2.5% Inflation; Sometimes A Point Estimate Is Too Restrictive In Terms Of Judging Success, Failure Regime Change Means You Don't Ask Current Regime To Run One Of The Task Forces; We Are Going To Learn A Lot From Task Forces; All Are Going To Have Valuable Impact; Fed's Waller Says Some Of The Job Market Uncertainty Resolved Itself This Year, It's Been A Stunning Turnaround; Markets Believe Fed Will Get Inflation Down To 2%, We Have Credibility; I Think Our Credibility Is Intact, Market Believes We Will Do Our Job; Not Interested In Symbolic Rate Hikes; Like That We Have A Clear Price Index For Our Benchmark; Can't Have Inflation Be Like Porn, You Know It When You See It; That's Not How Central Bankers Should Think",
+      "notes": "",
+      "position": null
+    },
+    "QQQ": {
+      "sma20": 723.6,
+      "sma50": 706.13,
+      "last_close": 736.07,
+      "pct_change": 1.67,
+      "trend": "bullish \u2014 above both MAs",
+      "news": "Critical 4 Hours Ahead, Korea And Iran Drive Selling In US Stocks; Stock Market Today: Dow Jones, Nasdaq 100, S&P 500 Futures Slips as US and Iran Exchange Strikes\u2014 Saratoga, Exxon Mobil, Levi's Strauss In Focus (UPDATED); Nvidia, Micron, Broadcom, Applied Materials Set to Generate $430 Billion in Free Cash Flow as Tech Giants Bleed Cash",
+      "notes": "",
+      "position": {
+        "asset_id": "2d9e926c-e17c-47c3-ad8c-26c7a594e48f",
+        "symbol": "QQQ",
+        "exchange": "NASDAQ",
+        "asset_class": "us_equity",
+        "asset_marginable": true,
+        "qty": "13",
+        "qty_available": "13",
+        "avg_entry_price": "725.353846",
+        "side": "long",
+        "market_value": "9254.83",
+        "cost_basis": "9429.599998",
+        "unrealized_pl": "-174.769998",
+        "unrealized_plpc": "-0.01853",
+        "unrealized_intraday_pl": "-176.8",
+        "unrealized_intraday_plpc": "-0.01875",
+        "current_price": "711.91",
+        "lastday_price": "725.51",
+        "change_today": "-0.01875"
+      }
+    },
+    "NVDA": {
+      "sma20": 205.7,
+      "sma50": 209.97,
+      "last_close": 199.93,
+      "pct_change": 2.57,
+      "trend": "bearish \u2014 below both MAs",
+      "news": "SK Hynix vs. Micron: Wall Street's AI Memory Battle Just Got Real; Quantum Tech on Capitol Hill: Nvidia, IBM and More Stocks to Watch; Critical 4 Hours Ahead, Korea And Iran Drive Selling In US Stocks",
+      "notes": "",
+      "position": null
+    },
+    "AAPL": {
+      "sma20": 295.79,
+      "sma50": 292.19,
+      "last_close": 289.24,
+      "pct_change": 2.68,
+      "trend": "bearish \u2014 below both MAs",
+      "news": "Citigroup Maintains Buy on Apple, Raises Price Target to $365; 10 Information Technology Stocks With Whale Alerts In Today\u2019s Session; Critical 4 Hours Ahead, Korea And Iran Drive Selling In US Stocks",
+      "notes": "",
+      "position": null
+    },
+    "MSFT": {
+      "sma20": 391.56,
+      "sma50": 408.89,
+      "last_close": 372.92,
+      "pct_change": 1.2,
+      "trend": "bearish \u2014 below both MAs",
+      "news": "10 Information Technology Stocks With Whale Alerts In Today\u2019s Session; Critical 4 Hours Ahead, Korea And Iran Drive Selling In US Stocks; Mark Zuckerberg\u2019s Meta Just Supercharged Its Biggest AI Bet Yet, Expanding Its Hyperion Data Center Into a $50 Billion-Plus Project",
+      "notes": "",
+      "position": null
+    }
+  }
+}
