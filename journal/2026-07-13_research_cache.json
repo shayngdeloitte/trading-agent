@@ -28,7 +28,7 @@
       "pct_change": 1.67,
       "trend": "bullish \u2014 above both MAs",
       "news": "Critical 4 Hours Ahead, Korea And Iran Drive Selling In US Stocks; Stock Market Today: Dow Jones, Nasdaq 100, S&P 500 Futures Slips as US and Iran Exchange Strikes\u2014 Saratoga, Exxon Mobil, Levi's Strauss In Focus (UPDATED); Nvidia, Micron, Broadcom, Applied Materials Set to Generate $430 Billion in Free Cash Flow as Tech Giants Bleed Cash",
-      "notes": "",
+      "notes": "Hold \u2014 position open, no exit signal",
       "position": {
         "asset_id": "2d9e926c-e17c-47c3-ad8c-26c7a594e48f",
         "symbol": "QQQ",
@@ -57,7 +57,7 @@
       "pct_change": 2.57,
       "trend": "bearish \u2014 below both MAs",
       "news": "SK Hynix vs. Micron: Wall Street's AI Memory Battle Just Got Real; Quantum Tech on Capitol Hill: Nvidia, IBM and More Stocks to Watch; Critical 4 Hours Ahead, Korea And Iran Drive Selling In US Stocks",
-      "notes": "",
+      "notes": "Hold \u2014 below SMA20, no entry",
       "position": null
     },
     "AAPL": {
@@ -67,7 +67,7 @@
       "pct_change": 2.68,
       "trend": "bearish \u2014 below both MAs",
       "news": "Citigroup Maintains Buy on Apple, Raises Price Target to $365; 10 Information Technology Stocks With Whale Alerts In Today\u2019s Session; Critical 4 Hours Ahead, Korea And Iran Drive Selling In US Stocks",
-      "notes": "",
+      "notes": "Hold \u2014 below SMA20, no entry",
       "position": null
     },
     "MSFT": {
@@ -77,8 +77,19 @@
       "pct_change": 1.2,
       "trend": "bearish \u2014 below both MAs",
       "news": "10 Information Technology Stocks With Whale Alerts In Today\u2019s Session; Critical 4 Hours Ahead, Korea And Iran Drive Selling In US Stocks; Mark Zuckerberg\u2019s Meta Just Supercharged Its Biggest AI Bet Yet, Expanding Its Hyperion Data Center Into a $50 Billion-Plus Project",
-      "notes": "",
+      "notes": "Hold \u2014 below SMA20, no entry",
       "position": null
     }
-  }
+  },
+  "trades": [
+    {
+      "time": "18:19",
+      "symbol": "SPY",
+      "action": "BUY",
+      "qty": 20,
+      "price": 748.14,
+      "reasoning": "Above SMA20 ($742.19) and SMA50 ($735.83), pct_change=0.78%"
+    }
+  ],
+  "closed": []
 }
