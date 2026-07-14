@@ -23,7 +23,7 @@
       "pct_change": 0.78,
       "trend": "bullish \u2014 above both MAs",
       "news": "Fed Chair Warsh Says Most Of The Fed's Job Is To The Left Of The Decimal Point; Won't Prejudge What The Committee Decides On Rates; Fed Chair Warsh, On AI, Says This Is A Supply Shock, Happening Faster Than Would Have Projected 18 Months Or 2 Years Ago; Fed Chair Warsh Says We Need A Highly Competitive, Diversified Banking System",
-      "notes": "",
+      "notes": "Hold \u2014 position open, no exit signal",
       "position": {
         "asset_id": "b28f4066-5c6d-479b-a2af-85dc1a8f16fb",
         "symbol": "SPY",
@@ -52,7 +52,7 @@
       "pct_change": 1.67,
       "trend": "bullish \u2014 above both MAs",
       "news": "Cooler CPI, Hotter Risk Appetite: Data Slams Door on July Fed Rate Hike; Stock Market Today: Dow, S&P 500, Nasdaq 100 Futures Rise on Better-Than-Expected CPI Data\u2014Tower Semiconductor, Twin Vee, JPMorgan In Focus (UPDATED); Peter Schiff Warns Rising Interest Rates Are a 'Much Bigger' Threat With US Debt Nearing $40 Trillion",
-      "notes": "",
+      "notes": "Hold \u2014 position open, no exit signal",
       "position": {
         "asset_id": "2d9e926c-e17c-47c3-ad8c-26c7a594e48f",
         "symbol": "QQQ",
@@ -81,7 +81,7 @@
       "pct_change": 2.57,
       "trend": "bearish \u2014 below both MAs",
       "news": "Arm Stock Tumbles After HSBC Sounds Valuation Alarm; TSMC's 68% Sales Surge Just Validated This Billionaire's $9.5 Billion Bet; 'ZTE among Chinese firms licensed to purchase Nvidia's H200 chips, documents show' - Reuters Exclusive",
-      "notes": "",
+      "notes": "Hold \u2014 below SMA20, no entry",
       "position": null
     },
     "AAPL": {
@@ -91,7 +91,7 @@
       "pct_change": 2.68,
       "trend": "bearish \u2014 below both MAs",
       "news": "Apple Has 20% Downside Ahead? Analyst Says Sell the Stock; EA Sports Madden NFL 27 Arcade Edition Brings Authentic Gridiron Action To Apple Arcade On Aug. 6; This Apple Analyst Turns Bearish; Here Are Top 5 Downgrades For Tuesday",
-      "notes": "",
+      "notes": "Hold \u2014 below SMA20, no entry",
       "position": null
     },
     "MSFT": {
@@ -101,8 +101,10 @@
       "pct_change": 1.2,
       "trend": "bearish \u2014 below both MAs",
       "news": "Nebius Stock Jumps on $1 Billion AI Infrastructure Deal; Reported Earlier: 'New York Becomes First State To Impose Data Center Moratorium; Gov. Kathy Hochul (D) Signed An Order To Block New Facilities For A Year' - Washington Post; IBM Crashes 24%, Drags Tech and IT Services Stocks Into Selloff",
-      "notes": "",
+      "notes": "Hold \u2014 below SMA20, no entry",
       "position": null
     }
-  }
+  },
+  "trades": [],
+  "closed": []
 }
