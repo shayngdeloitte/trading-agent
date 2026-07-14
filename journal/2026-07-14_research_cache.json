@@ -1,0 +1,108 @@
+{
+  "portfolio": {
+    "cash": 75607.99,
+    "total_value": 100007.17,
+    "positions": [
+      {
+        "symbol": "QQQ",
+        "qty": 13,
+        "avg_price": 725.353846
+      },
+      {
+        "symbol": "SPY",
+        "qty": 20,
+        "avg_price": 748.1195
+      }
+    ]
+  },
+  "research": {
+    "SPY": {
+      "sma20": 742.19,
+      "sma50": 735.83,
+      "last_close": 746.65,
+      "pct_change": 0.78,
+      "trend": "bullish \u2014 above both MAs",
+      "news": "Fed Chair Warsh Says Most Of The Fed's Job Is To The Left Of The Decimal Point; Won't Prejudge What The Committee Decides On Rates; Fed Chair Warsh, On AI, Says This Is A Supply Shock, Happening Faster Than Would Have Projected 18 Months Or 2 Years Ago; Fed Chair Warsh Says We Need A Highly Competitive, Diversified Banking System",
+      "notes": "",
+      "position": {
+        "asset_id": "b28f4066-5c6d-479b-a2af-85dc1a8f16fb",
+        "symbol": "SPY",
+        "exchange": "ARCA",
+        "asset_class": "us_equity",
+        "asset_marginable": true,
+        "qty": "20",
+        "qty_available": "20",
+        "avg_entry_price": "748.1195",
+        "side": "long",
+        "market_value": "15033.2",
+        "cost_basis": "14962.39",
+        "unrealized_pl": "70.81",
+        "unrealized_plpc": "0.00473",
+        "unrealized_intraday_pl": "49.8",
+        "unrealized_intraday_plpc": "0.00332",
+        "current_price": "751.66",
+        "lastday_price": "749.17",
+        "change_today": "0.00332"
+      }
+    },
+    "QQQ": {
+      "sma20": 723.6,
+      "sma50": 706.13,
+      "last_close": 736.07,
+      "pct_change": 1.67,
+      "trend": "bullish \u2014 above both MAs",
+      "news": "Cooler CPI, Hotter Risk Appetite: Data Slams Door on July Fed Rate Hike; Stock Market Today: Dow, S&P 500, Nasdaq 100 Futures Rise on Better-Than-Expected CPI Data\u2014Tower Semiconductor, Twin Vee, JPMorgan In Focus (UPDATED); Peter Schiff Warns Rising Interest Rates Are a 'Much Bigger' Threat With US Debt Nearing $40 Trillion",
+      "notes": "",
+      "position": {
+        "asset_id": "2d9e926c-e17c-47c3-ad8c-26c7a594e48f",
+        "symbol": "QQQ",
+        "exchange": "NASDAQ",
+        "asset_class": "us_equity",
+        "asset_marginable": true,
+        "qty": "13",
+        "qty_available": "13",
+        "avg_entry_price": "725.353846",
+        "side": "long",
+        "market_value": "9365.98",
+        "cost_basis": "9429.599998",
+        "unrealized_pl": "-63.619998",
+        "unrealized_plpc": "-0.00675",
+        "unrealized_intraday_pl": "113.36",
+        "unrealized_intraday_plpc": "0.01225",
+        "current_price": "720.46",
+        "lastday_price": "711.74",
+        "change_today": "0.01225"
+      }
+    },
+    "NVDA": {
+      "sma20": 205.7,
+      "sma50": 209.97,
+      "last_close": 199.93,
+      "pct_change": 2.57,
+      "trend": "bearish \u2014 below both MAs",
+      "news": "Arm Stock Tumbles After HSBC Sounds Valuation Alarm; TSMC's 68% Sales Surge Just Validated This Billionaire's $9.5 Billion Bet; 'ZTE among Chinese firms licensed to purchase Nvidia's H200 chips, documents show' - Reuters Exclusive",
+      "notes": "",
+      "position": null
+    },
+    "AAPL": {
+      "sma20": 295.79,
+      "sma50": 292.19,
+      "last_close": 289.24,
+      "pct_change": 2.68,
+      "trend": "bearish \u2014 below both MAs",
+      "news": "Apple Has 20% Downside Ahead? Analyst Says Sell the Stock; EA Sports Madden NFL 27 Arcade Edition Brings Authentic Gridiron Action To Apple Arcade On Aug. 6; This Apple Analyst Turns Bearish; Here Are Top 5 Downgrades For Tuesday",
+      "notes": "",
+      "position": null
+    },
+    "MSFT": {
+      "sma20": 391.56,
+      "sma50": 408.89,
+      "last_close": 372.92,
+      "pct_change": 1.2,
+      "trend": "bearish \u2014 below both MAs",
+      "news": "Nebius Stock Jumps on $1 Billion AI Infrastructure Deal; Reported Earlier: 'New York Becomes First State To Impose Data Center Moratorium; Gov. Kathy Hochul (D) Signed An Order To Block New Facilities For A Year' - Washington Post; IBM Crashes 24%, Drags Tech and IT Services Stocks Into Selloff",
+      "notes": "",
+      "position": null
+    }
+  }
+}
