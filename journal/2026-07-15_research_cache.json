@@ -1,0 +1,108 @@
+{
+  "portfolio": {
+    "cash": 75607.99,
+    "total_value": 99911.45,
+    "positions": [
+      {
+        "symbol": "QQQ",
+        "qty": 13,
+        "avg_price": 725.353846
+      },
+      {
+        "symbol": "SPY",
+        "qty": 20,
+        "avg_price": 748.1195
+      }
+    ]
+  },
+  "research": {
+    "SPY": {
+      "sma20": 741.5,
+      "sma50": 736.56,
+      "last_close": 745.66,
+      "pct_change": -0.13,
+      "trend": "bullish \u2014 above both MAs",
+      "news": "President Trump, On Social Media, Says Governor Kathy Hochul, For Political Reasons, Has Terminated All Data Centers Being Built, Or To Be Built, In New York State; These Companies Are Now Being Sought In Alabama, Florida, Texas, Arizona, And Many Other States; New York State Has Made A Terrible Decision;; Fed Chair Warsh Says My Focus Is The Real Economy, My Message To Markets Is Respond To Real Economy Not To What Fed Says; U.S. Military Refutes Iran's Claim That It Hit Civilian Wheat Storage Site In Hoveyzeh On July 14",
+      "notes": "",
+      "position": {
+        "asset_id": "b28f4066-5c6d-479b-a2af-85dc1a8f16fb",
+        "symbol": "SPY",
+        "exchange": "ARCA",
+        "asset_class": "us_equity",
+        "asset_marginable": true,
+        "qty": "20",
+        "qty_available": "20",
+        "avg_entry_price": "748.1195",
+        "side": "long",
+        "market_value": "15034.3",
+        "cost_basis": "14962.39",
+        "unrealized_pl": "71.91",
+        "unrealized_plpc": "0.00481",
+        "unrealized_intraday_pl": "-2.3",
+        "unrealized_intraday_plpc": "-0.00015",
+        "current_price": "751.715",
+        "lastday_price": "751.83",
+        "change_today": "-0.00015"
+      }
+    },
+    "QQQ": {
+      "sma20": 722.56,
+      "sma50": 707.7,
+      "last_close": 725.32,
+      "pct_change": -1.46,
+      "trend": "bullish \u2014 above both MAs",
+      "news": "Stock Market Today: Dow, S&P 500, Nasdaq 100 Futures Gain as Trump Vows 'Very Hard' Hits on Iran\u2014 Pentair, ASML Holding, Intel in Focus (UPDATED); The Fed Has Missed Its 2% Inflation Target for 64 Straight Months\u2014 And One Market Strategist Says It Has 'Lost All Credibility'; Bank Earnings Indicate Strong Economy; IBM Drops Dragging Software; Warsh Says No Tolerance For Inflation",
+      "notes": "",
+      "position": {
+        "asset_id": "2d9e926c-e17c-47c3-ad8c-26c7a594e48f",
+        "symbol": "QQQ",
+        "exchange": "NASDAQ",
+        "asset_class": "us_equity",
+        "asset_marginable": true,
+        "qty": "13",
+        "qty_available": "13",
+        "avg_entry_price": "725.353846",
+        "side": "long",
+        "market_value": "9269.26",
+        "cost_basis": "9429.599998",
+        "unrealized_pl": "-160.339998",
+        "unrealized_plpc": "-0.017",
+        "unrealized_intraday_pl": "-86.71",
+        "unrealized_intraday_plpc": "-0.00927",
+        "current_price": "713.02",
+        "lastday_price": "719.69",
+        "change_today": "-0.00927"
+      }
+    },
+    "NVDA": {
+      "sma20": 204.44,
+      "sma50": 209.88,
+      "last_close": 197.54,
+      "pct_change": -1.2,
+      "trend": "bearish \u2014 below both MAs",
+      "news": "EXCLUSIVE: SK Hynix Is Where AI Infrastructure, Chips, Memory Converge, Says Direxion as It Launches Leveraged ETF; 'Big Short' Investor Steve Eisman Says AI Has 'No Moats,' Which Is 'Not A Recipe For Longevity'; Apple Intelligence Finally Cleared for China: Here's Which Stocks Are Popping on the News",
+      "notes": "",
+      "position": null
+    },
+    "AAPL": {
+      "sma20": 294.75,
+      "sma50": 292.61,
+      "last_close": 294.42,
+      "pct_change": 1.79,
+      "trend": "mixed \u2014 between MAs",
+      "news": "Apple Stock Hits 52-Week High - Here's Why; Major League Soccer Returns To Apple TV On July 16, 2026; 'Big Short' Investor Steve Eisman Says AI Has 'No Moats,' Which Is 'Not A Recipe For Longevity'",
+      "notes": "",
+      "position": null
+    },
+    "MSFT": {
+      "sma20": 388.71,
+      "sma50": 408.22,
+      "last_close": 384.38,
+      "pct_change": 3.07,
+      "trend": "bearish \u2014 below both MAs",
+      "news": "3M Expands AI Push with Microsoft Azure Data Center Partnership; Anthropic Claude Traffic Skyrockets 500% to Outpace Smaller AI Rivals; Citigroup Maintains Buy on Microsoft, Lowers Price Target to $570",
+      "notes": "",
+      "position": null
+    }
+  }
+}
