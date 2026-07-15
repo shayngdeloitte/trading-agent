@@ -23,7 +23,7 @@
       "pct_change": -0.13,
       "trend": "bullish \u2014 above both MAs",
       "news": "President Trump, On Social Media, Says Governor Kathy Hochul, For Political Reasons, Has Terminated All Data Centers Being Built, Or To Be Built, In New York State; These Companies Are Now Being Sought In Alabama, Florida, Texas, Arizona, And Many Other States; New York State Has Made A Terrible Decision;; Fed Chair Warsh Says My Focus Is The Real Economy, My Message To Markets Is Respond To Real Economy Not To What Fed Says; U.S. Military Refutes Iran's Claim That It Hit Civilian Wheat Storage Site In Hoveyzeh On July 14",
-      "notes": "",
+      "notes": "Hold \u2014 position open, no exit signal",
       "position": {
         "asset_id": "b28f4066-5c6d-479b-a2af-85dc1a8f16fb",
         "symbol": "SPY",
@@ -52,7 +52,7 @@
       "pct_change": -1.46,
       "trend": "bullish \u2014 above both MAs",
       "news": "Stock Market Today: Dow, S&P 500, Nasdaq 100 Futures Gain as Trump Vows 'Very Hard' Hits on Iran\u2014 Pentair, ASML Holding, Intel in Focus (UPDATED); The Fed Has Missed Its 2% Inflation Target for 64 Straight Months\u2014 And One Market Strategist Says It Has 'Lost All Credibility'; Bank Earnings Indicate Strong Economy; IBM Drops Dragging Software; Warsh Says No Tolerance For Inflation",
-      "notes": "",
+      "notes": "Hold \u2014 position open, no exit signal",
       "position": {
         "asset_id": "2d9e926c-e17c-47c3-ad8c-26c7a594e48f",
         "symbol": "QQQ",
@@ -81,7 +81,7 @@
       "pct_change": -1.2,
       "trend": "bearish \u2014 below both MAs",
       "news": "EXCLUSIVE: SK Hynix Is Where AI Infrastructure, Chips, Memory Converge, Says Direxion as It Launches Leveraged ETF; 'Big Short' Investor Steve Eisman Says AI Has 'No Moats,' Which Is 'Not A Recipe For Longevity'; Apple Intelligence Finally Cleared for China: Here's Which Stocks Are Popping on the News",
-      "notes": "",
+      "notes": "Hold \u2014 below SMA20, no entry",
       "position": null
     },
     "AAPL": {
@@ -91,7 +91,7 @@
       "pct_change": 1.79,
       "trend": "mixed \u2014 between MAs",
       "news": "Apple Stock Hits 52-Week High - Here's Why; Major League Soccer Returns To Apple TV On July 16, 2026; 'Big Short' Investor Steve Eisman Says AI Has 'No Moats,' Which Is 'Not A Recipe For Longevity'",
-      "notes": "",
+      "notes": "Hold \u2014 below SMA20, no entry",
       "position": null
     },
     "MSFT": {
@@ -101,8 +101,10 @@
       "pct_change": 3.07,
       "trend": "bearish \u2014 below both MAs",
       "news": "3M Expands AI Push with Microsoft Azure Data Center Partnership; Anthropic Claude Traffic Skyrockets 500% to Outpace Smaller AI Rivals; Citigroup Maintains Buy on Microsoft, Lowers Price Target to $570",
-      "notes": "",
+      "notes": "Hold \u2014 below SMA20, no entry",
       "position": null
     }
-  }
+  },
+  "trades": [],
+  "closed": []
 }
