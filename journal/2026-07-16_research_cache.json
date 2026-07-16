@@ -1,0 +1,108 @@
+{
+  "portfolio": {
+    "cash": 75607.99,
+    "total_value": 99858.29,
+    "positions": [
+      {
+        "symbol": "QQQ",
+        "qty": 13,
+        "avg_price": 725.353846
+      },
+      {
+        "symbol": "SPY",
+        "qty": 20,
+        "avg_price": 748.1195
+      }
+    ]
+  },
+  "research": {
+    "SPY": {
+      "sma20": 741.03,
+      "sma50": 737.38,
+      "last_close": 744.86,
+      "pct_change": -0.11,
+      "trend": "bullish \u2014 above both MAs",
+      "news": "U.K. Banning The Sale Of High-Caffeine Energy Drinks To Children Under 16 In England; 'US imposes new 25% tariffs on Brazil, expands exemptions list' - Reuters; UnitedHealth Stock Rallies on Earnings: Warren Buffett Successor's Nine-Figure Mistake",
+      "notes": "",
+      "position": {
+        "asset_id": "b28f4066-5c6d-479b-a2af-85dc1a8f16fb",
+        "symbol": "SPY",
+        "exchange": "ARCA",
+        "asset_class": "us_equity",
+        "asset_marginable": true,
+        "qty": "20",
+        "qty_available": "20",
+        "avg_entry_price": "748.1195",
+        "side": "long",
+        "market_value": "15045.256",
+        "cost_basis": "14962.39",
+        "unrealized_pl": "82.866",
+        "unrealized_plpc": "0.00554",
+        "unrealized_intraday_pl": "-50.944",
+        "unrealized_intraday_plpc": "-0.00337",
+        "current_price": "752.2628",
+        "lastday_price": "754.81",
+        "change_today": "-0.00337"
+      }
+    },
+    "QQQ": {
+      "sma20": 720.97,
+      "sma50": 709.07,
+      "last_close": 712.53,
+      "pct_change": -1.76,
+      "trend": "mixed \u2014 between MAs",
+      "news": "Semiconductor Stocks\u2019 Worst Slump in Over a Year \u2014 Are Chips Now Cheap Enough?; Stock Market Today: Dow Futures Rise, S&P 500 Falls As Trump Says Iran Wants To Negotiate\u2014 AtaiBeckley, J B Hunt, AST SpaceMobile in Focus (UPDATED); Trump Accounts Projections Are 'Ridiculous, Dishonest and Deeply Misleading,' Says Top Economist Justin Wolfers",
+      "notes": "",
+      "position": {
+        "asset_id": "2d9e926c-e17c-47c3-ad8c-26c7a594e48f",
+        "symbol": "QQQ",
+        "exchange": "NASDAQ",
+        "asset_class": "us_equity",
+        "asset_marginable": true,
+        "qty": "13",
+        "qty_available": "13",
+        "avg_entry_price": "725.353846",
+        "side": "long",
+        "market_value": "9205.04",
+        "cost_basis": "9429.599998",
+        "unrealized_pl": "-224.559998",
+        "unrealized_plpc": "-0.02381",
+        "unrealized_intraday_pl": "-125.58",
+        "unrealized_intraday_plpc": "-0.01346",
+        "current_price": "708.08",
+        "lastday_price": "717.74",
+        "change_today": "-0.01346"
+      }
+    },
+    "NVDA": {
+      "sma20": 203.42,
+      "sma50": 209.77,
+      "last_close": 194.51,
+      "pct_change": -1.53,
+      "trend": "bearish \u2014 below both MAs",
+      "news": "AMD's $600 Target Isn't Really About AMD; Jim Cramer Blames SK Hynix Chaos for TSMC Fall Despite 'Insanely Good' Q2 Earnings: 'A Casino of Emotions'; Reported July 15, USITC Institutes Section 337 Investigation Into Certain Dynamic Random Access Memory Devices",
+      "notes": "",
+      "position": null
+    },
+    "AAPL": {
+      "sma20": 294.65,
+      "sma50": 293.46,
+      "last_close": 308.24,
+      "pct_change": 4.69,
+      "trend": "bullish \u2014 above both MAs",
+      "news": "TSMC's 68% Margins Show Why Intel's Foundry Turnaround Won't Be Easy; 'Apple Readies OLED iPad Mini, With Low-End and Air Updates Coming in 2027' - Bloomberg; Jim Cramer Blames SK Hynix Chaos for TSMC Fall Despite 'Insanely Good' Q2 Earnings: 'A Casino of Emotions'",
+      "notes": "",
+      "position": null
+    },
+    "MSFT": {
+      "sma20": 386.82,
+      "sma50": 407.53,
+      "last_close": 389.79,
+      "pct_change": 1.41,
+      "trend": "mixed \u2014 between MAs",
+      "news": "Microsoft Earnings Preview: Copilot, AI Spending and Margins Are in Focus; Why Is Nebius Stock Falling on Thursday?; Rep. Jonathan Jackson Has Bought Up to $30K Worth Of Hilton Worldwide Holdings Stock: Here\u2019s What You Should Know",
+      "notes": "",
+      "position": null
+    }
+  }
+}
