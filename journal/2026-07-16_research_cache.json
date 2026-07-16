@@ -23,7 +23,7 @@
       "pct_change": -0.11,
       "trend": "bullish \u2014 above both MAs",
       "news": "U.K. Banning The Sale Of High-Caffeine Energy Drinks To Children Under 16 In England; 'US imposes new 25% tariffs on Brazil, expands exemptions list' - Reuters; UnitedHealth Stock Rallies on Earnings: Warren Buffett Successor's Nine-Figure Mistake",
-      "notes": "",
+      "notes": "Hold \u2014 position open, no exit signal",
       "position": {
         "asset_id": "b28f4066-5c6d-479b-a2af-85dc1a8f16fb",
         "symbol": "SPY",
@@ -81,7 +81,7 @@
       "pct_change": -1.53,
       "trend": "bearish \u2014 below both MAs",
       "news": "AMD's $600 Target Isn't Really About AMD; Jim Cramer Blames SK Hynix Chaos for TSMC Fall Despite 'Insanely Good' Q2 Earnings: 'A Casino of Emotions'; Reported July 15, USITC Institutes Section 337 Investigation Into Certain Dynamic Random Access Memory Devices",
-      "notes": "",
+      "notes": "Hold \u2014 below SMA20, no entry",
       "position": null
     },
     "AAPL": {
@@ -101,8 +101,29 @@
       "pct_change": 1.41,
       "trend": "mixed \u2014 between MAs",
       "news": "Microsoft Earnings Preview: Copilot, AI Spending and Margins Are in Focus; Why Is Nebius Stock Falling on Thursday?; Rep. Jonathan Jackson Has Bought Up to $30K Worth Of Hilton Worldwide Holdings Stock: Here\u2019s What You Should Know",
-      "notes": "",
+      "notes": "Hold \u2014 no signal",
       "position": null
     }
-  }
+  },
+  "trades": [
+    {
+      "time": "16:50",
+      "symbol": "QQQ",
+      "action": "SELL",
+      "qty": 13,
+      "price": 711.1,
+      "reasoning": "Price $712.53 crossed below SMA20 $720.97"
+    },
+    {
+      "time": "16:50",
+      "symbol": "AAPL",
+      "action": "BUY",
+      "qty": 25,
+      "price": 308.86,
+      "reasoning": "Above SMA20 ($294.65) and SMA50 ($293.46), pct_change=4.69%"
+    }
+  ],
+  "closed": [
+    "QQQ"
+  ]
 }
