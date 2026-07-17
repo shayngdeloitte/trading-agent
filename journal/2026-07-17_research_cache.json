@@ -1,0 +1,108 @@
+{
+  "portfolio": {
+    "cash": 75607.99,
+    "total_value": 99614.84,
+    "positions": [
+      {
+        "symbol": "QQQ",
+        "qty": 13,
+        "avg_price": 725.353846
+      },
+      {
+        "symbol": "SPY",
+        "qty": 20,
+        "avg_price": 748.1195
+      }
+    ]
+  },
+  "research": {
+    "SPY": {
+      "sma20": 740.75,
+      "sma50": 738.18,
+      "last_close": 751.27,
+      "pct_change": 0.86,
+      "trend": "bullish \u2014 above both MAs",
+      "news": "'U.S. Sending Dozens More Refueling Planes To Israel Ahead Of Possible Escalation' - Axios; Jim Cramer May Like Applied Digital, But Stock Still Plummets 6% on Friday; U.S. Military, On X, Says U.S. Forces Successfully Destroyed The Chah Bahar Shahid Kalantari Port Surveillance Tower, Part Of A Maritime Surveillance Network Along Iran\u2019s Gulf Of Oman Coastline Used For Decades By The Islamic Revolutionary Guard Corps To Track And Target Commercial Vessels Transiting The Strait Of Hormuz",
+      "notes": "",
+      "position": {
+        "asset_id": "b28f4066-5c6d-479b-a2af-85dc1a8f16fb",
+        "symbol": "SPY",
+        "exchange": "ARCA",
+        "asset_class": "us_equity",
+        "asset_marginable": true,
+        "qty": "20",
+        "qty_available": "20",
+        "avg_entry_price": "748.1195",
+        "side": "long",
+        "market_value": "14916.6",
+        "cost_basis": "14962.39",
+        "unrealized_pl": "-45.79",
+        "unrealized_plpc": "-0.00306",
+        "unrealized_intraday_pl": "-97.8",
+        "unrealized_intraday_plpc": "-0.00651",
+        "current_price": "745.83",
+        "lastday_price": "750.72",
+        "change_today": "-0.00651"
+      }
+    },
+    "QQQ": {
+      "sma20": 720.08,
+      "sma50": 710.42,
+      "last_close": 722.68,
+      "pct_change": 1.42,
+      "trend": "bullish \u2014 above both MAs",
+      "news": "Jim Cramer May Like Applied Digital, But Stock Still Plummets 6% on Friday; Stock Market Today: Dow, Nasdaq, S&P 500 Futures Slump as Trump Says U.S. Is Going 'Great'\u2014 Netflix, Coca-Cola, Nebius in Focus (UPDATED); US Debt Surpasses 100% of GDP for the First Time Since World War II\u2014 Is the Fiscal Squeeze Actually Deflationary?",
+      "notes": "",
+      "position": {
+        "asset_id": "2d9e926c-e17c-47c3-ad8c-26c7a594e48f",
+        "symbol": "QQQ",
+        "exchange": "NASDAQ",
+        "asset_class": "us_equity",
+        "asset_marginable": true,
+        "qty": "13",
+        "qty_available": "13",
+        "avg_entry_price": "725.353846",
+        "side": "long",
+        "market_value": "9090.25",
+        "cost_basis": "9429.599998",
+        "unrealized_pl": "-339.349998",
+        "unrealized_plpc": "-0.03599",
+        "unrealized_intraday_pl": "-86.97",
+        "unrealized_intraday_plpc": "-0.00948",
+        "current_price": "699.25",
+        "lastday_price": "705.94",
+        "change_today": "-0.00948"
+      }
+    },
+    "NVDA": {
+      "sma20": 202.27,
+      "sma50": 209.64,
+      "last_close": 195.59,
+      "pct_change": 0.56,
+      "trend": "bearish \u2014 below both MAs",
+      "news": "Live On CNBC, Kevin Simpson Announces Bought More Nvidia; Chip Stocks Are Having Their Worst Month Since 2008: This Analyst Says Buy the Reset; Tom Lee Says 'People Are Rage Quitting at the Bottom,' Compares Ethereum to Amazon, Nvidia, JPMorgan",
+      "notes": "",
+      "position": null
+    },
+    "AAPL": {
+      "sma20": 294.73,
+      "sma50": 294.25,
+      "last_close": 312.73,
+      "pct_change": 1.46,
+      "trend": "bullish \u2014 above both MAs",
+      "news": "Live On CNBC, Kevin Simpson Announces Sold An Apple Covered Call; Texas Rep. Dan Crenshaw Sold Up to $90K Worth of Alphabet Stock; QUICK SPARK: Apple Overtakes Nvidia as World's Biggest Company",
+      "notes": "",
+      "position": null
+    },
+    "MSFT": {
+      "sma20": 384.75,
+      "sma50": 406.61,
+      "last_close": 386.81,
+      "pct_change": -0.76,
+      "trend": "mixed \u2014 between MAs",
+      "news": "If You Invested $1000 In Microsoft Stock 15 Years Ago, You Would Have This Much Today; Nebius Raises $775 Million Without Dilution to Speed AI Cloud Expansion; Microsoft Holds the Key To Understanding Micron",
+      "notes": "",
+      "position": null
+    }
+  }
+}
