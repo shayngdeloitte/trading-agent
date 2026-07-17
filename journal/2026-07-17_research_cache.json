@@ -23,7 +23,7 @@
       "pct_change": 0.86,
       "trend": "bullish \u2014 above both MAs",
       "news": "'U.S. Sending Dozens More Refueling Planes To Israel Ahead Of Possible Escalation' - Axios; Jim Cramer May Like Applied Digital, But Stock Still Plummets 6% on Friday; U.S. Military, On X, Says U.S. Forces Successfully Destroyed The Chah Bahar Shahid Kalantari Port Surveillance Tower, Part Of A Maritime Surveillance Network Along Iran\u2019s Gulf Of Oman Coastline Used For Decades By The Islamic Revolutionary Guard Corps To Track And Target Commercial Vessels Transiting The Strait Of Hormuz",
-      "notes": "",
+      "notes": "Hold \u2014 position open, no exit signal",
       "position": {
         "asset_id": "b28f4066-5c6d-479b-a2af-85dc1a8f16fb",
         "symbol": "SPY",
@@ -52,7 +52,7 @@
       "pct_change": 1.42,
       "trend": "bullish \u2014 above both MAs",
       "news": "Jim Cramer May Like Applied Digital, But Stock Still Plummets 6% on Friday; Stock Market Today: Dow, Nasdaq, S&P 500 Futures Slump as Trump Says U.S. Is Going 'Great'\u2014 Netflix, Coca-Cola, Nebius in Focus (UPDATED); US Debt Surpasses 100% of GDP for the First Time Since World War II\u2014 Is the Fiscal Squeeze Actually Deflationary?",
-      "notes": "",
+      "notes": "Hold \u2014 position open, no exit signal",
       "position": {
         "asset_id": "2d9e926c-e17c-47c3-ad8c-26c7a594e48f",
         "symbol": "QQQ",
@@ -81,7 +81,7 @@
       "pct_change": 0.56,
       "trend": "bearish \u2014 below both MAs",
       "news": "Live On CNBC, Kevin Simpson Announces Bought More Nvidia; Chip Stocks Are Having Their Worst Month Since 2008: This Analyst Says Buy the Reset; Tom Lee Says 'People Are Rage Quitting at the Bottom,' Compares Ethereum to Amazon, Nvidia, JPMorgan",
-      "notes": "",
+      "notes": "Hold \u2014 below SMA20, no entry",
       "position": null
     },
     "AAPL": {
@@ -101,8 +101,19 @@
       "pct_change": -0.76,
       "trend": "mixed \u2014 between MAs",
       "news": "If You Invested $1000 In Microsoft Stock 15 Years Ago, You Would Have This Much Today; Nebius Raises $775 Million Without Dilution to Speed AI Cloud Expansion; Microsoft Holds the Key To Understanding Micron",
-      "notes": "",
+      "notes": "Hold \u2014 no signal",
       "position": null
     }
-  }
+  },
+  "trades": [
+    {
+      "time": "16:37",
+      "symbol": "AAPL",
+      "action": "BUY",
+      "qty": 25,
+      "price": 313.36,
+      "reasoning": "Above SMA20 ($294.73) and SMA50 ($294.25), pct_change=1.46%"
+    }
+  ],
+  "closed": []
 }
