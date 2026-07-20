@@ -23,7 +23,7 @@
       "pct_change": -0.33,
       "trend": "bullish \u2014 above both MAs",
       "news": "President Trump, On Truth Social Says, 'Every Time Iran Kills An American Soldier They Will Pay For That Killing Many Times Over; This Directive Has Been Passed On To Secretary Of War, Pete Hegseth, Chairman Of The Joint Chiefs Of Staff, Daniel Caine, And Every Leader In The Military'; Tech Selloff: Expert Says \u2018Get Your Shopping List Ready' \u2013 Stocks \u2018Took the Elevator Up and the Elevator Shaft Down\u2019; Winners And Losers From Moonshot\u2014Wall Street Fears Overblown\u2014US May Ban Chinese Models",
-      "notes": "",
+      "notes": "Hold \u2014 position open, no exit signal",
       "position": {
         "asset_id": "b28f4066-5c6d-479b-a2af-85dc1a8f16fb",
         "symbol": "SPY",
@@ -81,7 +81,7 @@
       "pct_change": 3.6,
       "trend": "mixed \u2014 between MAs",
       "news": "Tech Selloff: Expert Says \u2018Get Your Shopping List Ready' \u2013 Stocks \u2018Took the Elevator Up and the Elevator Shaft Down\u2019; Scott Galloway Predicts Sam Altman Is Out as OpenAI CEO Within 6 Months: 'He's an Innovator, Not an Operator'; What's Going on With NVIDIA Stock Monday?",
-      "notes": "",
+      "notes": "Hold \u2014 no signal",
       "position": null
     },
     "AAPL": {
@@ -101,8 +101,29 @@
       "pct_change": -1.45,
       "trend": "mixed \u2014 between MAs",
       "news": "Big Tech Is Minting Mountains of Cash \u2014 But Amazon\u2019s Is Vanishing; Winners And Losers From Moonshot\u2014Wall Street Fears Overblown\u2014US May Ban Chinese Models; Microsoft Investors Brace for AI Reality Check As Earnings Near",
-      "notes": "",
+      "notes": "Hold \u2014 no signal",
       "position": null
     }
-  }
+  },
+  "trades": [
+    {
+      "time": "17:09",
+      "symbol": "QQQ",
+      "action": "SELL",
+      "qty": 13,
+      "price": 709.95,
+      "reasoning": "Price $711.37 crossed below SMA20 $720.05"
+    },
+    {
+      "time": "17:09",
+      "symbol": "AAPL",
+      "action": "BUY",
+      "qty": 25,
+      "price": 313.96,
+      "reasoning": "Above SMA20 ($295.47) and SMA50 ($295.84), pct_change=0.85%"
+    }
+  ],
+  "closed": [
+    "QQQ"
+  ]
 }
