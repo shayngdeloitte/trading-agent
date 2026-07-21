@@ -23,7 +23,7 @@
       "pct_change": -0.33,
       "trend": "bullish \u2014 above both MAs",
       "news": "'Carney, Trump Agree to Speed Up Trade Talks Before 50% Tariffs Hit' - Bloomberg; White House Announces Royal Jordanian Airlines Acquires Six Boeing 787-9 Jets For $1.4B; Hikma Pharmaceuticals Intends To Invest $1B In U.S.; Alphabet Q2 Preview: Stock on Sale? Analyst Says \u2018Attractive Entry\u2019 Ahead of Earnings",
-      "notes": "",
+      "notes": "Hold \u2014 position open, no exit signal",
       "position": {
         "asset_id": "b28f4066-5c6d-479b-a2af-85dc1a8f16fb",
         "symbol": "SPY",
@@ -81,7 +81,7 @@
       "pct_change": 3.6,
       "trend": "mixed \u2014 between MAs",
       "news": "Kimi Steals Spotlight, But Anthropic Cements Top Spot With Mathematical Discovery; Alphabet Earnings Could Reveal New Way to Lower AI Costs; Why Is Galaxy Digital Stock Surging On Tuesday?",
-      "notes": "",
+      "notes": "Hold \u2014 no signal",
       "position": null
     },
     "AAPL": {
@@ -101,8 +101,29 @@
       "pct_change": -1.45,
       "trend": "mixed \u2014 between MAs",
       "news": "Neoclouds Nebius, IREN Tap Massive Hyperscaler AI Capex \u2014 Compute Is The New Oil; Alphabet Earnings Could Reveal New Way to Lower AI Costs; 'OpenAI\u2019s Altman to Brief US Officials on Next Wave of AI Models' - Bloomberg",
-      "notes": "",
+      "notes": "Hold \u2014 no signal",
       "position": null
     }
-  }
+  },
+  "trades": [
+    {
+      "time": "17:00",
+      "symbol": "QQQ",
+      "action": "SELL",
+      "qty": 13,
+      "price": 709.95,
+      "reasoning": "Price $711.37 crossed below SMA20 $720.05"
+    },
+    {
+      "time": "17:00",
+      "symbol": "AAPL",
+      "action": "BUY",
+      "qty": 25,
+      "price": 313.96,
+      "reasoning": "Above SMA20 ($295.47) and SMA50 ($295.84), pct_change=0.85%"
+    }
+  ],
+  "closed": [
+    "QQQ"
+  ]
 }
