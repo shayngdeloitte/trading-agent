@@ -1,0 +1,108 @@
+{
+  "portfolio": {
+    "cash": 75607.99,
+    "total_value": 99802.66,
+    "positions": [
+      {
+        "symbol": "QQQ",
+        "qty": 13,
+        "avg_price": 725.353846
+      },
+      {
+        "symbol": "SPY",
+        "qty": 20,
+        "avg_price": 748.1195
+      }
+    ]
+  },
+  "research": {
+    "SPY": {
+      "sma20": 741.57,
+      "sma50": 739.6,
+      "last_close": 745.28,
+      "pct_change": -0.33,
+      "trend": "bullish \u2014 above both MAs",
+      "news": "'Carney, Trump Agree to Speed Up Trade Talks Before 50% Tariffs Hit' - Bloomberg; White House Announces Royal Jordanian Airlines Acquires Six Boeing 787-9 Jets For $1.4B; Hikma Pharmaceuticals Intends To Invest $1B In U.S.; Alphabet Q2 Preview: Stock on Sale? Analyst Says \u2018Attractive Entry\u2019 Ahead of Earnings",
+      "notes": "",
+      "position": {
+        "asset_id": "b28f4066-5c6d-479b-a2af-85dc1a8f16fb",
+        "symbol": "SPY",
+        "exchange": "ARCA",
+        "asset_class": "us_equity",
+        "asset_marginable": true,
+        "qty": "20",
+        "qty_available": "20",
+        "avg_entry_price": "748.1195",
+        "side": "long",
+        "market_value": "14974.2",
+        "cost_basis": "14962.39",
+        "unrealized_pl": "11.81",
+        "unrealized_plpc": "0.00079",
+        "unrealized_intraday_pl": "132.4",
+        "unrealized_intraday_plpc": "0.00892",
+        "current_price": "748.71",
+        "lastday_price": "742.09",
+        "change_today": "0.00892"
+      }
+    },
+    "QQQ": {
+      "sma20": 720.05,
+      "sma50": 712.53,
+      "last_close": 711.37,
+      "pct_change": 0.27,
+      "trend": "bearish \u2014 below both MAs",
+      "news": "Alphabet Q2 Preview: Stock on Sale? Analyst Says \u2018Attractive Entry\u2019 Ahead of Earnings; QUICK SPARK: Semiconductor ETFs Dominate Inflows As SOXX, SOXL Pull In Over $2.1 Billion in One Day; Stock Market Today: Dow, S&P 500, Nasdaq 100 Futures Rise as Tech Stocks Lead the Rally\u2014Nebius, Archer, IREN in Focus (UPDATED)",
+      "notes": "",
+      "position": {
+        "asset_id": "2d9e926c-e17c-47c3-ad8c-26c7a594e48f",
+        "symbol": "QQQ",
+        "exchange": "NASDAQ",
+        "asset_class": "us_equity",
+        "asset_marginable": true,
+        "qty": "13",
+        "qty_available": "13",
+        "avg_entry_price": "725.353846",
+        "side": "long",
+        "market_value": "9221.1171",
+        "cost_basis": "9429.599998",
+        "unrealized_pl": "-208.482898",
+        "unrealized_plpc": "-0.02211",
+        "unrealized_intraday_pl": "172.3371",
+        "unrealized_intraday_plpc": "0.01905",
+        "current_price": "709.3167",
+        "lastday_price": "696.06",
+        "change_today": "0.01905"
+      }
+    },
+    "NVDA": {
+      "sma20": 201.63,
+      "sma50": 209.5,
+      "last_close": 204.07,
+      "pct_change": 3.6,
+      "trend": "mixed \u2014 between MAs",
+      "news": "Kimi Steals Spotlight, But Anthropic Cements Top Spot With Mathematical Discovery; Alphabet Earnings Could Reveal New Way to Lower AI Costs; Why Is Galaxy Digital Stock Surging On Tuesday?",
+      "notes": "",
+      "position": null
+    },
+    "AAPL": {
+      "sma20": 295.47,
+      "sma50": 295.84,
+      "last_close": 313.33,
+      "pct_change": 0.85,
+      "trend": "bullish \u2014 above both MAs",
+      "news": "Klarna Lands Apple Deal to Power New Device Leasing Program: Report; Apple To Launch Upgrade Device Leasing Program To Spur Sales; Apple Plans To Launch Device Leasing Program On July 28 In U.S.; Apple Is Partnering With Klarna On New Apple Upgrade Program; AAPL Stock Hits Historic 11x Sales Valuation Ahead of Tim Cook's Final Earnings Call as Apple CEO",
+      "notes": "",
+      "position": null
+    },
+    "MSFT": {
+      "sma20": 381.93,
+      "sma50": 405.24,
+      "last_close": 383.11,
+      "pct_change": -1.45,
+      "trend": "mixed \u2014 between MAs",
+      "news": "Neoclouds Nebius, IREN Tap Massive Hyperscaler AI Capex \u2014 Compute Is The New Oil; Alphabet Earnings Could Reveal New Way to Lower AI Costs; 'OpenAI\u2019s Altman to Brief US Officials on Next Wave of AI Models' - Bloomberg",
+      "notes": "",
+      "position": null
+    }
+  }
+}
