@@ -1,0 +1,84 @@
+{
+  "portfolio": {
+    "cash": 84837.32,
+    "total_value": 99832.72,
+    "positions": [
+      {
+        "symbol": "SPY",
+        "qty": 20,
+        "avg_price": 748.1195
+      }
+    ]
+  },
+  "research": {
+    "SPY": {
+      "sma20": 742.29,
+      "sma50": 740.33,
+      "last_close": 751.55,
+      "pct_change": 0.84,
+      "trend": "bullish \u2014 above both MAs",
+      "news": "'Senate crypto bill would ban federal officials \u2014 including presidents \u2014 from issuing digital assets' - CNBC; 'Senate Weighs Vote on High-Stakes Crypto Legislation Next Week' - Bloomberg; OpenAI Commits To Provide $4M In Codex Access To ~2K Genesis Researchers At National Laboratories And Universities; Committing To $3M For API Support; To Offer Participating Researchers Up To $10M In API Usage For $2.5M Spent",
+      "notes": "",
+      "position": {
+        "asset_id": "b28f4066-5c6d-479b-a2af-85dc1a8f16fb",
+        "symbol": "SPY",
+        "exchange": "ARCA",
+        "asset_class": "us_equity",
+        "asset_marginable": true,
+        "qty": "20",
+        "qty_available": "20",
+        "avg_entry_price": "748.1195",
+        "side": "long",
+        "market_value": "14995.2",
+        "cost_basis": "14962.39",
+        "unrealized_pl": "32.81",
+        "unrealized_plpc": "0.00219",
+        "unrealized_intraday_pl": "29.6",
+        "unrealized_intraday_plpc": "0.00198",
+        "current_price": "749.76",
+        "lastday_price": "748.28",
+        "change_today": "0.00198"
+      }
+    },
+    "QQQ": {
+      "sma20": 720.82,
+      "sma50": 713.71,
+      "last_close": 723.21,
+      "pct_change": 1.66,
+      "trend": "bullish \u2014 above both MAs",
+      "news": "Stock Market Today: Nasdaq 100 Falls as Crude Rallies to $88; SPY, QQQ And SOXL Power ETF Trading To New Record; Stock Market Today: Dow, S&P 500, Nasdaq 100 Futures Fall As Chip Stocks Cool Down and Tesla, Alphabet Gear Up for Earnings\u2014 Super Micro, Capital One in Focus (UPDATED)",
+      "notes": "",
+      "position": null
+    },
+    "NVDA": {
+      "sma20": 201.35,
+      "sma50": 209.22,
+      "last_close": 202.69,
+      "pct_change": -0.67,
+      "trend": "mixed \u2014 between MAs",
+      "news": "Intel Q2 Preview: Stock Hammers Nvidia with 7x Returns Since Dow Swap \u2014 Will Earnings Fuel Further Gains?; Live On CNBC, Joe Terranova Announces Bought More Nvidia; Nvidia vs. AMD: The Next AI Battle Targets a $170 Billion Prize",
+      "notes": "",
+      "position": null
+    },
+    "AAPL": {
+      "sma20": 296.76,
+      "sma50": 296.81,
+      "last_close": 316.16,
+      "pct_change": 0.9,
+      "trend": "bullish \u2014 above both MAs",
+      "news": "'Apple Plans Overhaul of MacBooks, iMac in Push to Meet AI Demand' - Bloomberg News; 'OpenAI\u2019s Planned Cloud Spending Hits $750 Billion as Computing Efforts Ramp Up' - WSJ Exclusive; What's Going on With Apple Stock Wednesday?",
+      "notes": "",
+      "position": null
+    },
+    "MSFT": {
+      "sma20": 380.98,
+      "sma50": 404.43,
+      "last_close": 384.24,
+      "pct_change": 0.29,
+      "trend": "mixed \u2014 between MAs",
+      "news": "Bernstein Reiterates Outperform on Microsoft, Maintains $646 Price Target; Oppenheimer Reiterates Outperform on Microsoft, Maintains $515 Price Target; Truist Securities Reiterates Buy on Microsoft, Maintains $575 Price Target",
+      "notes": "",
+      "position": null
+    }
+  }
+}
