@@ -18,7 +18,7 @@
       "pct_change": 0.84,
       "trend": "bullish \u2014 above both MAs",
       "news": "'Senate crypto bill would ban federal officials \u2014 including presidents \u2014 from issuing digital assets' - CNBC; 'Senate Weighs Vote on High-Stakes Crypto Legislation Next Week' - Bloomberg; OpenAI Commits To Provide $4M In Codex Access To ~2K Genesis Researchers At National Laboratories And Universities; Committing To $3M For API Support; To Offer Participating Researchers Up To $10M In API Usage For $2.5M Spent",
-      "notes": "",
+      "notes": "Hold \u2014 position open, no exit signal",
       "position": {
         "asset_id": "b28f4066-5c6d-479b-a2af-85dc1a8f16fb",
         "symbol": "SPY",
@@ -57,7 +57,7 @@
       "pct_change": -0.67,
       "trend": "mixed \u2014 between MAs",
       "news": "Intel Q2 Preview: Stock Hammers Nvidia with 7x Returns Since Dow Swap \u2014 Will Earnings Fuel Further Gains?; Live On CNBC, Joe Terranova Announces Bought More Nvidia; Nvidia vs. AMD: The Next AI Battle Targets a $170 Billion Prize",
-      "notes": "",
+      "notes": "Hold \u2014 no signal",
       "position": null
     },
     "AAPL": {
@@ -77,8 +77,27 @@
       "pct_change": 0.29,
       "trend": "mixed \u2014 between MAs",
       "news": "Bernstein Reiterates Outperform on Microsoft, Maintains $646 Price Target; Oppenheimer Reiterates Outperform on Microsoft, Maintains $515 Price Target; Truist Securities Reiterates Buy on Microsoft, Maintains $575 Price Target",
-      "notes": "",
+      "notes": "Hold \u2014 no signal",
       "position": null
     }
-  }
+  },
+  "trades": [
+    {
+      "time": "17:00",
+      "symbol": "QQQ",
+      "action": "BUY",
+      "qty": 13,
+      "price": 724.66,
+      "reasoning": "Above SMA20 ($720.82) and SMA50 ($713.71), pct_change=1.66%"
+    },
+    {
+      "time": "17:00",
+      "symbol": "AAPL",
+      "action": "BUY",
+      "qty": 25,
+      "price": 316.79,
+      "reasoning": "Above SMA20 ($296.76) and SMA50 ($296.81), pct_change=0.90%"
+    }
+  ],
+  "closed": []
 }
