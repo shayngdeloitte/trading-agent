@@ -23,7 +23,7 @@
       "pct_change": 0.45,
       "trend": "bullish \u2014 above both MAs",
       "news": "'Kalshi Eyes Copper Perpetual Futures After Precious Metals Push' - Bloomberg; Trump Administration Says The EU DMA $1B Fine For Google Threatens Trade Stability; OPEC+ Is Likely To Raise Oil Output Quotas For September By About 188K Barrels/Day At Aug. 2 Meeting",
-      "notes": "",
+      "notes": "Hold \u2014 position open, no exit signal",
       "position": {
         "asset_id": "b28f4066-5c6d-479b-a2af-85dc1a8f16fb",
         "symbol": "SPY",
@@ -52,7 +52,7 @@
       "pct_change": 0.33,
       "trend": "bullish \u2014 above both MAs",
       "news": "Market Selling As Houthis Open A New Front; Google AI Cash Burn; Tesla Humanoid Spending; Tesla's AI Bet Flounders As Alphabet's Gemini Shines \u2014 What It Means For AI ETFs; Stock Market Today: Dow, Nasdaq 100, S&P 500 Futures Slip As GOOGL, Elon Musk's TSLA Drag After Q2 Earnings\u2014Intel, ServiceNow, Quantumscape in Focus (UPDATED)",
-      "notes": "",
+      "notes": "Hold \u2014 position open, no exit signal",
       "position": {
         "asset_id": "2d9e926c-e17c-47c3-ad8c-26c7a594e48f",
         "symbol": "QQQ",
@@ -101,8 +101,27 @@
       "pct_change": 0.22,
       "trend": "mixed \u2014 between MAs",
       "news": "'Microsoft Is Replacing OpenAI Image Models in PowerPoint, Bing' - Bloomberg; Market Selling As Houthis Open A New Front; Google AI Cash Burn; Tesla Humanoid Spending; SpaceX Stock\u2019s Hidden Risk Isn\u2019t Rockets \u2014 It\u2019s AI Spending",
-      "notes": "",
+      "notes": "Hold \u2014 no signal",
       "position": null
     }
-  }
+  },
+  "trades": [
+    {
+      "time": "17:04",
+      "symbol": "NVDA",
+      "action": "BUY",
+      "qty": 37,
+      "price": 211.41,
+      "reasoning": "Above SMA20 ($201.88) and SMA50 ($209.18), pct_change=4.09%"
+    },
+    {
+      "time": "17:04",
+      "symbol": "AAPL",
+      "action": "BUY",
+      "qty": 25,
+      "price": 315.95,
+      "reasoning": "Above SMA20 ($297.95) and SMA50 ($297.7), pct_change=-0.27%"
+    }
+  ],
+  "closed": []
 }
