@@ -1,0 +1,108 @@
+{
+  "portfolio": {
+    "cash": 75617.7,
+    "total_value": 99398.94,
+    "positions": [
+      {
+        "symbol": "QQQ",
+        "qty": 13,
+        "avg_price": 709.201538
+      },
+      {
+        "symbol": "SPY",
+        "qty": 20,
+        "avg_price": 748.1195
+      }
+    ]
+  },
+  "research": {
+    "SPY": {
+      "sma20": 743.76,
+      "sma50": 741.19,
+      "last_close": 754.94,
+      "pct_change": 0.45,
+      "trend": "bullish \u2014 above both MAs",
+      "news": "'Kalshi Eyes Copper Perpetual Futures After Precious Metals Push' - Bloomberg; Trump Administration Says The EU DMA $1B Fine For Google Threatens Trade Stability; OPEC+ Is Likely To Raise Oil Output Quotas For September By About 188K Barrels/Day At Aug. 2 Meeting",
+      "notes": "",
+      "position": {
+        "asset_id": "b28f4066-5c6d-479b-a2af-85dc1a8f16fb",
+        "symbol": "SPY",
+        "exchange": "ARCA",
+        "asset_class": "us_equity",
+        "asset_marginable": true,
+        "qty": "20",
+        "qty_available": "20",
+        "avg_entry_price": "748.1195",
+        "side": "long",
+        "market_value": "14773.8",
+        "cost_basis": "14962.39",
+        "unrealized_pl": "-188.59",
+        "unrealized_plpc": "-0.0126",
+        "unrealized_intraday_pl": "-174.4",
+        "unrealized_intraday_plpc": "-0.01167",
+        "current_price": "738.69",
+        "lastday_price": "747.41",
+        "change_today": "-0.01167"
+      }
+    },
+    "QQQ": {
+      "sma20": 722.42,
+      "sma50": 715.07,
+      "last_close": 725.6,
+      "pct_change": 0.33,
+      "trend": "bullish \u2014 above both MAs",
+      "news": "Market Selling As Houthis Open A New Front; Google AI Cash Burn; Tesla Humanoid Spending; Tesla's AI Bet Flounders As Alphabet's Gemini Shines \u2014 What It Means For AI ETFs; Stock Market Today: Dow, Nasdaq 100, S&P 500 Futures Slip As GOOGL, Elon Musk's TSLA Drag After Q2 Earnings\u2014Intel, ServiceNow, Quantumscape in Focus (UPDATED)",
+      "notes": "",
+      "position": {
+        "asset_id": "2d9e926c-e17c-47c3-ad8c-26c7a594e48f",
+        "symbol": "QQQ",
+        "exchange": "NASDAQ",
+        "asset_class": "us_equity",
+        "asset_marginable": true,
+        "qty": "13",
+        "qty_available": "13",
+        "avg_entry_price": "709.201538",
+        "side": "long",
+        "market_value": "9007.44",
+        "cost_basis": "9219.619994",
+        "unrealized_pl": "-212.179994",
+        "unrealized_plpc": "-0.02301",
+        "unrealized_intraday_pl": "-162.11",
+        "unrealized_intraday_plpc": "-0.01768",
+        "current_price": "692.88",
+        "lastday_price": "705.35",
+        "change_today": "-0.01768"
+      }
+    },
+    "NVDA": {
+      "sma20": 201.88,
+      "sma50": 209.18,
+      "last_close": 210.99,
+      "pct_change": 4.09,
+      "trend": "bullish \u2014 above both MAs",
+      "news": "Market Selling As Houthis Open A New Front; Google AI Cash Burn; Tesla Humanoid Spending; Intel Earnings Prediction Market Preview: What Will Lip-Bu Tan Say?; Jensen Huang Backs 'Excellent' Chinese AI Models, Tells Washington to Ditch 'Science Fiction' Fears: 'Misunderstood The Impact of Kimi'",
+      "notes": "",
+      "position": null
+    },
+    "AAPL": {
+      "sma20": 297.95,
+      "sma50": 297.7,
+      "last_close": 315.32,
+      "pct_change": -0.27,
+      "trend": "bullish \u2014 above both MAs",
+      "news": "Market Selling As Houthis Open A New Front; Google AI Cash Burn; Tesla Humanoid Spending; Apple Maps To Be Integrated Into Upcoming Ford's Universal Electric Vehicle Platform Through Apple's New Mapkit For Automotive For SDK; Apple Could Seize a Quarter of the Foldable Phone Market in Year One",
+      "notes": "",
+      "position": null
+    },
+    "MSFT": {
+      "sma20": 380.37,
+      "sma50": 403.54,
+      "last_close": 385.09,
+      "pct_change": 0.22,
+      "trend": "mixed \u2014 between MAs",
+      "news": "'Microsoft Is Replacing OpenAI Image Models in PowerPoint, Bing' - Bloomberg; Market Selling As Houthis Open A New Front; Google AI Cash Burn; Tesla Humanoid Spending; SpaceX Stock\u2019s Hidden Risk Isn\u2019t Rockets \u2014 It\u2019s AI Spending",
+      "notes": "",
+      "position": null
+    }
+  }
+}
