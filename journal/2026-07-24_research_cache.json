@@ -28,7 +28,7 @@
       "pct_change": -0.77,
       "trend": "bullish \u2014 above both MAs",
       "news": "U.S. Baker Hughes Oil Rig Count Down 2 To 450 Vs 452 Prior.; U.S. Baker Hughes NatGas Rig Count Up 1 At 127; U.S. Baker Hughes Total Rig Count 587 Vs 588 Prior; President Trump, On Social Media, Says Canada Disinvited The United States Of America To The Opening Of The Gordie Howe Bridge, Which Is Fine, Considering They Are Paying Substantial Tariffs To The United States, But The Original Deal On The Bridge, Which Was Terribly Negotiated By A Previous Administration, No Longer Stands; We Changed The Terms Of The Deal So That The United States Of America Now Gets 50% Of The Profit; The Head Of Iran's Top Joint Military Command Vows Iran Will Kill One Member Of U.S. Forces For Every Iranian Killed",
-      "notes": "",
+      "notes": "Hold \u2014 position open, no exit signal",
       "position": {
         "asset_id": "b28f4066-5c6d-479b-a2af-85dc1a8f16fb",
         "symbol": "SPY",
@@ -86,7 +86,7 @@
       "pct_change": -3.56,
       "trend": "mixed \u2014 between MAs",
       "news": "Meta, Microsoft, Palantir, Nvidia and 21 Others Sign Letter Backing Open-Weight AI Models; Why Is Nokia Stock Falling Friday?; Jensen Huang Posts On X For The First Time Ever \u2014 And Uses It To Defend Open-Source AI",
-      "notes": "",
+      "notes": "Hold \u2014 position open, no exit signal",
       "position": {
         "asset_id": "4ce9353c-66d1-46c2-898f-fce867ab0247",
         "symbol": "NVDA",
@@ -125,8 +125,29 @@
       "pct_change": 1.53,
       "trend": "mixed \u2014 between MAs",
       "news": "Meta, Microsoft, Palantir, Nvidia and 21 Others Sign Letter Backing Open-Weight AI Models; Jensen Huang Posts On X For The First Time Ever \u2014 And Uses It To Defend Open-Source AI; Everyone Talks GPUs, But CPUs Benefit From Agentic AI\u2014Intel Earnings Stop Tech Stocks Bleeding",
-      "notes": "",
+      "notes": "Hold \u2014 no signal",
       "position": null
     }
-  }
+  },
+  "trades": [
+    {
+      "time": "17:15",
+      "symbol": "QQQ",
+      "action": "SELL",
+      "qty": 13,
+      "price": 710.43,
+      "reasoning": "Price $711.85 crossed below SMA20 $722.18"
+    },
+    {
+      "time": "17:15",
+      "symbol": "AAPL",
+      "action": "BUY",
+      "qty": 25,
+      "price": 318.1,
+      "reasoning": "Above SMA20 ($299.05) and SMA50 ($298.65), pct_change=0.68%"
+    }
+  ],
+  "closed": [
+    "QQQ"
+  ]
 }
