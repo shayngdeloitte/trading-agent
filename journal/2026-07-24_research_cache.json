@@ -1,0 +1,132 @@
+{
+  "portfolio": {
+    "cash": 67845.98,
+    "total_value": 99373.92,
+    "positions": [
+      {
+        "symbol": "NVDA",
+        "qty": 37,
+        "avg_price": 210.045946
+      },
+      {
+        "symbol": "QQQ",
+        "qty": 13,
+        "avg_price": 709.201538
+      },
+      {
+        "symbol": "SPY",
+        "qty": 20,
+        "avg_price": 748.1195
+      }
+    ]
+  },
+  "research": {
+    "SPY": {
+      "sma20": 744.33,
+      "sma50": 741.94,
+      "last_close": 749.13,
+      "pct_change": -0.77,
+      "trend": "bullish \u2014 above both MAs",
+      "news": "U.S. Baker Hughes Oil Rig Count Down 2 To 450 Vs 452 Prior.; U.S. Baker Hughes NatGas Rig Count Up 1 At 127; U.S. Baker Hughes Total Rig Count 587 Vs 588 Prior; President Trump, On Social Media, Says Canada Disinvited The United States Of America To The Opening Of The Gordie Howe Bridge, Which Is Fine, Considering They Are Paying Substantial Tariffs To The United States, But The Original Deal On The Bridge, Which Was Terribly Negotiated By A Previous Administration, No Longer Stands; We Changed The Terms Of The Deal So That The United States Of America Now Gets 50% Of The Profit; The Head Of Iran's Top Joint Military Command Vows Iran Will Kill One Member Of U.S. Forces For Every Iranian Killed",
+      "notes": "",
+      "position": {
+        "asset_id": "b28f4066-5c6d-479b-a2af-85dc1a8f16fb",
+        "symbol": "SPY",
+        "exchange": "ARCA",
+        "asset_class": "us_equity",
+        "asset_marginable": true,
+        "qty": "20",
+        "qty_available": "20",
+        "avg_entry_price": "748.1195",
+        "side": "long",
+        "market_value": "14817.434",
+        "cost_basis": "14962.39",
+        "unrealized_pl": "-144.956",
+        "unrealized_plpc": "-0.00969",
+        "unrealized_intraday_pl": "53.834",
+        "unrealized_intraday_plpc": "0.00365",
+        "current_price": "740.8717",
+        "lastday_price": "738.18",
+        "change_today": "0.00365"
+      }
+    },
+    "QQQ": {
+      "sma20": 722.18,
+      "sma50": 716.07,
+      "last_close": 711.85,
+      "pct_change": -1.89,
+      "trend": "bearish \u2014 below both MAs",
+      "news": "Everyone Talks GPUs, But CPUs Benefit From Agentic AI\u2014Intel Earnings Stop Tech Stocks Bleeding; Stock Market Today: S&P 500, Dow Jones, Nasdaq 100 Futures Gain as Oil Prices Decline\u2014Intel, Edwards Lifesciences, SAP in Focus (UPDATED); Top Economist Warns Trump's New Tariffs Are 'Same Rotten Policy' in a New Wrapper Even If  They Survive Court: 'But They Will Fail To...'",
+      "notes": "",
+      "position": {
+        "asset_id": "2d9e926c-e17c-47c3-ad8c-26c7a594e48f",
+        "symbol": "QQQ",
+        "exchange": "NASDAQ",
+        "asset_class": "us_equity",
+        "asset_marginable": true,
+        "qty": "13",
+        "qty_available": "13",
+        "avg_entry_price": "709.201538",
+        "side": "long",
+        "market_value": "8949.0128",
+        "cost_basis": "9219.619994",
+        "unrealized_pl": "-270.607194",
+        "unrealized_plpc": "-0.02935",
+        "unrealized_intraday_pl": "-46.4672",
+        "unrealized_intraday_plpc": "-0.00517",
+        "current_price": "688.3856",
+        "lastday_price": "691.96",
+        "change_today": "-0.00517"
+      }
+    },
+    "NVDA": {
+      "sma20": 201.81,
+      "sma50": 209.06,
+      "last_close": 203.49,
+      "pct_change": -3.56,
+      "trend": "mixed \u2014 between MAs",
+      "news": "Meta, Microsoft, Palantir, Nvidia and 21 Others Sign Letter Backing Open-Weight AI Models; Why Is Nokia Stock Falling Friday?; Jensen Huang Posts On X For The First Time Ever \u2014 And Uses It To Defend Open-Source AI",
+      "notes": "",
+      "position": {
+        "asset_id": "4ce9353c-66d1-46c2-898f-fce867ab0247",
+        "symbol": "NVDA",
+        "exchange": "NASDAQ",
+        "asset_class": "us_equity",
+        "asset_marginable": true,
+        "qty": "37",
+        "qty_available": "37",
+        "avg_entry_price": "210.045946",
+        "side": "long",
+        "market_value": "7761.4937",
+        "cost_basis": "7771.700002",
+        "unrealized_pl": "-10.206302",
+        "unrealized_plpc": "-0.00131",
+        "unrealized_intraday_pl": "37.3737",
+        "unrealized_intraday_plpc": "0.00484",
+        "current_price": "209.7701",
+        "lastday_price": "208.76",
+        "change_today": "0.00484"
+      }
+    },
+    "AAPL": {
+      "sma20": 299.05,
+      "sma50": 298.65,
+      "last_close": 317.47,
+      "pct_change": 0.68,
+      "trend": "bullish \u2014 above both MAs",
+      "news": "Everyone Talks GPUs, But CPUs Benefit From Agentic AI\u2014Intel Earnings Stop Tech Stocks Bleeding; Google Goes Cash Flow Negative for First Time Since 2004, Is Apple the Anti-CapEx AI Trade?; India Just Ordered Jack Dorsey\u2019s BitChat To Be Erased From GitHub, After Protesters Used the Bluetooth Messaging App to Outsmart a Government Blackout Amid Mass Protests",
+      "notes": "",
+      "position": null
+    },
+    "MSFT": {
+      "sma20": 380.4,
+      "sma50": 402.87,
+      "last_close": 390.99,
+      "pct_change": 1.53,
+      "trend": "mixed \u2014 between MAs",
+      "news": "Meta, Microsoft, Palantir, Nvidia and 21 Others Sign Letter Backing Open-Weight AI Models; Jensen Huang Posts On X For The First Time Ever \u2014 And Uses It To Defend Open-Source AI; Everyone Talks GPUs, But CPUs Benefit From Agentic AI\u2014Intel Earnings Stop Tech Stocks Bleeding",
+      "notes": "",
+      "position": null
+    }
+  }
+}
