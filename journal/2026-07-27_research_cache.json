@@ -28,7 +28,7 @@
       "pct_change": 0.38,
       "trend": "bullish \u2014 above both MAs",
       "news": "Real Assets Are Beating Tech Right Now. Here's the Proof.; President Trump On Fed, Says Warsh Has To Deal With Board; Rates Should Be Lowered; We Should Have World's Lowest Interest Rate; Fed Board Members Are 'Political'; President Trump On Iran, Says I Have Plenty Of Time; We're Talking With Iran Right Now; Good Chance Something Will Happen; We Have A Lot Of Ammunition, I'd Like To Have More",
-      "notes": "",
+      "notes": "Hold \u2014 position open, no exit signal",
       "position": {
         "asset_id": "b28f4066-5c6d-479b-a2af-85dc1a8f16fb",
         "symbol": "SPY",
@@ -86,7 +86,7 @@
       "pct_change": 0.34,
       "trend": "bullish \u2014 above both MAs",
       "news": "Oil Crashes 8%, Chip Rout Weighs on Nasdaq 100: Stock Market Today; EXCLUSIVE: Elon Musk's Space Data Center Plans Are Far From 'Dumb,' Says Gates-Backed Chip Founder; Axe Compute Secures $1.5 Billion AI Deal Powered by Nvidia",
-      "notes": "",
+      "notes": "Hold \u2014 position open, no exit signal",
       "position": {
         "asset_id": "4ce9353c-66d1-46c2-898f-fce867ab0247",
         "symbol": "NVDA",
@@ -125,8 +125,29 @@
       "pct_change": 2.77,
       "trend": "mixed \u2014 between MAs",
       "news": "Alphabet Changed Wall Street\u2019s Favorite AI Metric: Microsoft and Meta Are Up Next; Magnificent Seven In Spotlight: What to Expert From Meta, Microsoft, Amazon, Apple Earnings This Week; Why Is Microsoft Stock Gaining Monday?",
-      "notes": "",
+      "notes": "Hold \u2014 no signal",
       "position": null
     }
-  }
+  },
+  "trades": [
+    {
+      "time": "17:59",
+      "symbol": "QQQ",
+      "action": "SELL",
+      "qty": 13,
+      "price": 716.26,
+      "reasoning": "Price $717.7 crossed below SMA20 $720.79"
+    },
+    {
+      "time": "17:59",
+      "symbol": "AAPL",
+      "action": "BUY",
+      "qty": 24,
+      "price": 328.24,
+      "reasoning": "Above SMA20 ($301.8) and SMA50 ($300.47), pct_change=4.02%"
+    }
+  ],
+  "closed": [
+    "QQQ"
+  ]
 }
