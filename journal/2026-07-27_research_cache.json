@@ -1,0 +1,132 @@
+{
+  "portfolio": {
+    "cash": 67845.98,
+    "total_value": 98720.99,
+    "positions": [
+      {
+        "symbol": "NVDA",
+        "qty": 37,
+        "avg_price": 210.045946
+      },
+      {
+        "symbol": "QQQ",
+        "qty": 13,
+        "avg_price": 709.201538
+      },
+      {
+        "symbol": "SPY",
+        "qty": 20,
+        "avg_price": 748.1195
+      }
+    ]
+  },
+  "research": {
+    "SPY": {
+      "sma20": 744.85,
+      "sma50": 743.3,
+      "last_close": 754.77,
+      "pct_change": 0.38,
+      "trend": "bullish \u2014 above both MAs",
+      "news": "Real Assets Are Beating Tech Right Now. Here's the Proof.; President Trump On Fed, Says Warsh Has To Deal With Board; Rates Should Be Lowered; We Should Have World's Lowest Interest Rate; Fed Board Members Are 'Political'; President Trump On Iran, Says I Have Plenty Of Time; We're Talking With Iran Right Now; Good Chance Something Will Happen; We Have A Lot Of Ammunition, I'd Like To Have More",
+      "notes": "",
+      "position": {
+        "asset_id": "b28f4066-5c6d-479b-a2af-85dc1a8f16fb",
+        "symbol": "SPY",
+        "exchange": "ARCA",
+        "asset_class": "us_equity",
+        "asset_marginable": true,
+        "qty": "20",
+        "qty_available": "20",
+        "avg_entry_price": "748.1195",
+        "side": "long",
+        "market_value": "14756.8",
+        "cost_basis": "14962.39",
+        "unrealized_pl": "-205.59",
+        "unrealized_plpc": "-0.01374",
+        "unrealized_intraday_pl": "-21.8",
+        "unrealized_intraday_plpc": "-0.00148",
+        "current_price": "737.84",
+        "lastday_price": "738.93",
+        "change_today": "-0.00148"
+      }
+    },
+    "QQQ": {
+      "sma20": 720.79,
+      "sma50": 717.99,
+      "last_close": 717.7,
+      "pct_change": -0.28,
+      "trend": "bearish \u2014 below both MAs",
+      "news": "Oil Crashes 8%, Chip Rout Weighs on Nasdaq 100: Stock Market Today; Real Assets Are Beating Tech Right Now. Here's the Proof.; Magnificent Seven In Spotlight: What to Expert From Meta, Microsoft, Amazon, Apple Earnings This Week",
+      "notes": "",
+      "position": {
+        "asset_id": "2d9e926c-e17c-47c3-ad8c-26c7a594e48f",
+        "symbol": "QQQ",
+        "exchange": "NASDAQ",
+        "asset_class": "us_equity",
+        "asset_marginable": true,
+        "qty": "13",
+        "qty_available": "13",
+        "avg_entry_price": "709.201538",
+        "side": "long",
+        "market_value": "8838.7",
+        "cost_basis": "9219.619994",
+        "unrealized_pl": "-380.919994",
+        "unrealized_plpc": "-0.04132",
+        "unrealized_intraday_pl": "-56.29",
+        "unrealized_intraday_plpc": "-0.00633",
+        "current_price": "679.9",
+        "lastday_price": "684.23",
+        "change_today": "-0.00633"
+      }
+    },
+    "NVDA": {
+      "sma20": 202.15,
+      "sma50": 209.59,
+      "last_close": 212.5,
+      "pct_change": 0.34,
+      "trend": "bullish \u2014 above both MAs",
+      "news": "Oil Crashes 8%, Chip Rout Weighs on Nasdaq 100: Stock Market Today; EXCLUSIVE: Elon Musk's Space Data Center Plans Are Far From 'Dumb,' Says Gates-Backed Chip Founder; Axe Compute Secures $1.5 Billion AI Deal Powered by Nvidia",
+      "notes": "",
+      "position": {
+        "asset_id": "4ce9353c-66d1-46c2-898f-fce867ab0247",
+        "symbol": "NVDA",
+        "exchange": "NASDAQ",
+        "asset_class": "us_equity",
+        "asset_marginable": true,
+        "qty": "37",
+        "qty_available": "37",
+        "avg_entry_price": "210.045946",
+        "side": "long",
+        "market_value": "7279.38",
+        "cost_basis": "7771.700002",
+        "unrealized_pl": "-492.320002",
+        "unrealized_plpc": "-0.06335",
+        "unrealized_intraday_pl": "-373.7",
+        "unrealized_intraday_plpc": "-0.04883",
+        "current_price": "196.74",
+        "lastday_price": "206.84",
+        "change_today": "-0.04883"
+      }
+    },
+    "AAPL": {
+      "sma20": 301.8,
+      "sma50": 300.47,
+      "last_close": 327.58,
+      "pct_change": 4.02,
+      "trend": "bullish \u2014 above both MAs",
+      "news": "Magnificent Seven In Spotlight: What to Expert From Meta, Microsoft, Amazon, Apple Earnings This Week; EXCLUSIVE: After Nvidia And SK Hynix, These 3 AI Stocks Could Be The Next Winners, CEO Says; China\u2019s Biggest Chip IPO Creates a $500 Billion Rival for Micron as Apple Reportedly Tests CXMT Memory Chips",
+      "notes": "",
+      "position": null
+    },
+    "MSFT": {
+      "sma20": 379.9,
+      "sma50": 402.03,
+      "last_close": 395.61,
+      "pct_change": 2.77,
+      "trend": "mixed \u2014 between MAs",
+      "news": "Alphabet Changed Wall Street\u2019s Favorite AI Metric: Microsoft and Meta Are Up Next; Magnificent Seven In Spotlight: What to Expert From Meta, Microsoft, Amazon, Apple Earnings This Week; Why Is Microsoft Stock Gaining Monday?",
+      "notes": "",
+      "position": null
+    }
+  }
+}
