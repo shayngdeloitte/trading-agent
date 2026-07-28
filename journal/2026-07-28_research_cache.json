@@ -1,0 +1,132 @@
+{
+  "portfolio": {
+    "cash": 67845.98,
+    "total_value": 98800.38,
+    "positions": [
+      {
+        "symbol": "NVDA",
+        "qty": 37,
+        "avg_price": 210.045946
+      },
+      {
+        "symbol": "QQQ",
+        "qty": 13,
+        "avg_price": 709.201538
+      },
+      {
+        "symbol": "SPY",
+        "qty": 20,
+        "avg_price": 748.1195
+      }
+    ]
+  },
+  "research": {
+    "SPY": {
+      "sma20": 744.85,
+      "sma50": 743.3,
+      "last_close": 754.77,
+      "pct_change": 0.38,
+      "trend": "bullish \u2014 above both MAs",
+      "news": "'NVIDIA's Jensen Huang Meets Lutnick Amid China Scrutiny' - Axios; White House Says Meetings With Zelenskiy And Netanyahu Were Positive; 'US lawmakers seek national security probe of Chinese chip giant CXMT after blockbuster IPO' - New York Post",
+      "notes": "",
+      "position": {
+        "asset_id": "b28f4066-5c6d-479b-a2af-85dc1a8f16fb",
+        "symbol": "SPY",
+        "exchange": "ARCA",
+        "asset_class": "us_equity",
+        "asset_marginable": true,
+        "qty": "20",
+        "qty_available": "20",
+        "avg_entry_price": "748.1195",
+        "side": "long",
+        "market_value": "14831",
+        "cost_basis": "14962.39",
+        "unrealized_pl": "-131.39",
+        "unrealized_plpc": "-0.00878",
+        "unrealized_intraday_pl": "49.2",
+        "unrealized_intraday_plpc": "0.00333",
+        "current_price": "741.55",
+        "lastday_price": "739.09",
+        "change_today": "0.00333"
+      }
+    },
+    "QQQ": {
+      "sma20": 720.79,
+      "sma50": 717.99,
+      "last_close": 717.7,
+      "pct_change": -0.28,
+      "trend": "bearish \u2014 below both MAs",
+      "news": "Is Citadel Securities' Surprise July Rate-Hike Call Viable? Jim Bianco Says 38% Market Odds Mean It's 'Not That Far' (CORRECTED); Stock Market Today: Dow Jones Futures Gain as Coca-Cola Jumps After Q2 Beat, S&P 500, Nasdaq 100 Decline\u2014Boeing, Johnson & Johnson in Focus (UPDATED); Trump's Zombie Tariffs Are Back\u2014 and Top Economist Justin Wolfers Says It's a 'Never-Ending 24/7 Saga'",
+      "notes": "",
+      "position": {
+        "asset_id": "2d9e926c-e17c-47c3-ad8c-26c7a594e48f",
+        "symbol": "QQQ",
+        "exchange": "NASDAQ",
+        "asset_class": "us_equity",
+        "asset_marginable": true,
+        "qty": "13",
+        "qty_available": "13",
+        "avg_entry_price": "709.201538",
+        "side": "long",
+        "market_value": "8805.29",
+        "cost_basis": "9219.619994",
+        "unrealized_pl": "-414.329994",
+        "unrealized_plpc": "-0.04494",
+        "unrealized_intraday_pl": "-62.27",
+        "unrealized_intraday_plpc": "-0.00702",
+        "current_price": "677.33",
+        "lastday_price": "682.12",
+        "change_today": "-0.00702"
+      }
+    },
+    "NVDA": {
+      "sma20": 202.15,
+      "sma50": 209.59,
+      "last_close": 212.5,
+      "pct_change": 0.34,
+      "trend": "bullish \u2014 above both MAs",
+      "news": "'NVIDIA's Jensen Huang Meets Lutnick Amid China Scrutiny' - Axios; SK Hynix, SanDisk Crash 15% as CXMT Frenzy Sparks Worst KOSPI Selloff \u2014 Memory ETFs Face Fresh Test; Coherent, Lumentum, Ciena Stocks Fall After Corning Earnings Trigger Sector Selloff",
+      "notes": "",
+      "position": {
+        "asset_id": "4ce9353c-66d1-46c2-898f-fce867ab0247",
+        "symbol": "NVDA",
+        "exchange": "NASDAQ",
+        "asset_class": "us_equity",
+        "asset_marginable": true,
+        "qty": "37",
+        "qty_available": "37",
+        "avg_entry_price": "210.045946",
+        "side": "long",
+        "market_value": "7317.86",
+        "cost_basis": "7771.700002",
+        "unrealized_pl": "-453.840002",
+        "unrealized_plpc": "-0.0584",
+        "unrealized_intraday_pl": "46.99",
+        "unrealized_intraday_plpc": "0.00646",
+        "current_price": "197.78",
+        "lastday_price": "196.51",
+        "change_today": "0.00646"
+      }
+    },
+    "AAPL": {
+      "sma20": 301.8,
+      "sma50": 300.47,
+      "last_close": 327.58,
+      "pct_change": 4.02,
+      "trend": "bullish \u2014 above both MAs",
+      "news": "The Magnificent 7 Just Broke a Key Technical Level: What Happened Next Last Time?; Is Elon Musk Borrowing Amazon Prime's Playbook for X Money?; NVDA Down 6% in Two Days: What's Happening to Nvidia's Default Insurance Costs?",
+      "notes": "",
+      "position": null
+    },
+    "MSFT": {
+      "sma20": 379.9,
+      "sma50": 402.03,
+      "last_close": 395.61,
+      "pct_change": 2.77,
+      "trend": "mixed \u2014 between MAs",
+      "news": "Microsoft Stock Moves Higher: What's Going On?; 'OpenAI, Anthropic Staff Share Letter Asking US to Help Pace AI Progress' - Bloomberg; The Magnificent 7 Just Broke a Key Technical Level: What Happened Next Last Time?",
+      "notes": "",
+      "position": null
+    }
+  }
+}
