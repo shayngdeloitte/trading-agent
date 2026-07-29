@@ -28,7 +28,7 @@
       "pct_change": -0.52,
       "trend": "bullish \u2014 above both MAs",
       "news": "Trump Bans Chinese Humanoid Robots; Micron Competitor SK Hynix Creates Volatility; Fed Decision Looms; Fed Meeting Preview: Trump Says 'Rates Should Be Lowered,' but Only 5% of Benzinga Readers Expect a Cut Wednesday; Airbus CEO Says Co. Ramping Up Throughout All Businesses To Meet Rising Demand; Reports Q2 Revenue Of \u20ac20.525B, H1 Revenue Of \u20ac33.2B; Delivers 351 Commercial Jets In H1",
-      "notes": "",
+      "notes": "Hold \u2014 position open, no exit signal",
       "position": {
         "asset_id": "b28f4066-5c6d-479b-a2af-85dc1a8f16fb",
         "symbol": "SPY",
@@ -86,7 +86,7 @@
       "pct_change": -2.37,
       "trend": "mixed \u2014 between MAs",
       "news": "Trump Bans Chinese Humanoid Robots; Micron Competitor SK Hynix Creates Volatility; Fed Decision Looms; Johnson Controls Sees Data Centers Becoming One-Third Of Its Business; SpaceX Stock Now Has $26 Billion in Short Bets \u2014 35% of its Entire Float",
-      "notes": "",
+      "notes": "Hold \u2014 position open, no exit signal",
       "position": {
         "asset_id": "4ce9353c-66d1-46c2-898f-fce867ab0247",
         "symbol": "NVDA",
@@ -125,8 +125,29 @@
       "pct_change": 1.39,
       "trend": "mixed \u2014 between MAs",
       "news": "Trump Bans Chinese Humanoid Robots; Micron Competitor SK Hynix Creates Volatility; Fed Decision Looms; Microsoft Earnings Prediction Market Preview: What Will Satya Nadella Say?; Microsoft Short Interest Hits Highest Level Since 2015 as Bears Dig in Ahead of Earnings",
-      "notes": "",
+      "notes": "Hold \u2014 no signal",
       "position": null
     }
-  }
+  },
+  "trades": [
+    {
+      "time": "16:53",
+      "symbol": "QQQ",
+      "action": "SELL",
+      "qty": 13,
+      "price": 704.52,
+      "reasoning": "Price $705.93 crossed below SMA20 $719.6"
+    },
+    {
+      "time": "16:53",
+      "symbol": "AAPL",
+      "action": "BUY",
+      "qty": 23,
+      "price": 333.9,
+      "reasoning": "Above SMA20 ($303.5) and SMA50 ($301.6), pct_change=1.72%"
+    }
+  ],
+  "closed": [
+    "QQQ"
+  ]
 }
