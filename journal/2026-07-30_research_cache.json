@@ -86,7 +86,7 @@
       "pct_change": -2.25,
       "trend": "mixed \u2014 between MAs",
       "news": "'All Bark and No Bite': Peter Schiff Says Kevin Warsh Chose Inflation; AI Wunderkind Leopold Aschenbrenner's $20 Billion AI Hedge Fund Is Raising Cash After AI Rout (UPDATED); Core Scientific's AMD Deal Could Generate $14 Billion Over 15 Years, Bernstein Forecasts",
-      "notes": "",
+      "notes": "Hold \u2014 position open, no exit signal",
       "position": {
         "asset_id": "4ce9353c-66d1-46c2-898f-fce867ab0247",
         "symbol": "NVDA",
@@ -125,8 +125,38 @@
       "pct_change": -1.77,
       "trend": "mixed \u2014 between MAs",
       "news": "Microsoft\u2019s $15 Billion Capex Cut Isn\u2019t a Cut at All; TD Cowen Reiterates Buy on Microsoft, Maintains $540 Price Target; Microsoft Becomes Top Analyst Pick as Q4 Results \u2018Change the Narrative\u2019",
-      "notes": "",
+      "notes": "Hold \u2014 no signal",
       "position": null
     }
-  }
+  },
+  "trades": [
+    {
+      "time": "17:10",
+      "symbol": "SPY",
+      "action": "SELL",
+      "qty": 20,
+      "price": 741.79,
+      "reasoning": "Price $743.28 crossed below SMA20 $744.97"
+    },
+    {
+      "time": "17:10",
+      "symbol": "QQQ",
+      "action": "SELL",
+      "qty": 13,
+      "price": 693.92,
+      "reasoning": "Price $695.31 crossed below SMA20 $718.24"
+    },
+    {
+      "time": "17:10",
+      "symbol": "AAPL",
+      "action": "BUY",
+      "qty": 23,
+      "price": 334.42,
+      "reasoning": "Above SMA20 ($305.38) and SMA50 ($302.59), pct_change=0.16%"
+    }
+  ],
+  "closed": [
+    "SPY",
+    "QQQ"
+  ]
 }
