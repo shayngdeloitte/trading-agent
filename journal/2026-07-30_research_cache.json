@@ -1,0 +1,132 @@
+{
+  "portfolio": {
+    "cash": 67845.98,
+    "total_value": 98666.93,
+    "positions": [
+      {
+        "symbol": "NVDA",
+        "qty": 37,
+        "avg_price": 210.045946
+      },
+      {
+        "symbol": "QQQ",
+        "qty": 13,
+        "avg_price": 709.201538
+      },
+      {
+        "symbol": "SPY",
+        "qty": 20,
+        "avg_price": 748.1195
+      }
+    ]
+  },
+  "research": {
+    "SPY": {
+      "sma20": 744.97,
+      "sma50": 744.35,
+      "last_close": 743.28,
+      "pct_change": -1.01,
+      "trend": "bearish \u2014 below both MAs",
+      "news": "U.S. Military Says No U.S. Aircraft Were Destroyed Or Damaged In Recent Attempted Iranian Attacks; All Missiles And Drones Were Intercepted Or Failed To Reach Targeted Areas; Commercial Nora M/T Nora Has Broken Through The U.S. Blockade; 'Yemen's Houthis are attacking Saudi Arabia from Iraq, sources say' - Reuters Exclusive; USA Natural Gas Storage 28B Vs 37B Est.",
+      "notes": "",
+      "position": {
+        "asset_id": "b28f4066-5c6d-479b-a2af-85dc1a8f16fb",
+        "symbol": "SPY",
+        "exchange": "ARCA",
+        "asset_class": "us_equity",
+        "asset_marginable": true,
+        "qty": "20",
+        "qty_available": "20",
+        "avg_entry_price": "748.1195",
+        "side": "long",
+        "market_value": "14795.6",
+        "cost_basis": "14962.39",
+        "unrealized_pl": "-166.79",
+        "unrealized_plpc": "-0.01115",
+        "unrealized_intraday_pl": "206.4",
+        "unrealized_intraday_plpc": "0.01415",
+        "current_price": "739.78",
+        "lastday_price": "729.46",
+        "change_today": "0.01415"
+      }
+    },
+    "QQQ": {
+      "sma20": 718.24,
+      "sma50": 718.93,
+      "last_close": 695.31,
+      "pct_change": -1.5,
+      "trend": "bearish \u2014 below both MAs",
+      "news": "Trump's Tariffs Were Supposed to Shrink the US Goods Trade Deficit\u2014 It Grew 4% Instead; Stock Market Today: S&P 500, Nasdaq 100 Futures Gain as Fed's Preferred Gauge Core PCE Inflation Eases to 0.1% Monthly\u2014Meta, Microsoft, Apple in Focus (UPDATED); Amazon Q2 Preview: Ecommerce Growth May Be Overshadowed By AWS Momentum Again",
+      "notes": "",
+      "position": {
+        "asset_id": "2d9e926c-e17c-47c3-ad8c-26c7a594e48f",
+        "symbol": "QQQ",
+        "exchange": "NASDAQ",
+        "asset_class": "us_equity",
+        "asset_marginable": true,
+        "qty": "13",
+        "qty_available": "13",
+        "avg_entry_price": "709.201538",
+        "side": "long",
+        "market_value": "8865.48",
+        "cost_basis": "9219.619994",
+        "unrealized_pl": "-354.139994",
+        "unrealized_plpc": "-0.03841",
+        "unrealized_intraday_pl": "262.99",
+        "unrealized_intraday_plpc": "0.03057",
+        "current_price": "681.96",
+        "lastday_price": "661.73",
+        "change_today": "0.03057"
+      }
+    },
+    "NVDA": {
+      "sma20": 202.05,
+      "sma50": 209.89,
+      "last_close": 202.8,
+      "pct_change": -2.25,
+      "trend": "mixed \u2014 between MAs",
+      "news": "'All Bark and No Bite': Peter Schiff Says Kevin Warsh Chose Inflation; AI Wunderkind Leopold Aschenbrenner's $20 Billion AI Hedge Fund Is Raising Cash After AI Rout (UPDATED); Core Scientific's AMD Deal Could Generate $14 Billion Over 15 Years, Bernstein Forecasts",
+      "notes": "",
+      "position": {
+        "asset_id": "4ce9353c-66d1-46c2-898f-fce867ab0247",
+        "symbol": "NVDA",
+        "exchange": "NASDAQ",
+        "asset_class": "us_equity",
+        "asset_marginable": true,
+        "qty": "37",
+        "qty_available": "37",
+        "avg_entry_price": "210.045946",
+        "side": "long",
+        "market_value": "7159.87",
+        "cost_basis": "7771.700002",
+        "unrealized_pl": "-611.830002",
+        "unrealized_plpc": "-0.07873",
+        "unrealized_intraday_pl": "129.5",
+        "unrealized_intraday_plpc": "0.01842",
+        "current_price": "193.51",
+        "lastday_price": "190.01",
+        "change_today": "0.01842"
+      }
+    },
+    "AAPL": {
+      "sma20": 305.38,
+      "sma50": 302.59,
+      "last_close": 333.75,
+      "pct_change": 0.16,
+      "trend": "bullish \u2014 above both MAs",
+      "news": "Qualcomm's Near-Term Visibility 'Cloudy' As ASIC Ramp, Apple Roll-Off Weigh on Margins; Europe Heatwaves Could Turn Into a 'Big Economic Challenge' as Wildfires Spread, Analysts Warn\u2014 Insurers Brace for Impact; Apple Stock Sits at Record Highs: Can Q3 Earnings Drive the Next Breakout?",
+      "notes": "",
+      "position": null
+    },
+    "MSFT": {
+      "sma20": 381.0,
+      "sma50": 401.44,
+      "last_close": 394.01,
+      "pct_change": -1.77,
+      "trend": "mixed \u2014 between MAs",
+      "news": "Microsoft\u2019s $15 Billion Capex Cut Isn\u2019t a Cut at All; TD Cowen Reiterates Buy on Microsoft, Maintains $540 Price Target; Microsoft Becomes Top Analyst Pick as Q4 Results \u2018Change the Narrative\u2019",
+      "notes": "",
+      "position": null
+    }
+  }
+}
