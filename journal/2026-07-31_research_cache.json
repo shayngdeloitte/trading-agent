@@ -28,7 +28,7 @@
       "pct_change": -0.15,
       "trend": "bearish \u2014 below both MAs",
       "news": "U.S. Baker Hughes Oil Rig Count +1 To 451; U.S. Baker Hughes NatGas Rig Count Unchanged At 127; U.S. Baker Hughes Total Rig Count 588 Vs 587 Prior; \"Fed's Barkin Says 'It Does Not Feel Like A Tight Labor Market'; 'Do You Have To Add Some Restraint? I Think That's The Question'; Don't Know If I Would Have Voted For Higher Rates This Week; 'Close Call' Whether Rates Are High Enough To Bring Inflation Down\" - WSJ; 'Trump Administration's Unofficial Adviser On Venezuela, Mauricio Claver-Carone, Leaves His Role' - Reuters Exclusive",
-      "notes": "",
+      "notes": "Hold \u2014 below SMA20, no entry",
       "position": null
     },
     "QQQ": {
@@ -67,7 +67,7 @@
       "pct_change": 0.26,
       "trend": "mixed \u2014 between MAs",
       "news": "Why Is Micron Stock Falling on Friday?; Recent Report Shows That Rep. Cleo Fields Bought Up to $15K Worth of Taiwan Semiconductor Stock; Enron Short Seller Jim Chanos Sees a '1999-Type Moment' in AI Boom, Includes SPCX, TSLA in His Shorts",
-      "notes": "",
+      "notes": "Hold \u2014 position open, no exit signal",
       "position": {
         "asset_id": "4ce9353c-66d1-46c2-898f-fce867ab0247",
         "symbol": "NVDA",
@@ -96,7 +96,7 @@
       "pct_change": -2.13,
       "trend": "bullish \u2014 above both MAs",
       "news": "Apple Just Flagged a Headwind That Could Hit iPhone, Mac and iPad All at Once; TD Cowen Maintains Buy on Apple, Raises Price Target to $400; Crude Oil Gains 1%; Apple Shares Tumble After Q3 Results",
-      "notes": "",
+      "notes": "Hold \u2014 position open, no exit signal",
       "position": {
         "asset_id": "b0b6dd9d-8b9b-48a9-ba46-b9d54906e415",
         "symbol": "AAPL",
@@ -128,5 +128,26 @@
       "notes": "",
       "position": null
     }
-  }
+  },
+  "trades": [
+    {
+      "time": "17:12",
+      "symbol": "QQQ",
+      "action": "SELL",
+      "qty": 13,
+      "price": 694.58,
+      "reasoning": "Price $695.97 crossed below SMA20 $716.04"
+    },
+    {
+      "time": "17:12",
+      "symbol": "MSFT",
+      "action": "BUY",
+      "qty": 19,
+      "price": 403.28,
+      "reasoning": "Above SMA20 ($382.17) and SMA50 ($401.21), pct_change=2.15%"
+    }
+  ],
+  "closed": [
+    "QQQ"
+  ]
 }
