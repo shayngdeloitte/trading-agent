@@ -1,0 +1,132 @@
+{
+  "portfolio": {
+    "cash": 75036.35,
+    "total_value": 98251.87,
+    "positions": [
+      {
+        "symbol": "AAPL",
+        "qty": 23,
+        "avg_price": 332.41
+      },
+      {
+        "symbol": "NVDA",
+        "qty": 37,
+        "avg_price": 210.045946
+      },
+      {
+        "symbol": "QQQ",
+        "qty": 13,
+        "avg_price": 709.201538
+      }
+    ]
+  },
+  "research": {
+    "SPY": {
+      "sma20": 744.74,
+      "sma50": 744.51,
+      "last_close": 742.15,
+      "pct_change": -0.15,
+      "trend": "bearish \u2014 below both MAs",
+      "news": "U.S. Baker Hughes Oil Rig Count +1 To 451; U.S. Baker Hughes NatGas Rig Count Unchanged At 127; U.S. Baker Hughes Total Rig Count 588 Vs 587 Prior; \"Fed's Barkin Says 'It Does Not Feel Like A Tight Labor Market'; 'Do You Have To Add Some Restraint? I Think That's The Question'; Don't Know If I Would Have Voted For Higher Rates This Week; 'Close Call' Whether Rates Are High Enough To Bring Inflation Down\" - WSJ; 'Trump Administration's Unofficial Adviser On Venezuela, Mauricio Claver-Carone, Leaves His Role' - Reuters Exclusive",
+      "notes": "",
+      "position": null
+    },
+    "QQQ": {
+      "sma20": 716.04,
+      "sma50": 718.93,
+      "last_close": 695.97,
+      "pct_change": 0.09,
+      "trend": "bearish \u2014 below both MAs",
+      "news": "Michael Burry Expands Bets Against Nvidia, Micron\u2014 and Is Now Buying Lululemon and DraftKings; Stock Market Today: S&P 500, Dow, Nasdaq 100 Futures Gain Amid Cooler June PCE Inflation Data and Slower-Than-Expected Q2 GDP\u2014Apple, Amazon, Coinbase in Focus (UPDATED); NVIDIA Stock Is Still Up, But $250 Billion AI Risk Has Spooked The Debt Market",
+      "notes": "",
+      "position": {
+        "asset_id": "2d9e926c-e17c-47c3-ad8c-26c7a594e48f",
+        "symbol": "QQQ",
+        "exchange": "NASDAQ",
+        "asset_class": "us_equity",
+        "asset_marginable": true,
+        "qty": "13",
+        "qty_available": "13",
+        "avg_entry_price": "709.201538",
+        "side": "long",
+        "market_value": "8943.35",
+        "cost_basis": "9219.619994",
+        "unrealized_pl": "-276.269994",
+        "unrealized_plpc": "-0.02997",
+        "unrealized_intraday_pl": "57.2",
+        "unrealized_intraday_plpc": "0.00644",
+        "current_price": "687.95",
+        "lastday_price": "683.55",
+        "change_today": "0.00644"
+      }
+    },
+    "NVDA": {
+      "sma20": 201.7,
+      "sma50": 209.81,
+      "last_close": 203.33,
+      "pct_change": 0.26,
+      "trend": "mixed \u2014 between MAs",
+      "news": "Why Is Micron Stock Falling on Friday?; Recent Report Shows That Rep. Cleo Fields Bought Up to $15K Worth of Taiwan Semiconductor Stock; Enron Short Seller Jim Chanos Sees a '1999-Type Moment' in AI Boom, Includes SPCX, TSLA in His Shorts",
+      "notes": "",
+      "position": {
+        "asset_id": "4ce9353c-66d1-46c2-898f-fce867ab0247",
+        "symbol": "NVDA",
+        "exchange": "NASDAQ",
+        "asset_class": "us_equity",
+        "asset_marginable": true,
+        "qty": "37",
+        "qty_available": "37",
+        "avg_entry_price": "210.045946",
+        "side": "long",
+        "market_value": "7349.125",
+        "cost_basis": "7771.700002",
+        "unrealized_pl": "-422.575002",
+        "unrealized_plpc": "-0.05437",
+        "unrealized_intraday_pl": "132.645",
+        "unrealized_intraday_plpc": "0.01838",
+        "current_price": "198.625",
+        "lastday_price": "195.04",
+        "change_today": "0.01838"
+      }
+    },
+    "AAPL": {
+      "sma20": 306.82,
+      "sma50": 303.37,
+      "last_close": 326.65,
+      "pct_change": -2.13,
+      "trend": "bullish \u2014 above both MAs",
+      "news": "Apple Just Flagged a Headwind That Could Hit iPhone, Mac and iPad All at Once; TD Cowen Maintains Buy on Apple, Raises Price Target to $400; Crude Oil Gains 1%; Apple Shares Tumble After Q3 Results",
+      "notes": "",
+      "position": {
+        "asset_id": "b0b6dd9d-8b9b-48a9-ba46-b9d54906e415",
+        "symbol": "AAPL",
+        "exchange": "NASDAQ",
+        "asset_class": "us_equity",
+        "asset_marginable": true,
+        "qty": "23",
+        "qty_available": "23",
+        "avg_entry_price": "332.41",
+        "side": "long",
+        "market_value": "6923.23",
+        "cost_basis": "7645.43",
+        "unrealized_pl": "-722.2",
+        "unrealized_plpc": "-0.09446",
+        "unrealized_intraday_pl": "-745.66",
+        "unrealized_intraday_plpc": "-0.09723",
+        "current_price": "301.01",
+        "lastday_price": "333.43",
+        "change_today": "-0.09723"
+      }
+    },
+    "MSFT": {
+      "sma20": 382.17,
+      "sma50": 401.21,
+      "last_close": 402.48,
+      "pct_change": 2.15,
+      "trend": "bullish \u2014 above both MAs",
+      "news": "Apple Takes on Microsoft, Meta with Five Times More R&D than Capex; Microsoft Stock Eyes Best Week Since 2000: History Has a Warning for Buyers; Why Is Oracle Stock Gaining Friday?",
+      "notes": "",
+      "position": null
+    }
+  }
+}
