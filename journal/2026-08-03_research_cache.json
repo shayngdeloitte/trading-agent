@@ -1,0 +1,132 @@
+{
+  "portfolio": {
+    "cash": 75036.35,
+    "total_value": 98873.48,
+    "positions": [
+      {
+        "symbol": "AAPL",
+        "qty": 23,
+        "avg_price": 332.41
+      },
+      {
+        "symbol": "NVDA",
+        "qty": 37,
+        "avg_price": 210.045946
+      },
+      {
+        "symbol": "QQQ",
+        "qty": 13,
+        "avg_price": 709.201538
+      }
+    ]
+  },
+  "research": {
+    "SPY": {
+      "sma20": 745.63,
+      "sma50": 745.04,
+      "last_close": 747.49,
+      "pct_change": -0.09,
+      "trend": "bullish \u2014 above both MAs",
+      "news": "President Trump Says Wants To Give Iran Every Last Chance Before Decapitation; Hopefully Iran Will Come To Their Senses; 'No new negotiations planned despite Trump comments, U.S. officials tell CBS News' - CBS News; Yen Intervention And Falling Oil Help Stocks, But Selling In Korea Throws A Monkey Wrench",
+      "notes": "",
+      "position": null
+    },
+    "QQQ": {
+      "sma20": 714.16,
+      "sma50": 719.09,
+      "last_close": 705.19,
+      "pct_change": -0.51,
+      "trend": "bearish \u2014 below both MAs",
+      "news": "Oil Sinks 6%, Nasdaq 100 Rallies On Iran Talks: Stock Market Today; Yen Intervention And Falling Oil Help Stocks, But Selling In Korea Throws A Monkey Wrench; Trump Warns Oil Executives: 'Get Your Retail Prices Down, NOW!'",
+      "notes": "",
+      "position": {
+        "asset_id": "2d9e926c-e17c-47c3-ad8c-26c7a594e48f",
+        "symbol": "QQQ",
+        "exchange": "NASDAQ",
+        "asset_class": "us_equity",
+        "asset_marginable": true,
+        "qty": "13",
+        "qty_available": "13",
+        "avg_entry_price": "709.201538",
+        "side": "long",
+        "market_value": "9104.03",
+        "cost_basis": "9219.619994",
+        "unrealized_pl": "-115.589994",
+        "unrealized_plpc": "-0.01254",
+        "unrealized_intraday_pl": "160.16",
+        "unrealized_intraday_plpc": "0.01791",
+        "current_price": "700.31",
+        "lastday_price": "687.99",
+        "change_today": "0.01791"
+      }
+    },
+    "NVDA": {
+      "sma20": 202.23,
+      "sma50": 209.66,
+      "last_close": 212.07,
+      "pct_change": 2.33,
+      "trend": "bullish \u2014 above both MAs",
+      "news": "10 Information Technology Stocks With Whale Alerts In Today\u2019s Session; Elon Musk Says AI Is A 'Supersonic Tsunami.' Wall Street Is Worried About The Bill; Yen Intervention And Falling Oil Help Stocks, But Selling In Korea Throws A Monkey Wrench",
+      "notes": "",
+      "position": {
+        "asset_id": "4ce9353c-66d1-46c2-898f-fce867ab0247",
+        "symbol": "NVDA",
+        "exchange": "NASDAQ",
+        "asset_class": "us_equity",
+        "asset_marginable": true,
+        "qty": "37",
+        "qty_available": "37",
+        "avg_entry_price": "210.045946",
+        "side": "long",
+        "market_value": "7694.52",
+        "cost_basis": "7771.700002",
+        "unrealized_pl": "-77.180002",
+        "unrealized_plpc": "-0.00993",
+        "unrealized_intraday_pl": "266.77",
+        "unrealized_intraday_plpc": "0.03592",
+        "current_price": "207.96",
+        "lastday_price": "200.75",
+        "change_today": "0.03592"
+      }
+    },
+    "AAPL": {
+      "sma20": 309.94,
+      "sma50": 304.83,
+      "last_close": 325.86,
+      "pct_change": -0.55,
+      "trend": "bullish \u2014 above both MAs",
+      "news": "Yen Intervention And Falling Oil Help Stocks, But Selling In Korea Throws A Monkey Wrench; Reported Earlier: 'Apple launches legal challenge to UK attempt to access encrypted user data' - Financial Times; What Is Going On With Nebius Stock On Monday?",
+      "notes": "",
+      "position": {
+        "asset_id": "b0b6dd9d-8b9b-48a9-ba46-b9d54906e415",
+        "symbol": "AAPL",
+        "exchange": "NASDAQ",
+        "asset_class": "us_equity",
+        "asset_marginable": true,
+        "qty": "23",
+        "qty_available": "23",
+        "avg_entry_price": "332.41",
+        "side": "long",
+        "market_value": "7038.575",
+        "cost_basis": "7645.43",
+        "unrealized_pl": "-606.855",
+        "unrealized_plpc": "-0.07937",
+        "unrealized_intraday_pl": "-66.355",
+        "unrealized_intraday_plpc": "-0.00934",
+        "current_price": "306.025",
+        "lastday_price": "308.91",
+        "change_today": "-0.00934"
+      }
+    },
+    "MSFT": {
+      "sma20": 384.51,
+      "sma50": 400.25,
+      "last_close": 390.27,
+      "pct_change": -1.84,
+      "trend": "mixed \u2014 between MAs",
+      "news": "Why Is Applied Digital Stock Surging Monday?; 10 Information Technology Stocks With Whale Alerts In Today\u2019s Session; Careful MSFT, AMZN, ORCL Bulls: Trouble at OpenAI, Anthropic Could Trigger 'Sustained' AI Selloff, 'Big Short' Legend Says",
+      "notes": "",
+      "position": null
+    }
+  }
+}
