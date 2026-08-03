@@ -67,7 +67,7 @@
       "pct_change": 2.33,
       "trend": "bullish \u2014 above both MAs",
       "news": "10 Information Technology Stocks With Whale Alerts In Today\u2019s Session; Elon Musk Says AI Is A 'Supersonic Tsunami.' Wall Street Is Worried About The Bill; Yen Intervention And Falling Oil Help Stocks, But Selling In Korea Throws A Monkey Wrench",
-      "notes": "",
+      "notes": "Hold \u2014 position open, no exit signal",
       "position": {
         "asset_id": "4ce9353c-66d1-46c2-898f-fce867ab0247",
         "symbol": "NVDA",
@@ -96,7 +96,7 @@
       "pct_change": -0.55,
       "trend": "bullish \u2014 above both MAs",
       "news": "Yen Intervention And Falling Oil Help Stocks, But Selling In Korea Throws A Monkey Wrench; Reported Earlier: 'Apple launches legal challenge to UK attempt to access encrypted user data' - Financial Times; What Is Going On With Nebius Stock On Monday?",
-      "notes": "",
+      "notes": "Hold \u2014 position open, no exit signal",
       "position": {
         "asset_id": "b0b6dd9d-8b9b-48a9-ba46-b9d54906e415",
         "symbol": "AAPL",
@@ -125,8 +125,29 @@
       "pct_change": -1.84,
       "trend": "mixed \u2014 between MAs",
       "news": "Why Is Applied Digital Stock Surging Monday?; 10 Information Technology Stocks With Whale Alerts In Today\u2019s Session; Careful MSFT, AMZN, ORCL Bulls: Trouble at OpenAI, Anthropic Could Trigger 'Sustained' AI Selloff, 'Big Short' Legend Says",
-      "notes": "",
+      "notes": "Hold \u2014 no signal",
       "position": null
     }
-  }
+  },
+  "trades": [
+    {
+      "time": "18:26",
+      "symbol": "SPY",
+      "action": "BUY",
+      "qty": 19,
+      "price": 748.98,
+      "reasoning": "Above SMA20 ($745.63) and SMA50 ($745.04), pct_change=-0.09%"
+    },
+    {
+      "time": "18:26",
+      "symbol": "QQQ",
+      "action": "SELL",
+      "qty": 13,
+      "price": 703.78,
+      "reasoning": "Price $705.19 crossed below SMA20 $714.16"
+    }
+  ],
+  "closed": [
+    "QQQ"
+  ]
 }
