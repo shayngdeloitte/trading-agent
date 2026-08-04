@@ -67,7 +67,7 @@
       "pct_change": 2.33,
       "trend": "bullish \u2014 above both MAs",
       "news": "Open Secure AI Alliance Drafting Shared AI Findings Exchange Guidelines, Including Proposals To Confidentially Collect, Analyze AI Incidents, Near Misses; Stock Market Today: S&P 500, Dow and Nasdaq Futures Gain as Scott Bessent Says Hormuz Deal Could Come Soon\u2014 Caterpiller, Palantir in Focus (UPDATED); SpaceX Earnings Prediction Market Preview: What Will Elon Musk Say?",
-      "notes": "",
+      "notes": "Hold \u2014 position open, no exit signal",
       "position": {
         "asset_id": "4ce9353c-66d1-46c2-898f-fce867ab0247",
         "symbol": "NVDA",
@@ -96,7 +96,7 @@
       "pct_change": -0.55,
       "trend": "bullish \u2014 above both MAs",
       "news": "Apple Seeks Injunction Against OpenAI in Trade Secrets Lawsuit, Says It Faces 'Irreparable Harm'\u2014 Jim Cramer Says 'Gloves Off'; HP, Asus, Acer Quietly Embrace Limited CXMT Chips Amid Tight DRAM Supply, as They Fear Upsetting Memory Giants: Report; Exploring The Competitive Space: Apple Versus Industry Peers In Technology Hardware, Storage &amp; Peripherals",
-      "notes": "",
+      "notes": "Hold \u2014 position open, no exit signal",
       "position": {
         "asset_id": "b0b6dd9d-8b9b-48a9-ba46-b9d54906e415",
         "symbol": "AAPL",
@@ -125,8 +125,29 @@
       "pct_change": -1.84,
       "trend": "mixed \u2014 between MAs",
       "news": "Here\u2019s How Much You Would Have Made Owning Microsoft Stock In The Last 20 Years; Stock Market Today: S&P 500, Dow and Nasdaq Futures Gain as Scott Bessent Says Hormuz Deal Could Come Soon\u2014 Caterpiller, Palantir in Focus (UPDATED); Box CEO Aaron Levie Warns AI Pricing Could Collapse as Open-Weight Models Like Qwen Close the Gap On Closed AI: 'Can\u2019t Reasonably Remain Behind...'",
-      "notes": "",
+      "notes": "Hold \u2014 no signal",
       "position": null
     }
-  }
+  },
+  "trades": [
+    {
+      "time": "14:18",
+      "symbol": "SPY",
+      "action": "BUY",
+      "qty": 19,
+      "price": 748.98,
+      "reasoning": "Above SMA20 ($745.63) and SMA50 ($745.04), pct_change=-0.09%"
+    },
+    {
+      "time": "14:18",
+      "symbol": "QQQ",
+      "action": "SELL",
+      "qty": 13,
+      "price": 703.78,
+      "reasoning": "Price $705.19 crossed below SMA20 $714.16"
+    }
+  ],
+  "closed": [
+    "QQQ"
+  ]
 }
