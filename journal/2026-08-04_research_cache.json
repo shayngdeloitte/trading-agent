@@ -1,0 +1,132 @@
+{
+  "portfolio": {
+    "cash": 75036.35,
+    "total_value": 99150.62,
+    "positions": [
+      {
+        "symbol": "AAPL",
+        "qty": 23,
+        "avg_price": 332.41
+      },
+      {
+        "symbol": "NVDA",
+        "qty": 37,
+        "avg_price": 210.045946
+      },
+      {
+        "symbol": "QQQ",
+        "qty": 13,
+        "avg_price": 709.201538
+      }
+    ]
+  },
+  "research": {
+    "SPY": {
+      "sma20": 745.63,
+      "sma50": 745.04,
+      "last_close": 747.49,
+      "pct_change": -0.09,
+      "trend": "bullish \u2014 above both MAs",
+      "news": "'Trump administration drafting ban on Chinese data center devices, sources say' - Reuters Exclusive; USA Durables Excluding Defense (MoM) For June\u00a0 0.5% Vs 0.3% Est; USA Factory Orders (MoM) For June -0.3% Vs 0.2% Est",
+      "notes": "",
+      "position": null
+    },
+    "QQQ": {
+      "sma20": 714.16,
+      "sma50": 719.09,
+      "last_close": 705.19,
+      "pct_change": -0.51,
+      "trend": "bearish \u2014 below both MAs",
+      "news": "Stock Market Today: S&P 500, Dow and Nasdaq Futures Gain as Scott Bessent Says Hormuz Deal Could Come Soon\u2014 Caterpiller, Palantir in Focus (UPDATED); Oil Sinks 6%, Nasdaq 100 Rallies On Iran Talks: Stock Market Today; Yen Intervention And Falling Oil Help Stocks, But Selling In Korea Throws A Monkey Wrench",
+      "notes": "",
+      "position": {
+        "asset_id": "2d9e926c-e17c-47c3-ad8c-26c7a594e48f",
+        "symbol": "QQQ",
+        "exchange": "NASDAQ",
+        "asset_class": "us_equity",
+        "asset_marginable": true,
+        "qty": "13",
+        "qty_available": "13",
+        "avg_entry_price": "709.201538",
+        "side": "long",
+        "market_value": "9300.98",
+        "cost_basis": "9219.619994",
+        "unrealized_pl": "81.360006",
+        "unrealized_plpc": "0.00882",
+        "unrealized_intraday_pl": "200.07",
+        "unrealized_intraday_plpc": "0.02198",
+        "current_price": "715.46",
+        "lastday_price": "700.07",
+        "change_today": "0.02198"
+      }
+    },
+    "NVDA": {
+      "sma20": 202.23,
+      "sma50": 209.66,
+      "last_close": 212.07,
+      "pct_change": 2.33,
+      "trend": "bullish \u2014 above both MAs",
+      "news": "Open Secure AI Alliance Drafting Shared AI Findings Exchange Guidelines, Including Proposals To Confidentially Collect, Analyze AI Incidents, Near Misses; Stock Market Today: S&P 500, Dow and Nasdaq Futures Gain as Scott Bessent Says Hormuz Deal Could Come Soon\u2014 Caterpiller, Palantir in Focus (UPDATED); SpaceX Earnings Prediction Market Preview: What Will Elon Musk Say?",
+      "notes": "",
+      "position": {
+        "asset_id": "4ce9353c-66d1-46c2-898f-fce867ab0247",
+        "symbol": "NVDA",
+        "exchange": "NASDAQ",
+        "asset_class": "us_equity",
+        "asset_marginable": true,
+        "qty": "37",
+        "qty_available": "37",
+        "avg_entry_price": "210.045946",
+        "side": "long",
+        "market_value": "7761.675",
+        "cost_basis": "7771.700002",
+        "unrealized_pl": "-10.025002",
+        "unrealized_plpc": "-0.00129",
+        "unrealized_intraday_pl": "115.995",
+        "unrealized_intraday_plpc": "0.01517",
+        "current_price": "209.775",
+        "lastday_price": "206.64",
+        "change_today": "0.01517"
+      }
+    },
+    "AAPL": {
+      "sma20": 309.94,
+      "sma50": 304.83,
+      "last_close": 325.86,
+      "pct_change": -0.55,
+      "trend": "bullish \u2014 above both MAs",
+      "news": "Apple Seeks Injunction Against OpenAI in Trade Secrets Lawsuit, Says It Faces 'Irreparable Harm'\u2014 Jim Cramer Says 'Gloves Off'; HP, Asus, Acer Quietly Embrace Limited CXMT Chips Amid Tight DRAM Supply, as They Fear Upsetting Memory Giants: Report; Exploring The Competitive Space: Apple Versus Industry Peers In Technology Hardware, Storage &amp; Peripherals",
+      "notes": "",
+      "position": {
+        "asset_id": "b0b6dd9d-8b9b-48a9-ba46-b9d54906e415",
+        "symbol": "AAPL",
+        "exchange": "NASDAQ",
+        "asset_class": "us_equity",
+        "asset_marginable": true,
+        "qty": "23",
+        "qty_available": "23",
+        "avg_entry_price": "332.41",
+        "side": "long",
+        "market_value": "7051.8",
+        "cost_basis": "7645.43",
+        "unrealized_pl": "-593.63",
+        "unrealized_plpc": "-0.07765",
+        "unrealized_intraday_pl": "73.14",
+        "unrealized_intraday_plpc": "0.01048",
+        "current_price": "306.6",
+        "lastday_price": "303.42",
+        "change_today": "0.01048"
+      }
+    },
+    "MSFT": {
+      "sma20": 384.51,
+      "sma50": 400.25,
+      "last_close": 390.27,
+      "pct_change": -1.84,
+      "trend": "mixed \u2014 between MAs",
+      "news": "Here\u2019s How Much You Would Have Made Owning Microsoft Stock In The Last 20 Years; Stock Market Today: S&P 500, Dow and Nasdaq Futures Gain as Scott Bessent Says Hormuz Deal Could Come Soon\u2014 Caterpiller, Palantir in Focus (UPDATED); Box CEO Aaron Levie Warns AI Pricing Could Collapse as Open-Weight Models Like Qwen Close the Gap On Closed AI: 'Can\u2019t Reasonably Remain Behind...'",
+      "notes": "",
+      "position": null
+    }
+  }
+}
