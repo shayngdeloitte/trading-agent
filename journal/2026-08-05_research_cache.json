@@ -1,0 +1,108 @@
+{
+  "portfolio": {
+    "cash": 84332.6,
+    "total_value": 99605.84,
+    "positions": [
+      {
+        "symbol": "AAPL",
+        "qty": 23,
+        "avg_price": 332.41
+      },
+      {
+        "symbol": "NVDA",
+        "qty": 37,
+        "avg_price": 210.045946
+      }
+    ]
+  },
+  "research": {
+    "SPY": {
+      "sma20": 745.87,
+      "sma50": 745.02,
+      "last_close": 738.06,
+      "pct_change": -1.26,
+      "trend": "bearish \u2014 below both MAs",
+      "news": "ISM Non-Manufacturing Employment For July 47.4 Vs 51.2 Prior; ISM Non-Manufacturing PMI For July 54.1 Vs 54.5 Est.; ISM Non-Manufacturing Prices For July 70.3 Vs 67.7 Prior",
+      "notes": "",
+      "position": null
+    },
+    "QQQ": {
+      "sma20": 713.23,
+      "sma50": 718.66,
+      "last_close": 691.98,
+      "pct_change": -1.87,
+      "trend": "bearish \u2014 below both MAs",
+      "news": "QUICK SPARK: QQQ Pulls In Nearly $5 Billion in a Day as Investors Pile Into Big Tech; Stock Market Today: S&P 500, Dow Futures Gain After Scott Bessent Signals Strait of Hormuz Deal With Iran in Sight\u2014 AMD, SpaceX, SanDisk in Focus (UPDATED); 'The Big Short' Investor Michael Burry Holds His Ground on Nvidia, Tesla and Other Shorts\u2014 Warns Of 1987-Style Crash: 'It Is Possible We Are Near...'",
+      "notes": "",
+      "position": null
+    },
+    "NVDA": {
+      "sma20": 202.73,
+      "sma50": 209.44,
+      "last_close": 208.76,
+      "pct_change": -1.56,
+      "trend": "mixed \u2014 between MAs",
+      "news": "QUICK SPARK: QQQ Pulls In Nearly $5 Billion in a Day as Investors Pile Into Big Tech; QUICK SPARK: SpaceX Goes All-In on Nvidia. Jim Cramer Thinks That's All Investors Need to Know.; How Intel's Earnings Turned AMD's Beat Into A Sell-Off",
+      "notes": "",
+      "position": {
+        "asset_id": "4ce9353c-66d1-46c2-898f-fce867ab0247",
+        "symbol": "NVDA",
+        "exchange": "NASDAQ",
+        "asset_class": "us_equity",
+        "asset_marginable": true,
+        "qty": "37",
+        "qty_available": "37",
+        "avg_entry_price": "210.045946",
+        "side": "long",
+        "market_value": "8201.7863",
+        "cost_basis": "7771.700002",
+        "unrealized_pl": "430.086298",
+        "unrealized_plpc": "0.05534",
+        "unrealized_intraday_pl": "360.0063",
+        "unrealized_intraday_plpc": "0.04591",
+        "current_price": "221.6699",
+        "lastday_price": "211.94",
+        "change_today": "0.04591"
+      }
+    },
+    "AAPL": {
+      "sma20": 311.35,
+      "sma50": 305.41,
+      "last_close": 321.57,
+      "pct_change": -1.31,
+      "trend": "bullish \u2014 above both MAs",
+      "news": "QUICK SPARK: QQQ Pulls In Nearly $5 Billion in a Day as Investors Pile Into Big Tech; Apple, Alphabet, JB Hunt And Howmet Aerospace: CNBC\u2019s \u2018Final Trades\u2019; Market Analysis: Apple And Competitors In Technology Hardware, Storage &amp; Peripherals Industry",
+      "notes": "",
+      "position": {
+        "asset_id": "b0b6dd9d-8b9b-48a9-ba46-b9d54906e415",
+        "symbol": "AAPL",
+        "exchange": "NASDAQ",
+        "asset_class": "us_equity",
+        "asset_marginable": true,
+        "qty": "23",
+        "qty_available": "23",
+        "avg_entry_price": "332.41",
+        "side": "long",
+        "market_value": "7072.2723",
+        "cost_basis": "7645.43",
+        "unrealized_pl": "-573.1577",
+        "unrealized_plpc": "-0.07497",
+        "unrealized_intraday_pl": "-43.4677",
+        "unrealized_intraday_plpc": "-0.00611",
+        "current_price": "307.4901",
+        "lastday_price": "309.38",
+        "change_today": "-0.00611"
+      }
+    },
+    "MSFT": {
+      "sma20": 385.31,
+      "sma50": 399.63,
+      "last_close": 381.55,
+      "pct_change": -2.24,
+      "trend": "bearish \u2014 below both MAs",
+      "news": "QUICK SPARK: QQQ Pulls In Nearly $5 Billion in a Day as Investors Pile Into Big Tech; Ross Gerber Says July Tech Correction Was About Taking Leopold Aschenbrenner's Money and Offers a Lesson: 'Experience Matters'; Third-Party Cyber Evaluations Involving OpenAI Models; On Aug 3, UK AISI Told During Routine Cyber Evaluation, Models From OpenAI, Another Lab Went Beyond Scope Of Testing In Some Cases; Irregular Has Not Identified Impact Beyond Affected Site\u2019s Own Data, Its Audit Is Ongoing; Of 19 Events Identified In UK AISI Evaluation, Two Involved An OpenAI Model, Gpt\u20115.6 Sol; Other Instances Were Models From Another Lab",
+      "notes": "",
+      "position": null
+    }
+  }
+}
