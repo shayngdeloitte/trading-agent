@@ -1,0 +1,108 @@
+{
+  "portfolio": {
+    "cash": 84332.6,
+    "total_value": 99734.93,
+    "positions": [
+      {
+        "symbol": "AAPL",
+        "qty": 23,
+        "avg_price": 332.41
+      },
+      {
+        "symbol": "NVDA",
+        "qty": 37,
+        "avg_price": 210.045946
+      }
+    ]
+  },
+  "research": {
+    "SPY": {
+      "sma20": 746.15,
+      "sma50": 745.04,
+      "last_close": 738.9,
+      "pct_change": 0.11,
+      "trend": "bearish \u2014 below both MAs",
+      "news": "USA Wholesale Trade Sales (MoM) For June -3.0% Vs 3.5% Prior; USA Wholesale Inventories (MoM) For June 0.2% Vs 0.3% Est; Stock Market Today: Dow Futures Gain, Nasdaq 100 Tumbles as Hormuz Deal Talks Progress\u2014SpaceX, SanDisk, Applovin in Focus (UPDATED)",
+      "notes": "",
+      "position": null
+    },
+    "QQQ": {
+      "sma20": 711.63,
+      "sma50": 718.21,
+      "last_close": 684.33,
+      "pct_change": -1.11,
+      "trend": "bearish \u2014 below both MAs",
+      "news": "Stock Market Today: Dow Futures Gain, Nasdaq 100 Tumbles as Hormuz Deal Talks Progress\u2014SpaceX, SanDisk, Applovin in Focus (UPDATED); Joel Greenblatt Turned Corporate Chaos Into 50% Annual Returns by Buying What Wall Street Had to Sell; Gold Jumps 4%, Dow Jones Smashes Record Highs: Stock Market Today",
+      "notes": "",
+      "position": null
+    },
+    "NVDA": {
+      "sma20": 203.28,
+      "sma50": 209.17,
+      "last_close": 207.07,
+      "pct_change": -0.81,
+      "trend": "mixed \u2014 between MAs",
+      "news": "Steve Eisman Pushes Back on Michael Burry's Market Top Call: 'I Think It's Premature'; Gary Black Says Uber, Not Tesla or Waymo, Has the Best Shot at Bringing Robotaxis to the Masses; Michael Saylor Says Strategy Aims to Be the World's Biggest Company by Market Cap\u2014Here's How Much Upside It Needs",
+      "notes": "",
+      "position": {
+        "asset_id": "4ce9353c-66d1-46c2-898f-fce867ab0247",
+        "symbol": "NVDA",
+        "exchange": "NASDAQ",
+        "asset_class": "us_equity",
+        "asset_marginable": true,
+        "qty": "37",
+        "qty_available": "37",
+        "avg_entry_price": "210.045946",
+        "side": "long",
+        "market_value": "8197.35",
+        "cost_basis": "7771.700002",
+        "unrealized_pl": "425.649998",
+        "unrealized_plpc": "0.05477",
+        "unrealized_intraday_pl": "86.21",
+        "unrealized_intraday_plpc": "0.01063",
+        "current_price": "221.55",
+        "lastday_price": "219.22",
+        "change_today": "0.01063"
+      }
+    },
+    "AAPL": {
+      "sma20": 314.24,
+      "sma50": 306.18,
+      "last_close": 333.05,
+      "pct_change": 3.57,
+      "trend": "bullish \u2014 above both MAs",
+      "news": "Michael Saylor Says Strategy Aims to Be the World's Biggest Company by Market Cap\u2014Here's How Much Upside It Needs; OpenAI Moves to Dismiss Apple's Trade Secrets Lawsuit, Says It Has 'No Use, Need or Desire' for AAPL's Proprietary Information; OpenAI Seeks Dismissal of Apple\u2019s Trade-Secret Misappropriation Lawsuit, Court Filing Shows",
+      "notes": "",
+      "position": {
+        "asset_id": "b0b6dd9d-8b9b-48a9-ba46-b9d54906e415",
+        "symbol": "AAPL",
+        "exchange": "NASDAQ",
+        "asset_class": "us_equity",
+        "asset_marginable": true,
+        "qty": "23",
+        "qty_available": "23",
+        "avg_entry_price": "332.41",
+        "side": "long",
+        "market_value": "7205.2652",
+        "cost_basis": "7645.43",
+        "unrealized_pl": "-440.1648",
+        "unrealized_plpc": "-0.05757",
+        "unrealized_intraday_pl": "52.2652",
+        "unrealized_intraday_plpc": "0.00731",
+        "current_price": "313.2724",
+        "lastday_price": "311",
+        "change_today": "0.00731"
+      }
+    },
+    "MSFT": {
+      "sma20": 386.78,
+      "sma50": 399.11,
+      "last_close": 381.81,
+      "pct_change": 0.07,
+      "trend": "bearish \u2014 below both MAs",
+      "news": "Steve Eisman Pushes Back on Michael Burry's Market Top Call: 'I Think It's Premature'; AI Hyperscaler Spending Is Entering Uncharted Territory: 3x the Telecom Boom; Microsoft Announces General Availability Of Its India South Central Cloud Region In Hyderabad",
+      "notes": "",
+      "position": null
+    }
+  }
+}
