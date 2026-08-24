@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-21T20:39:06.194348Z",
-  "status": "ok",
-  "note": "End of day journal complete"
+  "timestamp": "2026-08-24T12:52:38.929988Z",
+  "status": "skipped",
+  "note": "Market closed. Next open: 2026-08-24T09:30:00-04:00. Skipping research."
 }
