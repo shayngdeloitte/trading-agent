@@ -43,7 +43,7 @@
       "pct_change": -0.98,
       "trend": "bullish \u2014 above both MAs",
       "news": "10 Information Technology Stocks Whale Activity In Today\u2019s Session; Amazon Web Services Accelerates Middle East AI Push with Saudi Cloud Region Launch; Nvidia's $3.5 Billion MediaTek Deal Revives the 'Circular Financing' Debate",
-      "notes": "",
+      "notes": "Hold \u2014 position open, no exit signal",
       "position": {
         "asset_id": "4ce9353c-66d1-46c2-898f-fce867ab0247",
         "symbol": "NVDA",
@@ -72,7 +72,7 @@
       "pct_change": 2.17,
       "trend": "bullish \u2014 above both MAs",
       "news": "QUICK SPARK: Tim Cook Sends 'Lots of Love' on Last Day as Apple CEO; Inside Google\u2019s 260 Million Pound UK App Store Settlement: What It Means for Alphabet Stock; Qualcomm Outperforms Broader Market Slump: Analysts Eye Data Center Growth Ahead of Q4",
-      "notes": "",
+      "notes": "Hold \u2014 position open, no exit signal",
       "position": {
         "asset_id": "b0b6dd9d-8b9b-48a9-ba46-b9d54906e415",
         "symbol": "AAPL",
@@ -104,5 +104,32 @@
       "notes": "",
       "position": null
     }
-  }
+  },
+  "trades": [
+    {
+      "time": "18:54",
+      "symbol": "SPY",
+      "action": "BUY",
+      "qty": 19,
+      "price": 770.63,
+      "reasoning": "Above SMA20 ($759.72) and SMA50 ($750.4), pct_change=0.22%"
+    },
+    {
+      "time": "18:54",
+      "symbol": "QQQ",
+      "action": "BUY",
+      "qty": 13,
+      "price": 717.46,
+      "reasoning": "Above SMA20 ($706.75) and SMA50 ($712.91), pct_change=-0.24%"
+    },
+    {
+      "time": "18:54",
+      "symbol": "MSFT",
+      "action": "BUY",
+      "qty": 16,
+      "price": 485.39,
+      "reasoning": "Above SMA20 ($463.12) and SMA50 ($416.55), pct_change=0.54%"
+    }
+  ],
+  "closed": []
 }
