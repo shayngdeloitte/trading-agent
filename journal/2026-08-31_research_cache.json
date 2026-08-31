@@ -1,0 +1,108 @@
+{
+  "portfolio": {
+    "cash": 84332.6,
+    "total_value": 99662.65,
+    "positions": [
+      {
+        "symbol": "AAPL",
+        "qty": 23,
+        "avg_price": 332.41
+      },
+      {
+        "symbol": "NVDA",
+        "qty": 37,
+        "avg_price": 210.045946
+      }
+    ]
+  },
+  "research": {
+    "SPY": {
+      "sma20": 759.72,
+      "sma50": 750.4,
+      "last_close": 769.09,
+      "pct_change": 0.22,
+      "trend": "bullish \u2014 above both MAs",
+      "news": "Happy 50th, Index Funds: Why Just Owning the S&P 500 May Not Be Enough Anymore; Tom Lee Says Markets Could 'Rally Very Strongly' in September, Touts Fed Surprise; US Banks Want a Bigger Piece Of The AI Trade: Here's How They're Getting It",
+      "notes": "",
+      "position": null
+    },
+    "QQQ": {
+      "sma20": 706.75,
+      "sma50": 712.91,
+      "last_close": 716.03,
+      "pct_change": -0.24,
+      "trend": "bullish \u2014 above both MAs",
+      "news": "Oil Jumps Near $90 On Iran Risk, California Utilities Crater: Stock Market Today; US Banks Want a Bigger Piece Of The AI Trade: Here's How They're Getting It; Oil Rises As US Strikes Iran; Warsh's Hawkishness Reverberates; Weak Stock Market Seasonality Ahead",
+      "notes": "",
+      "position": null
+    },
+    "NVDA": {
+      "sma20": 212.39,
+      "sma50": 207.1,
+      "last_close": 217.58,
+      "pct_change": -0.98,
+      "trend": "bullish \u2014 above both MAs",
+      "news": "10 Information Technology Stocks Whale Activity In Today\u2019s Session; Amazon Web Services Accelerates Middle East AI Push with Saudi Cloud Region Launch; Nvidia's $3.5 Billion MediaTek Deal Revives the 'Circular Financing' Debate",
+      "notes": "",
+      "position": {
+        "asset_id": "4ce9353c-66d1-46c2-898f-fce867ab0247",
+        "symbol": "NVDA",
+        "exchange": "NASDAQ",
+        "asset_class": "us_equity",
+        "asset_marginable": true,
+        "qty": "37",
+        "qty_available": "37",
+        "avg_entry_price": "210.045946",
+        "side": "long",
+        "market_value": "8075.435",
+        "cost_basis": "7771.700002",
+        "unrealized_pl": "303.734998",
+        "unrealized_plpc": "0.03908",
+        "unrealized_intraday_pl": "26.085",
+        "unrealized_intraday_plpc": "0.00324",
+        "current_price": "218.255",
+        "lastday_price": "217.55",
+        "change_today": "0.00324"
+      }
+    },
+    "AAPL": {
+      "sma20": 316.01,
+      "sma50": 309.37,
+      "last_close": 316.9,
+      "pct_change": 2.17,
+      "trend": "bullish \u2014 above both MAs",
+      "news": "QUICK SPARK: Tim Cook Sends 'Lots of Love' on Last Day as Apple CEO; Inside Google\u2019s 260 Million Pound UK App Store Settlement: What It Means for Alphabet Stock; Qualcomm Outperforms Broader Market Slump: Analysts Eye Data Center Growth Ahead of Q4",
+      "notes": "",
+      "position": {
+        "asset_id": "b0b6dd9d-8b9b-48a9-ba46-b9d54906e415",
+        "symbol": "AAPL",
+        "exchange": "NASDAQ",
+        "asset_class": "us_equity",
+        "asset_marginable": true,
+        "qty": "23",
+        "qty_available": "23",
+        "avg_entry_price": "332.41",
+        "side": "long",
+        "market_value": "7254.2",
+        "cost_basis": "7645.43",
+        "unrealized_pl": "-391.23",
+        "unrealized_plpc": "-0.05117",
+        "unrealized_intraday_pl": "-98.9",
+        "unrealized_intraday_plpc": "-0.01345",
+        "current_price": "315.4",
+        "lastday_price": "319.7",
+        "change_today": "-0.01345"
+      }
+    },
+    "MSFT": {
+      "sma20": 463.12,
+      "sma50": 416.55,
+      "last_close": 484.42,
+      "pct_change": 0.54,
+      "trend": "bullish \u2014 above both MAs",
+      "news": "Oil Rises As US Strikes Iran; Warsh's Hawkishness Reverberates; Weak Stock Market Seasonality Ahead; Bill Ackman Saw Microsoft Before the Chart Did; European Commission Designates ChatGPT As 'Very Large Online Search Engine,' Reddit, Roblox As 'Very Large Online Platforms' Under Digital Services Act",
+      "notes": "",
+      "position": null
+    }
+  }
+}
