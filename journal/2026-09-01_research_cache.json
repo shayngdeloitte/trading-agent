@@ -1,0 +1,156 @@
+{
+  "portfolio": {
+    "cash": 60496.32,
+    "total_value": 99879.34,
+    "positions": [
+      {
+        "symbol": "AAPL",
+        "qty": 23,
+        "avg_price": 332.41
+      },
+      {
+        "symbol": "NVDA",
+        "qty": 37,
+        "avg_price": 210.045946
+      },
+      {
+        "symbol": "QQQ",
+        "qty": 13,
+        "avg_price": 714.488462
+      },
+      {
+        "symbol": "SPY",
+        "qty": 19,
+        "avg_price": 765.68
+      }
+    ]
+  },
+  "research": {
+    "SPY": {
+      "sma20": 759.72,
+      "sma50": 750.4,
+      "last_close": 769.09,
+      "pct_change": 0.22,
+      "trend": "bullish \u2014 above both MAs",
+      "news": "U.S. Treasury Secretary Bessent Emphasized Importance Of Sound Formulation And Communication Of Monetary Policy To Anchor Inflation Expectations In Meeting With Bank Of Japan Governor; Bessent Also Expressed Strong Support For Japan's Decisive Market And Monetary Steps To Address The Substantial Undervaluation Of The Yen; Noted The Role Of Yen Weakness In Contributing To Domestic Inflationary Pressures In Japan; U.S. Treasury Secretary Bessent Says I Think That Japan Is Taking Right Steps For Economy; G20 Ministers Want More Growth; Unclear Whether G20 Ministers Will Take Steps Necessary To Achieve Higher Growth; Imbalances Created By Some Countries Are Reducing Growth Elsewhere; Rest Of The World Needs To Take Steps To Protect Trade, Factory Jobs From China\u2019s Exports; White House Official, To Al Jazeera, Says The Iranians Want To Strike A Deal With Us, But Their Positions Are Always Delayed And Fall Short Of What's Required",
+      "notes": "",
+      "position": {
+        "asset_id": "b28f4066-5c6d-479b-a2af-85dc1a8f16fb",
+        "symbol": "SPY",
+        "exchange": "ARCA",
+        "asset_class": "us_equity",
+        "asset_marginable": true,
+        "qty": "19",
+        "qty_available": "19",
+        "avg_entry_price": "765.68",
+        "side": "long",
+        "market_value": "14513.91",
+        "cost_basis": "14547.92",
+        "unrealized_pl": "-34.01",
+        "unrealized_plpc": "-0.00234",
+        "unrealized_intraday_pl": "-60.04",
+        "unrealized_intraday_plpc": "-0.00412",
+        "current_price": "763.89",
+        "lastday_price": "767.05",
+        "change_today": "-0.00412"
+      }
+    },
+    "QQQ": {
+      "sma20": 706.75,
+      "sma50": 712.91,
+      "last_close": 716.03,
+      "pct_change": -0.24,
+      "trend": "bullish \u2014 above both MAs",
+      "news": "Global Bond Rout Sparks Tech Selloff: 5 Nasdaq Stocks Falling 5% On Tuesday; Stock Market Today: S&P 500, Dow, Nasdaq 100 Futures Drop After Trump Says Iran Is \u2018Totally Defeated\u2019, Brent Tops $92 \u2014 CBRS, PXS, PANW, DELL in Focus (UPDATED); Jim Cramer Warns of \u2018Unholy Developments\u2019 Crushing Rate-Cut Hopes as Brent Tops $92 After Strait of Hormuz Attacks",
+      "notes": "",
+      "position": {
+        "asset_id": "2d9e926c-e17c-47c3-ad8c-26c7a594e48f",
+        "symbol": "QQQ",
+        "exchange": "NASDAQ",
+        "asset_class": "us_equity",
+        "asset_marginable": true,
+        "qty": "13",
+        "qty_available": "13",
+        "avg_entry_price": "714.488462",
+        "side": "long",
+        "market_value": "9239.815",
+        "cost_basis": "9288.350006",
+        "unrealized_pl": "-48.535006",
+        "unrealized_plpc": "-0.00523",
+        "unrealized_intraday_pl": "-78.065",
+        "unrealized_intraday_plpc": "-0.00838",
+        "current_price": "710.755",
+        "lastday_price": "716.76",
+        "change_today": "-0.00838"
+      }
+    },
+    "NVDA": {
+      "sma20": 212.39,
+      "sma50": 207.1,
+      "last_close": 217.58,
+      "pct_change": -0.98,
+      "trend": "bullish \u2014 above both MAs",
+      "news": "David Booth Says Picking AI Winners Can Backfire: What About Nvidia?; SpaceX Stock Rockets 32% in August: Inside the Turnaround; QUICK SPARK: Microsoft's AI Spending Pays Off With Azure Growth Set to Reach 45%",
+      "notes": "",
+      "position": {
+        "asset_id": "4ce9353c-66d1-46c2-898f-fce867ab0247",
+        "symbol": "NVDA",
+        "exchange": "NASDAQ",
+        "asset_class": "us_equity",
+        "asset_marginable": true,
+        "qty": "37",
+        "qty_available": "37",
+        "avg_entry_price": "210.045946",
+        "side": "long",
+        "market_value": "8133.71",
+        "cost_basis": "7771.700002",
+        "unrealized_pl": "362.009998",
+        "unrealized_plpc": "0.04658",
+        "unrealized_intraday_pl": "-35.15",
+        "unrealized_intraday_plpc": "-0.0043",
+        "current_price": "219.83",
+        "lastday_price": "220.78",
+        "change_today": "-0.0043"
+      }
+    },
+    "AAPL": {
+      "sma20": 316.01,
+      "sma50": 309.37,
+      "last_close": 316.9,
+      "pct_change": 2.17,
+      "trend": "bullish \u2014 above both MAs",
+      "news": "Apple New CEO John Ternus Creates Official X Account @johnternus; Can John Ternus Bring Steve Jobs-Style Innovation Back to Apple?; Stryker Completes Its First Surgical Order Utilizing SportSuite Vision On Apple Vision Pro",
+      "notes": "",
+      "position": {
+        "asset_id": "b0b6dd9d-8b9b-48a9-ba46-b9d54906e415",
+        "symbol": "AAPL",
+        "exchange": "NASDAQ",
+        "asset_class": "us_equity",
+        "asset_marginable": true,
+        "qty": "23",
+        "qty_available": "23",
+        "avg_entry_price": "332.41",
+        "side": "long",
+        "market_value": "7495.01",
+        "cost_basis": "7645.43",
+        "unrealized_pl": "-150.42",
+        "unrealized_plpc": "-0.01967",
+        "unrealized_intraday_pl": "207.46",
+        "unrealized_intraday_plpc": "0.02847",
+        "current_price": "325.87",
+        "lastday_price": "316.85",
+        "change_today": "0.02847"
+      }
+    },
+    "MSFT": {
+      "sma20": 463.12,
+      "sma50": 416.55,
+      "last_close": 484.42,
+      "pct_change": 0.54,
+      "trend": "bullish \u2014 above both MAs",
+      "news": "QUICK SPARK: Microsoft's AI Spending Pays Off With Azure Growth Set to Reach 45%; B of A Securities Maintains Buy on Microsoft, Raises Price Target to $600; Comparing Microsoft With Industry Competitors In Software Industry",
+      "notes": "",
+      "position": null
+    }
+  }
+}
