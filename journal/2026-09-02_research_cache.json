@@ -1,0 +1,156 @@
+{
+  "portfolio": {
+    "cash": 60496.32,
+    "total_value": 100191.64,
+    "positions": [
+      {
+        "symbol": "AAPL",
+        "qty": 23,
+        "avg_price": 332.41
+      },
+      {
+        "symbol": "NVDA",
+        "qty": 37,
+        "avg_price": 210.045946
+      },
+      {
+        "symbol": "QQQ",
+        "qty": 13,
+        "avg_price": 714.488462
+      },
+      {
+        "symbol": "SPY",
+        "qty": 19,
+        "avg_price": 765.68
+      }
+    ]
+  },
+  "research": {
+    "SPY": {
+      "sma20": 759.72,
+      "sma50": 750.4,
+      "last_close": 769.09,
+      "pct_change": 0.22,
+      "trend": "bullish \u2014 above both MAs",
+      "news": "'NYC Bans AI Use For Students Until They Reach High School; \ufeffThe Policy Also Bans Companion Chatbots Across All Grades' - The Verge; The S&P 500 Got Cheaper While It Rallied. Here's What Bond Bears Are Missing; Why Is Fed Chair Warsh Signaling a Rate Hike Into a Cooling Jobs Market?",
+      "notes": "",
+      "position": {
+        "asset_id": "b28f4066-5c6d-479b-a2af-85dc1a8f16fb",
+        "symbol": "SPY",
+        "exchange": "ARCA",
+        "asset_class": "us_equity",
+        "asset_marginable": true,
+        "qty": "19",
+        "qty_available": "19",
+        "avg_entry_price": "765.68",
+        "side": "long",
+        "market_value": "14551.15",
+        "cost_basis": "14547.92",
+        "unrealized_pl": "3.23",
+        "unrealized_plpc": "0.00022",
+        "unrealized_intraday_pl": "77.33",
+        "unrealized_intraday_plpc": "0.00534",
+        "current_price": "765.85",
+        "lastday_price": "761.78",
+        "change_today": "0.00534"
+      }
+    },
+    "QQQ": {
+      "sma20": 706.75,
+      "sma50": 712.91,
+      "last_close": 716.03,
+      "pct_change": -0.24,
+      "trend": "bullish \u2014 above both MAs",
+      "news": "EXCLUSIVE: Top 12 Most-Searched Tickers in August on Benzinga Pro \u2013 SpaceX, Nebius Climb, Palantir Returns; Stock Market Today: Dow Jones, S&P 500 Futures Rise, Nasdaq 100 Falls as US-Iran Tensions Escalate\u2014 DELL, PANW, MDB, AVGO in Focus (UPDATED); Stock Market: Will S&P 500 Open Up or Down Today?",
+      "notes": "",
+      "position": {
+        "asset_id": "2d9e926c-e17c-47c3-ad8c-26c7a594e48f",
+        "symbol": "QQQ",
+        "exchange": "NASDAQ",
+        "asset_class": "us_equity",
+        "asset_marginable": true,
+        "qty": "13",
+        "qty_available": "13",
+        "avg_entry_price": "714.488462",
+        "side": "long",
+        "market_value": "9222.3248",
+        "cost_basis": "9288.350006",
+        "unrealized_pl": "-66.025206",
+        "unrealized_plpc": "-0.00711",
+        "unrealized_intraday_pl": "23.0048",
+        "unrealized_intraday_plpc": "0.0025",
+        "current_price": "709.4096",
+        "lastday_price": "707.64",
+        "change_today": "0.0025"
+      }
+    },
+    "NVDA": {
+      "sma20": 212.39,
+      "sma50": 207.1,
+      "last_close": 217.58,
+      "pct_change": -0.98,
+      "trend": "bullish \u2014 above both MAs",
+      "news": "Nvidia Nears $14 Billion Hugging Face Deal After Earlier Rejection; The S&P 500 Got Cheaper While It Rallied. Here's What Bond Bears Are Missing; BlackRock: AI Boom Still in Phase 1 as Amazon, Google, Microsoft Fuel 'Massive Build-Out'",
+      "notes": "",
+      "position": {
+        "asset_id": "4ce9353c-66d1-46c2-898f-fce867ab0247",
+        "symbol": "NVDA",
+        "exchange": "NASDAQ",
+        "asset_class": "us_equity",
+        "asset_marginable": true,
+        "qty": "37",
+        "qty_available": "37",
+        "avg_entry_price": "210.045946",
+        "side": "long",
+        "market_value": "8427.12",
+        "cost_basis": "7771.700002",
+        "unrealized_pl": "655.419998",
+        "unrealized_plpc": "0.08433",
+        "unrealized_intraday_pl": "381.84",
+        "unrealized_intraday_plpc": "0.04746",
+        "current_price": "227.76",
+        "lastday_price": "217.44",
+        "change_today": "0.04746"
+      }
+    },
+    "AAPL": {
+      "sma20": 316.01,
+      "sma50": 309.37,
+      "last_close": 316.9,
+      "pct_change": 2.17,
+      "trend": "bullish \u2014 above both MAs",
+      "news": "EXCLUSIVE: Top 12 Most-Searched Tickers in August on Benzinga Pro \u2013 SpaceX, Nebius Climb, Palantir Returns; Can Apple's New CEO Pull Off a Premium-Only iPhone Launch?; Apple, SLB And A Financial Stock: CNBC\u2019s \u2018Final Trades\u2019",
+      "notes": "",
+      "position": {
+        "asset_id": "b0b6dd9d-8b9b-48a9-ba46-b9d54906e415",
+        "symbol": "AAPL",
+        "exchange": "NASDAQ",
+        "asset_class": "us_equity",
+        "asset_marginable": true,
+        "qty": "23",
+        "qty_available": "23",
+        "avg_entry_price": "332.41",
+        "side": "long",
+        "market_value": "7493.63",
+        "cost_basis": "7645.43",
+        "unrealized_pl": "-151.8",
+        "unrealized_plpc": "-0.01985",
+        "unrealized_intraday_pl": "15.64",
+        "unrealized_intraday_plpc": "0.00209",
+        "current_price": "325.81",
+        "lastday_price": "325.13",
+        "change_today": "0.00209"
+      }
+    },
+    "MSFT": {
+      "sma20": 463.12,
+      "sma50": 416.55,
+      "last_close": 484.42,
+      "pct_change": 0.54,
+      "trend": "bullish \u2014 above both MAs",
+      "news": "BlackRock: AI Boom Still in Phase 1 as Amazon, Google, Microsoft Fuel 'Massive Build-Out'; CrowdStrike Expands Collaboration With OpenAI To Extend Access Of CrowdStrike Enterprise Security To Codex Agents, Roll Out GPT-5.6 Cyber To Falcon Platform; Investors Are Missing Microsoft\u2019s Biggest AI Edge, Analyst Says",
+      "notes": "",
+      "position": null
+    }
+  }
+}
