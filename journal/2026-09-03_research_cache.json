@@ -1,0 +1,156 @@
+{
+  "portfolio": {
+    "cash": 60496.32,
+    "total_value": 100513.51,
+    "positions": [
+      {
+        "symbol": "AAPL",
+        "qty": 23,
+        "avg_price": 332.41
+      },
+      {
+        "symbol": "NVDA",
+        "qty": 37,
+        "avg_price": 210.045946
+      },
+      {
+        "symbol": "QQQ",
+        "qty": 13,
+        "avg_price": 714.488462
+      },
+      {
+        "symbol": "SPY",
+        "qty": 19,
+        "avg_price": 765.68
+      }
+    ]
+  },
+  "research": {
+    "SPY": {
+      "sma20": 760.94,
+      "sma50": 750.91,
+      "last_close": 762.62,
+      "pct_change": -0.84,
+      "trend": "bullish \u2014 above both MAs",
+      "news": "Auto Industry Group Urges U.S. Lawmakers To Pass Comprehensive Ban On Chinese Vehicles Before End Of Year; President Trump Posts On Truth Social \"... Hundreds of Billions of Dollars was given to Ukraine and NATO, free of charge, that Europe would have paid for \u2014 If they were only asked, but we will be asking for that money, though somewhat belatedly!\"; President Trump Posts On Truth Social \"... we have virtually unlimited amounts of Mid to High Grade Ammunition, far more than we could ever use for this, or for any other War (which is highly unlikely!), that could improbably take place. In addition, we are producing Munitions at levels never seen before. We are stockpiling and preparing for any contingency that could happen...\"",
+      "notes": "",
+      "position": {
+        "asset_id": "b28f4066-5c6d-479b-a2af-85dc1a8f16fb",
+        "symbol": "SPY",
+        "exchange": "ARCA",
+        "asset_class": "us_equity",
+        "asset_marginable": true,
+        "qty": "19",
+        "qty_available": "19",
+        "avg_entry_price": "765.68",
+        "side": "long",
+        "market_value": "14690.895",
+        "cost_basis": "14547.92",
+        "unrealized_pl": "142.975",
+        "unrealized_plpc": "0.00983",
+        "unrealized_intraday_pl": "152.855",
+        "unrealized_intraday_plpc": "0.01051",
+        "current_price": "773.205",
+        "lastday_price": "765.16",
+        "change_today": "0.01051"
+      }
+    },
+    "QQQ": {
+      "sma20": 707.7,
+      "sma50": 712.97,
+      "last_close": 710.93,
+      "pct_change": -0.71,
+      "trend": "mixed \u2014 between MAs",
+      "news": "Fed\u2019s Waller Favors Holding Rates in September \u2014 Unless August Inflation Runs Hot; Stock Market Today: Nasdaq 100 Futures Fall, Dow Jones Gains Following Trump Comments Saying 'Market Will Go Up' \u2014 AVGO, SNOW, HPE, LULU in Focus (UPDATED); QUICK SPARK: QQQ, VOO Lead ETF Inflows as Investors Rotate Into Gold and Treasurys",
+      "notes": "",
+      "position": {
+        "asset_id": "2d9e926c-e17c-47c3-ad8c-26c7a594e48f",
+        "symbol": "QQQ",
+        "exchange": "NASDAQ",
+        "asset_class": "us_equity",
+        "asset_marginable": true,
+        "qty": "13",
+        "qty_available": "13",
+        "avg_entry_price": "714.488462",
+        "side": "long",
+        "market_value": "9328.28",
+        "cost_basis": "9288.350006",
+        "unrealized_pl": "39.929994",
+        "unrealized_plpc": "0.0043",
+        "unrealized_intraday_pl": "108.16",
+        "unrealized_intraday_plpc": "0.01173",
+        "current_price": "717.56",
+        "lastday_price": "709.24",
+        "change_today": "0.01173"
+      }
+    },
+    "NVDA": {
+      "sma20": 212.8,
+      "sma50": 207.27,
+      "last_close": 216.89,
+      "pct_change": -0.32,
+      "trend": "bullish \u2014 above both MAs",
+      "news": "Broadcom Q2 AI Revenue Grows Over 200%, Guidance Restricted By Supply Constraints; Congressional Trading Report: Sen. Sheldon Whitehouse Sold Over $19K In NVIDIA Stock; Recent Report Shows That Rep. Cleo Fields Bought Up to $15K Worth of Apple Stock",
+      "notes": "",
+      "position": {
+        "asset_id": "4ce9353c-66d1-46c2-898f-fce867ab0247",
+        "symbol": "NVDA",
+        "exchange": "NASDAQ",
+        "asset_class": "us_equity",
+        "asset_marginable": true,
+        "qty": "37",
+        "qty_available": "37",
+        "avg_entry_price": "210.045946",
+        "side": "long",
+        "market_value": "8414.91",
+        "cost_basis": "7771.700002",
+        "unrealized_pl": "643.209998",
+        "unrealized_plpc": "0.08276",
+        "unrealized_intraday_pl": "111.74",
+        "unrealized_intraday_plpc": "0.01346",
+        "current_price": "227.43",
+        "lastday_price": "224.41",
+        "change_today": "0.01346"
+      }
+    },
+    "AAPL": {
+      "sma20": 315.5,
+      "sma50": 309.78,
+      "last_close": 311.29,
+      "pct_change": -1.77,
+      "trend": "mixed \u2014 between MAs",
+      "news": "Recent Report Shows That Rep. Cleo Fields Bought Up to $15K Worth of Apple Stock; Reported Earlier: 'Apple facing $2.7 billion UK lawsuit over 'unfair' app tracking rules' - Reuters; 'Apple Apparently Cancels Plans for Two New MacBooks' - MacRumors",
+      "notes": "",
+      "position": {
+        "asset_id": "b0b6dd9d-8b9b-48a9-ba46-b9d54906e415",
+        "symbol": "AAPL",
+        "exchange": "NASDAQ",
+        "asset_class": "us_equity",
+        "asset_marginable": true,
+        "qty": "23",
+        "qty_available": "23",
+        "avg_entry_price": "332.41",
+        "side": "long",
+        "market_value": "7583.1",
+        "cost_basis": "7645.43",
+        "unrealized_pl": "-62.33",
+        "unrealized_plpc": "-0.00815",
+        "unrealized_intraday_pl": "109.02",
+        "unrealized_intraday_plpc": "0.01459",
+        "current_price": "329.7",
+        "lastday_price": "324.96",
+        "change_today": "0.01459"
+      }
+    },
+    "MSFT": {
+      "sma20": 468.1,
+      "sma50": 418.11,
+      "last_close": 481.2,
+      "pct_change": -0.66,
+      "trend": "bullish \u2014 above both MAs",
+      "news": "OpenAI Says It Is Investigating Elevated Errors Across ChatGPT And Codex; Status Page Shows Degraded Performance With 15 ChatGPT Components And 4 Codex Components Affected; 'User Reports Indicate Problems At OpenAI, Claude, Grok, Cursor For Users In The U.S.' - DownDetector; Microsoft Consolidates Business Into Two Segments in Sweeping AI-Driven Overhaul",
+      "notes": "",
+      "position": null
+    }
+  }
+}
