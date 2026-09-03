@@ -33,7 +33,7 @@
       "pct_change": -0.84,
       "trend": "bullish \u2014 above both MAs",
       "news": "Auto Industry Group Urges U.S. Lawmakers To Pass Comprehensive Ban On Chinese Vehicles Before End Of Year; President Trump Posts On Truth Social \"... Hundreds of Billions of Dollars was given to Ukraine and NATO, free of charge, that Europe would have paid for \u2014 If they were only asked, but we will be asking for that money, though somewhat belatedly!\"; President Trump Posts On Truth Social \"... we have virtually unlimited amounts of Mid to High Grade Ammunition, far more than we could ever use for this, or for any other War (which is highly unlikely!), that could improbably take place. In addition, we are producing Munitions at levels never seen before. We are stockpiling and preparing for any contingency that could happen...\"",
-      "notes": "",
+      "notes": "Hold \u2014 position open, no exit signal",
       "position": {
         "asset_id": "b28f4066-5c6d-479b-a2af-85dc1a8f16fb",
         "symbol": "SPY",
@@ -62,7 +62,7 @@
       "pct_change": -0.71,
       "trend": "mixed \u2014 between MAs",
       "news": "Fed\u2019s Waller Favors Holding Rates in September \u2014 Unless August Inflation Runs Hot; Stock Market Today: Nasdaq 100 Futures Fall, Dow Jones Gains Following Trump Comments Saying 'Market Will Go Up' \u2014 AVGO, SNOW, HPE, LULU in Focus (UPDATED); QUICK SPARK: QQQ, VOO Lead ETF Inflows as Investors Rotate Into Gold and Treasurys",
-      "notes": "",
+      "notes": "Hold \u2014 position open, no exit signal",
       "position": {
         "asset_id": "2d9e926c-e17c-47c3-ad8c-26c7a594e48f",
         "symbol": "QQQ",
@@ -91,7 +91,7 @@
       "pct_change": -0.32,
       "trend": "bullish \u2014 above both MAs",
       "news": "Broadcom Q2 AI Revenue Grows Over 200%, Guidance Restricted By Supply Constraints; Congressional Trading Report: Sen. Sheldon Whitehouse Sold Over $19K In NVIDIA Stock; Recent Report Shows That Rep. Cleo Fields Bought Up to $15K Worth of Apple Stock",
-      "notes": "",
+      "notes": "Hold \u2014 position open, no exit signal",
       "position": {
         "asset_id": "4ce9353c-66d1-46c2-898f-fce867ab0247",
         "symbol": "NVDA",
@@ -152,5 +152,26 @@
       "notes": "",
       "position": null
     }
-  }
+  },
+  "trades": [
+    {
+      "time": "15:58",
+      "symbol": "AAPL",
+      "action": "SELL",
+      "qty": 23,
+      "price": 310.67,
+      "reasoning": "Price $311.29 crossed below SMA20 $315.5"
+    },
+    {
+      "time": "15:58",
+      "symbol": "MSFT",
+      "action": "BUY",
+      "qty": 16,
+      "price": 482.16,
+      "reasoning": "Above SMA20 ($468.1) and SMA50 ($418.11), pct_change=-0.66%"
+    }
+  ],
+  "closed": [
+    "AAPL"
+  ]
 }
