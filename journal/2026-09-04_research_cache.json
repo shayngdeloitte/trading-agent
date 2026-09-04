@@ -28,7 +28,7 @@
       "pct_change": 0.4,
       "trend": "bullish \u2014 above both MAs",
       "news": "U.S. Senate Democrats Urge Postal Service To Halt Work On New Mail-In Voting Rules, Saying It Will Undermine Faith In November Elections; Americans Spend About $114 Each On Halloween\u2014What If You Invested Some Of It Instead?; Trump Reacts to Jobs Data: 'Lower The Rate or I\u2019ll Stop Trading With Countries'",
-      "notes": "",
+      "notes": "Hold \u2014 position open, no exit signal",
       "position": {
         "asset_id": "b28f4066-5c6d-479b-a2af-85dc1a8f16fb",
         "symbol": "SPY",
@@ -57,7 +57,7 @@
       "pct_change": 0.35,
       "trend": "bullish \u2014 above both MAs",
       "news": "QUICK SPARK: $5.3B Flows Into ETFs. VOO, SGOV and GLD Lead Investor Demand; El-Erian Sees More Trouble Ahead for Bonds: \u2018Reliable Buyers\u2019 Are Running for the Exit; Stock Market Today: Nasdaq 100, S&P 500 Futures Rise, Dow Jones Edges Lower as U.S. Jobs Rebound by 162,000 in August \u2014 LULU, PATH, DOCU in Focus (UPDATED)",
-      "notes": "",
+      "notes": "Hold \u2014 position open, no exit signal",
       "position": {
         "asset_id": "2d9e926c-e17c-47c3-ad8c-26c7a594e48f",
         "symbol": "QQQ",
@@ -86,7 +86,7 @@
       "pct_change": -0.99,
       "trend": "bullish \u2014 above both MAs",
       "news": "Musk Could Need $1 Trillion to Build Enough Chips for His AI Ambitions, ARK Says; AI Exuberance or Opportunity? NVIDIA, Broadcom Growth Keeps This Investor Bullish; Xi Jinping Set To Bring Top Chinese Business Leaders To Trump Summit In Washington: Report",
-      "notes": "",
+      "notes": "Hold \u2014 position open, no exit signal",
       "position": {
         "asset_id": "4ce9353c-66d1-46c2-898f-fce867ab0247",
         "symbol": "NVDA",
@@ -115,7 +115,7 @@
       "pct_change": -0.65,
       "trend": "bearish \u2014 below both MAs",
       "news": "Reported Earlier: 'Early foldable iPhone production limited to a few hundred per day: sources' - Nikkei Asia; Market Analysis: Apple And Competitors In Technology Hardware, Storage &amp; Peripherals Industry; Norway Skeptical of Smart Spectacles: Leader in EV Adoption Not Ready to Welcome \u2018Pervert\u2019 Glasses",
-      "notes": "",
+      "notes": "Hold \u2014 below SMA20, no entry",
       "position": null
     },
     "MSFT": {
@@ -128,5 +128,16 @@
       "notes": "",
       "position": null
     }
-  }
+  },
+  "trades": [
+    {
+      "time": "15:55",
+      "symbol": "MSFT",
+      "action": "BUY",
+      "qty": 16,
+      "price": 484.3,
+      "reasoning": "Above SMA20 ($473.18) and SMA50 ($419.83), pct_change=0.44%"
+    }
+  ],
+  "closed": []
 }
