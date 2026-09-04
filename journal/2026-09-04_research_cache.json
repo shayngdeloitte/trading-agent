@@ -1,0 +1,132 @@
+{
+  "portfolio": {
+    "cash": 68076.94,
+    "total_value": 100576.48,
+    "positions": [
+      {
+        "symbol": "NVDA",
+        "qty": 37,
+        "avg_price": 210.045946
+      },
+      {
+        "symbol": "QQQ",
+        "qty": 13,
+        "avg_price": 714.488462
+      },
+      {
+        "symbol": "SPY",
+        "qty": 19,
+        "avg_price": 765.68
+      }
+    ]
+  },
+  "research": {
+    "SPY": {
+      "sma20": 762.28,
+      "sma50": 751.71,
+      "last_close": 765.64,
+      "pct_change": 0.4,
+      "trend": "bullish \u2014 above both MAs",
+      "news": "U.S. Senate Democrats Urge Postal Service To Halt Work On New Mail-In Voting Rules, Saying It Will Undermine Faith In November Elections; Americans Spend About $114 Each On Halloween\u2014What If You Invested Some Of It Instead?; Trump Reacts to Jobs Data: 'Lower The Rate or I\u2019ll Stop Trading With Countries'",
+      "notes": "",
+      "position": {
+        "asset_id": "b28f4066-5c6d-479b-a2af-85dc1a8f16fb",
+        "symbol": "SPY",
+        "exchange": "ARCA",
+        "asset_class": "us_equity",
+        "asset_marginable": true,
+        "qty": "19",
+        "qty_available": "19",
+        "avg_entry_price": "765.68",
+        "side": "long",
+        "market_value": "14628.67",
+        "cost_basis": "14547.92",
+        "unrealized_pl": "80.75",
+        "unrealized_plpc": "0.00555",
+        "unrealized_intraday_pl": "-61.56",
+        "unrealized_intraday_plpc": "-0.00419",
+        "current_price": "769.93",
+        "lastday_price": "773.17",
+        "change_today": "-0.00419"
+      }
+    },
+    "QQQ": {
+      "sma20": 709.15,
+      "sma50": 713.36,
+      "last_close": 713.41,
+      "pct_change": 0.35,
+      "trend": "bullish \u2014 above both MAs",
+      "news": "QUICK SPARK: $5.3B Flows Into ETFs. VOO, SGOV and GLD Lead Investor Demand; El-Erian Sees More Trouble Ahead for Bonds: \u2018Reliable Buyers\u2019 Are Running for the Exit; Stock Market Today: Nasdaq 100, S&P 500 Futures Rise, Dow Jones Edges Lower as U.S. Jobs Rebound by 162,000 in August \u2014 LULU, PATH, DOCU in Focus (UPDATED)",
+      "notes": "",
+      "position": {
+        "asset_id": "2d9e926c-e17c-47c3-ad8c-26c7a594e48f",
+        "symbol": "QQQ",
+        "exchange": "NASDAQ",
+        "asset_class": "us_equity",
+        "asset_marginable": true,
+        "qty": "13",
+        "qty_available": "13",
+        "avg_entry_price": "714.488462",
+        "side": "long",
+        "market_value": "9326.46",
+        "cost_basis": "9288.350006",
+        "unrealized_pl": "38.109994",
+        "unrealized_plpc": "0.0041",
+        "unrealized_intraday_pl": "-3.25",
+        "unrealized_intraday_plpc": "-0.00035",
+        "current_price": "717.42",
+        "lastday_price": "717.67",
+        "change_today": "-0.00035"
+      }
+    },
+    "NVDA": {
+      "sma20": 213.18,
+      "sma50": 207.56,
+      "last_close": 214.74,
+      "pct_change": -0.99,
+      "trend": "bullish \u2014 above both MAs",
+      "news": "Musk Could Need $1 Trillion to Build Enough Chips for His AI Ambitions, ARK Says; AI Exuberance or Opportunity? NVIDIA, Broadcom Growth Keeps This Investor Bullish; Xi Jinping Set To Bring Top Chinese Business Leaders To Trump Summit In Washington: Report",
+      "notes": "",
+      "position": {
+        "asset_id": "4ce9353c-66d1-46c2-898f-fce867ab0247",
+        "symbol": "NVDA",
+        "exchange": "NASDAQ",
+        "asset_class": "us_equity",
+        "asset_marginable": true,
+        "qty": "37",
+        "qty_available": "37",
+        "avg_entry_price": "210.045946",
+        "side": "long",
+        "market_value": "8544.41",
+        "cost_basis": "7771.700002",
+        "unrealized_pl": "772.709998",
+        "unrealized_plpc": "0.09943",
+        "unrealized_intraday_pl": "91.76",
+        "unrealized_intraday_plpc": "0.01086",
+        "current_price": "230.93",
+        "lastday_price": "228.45",
+        "change_today": "0.01086"
+      }
+    },
+    "AAPL": {
+      "sma20": 314.31,
+      "sma50": 310.14,
+      "last_close": 309.27,
+      "pct_change": -0.65,
+      "trend": "bearish \u2014 below both MAs",
+      "news": "Reported Earlier: 'Early foldable iPhone production limited to a few hundred per day: sources' - Nikkei Asia; Market Analysis: Apple And Competitors In Technology Hardware, Storage &amp; Peripherals Industry; Norway Skeptical of Smart Spectacles: Leader in EV Adoption Not Ready to Welcome \u2018Pervert\u2019 Glasses",
+      "notes": "",
+      "position": null
+    },
+    "MSFT": {
+      "sma20": 473.18,
+      "sma50": 419.83,
+      "last_close": 483.33,
+      "pct_change": 0.44,
+      "trend": "bullish \u2014 above both MAs",
+      "news": "'Anthropic\u2019s In-House Payments Tech Push Could Chip Away at Stripe' - The Information; Assessing Microsoft's Performance Against Competitors In Software Industry; Mark Zuckerberg Opposes Federal AI Watchdog in Call With Trump: Report",
+      "notes": "",
+      "position": null
+    }
+  }
+}
