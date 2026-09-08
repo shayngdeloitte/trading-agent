@@ -28,7 +28,7 @@
       "pct_change": 0.31,
       "trend": "bullish \u2014 above both MAs",
       "news": "U.S. Treasury Secretary Bessent Says We Must Keep Moving Forward With AI, As China Will Not Slow Down; U.S. Treasury Secretary Bessent Says Iron Dome And U.S. Defense Would Be Useless If China Succeeds In; U.S. Treasury Secretary Bessent Says China's Manufacturing Jobs Are Decreasing; Says He Wants To Collaborate With G-7 And Other Nations On Trade With China",
-      "notes": "",
+      "notes": "Hold \u2014 position open, no exit signal",
       "position": {
         "asset_id": "b28f4066-5c6d-479b-a2af-85dc1a8f16fb",
         "symbol": "SPY",
@@ -115,7 +115,7 @@
       "pct_change": -0.16,
       "trend": "bearish \u2014 below both MAs",
       "news": "Qualcomm CFO Says Deal With Amazon Positions Qualcomm To Deliver Strong YoY Rev Growth From FY27 To FY28; HSBC Reiterates Buy on Apple, Maintains $366 Price Target; How To Trade SPY, QQQ, AAPL, MSFT, NVDA, GOOGL, META, And TSLA",
-      "notes": "",
+      "notes": "Hold \u2014 below SMA20, no entry",
       "position": null
     },
     "MSFT": {
@@ -128,5 +128,35 @@
       "notes": "",
       "position": null
     }
-  }
+  },
+  "trades": [
+    {
+      "time": "16:12",
+      "symbol": "QQQ",
+      "action": "SELL",
+      "qty": 13,
+      "price": 709.24,
+      "reasoning": "Price $710.66 crossed below SMA20 $712.13"
+    },
+    {
+      "time": "16:12",
+      "symbol": "NVDA",
+      "action": "SELL",
+      "qty": 37,
+      "price": 212.53,
+      "reasoning": "Price $212.96 crossed below SMA20 $214.57"
+    },
+    {
+      "time": "16:12",
+      "symbol": "MSFT",
+      "action": "BUY",
+      "qty": 16,
+      "price": 492.53,
+      "reasoning": "Above SMA20 ($482.99) and SMA50 ($423.78), pct_change=0.87%"
+    }
+  ],
+  "closed": [
+    "QQQ",
+    "NVDA"
+  ]
 }
