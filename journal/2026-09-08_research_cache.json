@@ -1,0 +1,132 @@
+{
+  "portfolio": {
+    "cash": 68076.94,
+    "total_value": 100370.73,
+    "positions": [
+      {
+        "symbol": "NVDA",
+        "qty": 37,
+        "avg_price": 210.045946
+      },
+      {
+        "symbol": "QQQ",
+        "qty": 13,
+        "avg_price": 714.488462
+      },
+      {
+        "symbol": "SPY",
+        "qty": 19,
+        "avg_price": 765.68
+      }
+    ]
+  },
+  "research": {
+    "SPY": {
+      "sma20": 764.76,
+      "sma50": 752.71,
+      "last_close": 765.79,
+      "pct_change": 0.31,
+      "trend": "bullish \u2014 above both MAs",
+      "news": "U.S. Treasury Secretary Bessent Says We Must Keep Moving Forward With AI, As China Will Not Slow Down; U.S. Treasury Secretary Bessent Says Iron Dome And U.S. Defense Would Be Useless If China Succeeds In; U.S. Treasury Secretary Bessent Says China's Manufacturing Jobs Are Decreasing; Says He Wants To Collaborate With G-7 And Other Nations On Trade With China",
+      "notes": "",
+      "position": {
+        "asset_id": "b28f4066-5c6d-479b-a2af-85dc1a8f16fb",
+        "symbol": "SPY",
+        "exchange": "ARCA",
+        "asset_class": "us_equity",
+        "asset_marginable": true,
+        "qty": "19",
+        "qty_available": "19",
+        "avg_entry_price": "765.68",
+        "side": "long",
+        "market_value": "14575.09",
+        "cost_basis": "14547.92",
+        "unrealized_pl": "27.17",
+        "unrealized_plpc": "0.00187",
+        "unrealized_intraday_pl": "-58.52",
+        "unrealized_intraday_plpc": "-0.004",
+        "current_price": "767.11",
+        "lastday_price": "770.19",
+        "change_today": "-0.004"
+      }
+    },
+    "QQQ": {
+      "sma20": 712.13,
+      "sma50": 712.94,
+      "last_close": 710.66,
+      "pct_change": 0.61,
+      "trend": "bearish \u2014 below both MAs",
+      "news": "How To Trade SPY, QQQ, AAPL, MSFT, NVDA, GOOGL, META, And TSLA; SpaceX Could Draw $15.5B in Passive Buying as Nasdaq Rebalance Looms; Stock Market Today: S&P 500, Dow, Nasdaq 100 Futures Fall as Oil Tops $99 Despite Trump\u2019s Price Drop Prediction\u2014 ASML, NVS, CASY in Focus (UPDATED)",
+      "notes": "",
+      "position": {
+        "asset_id": "2d9e926c-e17c-47c3-ad8c-26c7a594e48f",
+        "symbol": "QQQ",
+        "exchange": "NASDAQ",
+        "asset_class": "us_equity",
+        "asset_marginable": true,
+        "qty": "13",
+        "qty_available": "13",
+        "avg_entry_price": "714.488462",
+        "side": "long",
+        "market_value": "9352.07",
+        "cost_basis": "9288.350006",
+        "unrealized_pl": "63.719994",
+        "unrealized_plpc": "0.00686",
+        "unrealized_intraday_pl": "5.59",
+        "unrealized_intraday_plpc": "0.0006",
+        "current_price": "719.39",
+        "lastday_price": "718.96",
+        "change_today": "0.0006"
+      }
+    },
+    "NVDA": {
+      "sma20": 214.57,
+      "sma50": 207.78,
+      "last_close": 212.96,
+      "pct_change": 2.15,
+      "trend": "mixed \u2014 between MAs",
+      "news": "How To Trade SPY, QQQ, AAPL, MSFT, NVDA, GOOGL, META, And TSLA; OpenAI, Anthropic Seek Investment-Grade Ratings Post Potential IPOs to Cut AI Borrowing Costs: Report; Nvidia, Oracle, KLA And An Industrial Stock: CNBC\u2019s \u2018Final Trades\u2019",
+      "notes": "",
+      "position": {
+        "asset_id": "4ce9353c-66d1-46c2-898f-fce867ab0247",
+        "symbol": "NVDA",
+        "exchange": "NASDAQ",
+        "asset_class": "us_equity",
+        "asset_marginable": true,
+        "qty": "37",
+        "qty_available": "37",
+        "avg_entry_price": "210.045946",
+        "side": "long",
+        "market_value": "8366.625",
+        "cost_basis": "7771.700002",
+        "unrealized_pl": "594.924998",
+        "unrealized_plpc": "0.07655",
+        "unrealized_intraday_pl": "-156.695",
+        "unrealized_intraday_plpc": "-0.01838",
+        "current_price": "226.125",
+        "lastday_price": "230.36",
+        "change_today": "-0.01838"
+      }
+    },
+    "AAPL": {
+      "sma20": 311.48,
+      "sma50": 310.81,
+      "last_close": 309.89,
+      "pct_change": -0.16,
+      "trend": "bearish \u2014 below both MAs",
+      "news": "Qualcomm CFO Says Deal With Amazon Positions Qualcomm To Deliver Strong YoY Rev Growth From FY27 To FY28; HSBC Reiterates Buy on Apple, Maintains $366 Price Target; How To Trade SPY, QQQ, AAPL, MSFT, NVDA, GOOGL, META, And TSLA",
+      "notes": "",
+      "position": null
+    },
+    "MSFT": {
+      "sma20": 482.99,
+      "sma50": 423.78,
+      "last_close": 491.55,
+      "pct_change": 0.87,
+      "trend": "bullish \u2014 above both MAs",
+      "news": "How To Trade SPY, QQQ, AAPL, MSFT, NVDA, GOOGL, META, And TSLA; Performance Comparison: Microsoft And Competitors In Software Industry; We Can\u2019t Allow a Handful of Greedy People to Play God\u2019: Bernie Sanders Takes Aim at Big Tech Billionaires Over AI Power",
+      "notes": "",
+      "position": null
+    }
+  }
+}
