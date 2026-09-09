@@ -52,7 +52,7 @@
       "pct_change": 0.09,
       "trend": "bearish \u2014 below both MAs",
       "news": "Don't Mistake the Market Calm for Safety, Experts Warn; Scott Bessent Says \u2018I Am the House Now\u2019 and Dares Traders to Bet Against Him \u2014 Wall Street Fires Back With \u2018Activist Treasury\u2019 Label; Stock Market Today: Dow Jones, S&P 500, Nasdaq 100 Futures Fall, Brent Jumps Over $100 Amid Middle East Tensions\u2014 Casey\u2019s, ServiceTitan, American Eagle in Focus (UPDATED)",
-      "notes": "",
+      "notes": "Hold \u2014 below SMA20, no entry",
       "position": null
     },
     "NVDA": {
@@ -62,7 +62,7 @@
       "pct_change": -1.5,
       "trend": "mixed \u2014 between MAs",
       "news": "Memory Is the New \u2018King\u2019 of Chips, Taking Over 50% of Semiconductor Revenue, Susquehanna Says; China Commerce Ministry, On US Issuing Cybersecurity Announcements Related To Chinese AI Companies., Says China Firmly Opposes This; US Allegations Are Baseless; Distillation Is A Common Practice Among AI Models Globally, Including By US Firms; Heads Of State Of The Two Countries Have Agreed To Launch An Intergovernmental Dialogue On Artificial Intelligence;\u00a0If U.S. Side Takes Action To Suppress Chinese AI Companies Under The Pretext Of Cracking Down On Distillation, China Will Take Resolute Countermeasures; AI Will Transform the World, but Legendary Investor Warns Its Arms Race Has a Familiar Trap",
-      "notes": "",
+      "notes": "Hold \u2014 below SMA20, no entry",
       "position": null
     },
     "AAPL": {
@@ -82,7 +82,7 @@
       "pct_change": 0.98,
       "trend": "bullish \u2014 above both MAs",
       "news": "AI Will Transform the World, but Legendary Investor Warns Its Arms Race Has a Familiar Trap; Insights Into Microsoft's Performance Versus Peers In Software Sector; OpenAI Says Images 2.5 Is Available To All ChatGPT, ChatGPT Work, & Codex Users Across Desktop, Mobile, & Web; For Developers, We\u2019re Introducing Two New Models In API, GPT\u2011Image\u20112.5 Flare & GPT\u2011Image\u20112.5 Sunburst",
-      "notes": "",
+      "notes": "Hold \u2014 position open, no exit signal",
       "position": {
         "asset_id": "b6d1aa75-5c9c-4353-a305-9e2caa1925ab",
         "symbol": "MSFT",
@@ -104,5 +104,26 @@
         "change_today": "-0.00409"
       }
     }
-  }
+  },
+  "trades": [
+    {
+      "time": "16:06",
+      "symbol": "SPY",
+      "action": "SELL",
+      "qty": 19,
+      "price": 764.41,
+      "reasoning": "Price $765.94 crossed below SMA20 $766.58"
+    },
+    {
+      "time": "16:06",
+      "symbol": "AAPL",
+      "action": "BUY",
+      "qty": 25,
+      "price": 314.11,
+      "reasoning": "Above SMA20 ($310.24) and SMA50 ($311.15), pct_change=1.16%"
+    }
+  ],
+  "closed": [
+    "SPY"
+  ]
 }
