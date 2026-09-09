@@ -1,0 +1,108 @@
+{
+  "portfolio": {
+    "cash": 77917.48,
+    "total_value": 100269.78,
+    "positions": [
+      {
+        "symbol": "MSFT",
+        "qty": 16,
+        "avg_price": 492.439375
+      },
+      {
+        "symbol": "SPY",
+        "qty": 19,
+        "avg_price": 765.68
+      }
+    ]
+  },
+  "research": {
+    "SPY": {
+      "sma20": 766.58,
+      "sma50": 752.93,
+      "last_close": 765.94,
+      "pct_change": 0.02,
+      "trend": "mixed \u2014 between MAs",
+      "news": "Trump Administration Official Speaking On Fox Business Says Treasury Buyback Increase Is Part Of Ongoing Approach; US Treasury Announces $6B Maximum Par Amount For September 10 Debt Buyback Operation In 10-To-20-Year Sector; S&P 500 Up 13% Six Months Into Iran War, and History Says That's Normal",
+      "notes": "",
+      "position": {
+        "asset_id": "b28f4066-5c6d-479b-a2af-85dc1a8f16fb",
+        "symbol": "SPY",
+        "exchange": "ARCA",
+        "asset_class": "us_equity",
+        "asset_marginable": true,
+        "qty": "19",
+        "qty_available": "19",
+        "avg_entry_price": "765.68",
+        "side": "long",
+        "market_value": "14481.42",
+        "cost_basis": "14547.92",
+        "unrealized_pl": "-66.5",
+        "unrealized_plpc": "-0.00457",
+        "unrealized_intraday_pl": "-71.82",
+        "unrealized_intraday_plpc": "-0.00493",
+        "current_price": "762.18",
+        "lastday_price": "765.96",
+        "change_today": "-0.00493"
+      }
+    },
+    "QQQ": {
+      "sma20": 714.61,
+      "sma50": 712.29,
+      "last_close": 711.28,
+      "pct_change": 0.09,
+      "trend": "bearish \u2014 below both MAs",
+      "news": "Don't Mistake the Market Calm for Safety, Experts Warn; Scott Bessent Says \u2018I Am the House Now\u2019 and Dares Traders to Bet Against Him \u2014 Wall Street Fires Back With \u2018Activist Treasury\u2019 Label; Stock Market Today: Dow Jones, S&P 500, Nasdaq 100 Futures Fall, Brent Jumps Over $100 Amid Middle East Tensions\u2014 Casey\u2019s, ServiceTitan, American Eagle in Focus (UPDATED)",
+      "notes": "",
+      "position": null
+    },
+    "NVDA": {
+      "sma20": 215.56,
+      "sma50": 207.73,
+      "last_close": 209.77,
+      "pct_change": -1.5,
+      "trend": "mixed \u2014 between MAs",
+      "news": "Memory Is the New \u2018King\u2019 of Chips, Taking Over 50% of Semiconductor Revenue, Susquehanna Says; China Commerce Ministry, On US Issuing Cybersecurity Announcements Related To Chinese AI Companies., Says China Firmly Opposes This; US Allegations Are Baseless; Distillation Is A Common Practice Among AI Models Globally, Including By US Firms; Heads Of State Of The Two Countries Have Agreed To Launch An Intergovernmental Dialogue On Artificial Intelligence;\u00a0If U.S. Side Takes Action To Suppress Chinese AI Companies Under The Pretext Of Cracking Down On Distillation, China Will Take Resolute Countermeasures; AI Will Transform the World, but Legendary Investor Warns Its Arms Race Has a Familiar Trap",
+      "notes": "",
+      "position": null
+    },
+    "AAPL": {
+      "sma20": 310.24,
+      "sma50": 311.15,
+      "last_close": 313.48,
+      "pct_change": 1.16,
+      "trend": "bullish \u2014 above both MAs",
+      "news": "Apple's 'Surprise and Shine' Moment Belongs to John Ternus; Apple's New CEO Faces His First Product Launch Today \u2014 Here's What's Expected; Is Apple Finally About to Become an AI Stock? Does That Make AAPL A Buy?",
+      "notes": "",
+      "position": null
+    },
+    "MSFT": {
+      "sma20": 488.26,
+      "sma50": 425.71,
+      "last_close": 496.36,
+      "pct_change": 0.98,
+      "trend": "bullish \u2014 above both MAs",
+      "news": "AI Will Transform the World, but Legendary Investor Warns Its Arms Race Has a Familiar Trap; Insights Into Microsoft's Performance Versus Peers In Software Sector; OpenAI Says Images 2.5 Is Available To All ChatGPT, ChatGPT Work, & Codex Users Across Desktop, Mobile, & Web; For Developers, We\u2019re Introducing Two New Models In API, GPT\u2011Image\u20112.5 Flare & GPT\u2011Image\u20112.5 Sunburst",
+      "notes": "",
+      "position": {
+        "asset_id": "b6d1aa75-5c9c-4353-a305-9e2caa1925ab",
+        "symbol": "MSFT",
+        "exchange": "NASDAQ",
+        "asset_class": "us_equity",
+        "asset_marginable": true,
+        "qty": "16",
+        "qty_available": "16",
+        "avg_entry_price": "492.439375",
+        "side": "long",
+        "market_value": "7870.88",
+        "cost_basis": "7879.03",
+        "unrealized_pl": "-8.15",
+        "unrealized_plpc": "-0.00103",
+        "unrealized_intraday_pl": "-32.32",
+        "unrealized_intraday_plpc": "-0.00409",
+        "current_price": "491.93",
+        "lastday_price": "493.95",
+        "change_today": "-0.00409"
+      }
+    }
+  }
+}
