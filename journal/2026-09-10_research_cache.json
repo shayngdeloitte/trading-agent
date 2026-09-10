@@ -28,7 +28,7 @@
       "pct_change": 0.68,
       "trend": "bullish \u2014 above both MAs",
       "news": "Trump\u2019s $5K Free Money Could Be A Market Bonanza; China, Russia, Iran Leaders Meet In India; PPI Pushes Fed Rate-Hike Odds To 70%; Paul Krugman Warns Why the AI Boom\u2014Not the Trump Administration\u2014Is Driving Surging Bond Rates; Forget Gold at $4,400? Economist Says A Bond Trade Could Be a Better Inflation Hedge",
-      "notes": "",
+      "notes": "Hold \u2014 position open, no exit signal",
       "position": {
         "asset_id": "b28f4066-5c6d-479b-a2af-85dc1a8f16fb",
         "symbol": "SPY",
@@ -77,7 +77,7 @@
       "pct_change": 0.34,
       "trend": "bullish \u2014 above both MAs",
       "news": "Trump\u2019s $5K Free Money Could Be A Market Bonanza; China, Russia, Iran Leaders Meet In India; PPI Pushes Fed Rate-Hike Odds To 70%; Meta\u2019s AI Agents Are Coming for Your Shopping Cart. These ETFs Could Cash In; Dan Ives Says Apple\u2019s $1,999 Foldable Could Drive 20% of iPhone Revenue: 300 Million iPhones Have Gone 4 Years Without an Upgrade",
-      "notes": "",
+      "notes": "Hold \u2014 position open, no exit signal",
       "position": {
         "asset_id": "b0b6dd9d-8b9b-48a9-ba46-b9d54906e415",
         "symbol": "AAPL",
@@ -106,7 +106,7 @@
       "pct_change": 1.74,
       "trend": "bullish \u2014 above both MAs",
       "news": "Trump\u2019s $5K Free Money Could Be A Market Bonanza; China, Russia, Iran Leaders Meet In India; PPI Pushes Fed Rate-Hike Odds To 70%; Meta\u2019s AI Agents Are Coming for Your Shopping Cart. These ETFs Could Cash In; Oracle Stock Is Down 17% This Year, But Options Traders Bet on a Blowout",
-      "notes": "",
+      "notes": "Hold \u2014 position open, no exit signal",
       "position": {
         "asset_id": "b6d1aa75-5c9c-4353-a305-9e2caa1925ab",
         "symbol": "MSFT",
@@ -128,5 +128,24 @@
         "change_today": "-0.00036"
       }
     }
-  }
+  },
+  "trades": [
+    {
+      "time": "15:59",
+      "symbol": "QQQ",
+      "action": "BUY",
+      "qty": 13,
+      "price": 722.64,
+      "reasoning": "Above SMA20 ($716.49) and SMA50 ($712.12), pct_change=1.39%"
+    },
+    {
+      "time": "15:59",
+      "symbol": "NVDA",
+      "action": "BUY",
+      "qty": 35,
+      "price": 228.63,
+      "reasoning": "Above SMA20 ($217.21) and SMA50 ($208.15), pct_change=8.77%"
+    }
+  ],
+  "closed": []
 }
