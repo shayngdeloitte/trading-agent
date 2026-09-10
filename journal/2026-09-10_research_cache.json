@@ -1,0 +1,132 @@
+{
+  "portfolio": {
+    "cash": 70085.92,
+    "total_value": 100353.02,
+    "positions": [
+      {
+        "symbol": "AAPL",
+        "qty": 25,
+        "avg_price": 313.262
+      },
+      {
+        "symbol": "MSFT",
+        "qty": 16,
+        "avg_price": 492.439375
+      },
+      {
+        "symbol": "SPY",
+        "qty": 19,
+        "avg_price": 765.68
+      }
+    ]
+  },
+  "research": {
+    "SPY": {
+      "sma20": 768.06,
+      "sma50": 753.34,
+      "last_close": 771.18,
+      "pct_change": 0.68,
+      "trend": "bullish \u2014 above both MAs",
+      "news": "Trump\u2019s $5K Free Money Could Be A Market Bonanza; China, Russia, Iran Leaders Meet In India; PPI Pushes Fed Rate-Hike Odds To 70%; Paul Krugman Warns Why the AI Boom\u2014Not the Trump Administration\u2014Is Driving Surging Bond Rates; Forget Gold at $4,400? Economist Says A Bond Trade Could Be a Better Inflation Hedge",
+      "notes": "",
+      "position": {
+        "asset_id": "b28f4066-5c6d-479b-a2af-85dc1a8f16fb",
+        "symbol": "SPY",
+        "exchange": "ARCA",
+        "asset_class": "us_equity",
+        "asset_marginable": true,
+        "qty": "19",
+        "qty_available": "19",
+        "avg_entry_price": "765.68",
+        "side": "long",
+        "market_value": "14412.64",
+        "cost_basis": "14547.92",
+        "unrealized_pl": "-135.28",
+        "unrealized_plpc": "-0.0093",
+        "unrealized_intraday_pl": "-72.96",
+        "unrealized_intraday_plpc": "-0.00504",
+        "current_price": "758.56",
+        "lastday_price": "762.4",
+        "change_today": "-0.00504"
+      }
+    },
+    "QQQ": {
+      "sma20": 716.49,
+      "sma50": 712.12,
+      "last_close": 721.2,
+      "pct_change": 1.39,
+      "trend": "bullish \u2014 above both MAs",
+      "news": "Trump\u2019s $5K Free Money Could Be A Market Bonanza; China, Russia, Iran Leaders Meet In India; PPI Pushes Fed Rate-Hike Odds To 70%; Paul Krugman Warns Why the AI Boom\u2014Not the Trump Administration\u2014Is Driving Surging Bond Rates; Meta\u2019s AI Agents Are Coming for Your Shopping Cart. These ETFs Could Cash In",
+      "notes": "",
+      "position": null
+    },
+    "NVDA": {
+      "sma20": 217.21,
+      "sma50": 208.15,
+      "last_close": 228.17,
+      "pct_change": 8.77,
+      "trend": "bullish \u2014 above both MAs",
+      "news": "Trump\u2019s $5K Free Money Could Be A Market Bonanza; China, Russia, Iran Leaders Meet In India; PPI Pushes Fed Rate-Hike Odds To 70%; Recent Filing Shows That Sen. Cory A Booker Sold Over $183K Worth of Amazon.com Stock; Forget the Magnificent Seven Stocks, Gary Black Says This Tech Giant Is Cheaper",
+      "notes": "",
+      "position": null
+    },
+    "AAPL": {
+      "sma20": 309.31,
+      "sma50": 311.46,
+      "last_close": 314.54,
+      "pct_change": 0.34,
+      "trend": "bullish \u2014 above both MAs",
+      "news": "Trump\u2019s $5K Free Money Could Be A Market Bonanza; China, Russia, Iran Leaders Meet In India; PPI Pushes Fed Rate-Hike Odds To 70%; Meta\u2019s AI Agents Are Coming for Your Shopping Cart. These ETFs Could Cash In; Dan Ives Says Apple\u2019s $1,999 Foldable Could Drive 20% of iPhone Revenue: 300 Million iPhones Have Gone 4 Years Without an Upgrade",
+      "notes": "",
+      "position": {
+        "asset_id": "b0b6dd9d-8b9b-48a9-ba46-b9d54906e415",
+        "symbol": "AAPL",
+        "exchange": "NASDAQ",
+        "asset_class": "us_equity",
+        "asset_marginable": true,
+        "qty": "25",
+        "qty_available": "25",
+        "avg_entry_price": "313.262",
+        "side": "long",
+        "market_value": "7990.875",
+        "cost_basis": "7831.55",
+        "unrealized_pl": "159.325",
+        "unrealized_plpc": "0.02034",
+        "unrealized_intraday_pl": "107.375",
+        "unrealized_intraday_plpc": "0.01362",
+        "current_price": "319.635",
+        "lastday_price": "315.34",
+        "change_today": "0.01362"
+      }
+    },
+    "MSFT": {
+      "sma20": 490.93,
+      "sma50": 427.93,
+      "last_close": 504.98,
+      "pct_change": 1.74,
+      "trend": "bullish \u2014 above both MAs",
+      "news": "Trump\u2019s $5K Free Money Could Be A Market Bonanza; China, Russia, Iran Leaders Meet In India; PPI Pushes Fed Rate-Hike Odds To 70%; Meta\u2019s AI Agents Are Coming for Your Shopping Cart. These ETFs Could Cash In; Oracle Stock Is Down 17% This Year, But Options Traders Bet on a Blowout",
+      "notes": "",
+      "position": {
+        "asset_id": "b6d1aa75-5c9c-4353-a305-9e2caa1925ab",
+        "symbol": "MSFT",
+        "exchange": "NASDAQ",
+        "asset_class": "us_equity",
+        "asset_marginable": true,
+        "qty": "16",
+        "qty_available": "16",
+        "avg_entry_price": "492.439375",
+        "side": "long",
+        "market_value": "7863.584",
+        "cost_basis": "7879.03",
+        "unrealized_pl": "-15.446",
+        "unrealized_plpc": "-0.00196",
+        "unrealized_intraday_pl": "-2.816",
+        "unrealized_intraday_plpc": "-0.00036",
+        "current_price": "491.474",
+        "lastday_price": "491.65",
+        "change_today": "-0.00036"
+      }
+    }
+  }
+}
