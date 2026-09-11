@@ -38,7 +38,7 @@
       "pct_change": -0.25,
       "trend": "bullish \u2014 above both MAs",
       "news": "Iran War, Inflation Fears Trigger $40 Billion Large-Cap Exodus \u2014 But VOO, QQQ Buck the Trend; Stock Market Today: Dow Jones, S&P 500, Nasdaq 100 Futures Gains as August CPI Meets Expectations at 0.4% MoM and 3.4% YoY \u2014 ORCL, ADBE, RH in Focus (UPDATED); As the Rotation Dies, Wall Street Is Blaming the Wrong Flaw in Small Caps",
-      "notes": "",
+      "notes": "Hold \u2014 position open, no exit signal",
       "position": {
         "asset_id": "b28f4066-5c6d-479b-a2af-85dc1a8f16fb",
         "symbol": "SPY",
@@ -125,7 +125,7 @@
       "pct_change": 1.6,
       "trend": "bullish \u2014 above both MAs",
       "news": "Apple CEO John Ternus Enters Role More Like Steve Jobs Than Tim Cook: Here's How; Apple\u2019s Customers Can Take a Price Hike, Analyst Says Retention Hardly Moves; Kalshi Eyes 24/7 Leveraged Bets on TSLA, NVDA and AAPL With New Perpetual Futures Push: Report",
-      "notes": "",
+      "notes": "Hold \u2014 position open, no exit signal",
       "position": {
         "asset_id": "b0b6dd9d-8b9b-48a9-ba46-b9d54906e415",
         "symbol": "AAPL",
@@ -154,7 +154,7 @@
       "pct_change": 1.72,
       "trend": "bullish \u2014 above both MAs",
       "news": "Microsoft\u2019s AI Crunch Forced It to Turn Away Business, Now It Wants to Triple Computing Power; Market Analysis: Microsoft And Competitors In Software Industry; Gavin Newsom Takes the Fight to Big Tech With New Curbs on Social Media, AI Use to Protect Kids: \u2018Unregulated Technology Puts Our Children at Risk\u2019",
-      "notes": "",
+      "notes": "Hold \u2014 position open, no exit signal",
       "position": {
         "asset_id": "b6d1aa75-5c9c-4353-a305-9e2caa1925ab",
         "symbol": "MSFT",
@@ -176,5 +176,27 @@
         "change_today": "0.00711"
       }
     }
-  }
+  },
+  "trades": [
+    {
+      "time": "16:03",
+      "symbol": "QQQ",
+      "action": "SELL",
+      "qty": 13,
+      "price": 715.01,
+      "reasoning": "Price $716.44 crossed below SMA20 $717.92"
+    },
+    {
+      "time": "16:03",
+      "symbol": "NVDA",
+      "action": "SELL",
+      "qty": 35,
+      "price": 217.1,
+      "reasoning": "Price $217.54 crossed below SMA20 $218.05"
+    }
+  ],
+  "closed": [
+    "QQQ",
+    "NVDA"
+  ]
 }
