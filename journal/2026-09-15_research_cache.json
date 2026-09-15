@@ -23,7 +23,7 @@
       "pct_change": -0.68,
       "trend": "mixed \u2014 between MAs",
       "news": "How Many Rate Hikes Will The Fed Deliver In This Cycle? Economists Answer; Fed Hike Odds Hit 93%: 3 Things That Could Really Surprise Markets Wednesday; Stock Market Today: S&P 500, Dow and Nasdaq Futures Fall as Brent Hovers Near $107 and FOMC Commences Two-Day Meeting\u2014 MSTR, CRWD, BMM in Focus (UPDATED)",
-      "notes": "",
+      "notes": "Hold \u2014 below SMA20, no entry",
       "position": null
     },
     "QQQ": {
@@ -33,7 +33,7 @@
       "pct_change": -1.26,
       "trend": "bearish \u2014 below both MAs",
       "news": "Fed Hike Odds Hit 93%: 3 Things That Could Really Surprise Markets Wednesday; Stock Market Today: S&P 500, Dow and Nasdaq Futures Fall as Brent Hovers Near $107 and FOMC Commences Two-Day Meeting\u2014 MSTR, CRWD, BMM in Focus (UPDATED); Trump Team Rejects Fuel Export Bans, Vows 'All-Time High' Oil Production as Brent Crosses $108",
-      "notes": "",
+      "notes": "Hold \u2014 below SMA20, no entry",
       "position": null
     },
     "NVDA": {
@@ -43,7 +43,7 @@
       "pct_change": -1.53,
       "trend": "mixed \u2014 between MAs",
       "news": "Salesforce Launches Koa AI Model Built On NVIDIA Nemotron; Why Is IREN Stock Falling on Tuesday?; QUICK SPARK: UBS Tags Palantir 'Best AI Enabler'",
-      "notes": "",
+      "notes": "Hold \u2014 below SMA20, no entry",
       "position": null
     },
     "AAPL": {
@@ -53,7 +53,7 @@
       "pct_change": 2.56,
       "trend": "bullish \u2014 above both MAs",
       "news": "What's Going On With Apple Stock Tuesday?; Performance Comparison: Apple And Competitors In Technology Hardware, Storage &amp; Peripherals Industry; Apple's iOS 27 Is Here: 8 New Features You Should Know About in This Major Software Update",
-      "notes": "",
+      "notes": "Hold \u2014 position open, no exit signal",
       "position": {
         "asset_id": "b0b6dd9d-8b9b-48a9-ba46-b9d54906e415",
         "symbol": "AAPL",
@@ -82,7 +82,7 @@
       "pct_change": -1.14,
       "trend": "bullish \u2014 above both MAs",
       "news": "What Is Going on With AMD Stock on Tuesday?; Recent Report Shows That Rep. Josh Gottheimer Bought Up to $1.54M Worth of Microsoft Stock; Top 3 Stocks Dan Ives Says Will Lead the Next Tech Boom",
-      "notes": "",
+      "notes": "Hold \u2014 position open, no exit signal",
       "position": {
         "asset_id": "b6d1aa75-5c9c-4353-a305-9e2caa1925ab",
         "symbol": "MSFT",
@@ -104,5 +104,7 @@
         "change_today": "-0.00991"
       }
     }
-  }
+  },
+  "trades": [],
+  "closed": []
 }
