@@ -1,0 +1,108 @@
+{
+  "portfolio": {
+    "cash": 84702.1,
+    "total_value": 100915.61,
+    "positions": [
+      {
+        "symbol": "AAPL",
+        "qty": 25,
+        "avg_price": 313.262
+      },
+      {
+        "symbol": "MSFT",
+        "qty": 16,
+        "avg_price": 492.439375
+      }
+    ]
+  },
+  "research": {
+    "SPY": {
+      "sma20": 768.93,
+      "sma50": 755.29,
+      "last_close": 765.13,
+      "pct_change": 0.46,
+      "trend": "mixed \u2014 between MAs",
+      "news": "Fed Rate Hike Expected Today: Here's Where Benzinga Readers Think SPY Closes; 'Stickier Inflation' Is Here, Market Strategist Warns After August CPI \u2014 'One-Time Event' Narrative Takes a Hit; Fed Meeting Interest Rate Decision Preview: How Will Stocks React?",
+      "notes": "",
+      "position": null
+    },
+    "QQQ": {
+      "sma20": 717.56,
+      "sma50": 710.84,
+      "last_close": 709.32,
+      "pct_change": 0.24,
+      "trend": "bearish \u2014 below both MAs",
+      "news": "'Stickier Inflation' Is Here, Market Strategist Warns After August CPI \u2014 'One-Time Event' Narrative Takes a Hit; Stock Market Today: S&P 500, Dow, Nasdaq 100 Futures Gain Ahead of FOMC's Anticipated Rate Hike Decision\u2014 INTC, SKHY, LEN, TCOM in Focus (UPDATED); BlackRock\u2019s Rick Rieder Turns Cautious on US Stocks, Warns $40 Trillion Debt Is Becoming a \u2018Compounding\u2026Problem\u2019",
+      "notes": "",
+      "position": null
+    },
+    "NVDA": {
+      "sma20": 219.3,
+      "sma50": 209.28,
+      "last_close": 224.44,
+      "pct_change": 3.19,
+      "trend": "bullish \u2014 above both MAs",
+      "news": "Nvidia Is Fighting the AI Slowdown Narrative\u2014With Power as Its Next Problem; Super Micro Rebounds 3% After This Week's AI Infrastructure Selloff; Intel Analyst Raises Price Target On Terafab, AI-Driven Turnaround",
+      "notes": "",
+      "position": null
+    },
+    "AAPL": {
+      "sma20": 312.04,
+      "sma50": 313.5,
+      "last_close": 325.03,
+      "pct_change": -0.07,
+      "trend": "bullish \u2014 above both MAs",
+      "news": "Warren Buffett, Donald Trump Bet on Same 17 Stocks \u2014 Some Might Surprise You; Samsung Retakes Smartphone Throne, Apple Scores Record Share; Elon Musk\u2019s X And SpaceXAI Dropped Apple From Their Antitrust Fight Without Explaining Why \u2014 Now a Federal Judge Wants to See the Deal",
+      "notes": "",
+      "position": {
+        "asset_id": "b0b6dd9d-8b9b-48a9-ba46-b9d54906e415",
+        "symbol": "AAPL",
+        "exchange": "NASDAQ",
+        "asset_class": "us_equity",
+        "asset_marginable": true,
+        "qty": "25",
+        "qty_available": "25",
+        "avg_entry_price": "313.262",
+        "side": "long",
+        "market_value": "8311.7525",
+        "cost_basis": "7831.55",
+        "unrealized_pl": "480.2025",
+        "unrealized_plpc": "0.06132",
+        "unrealized_intraday_pl": "28.2525",
+        "unrealized_intraday_plpc": "0.00341",
+        "current_price": "332.4701",
+        "lastday_price": "331.34",
+        "change_today": "0.00341"
+      }
+    },
+    "MSFT": {
+      "sma20": 495.23,
+      "sma50": 438.32,
+      "last_close": 496.74,
+      "pct_change": -0.89,
+      "trend": "bullish \u2014 above both MAs",
+      "news": "AI Chips Are the Most Crowded Trade: Watch Their Customers\u2019 Debt; Satya Nadella Warns AI Could 'Fake My Books' \u2014 Says Companies Need More Control, Testing and Transparency as Agents Take on More Tasks; Investigating Microsoft's Standing In Software Industry Compared To Competitors",
+      "notes": "",
+      "position": {
+        "asset_id": "b6d1aa75-5c9c-4353-a305-9e2caa1925ab",
+        "symbol": "MSFT",
+        "exchange": "NASDAQ",
+        "asset_class": "us_equity",
+        "asset_marginable": true,
+        "qty": "16",
+        "qty_available": "16",
+        "avg_entry_price": "492.439375",
+        "side": "long",
+        "market_value": "7901.76",
+        "cost_basis": "7879.03",
+        "unrealized_pl": "22.73",
+        "unrealized_plpc": "0.00288",
+        "unrealized_intraday_pl": "-52.16",
+        "unrealized_intraday_plpc": "-0.00656",
+        "current_price": "493.86",
+        "lastday_price": "497.12",
+        "change_today": "-0.00656"
+      }
+    }
+  }
+}
