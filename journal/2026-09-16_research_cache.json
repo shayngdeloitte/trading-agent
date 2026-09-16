@@ -23,7 +23,7 @@
       "pct_change": 0.46,
       "trend": "mixed \u2014 between MAs",
       "news": "Fed Rate Hike Expected Today: Here's Where Benzinga Readers Think SPY Closes; 'Stickier Inflation' Is Here, Market Strategist Warns After August CPI \u2014 'One-Time Event' Narrative Takes a Hit; Fed Meeting Interest Rate Decision Preview: How Will Stocks React?",
-      "notes": "",
+      "notes": "Hold \u2014 below SMA20, no entry",
       "position": null
     },
     "QQQ": {
@@ -33,7 +33,7 @@
       "pct_change": 0.24,
       "trend": "bearish \u2014 below both MAs",
       "news": "'Stickier Inflation' Is Here, Market Strategist Warns After August CPI \u2014 'One-Time Event' Narrative Takes a Hit; Stock Market Today: S&P 500, Dow, Nasdaq 100 Futures Gain Ahead of FOMC's Anticipated Rate Hike Decision\u2014 INTC, SKHY, LEN, TCOM in Focus (UPDATED); BlackRock\u2019s Rick Rieder Turns Cautious on US Stocks, Warns $40 Trillion Debt Is Becoming a \u2018Compounding\u2026Problem\u2019",
-      "notes": "",
+      "notes": "Hold \u2014 below SMA20, no entry",
       "position": null
     },
     "NVDA": {
@@ -53,7 +53,7 @@
       "pct_change": -0.07,
       "trend": "bullish \u2014 above both MAs",
       "news": "Warren Buffett, Donald Trump Bet on Same 17 Stocks \u2014 Some Might Surprise You; Samsung Retakes Smartphone Throne, Apple Scores Record Share; Elon Musk\u2019s X And SpaceXAI Dropped Apple From Their Antitrust Fight Without Explaining Why \u2014 Now a Federal Judge Wants to See the Deal",
-      "notes": "",
+      "notes": "Hold \u2014 position open, no exit signal",
       "position": {
         "asset_id": "b0b6dd9d-8b9b-48a9-ba46-b9d54906e415",
         "symbol": "AAPL",
@@ -82,7 +82,7 @@
       "pct_change": -0.89,
       "trend": "bullish \u2014 above both MAs",
       "news": "AI Chips Are the Most Crowded Trade: Watch Their Customers\u2019 Debt; Satya Nadella Warns AI Could 'Fake My Books' \u2014 Says Companies Need More Control, Testing and Transparency as Agents Take on More Tasks; Investigating Microsoft's Standing In Software Industry Compared To Competitors",
-      "notes": "",
+      "notes": "Hold \u2014 position open, no exit signal",
       "position": {
         "asset_id": "b6d1aa75-5c9c-4353-a305-9e2caa1925ab",
         "symbol": "MSFT",
@@ -104,5 +104,16 @@
         "change_today": "-0.00656"
       }
     }
-  }
+  },
+  "trades": [
+    {
+      "time": "16:21",
+      "symbol": "NVDA",
+      "action": "BUY",
+      "qty": 35,
+      "price": 224.89,
+      "reasoning": "Above SMA20 ($219.3) and SMA50 ($209.28), pct_change=3.19%"
+    }
+  ],
+  "closed": []
 }
