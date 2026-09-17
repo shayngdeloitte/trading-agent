@@ -1,0 +1,132 @@
+{
+  "portfolio": {
+    "cash": 77150.15,
+    "total_value": 101150.71,
+    "positions": [
+      {
+        "symbol": "AAPL",
+        "qty": 25,
+        "avg_price": 313.262
+      },
+      {
+        "symbol": "MSFT",
+        "qty": 16,
+        "avg_price": 492.439375
+      },
+      {
+        "symbol": "NVDA",
+        "qty": 35,
+        "avg_price": 215.77
+      }
+    ]
+  },
+  "research": {
+    "SPY": {
+      "sma20": 769.16,
+      "sma50": 756.09,
+      "last_close": 773.12,
+      "pct_change": 1.04,
+      "trend": "bullish \u2014 above both MAs",
+      "news": "Bond King Jeffrey Gundlach Wants Out of the AI 'Epicenter': Inside His Zero-Exposure Portfolio; Stock Market Today: S&P 500, Dow, Nasdaq 100 Futures Gain Despite 25 Bps Fed Rate Hike\u2014 SNAP, LEN, GNRC in Focus (UPDATED); Wall Street\u2019s Biggest Bull Cuts His S&P 500 Target: The Problem Isn\u2019t Corporate Profits",
+      "notes": "",
+      "position": null
+    },
+    "QQQ": {
+      "sma20": 717.71,
+      "sma50": 710.98,
+      "last_close": 717.67,
+      "pct_change": 1.18,
+      "trend": "mixed \u2014 between MAs",
+      "news": "Bond King Jeffrey Gundlach Wants Out of the AI 'Epicenter': Inside His Zero-Exposure Portfolio; Stock Market Today: S&P 500, Dow, Nasdaq 100 Futures Gain Despite 25 Bps Fed Rate Hike\u2014 SNAP, LEN, GNRC in Focus (UPDATED); S&P 500 Could Deliver Another 6% by Year-End as JPMorgan Calls Bears an \u2018Extinct Species\u2019 \u2014 Polymarket Bettors Price 35% Odds",
+      "notes": "",
+      "position": null
+    },
+    "NVDA": {
+      "sma20": 219.79,
+      "sma50": 209.87,
+      "last_close": 228.54,
+      "pct_change": 1.83,
+      "trend": "bullish \u2014 above both MAs",
+      "news": "Snap Just Turned Its $2,195 Glasses Into an Nvidia AI Story; Micron Jumps 5% as Intel CEO Says Memory Prices Have Surged Over 500%; Nvidia Is an \u2018Awesome Company,\u2019 but Its Stock Is Priced as \u2018Greatest Company Ever,\u2019 Damodaran Says",
+      "notes": "",
+      "position": {
+        "asset_id": "4ce9353c-66d1-46c2-898f-fce867ab0247",
+        "symbol": "NVDA",
+        "exchange": "NASDAQ",
+        "asset_class": "us_equity",
+        "asset_marginable": true,
+        "qty": "35",
+        "qty_available": "35",
+        "avg_entry_price": "215.77",
+        "side": "long",
+        "market_value": "7660.8",
+        "cost_basis": "7551.95",
+        "unrealized_pl": "108.85",
+        "unrealized_plpc": "0.01441",
+        "unrealized_intraday_pl": "174.3",
+        "unrealized_intraday_plpc": "0.02328",
+        "current_price": "218.88",
+        "lastday_price": "213.9",
+        "change_today": "0.02328"
+      }
+    },
+    "AAPL": {
+      "sma20": 312.83,
+      "sma50": 314.2,
+      "last_close": 328.22,
+      "pct_change": 0.98,
+      "trend": "bullish \u2014 above both MAs",
+      "news": "Nvidia Is an \u2018Awesome Company,\u2019 but Its Stock Is Priced as \u2018Greatest Company Ever,\u2019 Damodaran Says; Intel Stock Could Nearly Double to $200 in 2 Years, Analyst Says \u2014 Potential Apple, Tesla, and AI Chip Deals Could Fuel the Rally; Performance Comparison: Apple And Competitors In Technology Hardware, Storage &amp; Peripherals Industry",
+      "notes": "",
+      "position": {
+        "asset_id": "b0b6dd9d-8b9b-48a9-ba46-b9d54906e415",
+        "symbol": "AAPL",
+        "exchange": "NASDAQ",
+        "asset_class": "us_equity",
+        "asset_marginable": true,
+        "qty": "25",
+        "qty_available": "25",
+        "avg_entry_price": "313.262",
+        "side": "long",
+        "market_value": "8406",
+        "cost_basis": "7831.55",
+        "unrealized_pl": "574.45",
+        "unrealized_plpc": "0.07335",
+        "unrealized_intraday_pl": "95.75",
+        "unrealized_intraday_plpc": "0.01152",
+        "current_price": "336.24",
+        "lastday_price": "332.41",
+        "change_today": "0.01152"
+      }
+    },
+    "MSFT": {
+      "sma20": 495.74,
+      "sma50": 441.21,
+      "last_close": 510.15,
+      "pct_change": 2.7,
+      "trend": "bullish \u2014 above both MAs",
+      "news": "EXCLUSIVE: Google Is Racing to Secure Nuclear Power for AI\u2014The Fuel Problem Comes Next; AI Could Threaten Nuclear Command Systems, Warn US-China Experts\u2014 Urge Human Control and Emergency Hotline; SpaceX Is Worth $2 Trillion. Why Does Its Stock Swing Like a Small-Cap?",
+      "notes": "",
+      "position": {
+        "asset_id": "b6d1aa75-5c9c-4353-a305-9e2caa1925ab",
+        "symbol": "MSFT",
+        "exchange": "NASDAQ",
+        "asset_class": "us_equity",
+        "asset_marginable": true,
+        "qty": "16",
+        "qty_available": "16",
+        "avg_entry_price": "492.439375",
+        "side": "long",
+        "market_value": "7933.44",
+        "cost_basis": "7879.03",
+        "unrealized_pl": "54.41",
+        "unrealized_plpc": "0.00691",
+        "unrealized_intraday_pl": "88.64",
+        "unrealized_intraday_plpc": "0.0113",
+        "current_price": "495.84",
+        "lastday_price": "490.3",
+        "change_today": "0.0113"
+      }
+    }
+  }
+}
