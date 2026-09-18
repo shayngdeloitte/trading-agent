@@ -33,7 +33,7 @@
       "pct_change": -0.38,
       "trend": "bullish \u2014 above both MAs",
       "news": "This Crude Refiner Has Beaten Every Magnificent Seven Stock in the Last 2 Years; Stock Market Today: S&P 500, Dow Futures Pare Gains, Nasdaq 100 Up as Trump Weighs 'Big Decision' on Iran Military Strikes\u2014 OKLO, MCD, BB, NUE in Focus (UPDATED); Charlie Bilello Warns of $100 Billion Iran War Fuel Shock as $4.43 Gas Prices Show the \u2018Inflation Problem\u2019 Isn\u2019t Over",
-      "notes": "",
+      "notes": "Hold \u2014 position open, no exit signal",
       "position": {
         "asset_id": "b28f4066-5c6d-479b-a2af-85dc1a8f16fb",
         "symbol": "SPY",
@@ -72,7 +72,7 @@
       "pct_change": 0.72,
       "trend": "bullish \u2014 above both MAs",
       "news": "What's Going On With Sandisk Stock Friday?; This Crude Refiner Has Beaten Every Magnificent Seven Stock in the Last 2 Years; Micron, SanDisk Face New China Rival: Trouble for MU and SNDK Ahead?",
-      "notes": "",
+      "notes": "Hold \u2014 position open, no exit signal",
       "position": {
         "asset_id": "4ce9353c-66d1-46c2-898f-fce867ab0247",
         "symbol": "NVDA",
@@ -101,7 +101,7 @@
       "pct_change": -2.52,
       "trend": "bullish \u2014 above both MAs",
       "news": "This Crude Refiner Has Beaten Every Magnificent Seven Stock in the Last 2 Years; Apple Raises the Premium Bet: iPhone 18 Pro Hits Stores, First Foldable Arrives Next; Apple To Rally Around 13%? Here Are 10 Top Analyst Forecasts For Friday",
-      "notes": "",
+      "notes": "Hold \u2014 position open, no exit signal",
       "position": {
         "asset_id": "b0b6dd9d-8b9b-48a9-ba46-b9d54906e415",
         "symbol": "AAPL",
@@ -130,7 +130,7 @@
       "pct_change": -2.08,
       "trend": "bullish \u2014 above both MAs",
       "news": "This Crude Refiner Has Beaten Every Magnificent Seven Stock in the Last 2 Years; Ohio Rep. David Taylor Bought Up to $30K Worth of Installed Building Prods Stock; Industry Comparison: Evaluating Microsoft Against Competitors In Software Industry",
-      "notes": "",
+      "notes": "Hold \u2014 position open, no exit signal",
       "position": {
         "asset_id": "b6d1aa75-5c9c-4353-a305-9e2caa1925ab",
         "symbol": "MSFT",
@@ -152,5 +152,16 @@
         "change_today": "-0.00816"
       }
     }
-  }
+  },
+  "trades": [
+    {
+      "time": "16:00",
+      "symbol": "QQQ",
+      "action": "BUY",
+      "qty": 14,
+      "price": 720.54,
+      "reasoning": "Above SMA20 ($717.52) and SMA50 ($711.04), pct_change=0.20%"
+    }
+  ],
+  "closed": []
 }
