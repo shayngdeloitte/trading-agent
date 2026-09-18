@@ -1,0 +1,156 @@
+{
+  "portfolio": {
+    "cash": 62661.47,
+    "total_value": 101035.11,
+    "positions": [
+      {
+        "symbol": "AAPL",
+        "qty": 25,
+        "avg_price": 313.262
+      },
+      {
+        "symbol": "MSFT",
+        "qty": 16,
+        "avg_price": 492.439375
+      },
+      {
+        "symbol": "NVDA",
+        "qty": 35,
+        "avg_price": 215.77
+      },
+      {
+        "symbol": "SPY",
+        "qty": 19,
+        "avg_price": 762.562105
+      }
+    ]
+  },
+  "research": {
+    "SPY": {
+      "sma20": 769.01,
+      "sma50": 756.82,
+      "last_close": 770.18,
+      "pct_change": -0.38,
+      "trend": "bullish \u2014 above both MAs",
+      "news": "This Crude Refiner Has Beaten Every Magnificent Seven Stock in the Last 2 Years; Stock Market Today: S&P 500, Dow Futures Pare Gains, Nasdaq 100 Up as Trump Weighs 'Big Decision' on Iran Military Strikes\u2014 OKLO, MCD, BB, NUE in Focus (UPDATED); Charlie Bilello Warns of $100 Billion Iran War Fuel Shock as $4.43 Gas Prices Show the \u2018Inflation Problem\u2019 Isn\u2019t Over",
+      "notes": "",
+      "position": {
+        "asset_id": "b28f4066-5c6d-479b-a2af-85dc1a8f16fb",
+        "symbol": "SPY",
+        "exchange": "ARCA",
+        "asset_class": "us_equity",
+        "asset_marginable": true,
+        "qty": "19",
+        "qty_available": "19",
+        "avg_entry_price": "762.562105",
+        "side": "long",
+        "market_value": "14420.05",
+        "cost_basis": "14488.679995",
+        "unrealized_pl": "-68.629995",
+        "unrealized_plpc": "-0.00474",
+        "unrealized_intraday_pl": "-69.35",
+        "unrealized_intraday_plpc": "-0.00479",
+        "current_price": "758.95",
+        "lastday_price": "762.6",
+        "change_today": "-0.00479"
+      }
+    },
+    "QQQ": {
+      "sma20": 717.52,
+      "sma50": 711.04,
+      "last_close": 719.1,
+      "pct_change": 0.2,
+      "trend": "bullish \u2014 above both MAs",
+      "news": "Stock Market Today: S&P 500, Dow Futures Pare Gains, Nasdaq 100 Up as Trump Weighs 'Big Decision' on Iran Military Strikes\u2014 OKLO, MCD, BB, NUE in Focus (UPDATED); Charlie Bilello Warns of $100 Billion Iran War Fuel Shock as $4.43 Gas Prices Show the \u2018Inflation Problem\u2019 Isn\u2019t Over; Stock Market: Will S&P 500 Open Up or Down Today?",
+      "notes": "",
+      "position": null
+    },
+    "NVDA": {
+      "sma20": 220.1,
+      "sma50": 210.56,
+      "last_close": 230.19,
+      "pct_change": 0.72,
+      "trend": "bullish \u2014 above both MAs",
+      "news": "What's Going On With Sandisk Stock Friday?; This Crude Refiner Has Beaten Every Magnificent Seven Stock in the Last 2 Years; Micron, SanDisk Face New China Rival: Trouble for MU and SNDK Ahead?",
+      "notes": "",
+      "position": {
+        "asset_id": "4ce9353c-66d1-46c2-898f-fce867ab0247",
+        "symbol": "NVDA",
+        "exchange": "NASDAQ",
+        "asset_class": "us_equity",
+        "asset_marginable": true,
+        "qty": "35",
+        "qty_available": "35",
+        "avg_entry_price": "215.77",
+        "side": "long",
+        "market_value": "7684.425",
+        "cost_basis": "7551.95",
+        "unrealized_pl": "132.475",
+        "unrealized_plpc": "0.01754",
+        "unrealized_intraday_pl": "7.525",
+        "unrealized_intraday_plpc": "0.00098",
+        "current_price": "219.555",
+        "lastday_price": "219.34",
+        "change_today": "0.00098"
+      }
+    },
+    "AAPL": {
+      "sma20": 313.16,
+      "sma50": 315.09,
+      "last_close": 319.95,
+      "pct_change": -2.52,
+      "trend": "bullish \u2014 above both MAs",
+      "news": "This Crude Refiner Has Beaten Every Magnificent Seven Stock in the Last 2 Years; Apple Raises the Premium Bet: iPhone 18 Pro Hits Stores, First Foldable Arrives Next; Apple To Rally Around 13%? Here Are 10 Top Analyst Forecasts For Friday",
+      "notes": "",
+      "position": {
+        "asset_id": "b0b6dd9d-8b9b-48a9-ba46-b9d54906e415",
+        "symbol": "AAPL",
+        "exchange": "NASDAQ",
+        "asset_class": "us_equity",
+        "asset_marginable": true,
+        "qty": "25",
+        "qty_available": "25",
+        "avg_entry_price": "313.262",
+        "side": "long",
+        "market_value": "8370.125",
+        "cost_basis": "7831.55",
+        "unrealized_pl": "538.575",
+        "unrealized_plpc": "0.06877",
+        "unrealized_intraday_pl": "-54.875",
+        "unrealized_intraday_plpc": "-0.00651",
+        "current_price": "334.805",
+        "lastday_price": "337",
+        "change_today": "-0.00651"
+      }
+    },
+    "MSFT": {
+      "sma20": 495.72,
+      "sma50": 444.15,
+      "last_close": 499.55,
+      "pct_change": -2.08,
+      "trend": "bullish \u2014 above both MAs",
+      "news": "This Crude Refiner Has Beaten Every Magnificent Seven Stock in the Last 2 Years; Ohio Rep. David Taylor Bought Up to $30K Worth of Installed Building Prods Stock; Industry Comparison: Evaluating Microsoft Against Competitors In Software Industry",
+      "notes": "",
+      "position": {
+        "asset_id": "b6d1aa75-5c9c-4353-a305-9e2caa1925ab",
+        "symbol": "MSFT",
+        "exchange": "NASDAQ",
+        "asset_class": "us_equity",
+        "asset_marginable": true,
+        "qty": "16",
+        "qty_available": "16",
+        "avg_entry_price": "492.439375",
+        "side": "long",
+        "market_value": "7899.04",
+        "cost_basis": "7879.03",
+        "unrealized_pl": "20.01",
+        "unrealized_plpc": "0.00254",
+        "unrealized_intraday_pl": "-64.96",
+        "unrealized_intraday_plpc": "-0.00816",
+        "current_price": "493.69",
+        "lastday_price": "497.75",
+        "change_today": "-0.00816"
+      }
+    }
+  }
+}
