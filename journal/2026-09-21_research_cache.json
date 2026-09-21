@@ -96,7 +96,7 @@
       "pct_change": -0.91,
       "trend": "bullish \u2014 above both MAs",
       "news": "10 Information Technology Stocks Whale Activity In Today\u2019s Session; Einride Taps NVIDIA to Put More Self-Driving Trucks on the Highway; An Nvidia Earnings Miss Is Almost Unthinkable\u2014VanEck Says There\u2019s a Real Risk",
-      "notes": "",
+      "notes": "Hold \u2014 position open, no exit signal",
       "position": {
         "asset_id": "4ce9353c-66d1-46c2-898f-fce867ab0247",
         "symbol": "NVDA",
@@ -125,7 +125,7 @@
       "pct_change": -0.27,
       "trend": "mixed \u2014 between MAs",
       "news": "Apple iPhone 18 Estimates Are 'Too Conservative', Gene Munster Says Duo to Account for 8% of Units; Stock Market Today: S&P 500, Nasdaq 100, Dow Jones Futures Gain as Trump Issues Fresh Warning to Iran \u2014 MRVL, AAPL, ACN in Focus (UPDATED); This Analyst Loves Apple\u2019s Duo, but Says the Stock Is \u2018Relatively Rich\u2019",
-      "notes": "",
+      "notes": "Hold \u2014 position open, no exit signal",
       "position": {
         "asset_id": "b0b6dd9d-8b9b-48a9-ba46-b9d54906e415",
         "symbol": "AAPL",
@@ -176,5 +176,36 @@
         "change_today": "0.01015"
       }
     }
-  }
+  },
+  "trades": [
+    {
+      "time": "17:58",
+      "symbol": "SPY",
+      "action": "SELL",
+      "qty": 19,
+      "price": 760.9,
+      "reasoning": "Price $762.42 crossed below SMA20 $768.25"
+    },
+    {
+      "time": "17:58",
+      "symbol": "QQQ",
+      "action": "SELL",
+      "qty": 14,
+      "price": 714.92,
+      "reasoning": "Price $716.35 crossed below SMA20 $717.3"
+    },
+    {
+      "time": "17:58",
+      "symbol": "MSFT",
+      "action": "SELL",
+      "qty": 16,
+      "price": 490.67,
+      "reasoning": "Price $491.65 crossed below SMA20 $494.5"
+    }
+  ],
+  "closed": [
+    "SPY",
+    "QQQ",
+    "MSFT"
+  ]
 }
