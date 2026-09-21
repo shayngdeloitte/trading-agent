@@ -1,0 +1,180 @@
+{
+  "portfolio": {
+    "cash": 52635.51,
+    "total_value": 102064.91,
+    "positions": [
+      {
+        "symbol": "AAPL",
+        "qty": 25,
+        "avg_price": 313.262
+      },
+      {
+        "symbol": "MSFT",
+        "qty": 16,
+        "avg_price": 492.439375
+      },
+      {
+        "symbol": "NVDA",
+        "qty": 35,
+        "avg_price": 215.77
+      },
+      {
+        "symbol": "QQQ",
+        "qty": 14,
+        "avg_price": 716.14
+      },
+      {
+        "symbol": "SPY",
+        "qty": 19,
+        "avg_price": 762.562105
+      }
+    ]
+  },
+  "research": {
+    "SPY": {
+      "sma20": 768.25,
+      "sma50": 757.99,
+      "last_close": 762.42,
+      "pct_change": -0.47,
+      "trend": "mixed \u2014 between MAs",
+      "news": "S&P 500 Will \u2018Easily\u2019 Top 8,000 Before Historic Crash, \u2018Black Swan\u2019 Fund Manager Says; $6.51 Diesel Should Be Crushing the Economy: Here\u2019s Why It Has Rarely Grown Faster; Stock Market Today: S&P 500, Nasdaq 100, Dow Jones Futures Gain as Trump Issues Fresh Warning to Iran \u2014 MRVL, AAPL, ACN in Focus (UPDATED)",
+      "notes": "",
+      "position": {
+        "asset_id": "b28f4066-5c6d-479b-a2af-85dc1a8f16fb",
+        "symbol": "SPY",
+        "exchange": "ARCA",
+        "asset_class": "us_equity",
+        "asset_marginable": true,
+        "qty": "19",
+        "qty_available": "19",
+        "avg_entry_price": "762.562105",
+        "side": "long",
+        "market_value": "14685.48",
+        "cost_basis": "14488.679995",
+        "unrealized_pl": "196.800005",
+        "unrealized_plpc": "0.01358",
+        "unrealized_intraday_pl": "213.37",
+        "unrealized_intraday_plpc": "0.01474",
+        "current_price": "772.92",
+        "lastday_price": "761.69",
+        "change_today": "0.01474"
+      }
+    },
+    "QQQ": {
+      "sma20": 717.3,
+      "sma50": 711.14,
+      "last_close": 716.35,
+      "pct_change": -0.29,
+      "trend": "mixed \u2014 between MAs",
+      "news": "Nasdaq 100 Rallies, Intel Soars 14%: Stock Market Today; $6.51 Diesel Should Be Crushing the Economy: Here\u2019s Why It Has Rarely Grown Faster; SpaceX\u2019s Nasdaq-100 Weight Just More Than Doubled. Here\u2019s Where ETF Money Is Heading",
+      "notes": "",
+      "position": {
+        "asset_id": "2d9e926c-e17c-47c3-ad8c-26c7a594e48f",
+        "symbol": "QQQ",
+        "exchange": "NASDAQ",
+        "asset_class": "us_equity",
+        "asset_marginable": true,
+        "qty": "14",
+        "qty_available": "14",
+        "avg_entry_price": "716.14",
+        "side": "long",
+        "market_value": "10354.82",
+        "cost_basis": "10025.96",
+        "unrealized_pl": "328.86",
+        "unrealized_plpc": "0.0328",
+        "unrealized_intraday_pl": "254.52",
+        "unrealized_intraday_plpc": "0.0252",
+        "current_price": "739.63",
+        "lastday_price": "721.45",
+        "change_today": "0.0252"
+      }
+    },
+    "NVDA": {
+      "sma20": 220.83,
+      "sma50": 211.81,
+      "last_close": 223.77,
+      "pct_change": -0.91,
+      "trend": "bullish \u2014 above both MAs",
+      "news": "10 Information Technology Stocks Whale Activity In Today\u2019s Session; Einride Taps NVIDIA to Put More Self-Driving Trucks on the Highway; An Nvidia Earnings Miss Is Almost Unthinkable\u2014VanEck Says There\u2019s a Real Risk",
+      "notes": "",
+      "position": {
+        "asset_id": "4ce9353c-66d1-46c2-898f-fce867ab0247",
+        "symbol": "NVDA",
+        "exchange": "NASDAQ",
+        "asset_class": "us_equity",
+        "asset_marginable": true,
+        "qty": "35",
+        "qty_available": "35",
+        "avg_entry_price": "215.77",
+        "side": "long",
+        "market_value": "7954.1",
+        "cost_basis": "7551.95",
+        "unrealized_pl": "402.15",
+        "unrealized_plpc": "0.05325",
+        "unrealized_intraday_pl": "174.65",
+        "unrealized_intraday_plpc": "0.02245",
+        "current_price": "227.26",
+        "lastday_price": "222.27",
+        "change_today": "0.02245"
+      }
+    },
+    "AAPL": {
+      "sma20": 314.09,
+      "sma50": 316.46,
+      "last_close": 315.42,
+      "pct_change": -0.27,
+      "trend": "mixed \u2014 between MAs",
+      "news": "Apple iPhone 18 Estimates Are 'Too Conservative', Gene Munster Says Duo to Account for 8% of Units; Stock Market Today: S&P 500, Nasdaq 100, Dow Jones Futures Gain as Trump Issues Fresh Warning to Iran \u2014 MRVL, AAPL, ACN in Focus (UPDATED); This Analyst Loves Apple\u2019s Duo, but Says the Stock Is \u2018Relatively Rich\u2019",
+      "notes": "",
+      "position": {
+        "asset_id": "b0b6dd9d-8b9b-48a9-ba46-b9d54906e415",
+        "symbol": "AAPL",
+        "exchange": "NASDAQ",
+        "asset_class": "us_equity",
+        "asset_marginable": true,
+        "qty": "25",
+        "qty_available": "25",
+        "avg_entry_price": "313.262",
+        "side": "long",
+        "market_value": "8454.5",
+        "cost_basis": "7831.55",
+        "unrealized_pl": "622.95",
+        "unrealized_plpc": "0.07954",
+        "unrealized_intraday_pl": "51.25",
+        "unrealized_intraday_plpc": "0.0061",
+        "current_price": "338.18",
+        "lastday_price": "336.13",
+        "change_today": "0.0061"
+      }
+    },
+    "MSFT": {
+      "sma20": 494.5,
+      "sma50": 449.06,
+      "last_close": 491.65,
+      "pct_change": -0.46,
+      "trend": "mixed \u2014 between MAs",
+      "news": "Microsoft\u2019s Azure Has Another Growth Lever Waiting in the Wings, Analyst Says; This Analyst Raises Price Targets For Microsoft And This AI Infrastructure Stock; $6.51 Diesel Should Be Crushing the Economy: Here\u2019s Why It Has Rarely Grown Faster",
+      "notes": "",
+      "position": {
+        "asset_id": "b6d1aa75-5c9c-4353-a305-9e2caa1925ab",
+        "symbol": "MSFT",
+        "exchange": "NASDAQ",
+        "asset_class": "us_equity",
+        "asset_marginable": true,
+        "qty": "16",
+        "qty_available": "16",
+        "avg_entry_price": "492.439375",
+        "side": "long",
+        "market_value": "7980.64",
+        "cost_basis": "7879.03",
+        "unrealized_pl": "101.61",
+        "unrealized_plpc": "0.0129",
+        "unrealized_intraday_pl": "80.16",
+        "unrealized_intraday_plpc": "0.01015",
+        "current_price": "498.79",
+        "lastday_price": "493.78",
+        "change_today": "0.01015"
+      }
+    }
+  }
+}
