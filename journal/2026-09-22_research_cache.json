@@ -1,0 +1,108 @@
+{
+  "portfolio": {
+    "cash": 85654.49,
+    "total_value": 102221.99,
+    "positions": [
+      {
+        "symbol": "AAPL",
+        "qty": 25,
+        "avg_price": 313.262
+      },
+      {
+        "symbol": "NVDA",
+        "qty": 35,
+        "avg_price": 215.77
+      }
+    ]
+  },
+  "research": {
+    "SPY": {
+      "sma20": 768.25,
+      "sma50": 757.99,
+      "last_close": 762.42,
+      "pct_change": -0.47,
+      "trend": "mixed \u2014 between MAs",
+      "news": "No Warren Buffett, No Problem: Former Hedge Funder Says Berkshire Stock \u2018Likely to Beat the S&P 500 Over the Next Five Years\u2019; Stock Market Today: S&P 500, Dow, Futures Gain Nasdaq 100 Slips as Trump Administration Targets Iranian Airlines\u2014 Lennar, Greenland Mines, Accenture in Focus (UPDATED); S&P 500 Nears Record High But Breadth Flashes Rare 1929, 1999 Signal \u2014 Analyst Says \u2018We\u2019ve Never in Almost 100 Years Seen Breadth This Bad\u2019",
+      "notes": "",
+      "position": null
+    },
+    "QQQ": {
+      "sma20": 717.3,
+      "sma50": 711.14,
+      "last_close": 716.35,
+      "pct_change": -0.29,
+      "trend": "mixed \u2014 between MAs",
+      "news": "Stock Market Today: S&P 500, Dow, Futures Gain Nasdaq 100 Slips as Trump Administration Targets Iranian Airlines\u2014 Lennar, Greenland Mines, Accenture in Focus (UPDATED); S&P 500 Nears Record High But Breadth Flashes Rare 1929, 1999 Signal \u2014 Analyst Says \u2018We\u2019ve Never in Almost 100 Years Seen Breadth This Bad\u2019; Stock Market: Will S&P 500 Open Up or Down Today?",
+      "notes": "",
+      "position": null
+    },
+    "NVDA": {
+      "sma20": 220.83,
+      "sma50": 211.81,
+      "last_close": 223.77,
+      "pct_change": -0.91,
+      "trend": "bullish \u2014 above both MAs",
+      "news": "EXCLUSIVE: Small AI Model Matches GPT-4.1 at Forecasting as Olas Founding Member Says Frontier Models Face \u2018Increasing Economic Pressure\u2019; AMD Stock Beat Nvidia By 160 Points In 2026: A Historic AI Boom First; What Is Going on With Nebius Stock on Tuesday?",
+      "notes": "",
+      "position": {
+        "asset_id": "4ce9353c-66d1-46c2-898f-fce867ab0247",
+        "symbol": "NVDA",
+        "exchange": "NASDAQ",
+        "asset_class": "us_equity",
+        "asset_marginable": true,
+        "qty": "35",
+        "qty_available": "35",
+        "avg_entry_price": "215.77",
+        "side": "long",
+        "market_value": "8004.5",
+        "cost_basis": "7551.95",
+        "unrealized_pl": "452.55",
+        "unrealized_plpc": "0.05992",
+        "unrealized_intraday_pl": "46.2",
+        "unrealized_intraday_plpc": "0.00581",
+        "current_price": "228.7",
+        "lastday_price": "227.38",
+        "change_today": "0.00581"
+      }
+    },
+    "AAPL": {
+      "sma20": 314.09,
+      "sma50": 316.46,
+      "last_close": 315.42,
+      "pct_change": -0.27,
+      "trend": "mixed \u2014 between MAs",
+      "news": "Why Billionaire Tim Draper Calls Apple, Meta 'Irresponsible' for Not Holding Bitcoin; QUICK SPARK: Wall Street Is Moving Nvidia Onto Crypto Rails. 24/7 Trading Is Next; Performance Comparison: Apple And Competitors In Technology Hardware, Storage &amp; Peripherals Industry",
+      "notes": "",
+      "position": {
+        "asset_id": "b0b6dd9d-8b9b-48a9-ba46-b9d54906e415",
+        "symbol": "AAPL",
+        "exchange": "NASDAQ",
+        "asset_class": "us_equity",
+        "asset_marginable": true,
+        "qty": "25",
+        "qty_available": "25",
+        "avg_entry_price": "313.262",
+        "side": "long",
+        "market_value": "8563",
+        "cost_basis": "7831.55",
+        "unrealized_pl": "731.45",
+        "unrealized_plpc": "0.0934",
+        "unrealized_intraday_pl": "88.5",
+        "unrealized_intraday_plpc": "0.01044",
+        "current_price": "342.52",
+        "lastday_price": "338.98",
+        "change_today": "0.01044"
+      }
+    },
+    "MSFT": {
+      "sma20": 494.5,
+      "sma50": 449.06,
+      "last_close": 491.65,
+      "pct_change": -0.46,
+      "trend": "mixed \u2014 between MAs",
+      "news": "Analyst Sees More Upside for Microsoft Stock Following Management Meeting; Dan Ives Says Tech Stocks Are in a '1997 Moment' as Tom Lee Predicts: \u2018Probability of a Massive Rally\u2019 Ahead; QUICK SPARK: Wall Street Is Moving Nvidia Onto Crypto Rails. 24/7 Trading Is Next",
+      "notes": "",
+      "position": null
+    }
+  }
+}
