@@ -23,7 +23,7 @@
       "pct_change": -0.47,
       "trend": "mixed \u2014 between MAs",
       "news": "No Warren Buffett, No Problem: Former Hedge Funder Says Berkshire Stock \u2018Likely to Beat the S&P 500 Over the Next Five Years\u2019; Stock Market Today: S&P 500, Dow, Futures Gain Nasdaq 100 Slips as Trump Administration Targets Iranian Airlines\u2014 Lennar, Greenland Mines, Accenture in Focus (UPDATED); S&P 500 Nears Record High But Breadth Flashes Rare 1929, 1999 Signal \u2014 Analyst Says \u2018We\u2019ve Never in Almost 100 Years Seen Breadth This Bad\u2019",
-      "notes": "",
+      "notes": "Hold \u2014 below SMA20, no entry",
       "position": null
     },
     "QQQ": {
@@ -33,7 +33,7 @@
       "pct_change": -0.29,
       "trend": "mixed \u2014 between MAs",
       "news": "Stock Market Today: S&P 500, Dow, Futures Gain Nasdaq 100 Slips as Trump Administration Targets Iranian Airlines\u2014 Lennar, Greenland Mines, Accenture in Focus (UPDATED); S&P 500 Nears Record High But Breadth Flashes Rare 1929, 1999 Signal \u2014 Analyst Says \u2018We\u2019ve Never in Almost 100 Years Seen Breadth This Bad\u2019; Stock Market: Will S&P 500 Open Up or Down Today?",
-      "notes": "",
+      "notes": "Hold \u2014 below SMA20, no entry",
       "position": null
     },
     "NVDA": {
@@ -43,7 +43,7 @@
       "pct_change": -0.91,
       "trend": "bullish \u2014 above both MAs",
       "news": "EXCLUSIVE: Small AI Model Matches GPT-4.1 at Forecasting as Olas Founding Member Says Frontier Models Face \u2018Increasing Economic Pressure\u2019; AMD Stock Beat Nvidia By 160 Points In 2026: A Historic AI Boom First; What Is Going on With Nebius Stock on Tuesday?",
-      "notes": "",
+      "notes": "Hold \u2014 position open, no exit signal",
       "position": {
         "asset_id": "4ce9353c-66d1-46c2-898f-fce867ab0247",
         "symbol": "NVDA",
@@ -72,7 +72,7 @@
       "pct_change": -0.27,
       "trend": "mixed \u2014 between MAs",
       "news": "Why Billionaire Tim Draper Calls Apple, Meta 'Irresponsible' for Not Holding Bitcoin; QUICK SPARK: Wall Street Is Moving Nvidia Onto Crypto Rails. 24/7 Trading Is Next; Performance Comparison: Apple And Competitors In Technology Hardware, Storage &amp; Peripherals Industry",
-      "notes": "",
+      "notes": "Hold \u2014 position open, no exit signal",
       "position": {
         "asset_id": "b0b6dd9d-8b9b-48a9-ba46-b9d54906e415",
         "symbol": "AAPL",
@@ -101,8 +101,10 @@
       "pct_change": -0.46,
       "trend": "mixed \u2014 between MAs",
       "news": "Analyst Sees More Upside for Microsoft Stock Following Management Meeting; Dan Ives Says Tech Stocks Are in a '1997 Moment' as Tom Lee Predicts: \u2018Probability of a Massive Rally\u2019 Ahead; QUICK SPARK: Wall Street Is Moving Nvidia Onto Crypto Rails. 24/7 Trading Is Next",
-      "notes": "",
+      "notes": "Hold \u2014 below SMA20, no entry",
       "position": null
     }
-  }
+  },
+  "trades": [],
+  "closed": []
 }
