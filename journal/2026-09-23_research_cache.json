@@ -1,0 +1,108 @@
+{
+  "portfolio": {
+    "cash": 85654.49,
+    "total_value": 101939.65,
+    "positions": [
+      {
+        "symbol": "AAPL",
+        "qty": 25,
+        "avg_price": 313.262
+      },
+      {
+        "symbol": "NVDA",
+        "qty": 35,
+        "avg_price": 215.77
+      }
+    ]
+  },
+  "research": {
+    "SPY": {
+      "sma20": 767.52,
+      "sma50": 758.21,
+      "last_close": 757.87,
+      "pct_change": -0.6,
+      "trend": "bearish \u2014 below both MAs",
+      "news": "Mortgage Rates Top 7% for the First Time Since 2024: 5 Stocks Most at Risk; Stock Market Today: Dow, Nasdaq, S&P 500 Futures Drop as Trump Threatens to 'Annihilate' Iran at UNGA\u2014KB Home, Worthington, IONQ in Focus (UPDATED); Stock Market: Will S&P 500 Open Up or Down Today?",
+      "notes": "",
+      "position": null
+    },
+    "QQQ": {
+      "sma20": 716.56,
+      "sma50": 710.6,
+      "last_close": 708.73,
+      "pct_change": -1.06,
+      "trend": "bearish \u2014 below both MAs",
+      "news": "Stock Market Today: Dow, Nasdaq, S&P 500 Futures Drop as Trump Threatens to 'Annihilate' Iran at UNGA\u2014KB Home, Worthington, IONQ in Focus (UPDATED); AI Trade Is \u2018Dead Money\u2019: Fidelity Strategist Warns $3.3 Trillion Buildout Is Inflationary With \u2018Unknown Returns\u2019; AI Boom Will Dwarf the Industrial Revolution, Push Real GDP Growth to 7%: Cathie Wood Says, 'Get on the Right Side of Change'",
+      "notes": "",
+      "position": null
+    },
+    "NVDA": {
+      "sma20": 220.55,
+      "sma50": 212.18,
+      "last_close": 218.37,
+      "pct_change": -2.41,
+      "trend": "mixed \u2014 between MAs",
+      "news": "Trump's Strategy Stock Trades Draw Scrutiny as MSTR Surges 83%; EXCLUSIVE: AI Data Center Boom Is \u2018Overkill,\u2019 Defense AI CEO Warns Compute Demand Will Drop; IonQ Makes First On-Premise Quantum Deployment At NVIDIA Research Center",
+      "notes": "",
+      "position": {
+        "asset_id": "4ce9353c-66d1-46c2-898f-fce867ab0247",
+        "symbol": "NVDA",
+        "exchange": "NASDAQ",
+        "asset_class": "us_equity",
+        "asset_marginable": true,
+        "qty": "35",
+        "qty_available": "35",
+        "avg_entry_price": "215.77",
+        "side": "long",
+        "market_value": "7863.66",
+        "cost_basis": "7551.95",
+        "unrealized_pl": "311.71",
+        "unrealized_plpc": "0.04128",
+        "unrealized_intraday_pl": "-146.79",
+        "unrealized_intraday_plpc": "-0.01832",
+        "current_price": "224.676",
+        "lastday_price": "228.87",
+        "change_today": "-0.01832"
+      }
+    },
+    "AAPL": {
+      "sma20": 315.31,
+      "sma50": 317.21,
+      "last_close": 326.62,
+      "pct_change": 3.55,
+      "trend": "bullish \u2014 above both MAs",
+      "news": "What Is Going on with Apple Stock on Wednesday?; Recent Filing Shows That Rep. Pete Sessions Sold Over $100K Worth of Apple Stock; EXCLUSIVE: AI Data Center Boom Is \u2018Overkill,\u2019 Defense AI CEO Warns Compute Demand Will Drop",
+      "notes": "",
+      "position": {
+        "asset_id": "b0b6dd9d-8b9b-48a9-ba46-b9d54906e415",
+        "symbol": "AAPL",
+        "exchange": "NASDAQ",
+        "asset_class": "us_equity",
+        "asset_marginable": true,
+        "qty": "25",
+        "qty_available": "25",
+        "avg_entry_price": "313.262",
+        "side": "long",
+        "market_value": "8421.5",
+        "cost_basis": "7831.55",
+        "unrealized_pl": "589.95",
+        "unrealized_plpc": "0.07533",
+        "unrealized_intraday_pl": "-72.25",
+        "unrealized_intraday_plpc": "-0.00851",
+        "current_price": "336.86",
+        "lastday_price": "339.75",
+        "change_today": "-0.00851"
+      }
+    },
+    "MSFT": {
+      "sma20": 494.5,
+      "sma50": 451.45,
+      "last_close": 492.49,
+      "pct_change": 0.17,
+      "trend": "mixed \u2014 between MAs",
+      "news": "Agentic Commerce Could Hurt Booking, Intuit While Helping Meta, Microsoft, Joseph Carlson Says; AI Boom Is \u2018Dot-Com and Subprime All Merged in One,\u2019 Former Fidelity Manager Tells Steve Eisman; This Editas Medicine Analyst Turns Bullish; Here Are Top 4 Upgrades For Wednesday",
+      "notes": "",
+      "position": null
+    }
+  }
+}
