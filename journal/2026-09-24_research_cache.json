@@ -1,0 +1,84 @@
+{
+  "portfolio": {
+    "cash": 93521.44,
+    "total_value": 101978.94,
+    "positions": [
+      {
+        "symbol": "AAPL",
+        "qty": 25,
+        "avg_price": 313.262
+      }
+    ]
+  },
+  "research": {
+    "SPY": {
+      "sma20": 766.84,
+      "sma50": 758.58,
+      "last_close": 764.14,
+      "pct_change": 0.83,
+      "trend": "mixed \u2014 between MAs",
+      "news": "CNN Granted Access To White House; US And Iran Discuss Phased Deal To Reopen Strait Of Hormuz And End US Blockade, Sources Say; Dozens Of U.S. Oil Refining And Business Groups Urge Trump To Reject Any Effort To Impose Ban On Diesel Exports",
+      "notes": "",
+      "position": null
+    },
+    "QQQ": {
+      "sma20": 715.7,
+      "sma50": 710.39,
+      "last_close": 714.89,
+      "pct_change": 0.87,
+      "trend": "mixed \u2014 between MAs",
+      "news": "Stock Market Today: S&P 500, Nasdaq 100, Dow Jones Futures Drop as Bessent Says Iranian Aviation Restrictions Are Working\u2014 Airbnb, Oracle, Costco in Focus (UPDATED); Bond Market Alarm Bells Are Ringing, But Mohamed El-Erian Says Psychology May Be Fueling the Fear More Than Fundamentals; Trump\u2019s Midterm Losses Could Be Wall Street\u2019s Gain: Billionaire Kenneth Fisher Calls Gridlock a \u2018Powerful Positive\u2019, Sees a Potential 19.8% Rally",
+      "notes": "",
+      "position": null
+    },
+    "NVDA": {
+      "sma20": 220.19,
+      "sma50": 212.59,
+      "last_close": 218.17,
+      "pct_change": -0.09,
+      "trend": "mixed \u2014 between MAs",
+      "news": "'Senators Move To Force AI Companies To Disclose More' - Semafor Exclusive; Here's How Much $100 Invested In NVIDIA 5 Years Ago Would Be Worth Today; What's Going On With Super Micro Computer Stock Thursday?",
+      "notes": "",
+      "position": null
+    },
+    "AAPL": {
+      "sma20": 316.66,
+      "sma50": 317.97,
+      "last_close": 332.25,
+      "pct_change": 1.72,
+      "trend": "bullish \u2014 above both MAs",
+      "news": "Here's How Meta's Muse Mania Is Spilling into Leveraged ETFs; Qualcomm Renews Patent License With Apple, Ushers in 'Agentic Age' With New Snapdragon; What's Going On With AMD Stock Thursday?",
+      "notes": "",
+      "position": {
+        "asset_id": "b0b6dd9d-8b9b-48a9-ba46-b9d54906e415",
+        "symbol": "AAPL",
+        "exchange": "NASDAQ",
+        "asset_class": "us_equity",
+        "asset_marginable": true,
+        "qty": "25",
+        "qty_available": "25",
+        "avg_entry_price": "313.262",
+        "side": "long",
+        "market_value": "8457",
+        "cost_basis": "7831.55",
+        "unrealized_pl": "625.45",
+        "unrealized_plpc": "0.07986",
+        "unrealized_intraday_pl": "31.5",
+        "unrealized_intraday_plpc": "0.00374",
+        "current_price": "338.28",
+        "lastday_price": "337.02",
+        "change_today": "0.00374"
+      }
+    },
+    "MSFT": {
+      "sma20": 494.44,
+      "sma50": 453.68,
+      "last_close": 495.58,
+      "pct_change": 0.63,
+      "trend": "bullish \u2014 above both MAs",
+      "news": "'Senators Move To Force AI Companies To Disclose More' - Semafor Exclusive; Citrini\u2019s New Short List: 90 Subscription Stocks at Risk From The \u2018Agentic Cancellation Wave\u2019; Qualcomm Renews Patent License With Apple, Ushers in 'Agentic Age' With New Snapdragon",
+      "notes": "",
+      "position": null
+    }
+  }
+}
