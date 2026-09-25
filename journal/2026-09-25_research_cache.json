@@ -23,7 +23,7 @@
       "pct_change": -0.44,
       "trend": "mixed \u2014 between MAs",
       "news": "U.S. Supreme Court Restores Trump Administration's Mass Voter Verification System; The Hormuz Letter Posts On X \"The US appears to have abandoned its naval blockade line against Iran, pulling its aircraft carriers off it entirely after Iran's first use of anti-ship ballistic missiles against a carrier. The warships have not been located in the CENTCOM area on Sentinel-2 satellite imagery since the beginning of September, including the USS George H.W. Bush, the USS George Washington, the amphibious assault ship USS Boxer and even their escorting destroyers....\"; FAA To Cease Permission For Specific Cessna Jets To Be Flown With Single Pilot That Requires Two Pilots",
-      "notes": "",
+      "notes": "Hold \u2014 below SMA20, no entry",
       "position": null
     },
     "QQQ": {
@@ -33,7 +33,7 @@
       "pct_change": -0.79,
       "trend": "bearish \u2014 below both MAs",
       "news": "Akamai Jumps On OpenAI Deal, 30-Year Yields Top 5.5%: Stock Market Today; 9 Of 11 Sectors Fall In Friday Trading As Cyclicals Lead; Stock Market Today: Dow, S&P 500, Nasdaq Futures Rise Amid Optimism Following Iran\u2019s Offer To Reopen Strait of Hormuz \u2014 AKAM, COST, SCHL In Focus (UPDATED)",
-      "notes": "",
+      "notes": "Hold \u2014 below SMA20, no entry",
       "position": null
     },
     "NVDA": {
@@ -43,7 +43,7 @@
       "pct_change": -3.29,
       "trend": "bearish \u2014 below both MAs",
       "news": "Nvidia GPU Demand Is So Extreme, Even Bad Cloud Infrastructure Is Selling, SemiAnalysis Says; RMX Industries Signs Compute Supply Purchase Order With Technologent For NVIDIA H200 GPUs To Scale QuantrusX; Slop Economy Warning: VC Expects Another 'Vastly Larger' 2008 \u2014 Blame AI",
-      "notes": "",
+      "notes": "Hold \u2014 below SMA20, no entry",
       "position": null
     },
     "AAPL": {
@@ -53,7 +53,7 @@
       "pct_change": 0.23,
       "trend": "bullish \u2014 above both MAs",
       "news": "9 Of 11 Sectors Fall In Friday Trading As Cyclicals Lead; Understanding Apple's Position In Technology Hardware, Storage &amp; Peripherals Industry Compared To Competitors; Meta\u2019s AI Spending Suddenly Makes Sense",
-      "notes": "",
+      "notes": "Hold \u2014 position open, no exit signal",
       "position": {
         "asset_id": "b0b6dd9d-8b9b-48a9-ba46-b9d54906e415",
         "symbol": "AAPL",
@@ -82,7 +82,7 @@
       "pct_change": 2.05,
       "trend": "bullish \u2014 above both MAs",
       "news": "Nvidia GPU Demand Is So Extreme, Even Bad Cloud Infrastructure Is Selling, SemiAnalysis Says; Microsoft Gives Copilot A Major AI Makeover; Slop Economy Warning: VC Expects Another 'Vastly Larger' 2008 \u2014 Blame AI",
-      "notes": "",
+      "notes": "Hold \u2014 position open, no exit signal",
       "position": {
         "asset_id": "b6d1aa75-5c9c-4353-a305-9e2caa1925ab",
         "symbol": "MSFT",
@@ -104,5 +104,7 @@
         "change_today": "0.0397"
       }
     }
-  }
+  },
+  "trades": [],
+  "closed": []
 }
