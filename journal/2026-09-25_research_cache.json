@@ -1,0 +1,108 @@
+{
+  "portfolio": {
+    "cash": 85588.0,
+    "total_value": 102350.5,
+    "positions": [
+      {
+        "symbol": "AAPL",
+        "qty": 25,
+        "avg_price": 313.262
+      },
+      {
+        "symbol": "MSFT",
+        "qty": 16,
+        "avg_price": 495.84
+      }
+    ]
+  },
+  "research": {
+    "SPY": {
+      "sma20": 766.06,
+      "sma50": 758.9,
+      "last_close": 760.75,
+      "pct_change": -0.44,
+      "trend": "mixed \u2014 between MAs",
+      "news": "U.S. Supreme Court Restores Trump Administration's Mass Voter Verification System; The Hormuz Letter Posts On X \"The US appears to have abandoned its naval blockade line against Iran, pulling its aircraft carriers off it entirely after Iran's first use of anti-ship ballistic missiles against a carrier. The warships have not been located in the CENTCOM area on Sentinel-2 satellite imagery since the beginning of September, including the USS George H.W. Bush, the USS George Washington, the amphibious assault ship USS Boxer and even their escorting destroyers....\"; FAA To Cease Permission For Specific Cessna Jets To Be Flown With Single Pilot That Requires Two Pilots",
+      "notes": "",
+      "position": null
+    },
+    "QQQ": {
+      "sma20": 714.61,
+      "sma50": 710.32,
+      "last_close": 709.24,
+      "pct_change": -0.79,
+      "trend": "bearish \u2014 below both MAs",
+      "news": "Akamai Jumps On OpenAI Deal, 30-Year Yields Top 5.5%: Stock Market Today; 9 Of 11 Sectors Fall In Friday Trading As Cyclicals Lead; Stock Market Today: Dow, S&P 500, Nasdaq Futures Rise Amid Optimism Following Iran\u2019s Offer To Reopen Strait of Hormuz \u2014 AKAM, COST, SCHL In Focus (UPDATED)",
+      "notes": "",
+      "position": null
+    },
+    "NVDA": {
+      "sma20": 219.48,
+      "sma50": 212.92,
+      "last_close": 211,
+      "pct_change": -3.29,
+      "trend": "bearish \u2014 below both MAs",
+      "news": "Nvidia GPU Demand Is So Extreme, Even Bad Cloud Infrastructure Is Selling, SemiAnalysis Says; RMX Industries Signs Compute Supply Purchase Order With Technologent For NVIDIA H200 GPUs To Scale QuantrusX; Slop Economy Warning: VC Expects Another 'Vastly Larger' 2008 \u2014 Blame AI",
+      "notes": "",
+      "position": null
+    },
+    "AAPL": {
+      "sma20": 318.01,
+      "sma50": 318.46,
+      "last_close": 333,
+      "pct_change": 0.23,
+      "trend": "bullish \u2014 above both MAs",
+      "news": "9 Of 11 Sectors Fall In Friday Trading As Cyclicals Lead; Understanding Apple's Position In Technology Hardware, Storage &amp; Peripherals Industry Compared To Competitors; Meta\u2019s AI Spending Suddenly Makes Sense",
+      "notes": "",
+      "position": {
+        "asset_id": "b0b6dd9d-8b9b-48a9-ba46-b9d54906e415",
+        "symbol": "AAPL",
+        "exchange": "NASDAQ",
+        "asset_class": "us_equity",
+        "asset_marginable": true,
+        "qty": "25",
+        "qty_available": "25",
+        "avg_entry_price": "313.262",
+        "side": "long",
+        "market_value": "8479.3",
+        "cost_basis": "7831.55",
+        "unrealized_pl": "647.75",
+        "unrealized_plpc": "0.08271",
+        "unrealized_intraday_pl": "81.3",
+        "unrealized_intraday_plpc": "0.00968",
+        "current_price": "339.172",
+        "lastday_price": "335.92",
+        "change_today": "0.00968"
+      }
+    },
+    "MSFT": {
+      "sma20": 494.96,
+      "sma50": 455.99,
+      "last_close": 505.72,
+      "pct_change": 2.05,
+      "trend": "bullish \u2014 above both MAs",
+      "news": "Nvidia GPU Demand Is So Extreme, Even Bad Cloud Infrastructure Is Selling, SemiAnalysis Says; Microsoft Gives Copilot A Major AI Makeover; Slop Economy Warning: VC Expects Another 'Vastly Larger' 2008 \u2014 Blame AI",
+      "notes": "",
+      "position": {
+        "asset_id": "b6d1aa75-5c9c-4353-a305-9e2caa1925ab",
+        "symbol": "MSFT",
+        "exchange": "NASDAQ",
+        "asset_class": "us_equity",
+        "asset_marginable": true,
+        "qty": "16",
+        "qty_available": "16",
+        "avg_entry_price": "495.84",
+        "side": "long",
+        "market_value": "8283.2",
+        "cost_basis": "7933.44",
+        "unrealized_pl": "349.76",
+        "unrealized_plpc": "0.04409",
+        "unrealized_intraday_pl": "316.32",
+        "unrealized_intraday_plpc": "0.0397",
+        "current_price": "517.7",
+        "lastday_price": "497.93",
+        "change_today": "0.0397"
+      }
+    }
+  }
+}
