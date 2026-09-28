@@ -23,7 +23,7 @@
       "pct_change": -0.44,
       "trend": "bearish \u2014 below both MAs",
       "news": "President Trump Says Canada Wants To Have A Deal With Us, They Call All The Time; Think A Deal Will Be Made On Canada Trade; President Trump Says Will Win Iran War Very Soon And Gas Prices Will Come Tumbling; U.S. Officials Spoke With Iran Mediators Today; President Trump Says If We Don't Make Steel Ourselves, We Can't Defend Ourselves",
-      "notes": "",
+      "notes": "Hold \u2014 below SMA20, no entry",
       "position": null
     },
     "QQQ": {
@@ -33,7 +33,7 @@
       "pct_change": -0.65,
       "trend": "bearish \u2014 below both MAs",
       "news": "Oil Rises; Meta\u2019s Muse Trade Extends To CPU Stocks Like Intel, AMD, Arm, Qualcomm; Nasdaq 100 Sinks, Oil Rallies as Trump Rejects Iran's Hormuz Plan: Stock Market Today; 8 Of 11 Sectors Fall In Monday Trading As Defensives Lead",
-      "notes": "",
+      "notes": "Hold \u2014 below SMA20, no entry",
       "position": null
     },
     "NVDA": {
@@ -43,7 +43,7 @@
       "pct_change": 0.55,
       "trend": "bearish \u2014 below both MAs",
       "news": "Nvidia\u2019s $150B Buyback Has Traders Piling into this ETF; Nvidia Stock Gains on Record Buyback: Jim Cramer Gets His Wish; Oil Rises; Meta\u2019s Muse Trade Extends To CPU Stocks Like Intel, AMD, Arm, Qualcomm",
-      "notes": "",
+      "notes": "Hold \u2014 below SMA20, no entry",
       "position": null
     },
     "AAPL": {
@@ -53,7 +53,7 @@
       "pct_change": -0.5,
       "trend": "bullish \u2014 above both MAs",
       "news": "Oil Rises; Meta\u2019s Muse Trade Extends To CPU Stocks Like Intel, AMD, Arm, Qualcomm; What Is Going on With Qualcomm Stock on Monday?; Apple, Amazon Face UK Regulator Lawsuit Against Alleged Unlawful Anticompetitive Agreements",
-      "notes": "",
+      "notes": "Hold \u2014 position open, no exit signal",
       "position": {
         "asset_id": "b0b6dd9d-8b9b-48a9-ba46-b9d54906e415",
         "symbol": "AAPL",
@@ -82,7 +82,7 @@
       "pct_change": -1.7,
       "trend": "bullish \u2014 above both MAs",
       "news": "OpenAI President Greg Brockman Will Be Going To The White House AI Meeting; AI\u2019s $1 Trillion Funding Problem Is Moving From Stocks to Bonds; 9 Information Technology Stocks With Whale Alerts In Today\u2019s Session",
-      "notes": "",
+      "notes": "Hold \u2014 position open, no exit signal",
       "position": {
         "asset_id": "b6d1aa75-5c9c-4353-a305-9e2caa1925ab",
         "symbol": "MSFT",
@@ -104,5 +104,7 @@
         "change_today": "-0.01188"
       }
     }
-  }
+  },
+  "trades": [],
+  "closed": []
 }
