@@ -1,0 +1,108 @@
+{
+  "portfolio": {
+    "cash": 85588.0,
+    "total_value": 102214.39,
+    "positions": [
+      {
+        "symbol": "AAPL",
+        "qty": 25,
+        "avg_price": 313.262
+      },
+      {
+        "symbol": "MSFT",
+        "qty": 16,
+        "avg_price": 495.84
+      }
+    ]
+  },
+  "research": {
+    "SPY": {
+      "sma20": 765.3,
+      "sma50": 759.02,
+      "last_close": 757.42,
+      "pct_change": -0.44,
+      "trend": "bearish \u2014 below both MAs",
+      "news": "President Trump Says Canada Wants To Have A Deal With Us, They Call All The Time; Think A Deal Will Be Made On Canada Trade; President Trump Says Will Win Iran War Very Soon And Gas Prices Will Come Tumbling; U.S. Officials Spoke With Iran Mediators Today; President Trump Says If We Don't Make Steel Ourselves, We Can't Defend Ourselves",
+      "notes": "",
+      "position": null
+    },
+    "QQQ": {
+      "sma20": 713.34,
+      "sma50": 709.96,
+      "last_close": 704.6,
+      "pct_change": -0.65,
+      "trend": "bearish \u2014 below both MAs",
+      "news": "Oil Rises; Meta\u2019s Muse Trade Extends To CPU Stocks Like Intel, AMD, Arm, Qualcomm; Nasdaq 100 Sinks, Oil Rallies as Trump Rejects Iran's Hormuz Plan: Stock Market Today; 8 Of 11 Sectors Fall In Monday Trading As Defensives Lead",
+      "notes": "",
+      "position": null
+    },
+    "NVDA": {
+      "sma20": 218.83,
+      "sma50": 213.25,
+      "last_close": 212.16,
+      "pct_change": 0.55,
+      "trend": "bearish \u2014 below both MAs",
+      "news": "Nvidia\u2019s $150B Buyback Has Traders Piling into this ETF; Nvidia Stock Gains on Record Buyback: Jim Cramer Gets His Wish; Oil Rises; Meta\u2019s Muse Trade Extends To CPU Stocks Like Intel, AMD, Arm, Qualcomm",
+      "notes": "",
+      "position": null
+    },
+    "AAPL": {
+      "sma20": 319.3,
+      "sma50": 318.84,
+      "last_close": 331.33,
+      "pct_change": -0.5,
+      "trend": "bullish \u2014 above both MAs",
+      "news": "Oil Rises; Meta\u2019s Muse Trade Extends To CPU Stocks Like Intel, AMD, Arm, Qualcomm; What Is Going on With Qualcomm Stock on Monday?; Apple, Amazon Face UK Regulator Lawsuit Against Alleged Unlawful Anticompetitive Agreements",
+      "notes": "",
+      "position": {
+        "asset_id": "b0b6dd9d-8b9b-48a9-ba46-b9d54906e415",
+        "symbol": "AAPL",
+        "exchange": "NASDAQ",
+        "asset_class": "us_equity",
+        "asset_marginable": true,
+        "qty": "25",
+        "qty_available": "25",
+        "avg_entry_price": "313.262",
+        "side": "long",
+        "market_value": "8465.75",
+        "cost_basis": "7831.55",
+        "unrealized_pl": "634.2",
+        "unrealized_plpc": "0.08098",
+        "unrealized_intraday_pl": "-61",
+        "unrealized_intraday_plpc": "-0.00715",
+        "current_price": "338.63",
+        "lastday_price": "341.07",
+        "change_today": "-0.00715"
+      }
+    },
+    "MSFT": {
+      "sma20": 495.78,
+      "sma50": 458.2,
+      "last_close": 497.11,
+      "pct_change": -1.7,
+      "trend": "bullish \u2014 above both MAs",
+      "news": "OpenAI President Greg Brockman Will Be Going To The White House AI Meeting; AI\u2019s $1 Trillion Funding Problem Is Moving From Stocks to Bonds; 9 Information Technology Stocks With Whale Alerts In Today\u2019s Session",
+      "notes": "",
+      "position": {
+        "asset_id": "b6d1aa75-5c9c-4353-a305-9e2caa1925ab",
+        "symbol": "MSFT",
+        "exchange": "NASDAQ",
+        "asset_class": "us_equity",
+        "asset_marginable": true,
+        "qty": "16",
+        "qty_available": "16",
+        "avg_entry_price": "495.84",
+        "side": "long",
+        "market_value": "8160.64",
+        "cost_basis": "7933.44",
+        "unrealized_pl": "227.2",
+        "unrealized_plpc": "0.02864",
+        "unrealized_intraday_pl": "-98.08",
+        "unrealized_intraday_plpc": "-0.01188",
+        "current_price": "510.04",
+        "lastday_price": "516.17",
+        "change_today": "-0.01188"
+      }
+    }
+  }
+}
