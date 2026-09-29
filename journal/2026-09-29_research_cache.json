@@ -1,0 +1,108 @@
+{
+  "portfolio": {
+    "cash": 85588.0,
+    "total_value": 101981.03,
+    "positions": [
+      {
+        "symbol": "AAPL",
+        "qty": 25,
+        "avg_price": 313.262
+      },
+      {
+        "symbol": "MSFT",
+        "qty": 16,
+        "avg_price": 495.84
+      }
+    ]
+  },
+  "research": {
+    "SPY": {
+      "sma20": 765.3,
+      "sma50": 759.02,
+      "last_close": 757.42,
+      "pct_change": -0.44,
+      "trend": "bearish \u2014 below both MAs",
+      "news": "Fed's Barr Says Economy Is Quite Strong Right Now; People Are Frustrated And Uncertain Because Inflation Has Been Too High; 'Hegseth to Cut Pentagon Posts Reserved for Generals, Admirals By 20%' - Bloomberg; Fed's Musalem Says Delegated Power Over Interest Rates Also Obligates The Fed Too Explain How And Why That Power Is Used; If The Public Understands The Framework, Private Expectations LINE Up With The Fed's Intentions, Improves Trade-offs Between Inflation And Employment; A Predictable, Explained Framework, Is Part Of What Makes A Central Bank Democratically Legitimate",
+      "notes": "",
+      "position": null
+    },
+    "QQQ": {
+      "sma20": 713.34,
+      "sma50": 709.96,
+      "last_close": 704.6,
+      "pct_change": -0.65,
+      "trend": "bearish \u2014 below both MAs",
+      "news": "30-Year Yield Hits 2002 High; Credit-Score Giant FICO Plunges 27%: Stock Market Today; Michael Burry, Peter Schiff Flag S&P 500 Risk: 5 ETFs to Consider Now; Stock Market Today: Dow Jones, S&P 500, Nasdaq 100 Gains as Trump Dismisses Iran Sanction Relief as 'Hoax'\u2014 Nvidia, AAR, Vail Resorts in Focus (UPDATED)",
+      "notes": "",
+      "position": null
+    },
+    "NVDA": {
+      "sma20": 218.83,
+      "sma50": 213.25,
+      "last_close": 212.16,
+      "pct_change": 0.55,
+      "trend": "bearish \u2014 below both MAs",
+      "news": "10 Information Technology Stocks With Whale Alerts In Today\u2019s Session; What's Going On With Nebius Group Stock Tuesday?; Oil Near $100 Should Lift Energy. Instead XLE ETF Is Falling \u2014 Here's Why",
+      "notes": "",
+      "position": null
+    },
+    "AAPL": {
+      "sma20": 319.3,
+      "sma50": 318.84,
+      "last_close": 331.33,
+      "pct_change": -0.5,
+      "trend": "bullish \u2014 above both MAs",
+      "news": "Morgan Stanley Reiterates Overweight on Apple, Maintains $360 Price Target; 'Beyond Spring and Fall': Apple Prepares Organization Restructure for Accelerating Product Launches; How Much Do You Need to Have Netflix, Disney and the 8 Major Streaming Platforms?",
+      "notes": "",
+      "position": {
+        "asset_id": "b0b6dd9d-8b9b-48a9-ba46-b9d54906e415",
+        "symbol": "AAPL",
+        "exchange": "NASDAQ",
+        "asset_class": "us_equity",
+        "asset_marginable": true,
+        "qty": "25",
+        "qty_available": "25",
+        "avg_entry_price": "313.262",
+        "side": "long",
+        "market_value": "8299",
+        "cost_basis": "7831.55",
+        "unrealized_pl": "467.45",
+        "unrealized_plpc": "0.05969",
+        "unrealized_intraday_pl": "-161",
+        "unrealized_intraday_plpc": "-0.01903",
+        "current_price": "331.96",
+        "lastday_price": "338.4",
+        "change_today": "-0.01903"
+      }
+    },
+    "MSFT": {
+      "sma20": 495.78,
+      "sma50": 458.2,
+      "last_close": 497.11,
+      "pct_change": -1.7,
+      "trend": "bullish \u2014 above both MAs",
+      "news": "'OpenAI Targets $30 Billion in New Funding at $1.4 Trillion Value' - Bloomberg; CrowdStrike Launches Its Falcon Platform In OpenAI Marketplace; 10 Information Technology Stocks With Whale Alerts In Today\u2019s Session",
+      "notes": "",
+      "position": {
+        "asset_id": "b6d1aa75-5c9c-4353-a305-9e2caa1925ab",
+        "symbol": "MSFT",
+        "exchange": "NASDAQ",
+        "asset_class": "us_equity",
+        "asset_marginable": true,
+        "qty": "16",
+        "qty_available": "16",
+        "avg_entry_price": "495.84",
+        "side": "long",
+        "market_value": "8094.4",
+        "cost_basis": "7933.44",
+        "unrealized_pl": "160.96",
+        "unrealized_plpc": "0.02029",
+        "unrealized_intraday_pl": "-53.12",
+        "unrealized_intraday_plpc": "-0.00652",
+        "current_price": "505.9",
+        "lastday_price": "509.22",
+        "change_today": "-0.00652"
+      }
+    }
+  }
+}
