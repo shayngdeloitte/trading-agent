@@ -23,7 +23,7 @@
       "pct_change": -0.44,
       "trend": "bearish \u2014 below both MAs",
       "news": "Make Or Break for AI Trade\u2013Micron Earnings Ahead; Consumers Spend More Even As Income Drops; U.S. Senate Democrats Block Bill Setting New Constraints On Congress Members Trading Stocks, Saying It Is Too Weak; Legislation To Tighten Rules On Stock Trading By Members Of Congress Fails To Gain Enough Votes To Advance In Us Senate; Fed Says Design Elements Like Marble, Waters Features And A Garden Terrace Did Not Materially Contribute To Cost Overruns; Fed Board Along With Forst Will Establish Fixed Metrics For Remaining Project Budget And Schedule; Forst Will Report To Fed's Board And Chairman",
-      "notes": "",
+      "notes": "Hold \u2014 below SMA20, no entry",
       "position": null
     },
     "QQQ": {
@@ -33,7 +33,7 @@
       "pct_change": 0.01,
       "trend": "bearish \u2014 below both MAs",
       "news": "Make Or Break for AI Trade\u2013Micron Earnings Ahead; Consumers Spend More Even As Income Drops; Nasdaq 100 Climbs as Cooler PCE Cuts Rate Hike Bets, Micron Earnings Loom: Stock Market Today; Growth Leads Sectors In Wednesday Trading As Defensives Trail",
-      "notes": "",
+      "notes": "Hold \u2014 below SMA20, no entry",
       "position": null
     },
     "NVDA": {
@@ -43,7 +43,7 @@
       "pct_change": 0.84,
       "trend": "mixed \u2014 between MAs",
       "news": "Make Or Break for AI Trade\u2013Micron Earnings Ahead; Consumers Spend More Even As Income Drops; Nasdaq 100 Climbs as Cooler PCE Cuts Rate Hike Bets, Micron Earnings Loom: Stock Market Today; QUICK SPARK: Meta Could Be the AI Trade\u2019s Come-From-Behind Winner, Says Strategist",
-      "notes": "",
+      "notes": "Hold \u2014 below SMA20, no entry",
       "position": null
     },
     "AAPL": {
@@ -53,7 +53,7 @@
       "pct_change": 0.35,
       "trend": "bullish \u2014 above both MAs",
       "news": "Make Or Break for AI Trade\u2013Micron Earnings Ahead; Consumers Spend More Even As Income Drops; Nasdaq 100 Climbs as Cooler PCE Cuts Rate Hike Bets, Micron Earnings Loom: Stock Market Today; Growth Leads Sectors In Wednesday Trading As Defensives Trail",
-      "notes": "",
+      "notes": "Hold \u2014 position open, no exit signal",
       "position": {
         "asset_id": "b0b6dd9d-8b9b-48a9-ba46-b9d54906e415",
         "symbol": "AAPL",
@@ -104,5 +104,18 @@
         "change_today": "0.01792"
       }
     }
-  }
+  },
+  "trades": [
+    {
+      "time": "17:44",
+      "symbol": "MSFT",
+      "action": "SELL",
+      "qty": 16,
+      "price": 489.47,
+      "reasoning": "Price $490.45 crossed below SMA20 $496.22"
+    }
+  ],
+  "closed": [
+    "MSFT"
+  ]
 }
