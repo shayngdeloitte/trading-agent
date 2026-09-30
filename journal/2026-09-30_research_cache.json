@@ -1,0 +1,108 @@
+{
+  "portfolio": {
+    "cash": 85588.0,
+    "total_value": 102280.67,
+    "positions": [
+      {
+        "symbol": "AAPL",
+        "qty": 25,
+        "avg_price": 313.262
+      },
+      {
+        "symbol": "MSFT",
+        "qty": 16,
+        "avg_price": 495.84
+      }
+    ]
+  },
+  "research": {
+    "SPY": {
+      "sma20": 764.63,
+      "sma50": 759.15,
+      "last_close": 754.05,
+      "pct_change": -0.44,
+      "trend": "bearish \u2014 below both MAs",
+      "news": "Make Or Break for AI Trade\u2013Micron Earnings Ahead; Consumers Spend More Even As Income Drops; U.S. Senate Democrats Block Bill Setting New Constraints On Congress Members Trading Stocks, Saying It Is Too Weak; Legislation To Tighten Rules On Stock Trading By Members Of Congress Fails To Gain Enough Votes To Advance In Us Senate; Fed Says Design Elements Like Marble, Waters Features And A Garden Terrace Did Not Materially Contribute To Cost Overruns; Fed Board Along With Forst Will Establish Fixed Metrics For Remaining Project Budget And Schedule; Forst Will Report To Fed's Board And Chairman",
+      "notes": "",
+      "position": null
+    },
+    "QQQ": {
+      "sma20": 712.69,
+      "sma50": 709.87,
+      "last_close": 704.7,
+      "pct_change": 0.01,
+      "trend": "bearish \u2014 below both MAs",
+      "news": "Make Or Break for AI Trade\u2013Micron Earnings Ahead; Consumers Spend More Even As Income Drops; Nasdaq 100 Climbs as Cooler PCE Cuts Rate Hike Bets, Micron Earnings Loom: Stock Market Today; Growth Leads Sectors In Wednesday Trading As Defensives Trail",
+      "notes": "",
+      "position": null
+    },
+    "NVDA": {
+      "sma20": 218.54,
+      "sma50": 213.59,
+      "last_close": 213.94,
+      "pct_change": 0.84,
+      "trend": "mixed \u2014 between MAs",
+      "news": "Make Or Break for AI Trade\u2013Micron Earnings Ahead; Consumers Spend More Even As Income Drops; Nasdaq 100 Climbs as Cooler PCE Cuts Rate Hike Bets, Micron Earnings Loom: Stock Market Today; QUICK SPARK: Meta Could Be the AI Trade\u2019s Come-From-Behind Winner, Says Strategist",
+      "notes": "",
+      "position": null
+    },
+    "AAPL": {
+      "sma20": 320.41,
+      "sma50": 319.27,
+      "last_close": 332.49,
+      "pct_change": 0.35,
+      "trend": "bullish \u2014 above both MAs",
+      "news": "Make Or Break for AI Trade\u2013Micron Earnings Ahead; Consumers Spend More Even As Income Drops; Nasdaq 100 Climbs as Cooler PCE Cuts Rate Hike Bets, Micron Earnings Loom: Stock Market Today; Growth Leads Sectors In Wednesday Trading As Defensives Trail",
+      "notes": "",
+      "position": {
+        "asset_id": "b0b6dd9d-8b9b-48a9-ba46-b9d54906e415",
+        "symbol": "AAPL",
+        "exchange": "NASDAQ",
+        "asset_class": "us_equity",
+        "asset_marginable": true,
+        "qty": "25",
+        "qty_available": "25",
+        "avg_entry_price": "313.262",
+        "side": "long",
+        "market_value": "8403.3875",
+        "cost_basis": "7831.55",
+        "unrealized_pl": "571.8375",
+        "unrealized_plpc": "0.07302",
+        "unrealized_intraday_pl": "168.3875",
+        "unrealized_intraday_plpc": "0.02045",
+        "current_price": "336.1355",
+        "lastday_price": "329.4",
+        "change_today": "0.02045"
+      }
+    },
+    "MSFT": {
+      "sma20": 496.22,
+      "sma50": 460.23,
+      "last_close": 490.45,
+      "pct_change": -1.34,
+      "trend": "mixed \u2014 between MAs",
+      "news": "Make Or Break for AI Trade\u2013Micron Earnings Ahead; Consumers Spend More Even As Income Drops; OpenAI Announces It Identified, Disrupted Coordinated Campaign Designed To Extract Protected Reasoning From Its Models; Operators Did Not Break Our Encryption, Compromise A Database, Or Gain Direct Access To Stored User Conversations; Nasdaq 100 Climbs as Cooler PCE Cuts Rate Hike Bets, Micron Earnings Loom: Stock Market Today",
+      "notes": "",
+      "position": {
+        "asset_id": "b6d1aa75-5c9c-4353-a305-9e2caa1925ab",
+        "symbol": "MSFT",
+        "exchange": "NASDAQ",
+        "asset_class": "us_equity",
+        "asset_marginable": true,
+        "qty": "16",
+        "qty_available": "16",
+        "avg_entry_price": "495.84",
+        "side": "long",
+        "market_value": "8289.28",
+        "cost_basis": "7933.44",
+        "unrealized_pl": "355.84",
+        "unrealized_plpc": "0.04485",
+        "unrealized_intraday_pl": "145.92",
+        "unrealized_intraday_plpc": "0.01792",
+        "current_price": "518.08",
+        "lastday_price": "508.96",
+        "change_today": "0.01792"
+      }
+    }
+  }
+}
