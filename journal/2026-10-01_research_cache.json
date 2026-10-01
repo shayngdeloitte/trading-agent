@@ -18,7 +18,7 @@
       "pct_change": 1.14,
       "trend": "mixed \u2014 between MAs",
       "news": "Fed's Jefferson Says Inflation Has Resulted From A Cascade Of Shocks; Longer Term Inflation Expectations Show Fed Credible On Getting Inflation Down; Fed Has To Be Prepared To Do Needed Work To Validate Inflation Expectations; Fed Is Firmly Committed To Return Inflation To 2% In A Timely Manner; Fed's Kashkari Says I Don't Have A Strong View About October Rate Hike; His September Rate Projections Were For One More Hike This Year, Another In 2027; No Sense Monetary Policy Providing Much Restraint At Current Moment; He Doesn't See Meaningful Tightening In Financial Conditions Given Data; He Has Some Confidence Inflation Will Fade, But Shocks Keep Happening; Fed's September Rate Hike Showed Central Bank Will Act To Lower Inflation; Fed's Jefferson Says Bond Yields Show Market Participants Rethinking Outlook; : Inflation Remains Above Target With Upside Risks; Says He Is Worried High Inflation Could Spill Into Expectations",
-      "notes": "",
+      "notes": "Hold \u2014 below SMA20, no entry",
       "position": null
     },
     "QQQ": {
@@ -48,7 +48,7 @@
       "pct_change": 1.38,
       "trend": "bullish \u2014 above both MAs",
       "news": "Morgan Stanley Maintains Overweight on Apple, Lowers Price Target to $355; Needham Reiterates Hold on Appleto Hold; Inquiry Into Apple's Competitor Dynamics In Technology Hardware, Storage &amp; Peripherals Industry",
-      "notes": "",
+      "notes": "Hold \u2014 position open, no exit signal",
       "position": {
         "asset_id": "b0b6dd9d-8b9b-48a9-ba46-b9d54906e415",
         "symbol": "AAPL",
@@ -80,5 +80,32 @@
       "notes": "",
       "position": null
     }
-  }
+  },
+  "trades": [
+    {
+      "time": "18:10",
+      "symbol": "QQQ",
+      "action": "BUY",
+      "qty": 14,
+      "price": 718.32,
+      "reasoning": "Above SMA20 ($712.73) and SMA50 ($709.98), pct_change=1.73%"
+    },
+    {
+      "time": "18:10",
+      "symbol": "NVDA",
+      "action": "BUY",
+      "qty": 37,
+      "price": 219.84,
+      "reasoning": "Above SMA20 ($218.63) and SMA50 ($213.9), pct_change=2.55%"
+    },
+    {
+      "time": "18:10",
+      "symbol": "MSFT",
+      "action": "BUY",
+      "qty": 16,
+      "price": 498.67,
+      "reasoning": "Above SMA20 ($496.88) and SMA50 ($462.53), pct_change=1.47%"
+    }
+  ],
+  "closed": []
 }
