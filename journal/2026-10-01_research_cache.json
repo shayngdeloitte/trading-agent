@@ -1,0 +1,84 @@
+{
+  "portfolio": {
+    "cash": 93875.35,
+    "total_value": 102104.98,
+    "positions": [
+      {
+        "symbol": "AAPL",
+        "qty": 25,
+        "avg_price": 313.262
+      }
+    ]
+  },
+  "research": {
+    "SPY": {
+      "sma20": 764.31,
+      "sma50": 759.5,
+      "last_close": 762.64,
+      "pct_change": 1.14,
+      "trend": "mixed \u2014 between MAs",
+      "news": "Fed's Jefferson Says Inflation Has Resulted From A Cascade Of Shocks; Longer Term Inflation Expectations Show Fed Credible On Getting Inflation Down; Fed Has To Be Prepared To Do Needed Work To Validate Inflation Expectations; Fed Is Firmly Committed To Return Inflation To 2% In A Timely Manner; Fed's Kashkari Says I Don't Have A Strong View About October Rate Hike; His September Rate Projections Were For One More Hike This Year, Another In 2027; No Sense Monetary Policy Providing Much Restraint At Current Moment; He Doesn't See Meaningful Tightening In Financial Conditions Given Data; He Has Some Confidence Inflation Will Fade, But Shocks Keep Happening; Fed's September Rate Hike Showed Central Bank Will Act To Lower Inflation; Fed's Jefferson Says Bond Yields Show Market Participants Rethinking Outlook; : Inflation Remains Above Target With Upside Risks; Says He Is Worried High Inflation Could Spill Into Expectations",
+      "notes": "",
+      "position": null
+    },
+    "QQQ": {
+      "sma20": 712.73,
+      "sma50": 709.98,
+      "last_close": 716.89,
+      "pct_change": 1.73,
+      "trend": "bullish \u2014 above both MAs",
+      "news": "Stock Market Today: S&P 500 Slips as Micron Fails to Impress, 10-Year Yields Ease to 5.25%; 8 Of 11 Sectors Fall In Thursday Trading As Cyclicals Lead; Tom Lee Says \u2018Buckle Up\u2019 for Stock Market Rally as S&P 500 Historical Setup Signals Strong Q4",
+      "notes": "",
+      "position": null
+    },
+    "NVDA": {
+      "sma20": 218.63,
+      "sma50": 213.9,
+      "last_close": 219.4,
+      "pct_change": 2.55,
+      "trend": "bullish \u2014 above both MAs",
+      "news": "10 Information Technology Stocks Whale Activity In Today\u2019s Session; AI\u2019s Trillion-Dollar Chip Boom Is Getting Bigger, and NVIDIA Isn\u2019t the Only Winner; IBM Is Betting AI\u2019s Next Big Market Won\u2019t Live in the Cloud",
+      "notes": "",
+      "position": null
+    },
+    "AAPL": {
+      "sma20": 321.42,
+      "sma50": 319.75,
+      "last_close": 337.09,
+      "pct_change": 1.38,
+      "trend": "bullish \u2014 above both MAs",
+      "news": "Morgan Stanley Maintains Overweight on Apple, Lowers Price Target to $355; Needham Reiterates Hold on Appleto Hold; Inquiry Into Apple's Competitor Dynamics In Technology Hardware, Storage &amp; Peripherals Industry",
+      "notes": "",
+      "position": {
+        "asset_id": "b0b6dd9d-8b9b-48a9-ba46-b9d54906e415",
+        "symbol": "AAPL",
+        "exchange": "NASDAQ",
+        "asset_class": "us_equity",
+        "asset_marginable": true,
+        "qty": "25",
+        "qty_available": "25",
+        "avg_entry_price": "313.262",
+        "side": "long",
+        "market_value": "8229.625",
+        "cost_basis": "7831.55",
+        "unrealized_pl": "398.075",
+        "unrealized_plpc": "0.05083",
+        "unrealized_intraday_pl": "-95.875",
+        "unrealized_intraday_plpc": "-0.01152",
+        "current_price": "329.185",
+        "lastday_price": "333.02",
+        "change_today": "-0.01152"
+      }
+    },
+    "MSFT": {
+      "sma20": 496.88,
+      "sma50": 462.53,
+      "last_close": 497.67,
+      "pct_change": 1.47,
+      "trend": "bullish \u2014 above both MAs",
+      "news": "Anthropic Introduces Mods, Small TypeScript Functions That Change How Claude Code Works; Amazon, Microsoft, Meta Have a Weird New Benchmark: 1840s Railway Mania; California Attorney General Bonta Serves Investigative Subpoena On OpenAI Over Cybersecurity Incidents",
+      "notes": "",
+      "position": null
+    }
+  }
+}
