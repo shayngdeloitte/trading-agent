@@ -1,0 +1,84 @@
+{
+  "portfolio": {
+    "cash": 93875.35,
+    "total_value": 102211.23,
+    "positions": [
+      {
+        "symbol": "AAPL",
+        "qty": 25,
+        "avg_price": 313.262
+      }
+    ]
+  },
+  "research": {
+    "SPY": {
+      "sma20": 764.26,
+      "sma50": 759.7,
+      "last_close": 761.62,
+      "pct_change": -0.13,
+      "trend": "mixed \u2014 between MAs",
+      "news": "Why Is The Market Celebrating A Weak Jobs Report?; Chicago Fed President Austan Goolsbee Says On Fox Business Rate Hike Or Pause On The Table; Inflation Side Of Fed's Job More Important With Labor Market Steady; U.S. Baker Hughes Oil Rig Count +1 To 456; U.S. Baker Hughes NatGas Rig Count -2 To 133; U.S. Baker Hughes Total Rig Count 598 Vs 599 Prior",
+      "notes": "",
+      "position": null
+    },
+    "QQQ": {
+      "sma20": 713.25,
+      "sma50": 709.94,
+      "last_close": 721.36,
+      "pct_change": 0.62,
+      "trend": "bullish \u2014 above both MAs",
+      "news": "Why Is The Market Celebrating A Weak Jobs Report?; Weak Jobs Report Lifts Nvidia, Nasdaq 100 to Record Highs: Stock Market Today; EXCLUSIVE: Top 12 Most-Searched Tickers in September on Benzinga Pro \u2013 Meta Rises, SpaceX Falls, Dell & Bloom Energy Join List",
+      "notes": "",
+      "position": null
+    },
+    "NVDA": {
+      "sma20": 218.89,
+      "sma50": 214.29,
+      "last_close": 222.04,
+      "pct_change": 1.2,
+      "trend": "bullish \u2014 above both MAs",
+      "news": "Why Is The Market Celebrating A Weak Jobs Report?; QUICK SPARK: Nvidia Board OKs Massive $150B Buyback Plan, Shares Spike to All-Time Highs; CNBC Halftime Report Final Trades: Nvidia, Okta, Cognex, Delta Air Lines",
+      "notes": "",
+      "position": null
+    },
+    "AAPL": {
+      "sma20": 322.65,
+      "sma50": 320.14,
+      "last_close": 335.73,
+      "pct_change": -0.4,
+      "trend": "bullish \u2014 above both MAs",
+      "news": "Why Is The Market Celebrating A Weak Jobs Report?; EXCLUSIVE: Top 12 Most-Searched Tickers in September on Benzinga Pro \u2013 Meta Rises, SpaceX Falls, Dell & Bloom Energy Join List; Exploring The Competitive Space: Apple Versus Industry Peers In Technology Hardware, Storage &amp; Peripherals",
+      "notes": "",
+      "position": {
+        "asset_id": "b0b6dd9d-8b9b-48a9-ba46-b9d54906e415",
+        "symbol": "AAPL",
+        "exchange": "NASDAQ",
+        "asset_class": "us_equity",
+        "asset_marginable": true,
+        "qty": "25",
+        "qty_available": "25",
+        "avg_entry_price": "313.262",
+        "side": "long",
+        "market_value": "8336.25",
+        "cost_basis": "7831.55",
+        "unrealized_pl": "504.7",
+        "unrealized_plpc": "0.06444",
+        "unrealized_intraday_pl": "78.25",
+        "unrealized_intraday_plpc": "0.00948",
+        "current_price": "333.45",
+        "lastday_price": "330.32",
+        "change_today": "0.00948"
+      }
+    },
+    "MSFT": {
+      "sma20": 497.47,
+      "sma50": 464.7,
+      "last_close": 493.1,
+      "pct_change": -0.92,
+      "trend": "mixed \u2014 between MAs",
+      "news": "Why Is The Market Celebrating A Weak Jobs Report?; Anthropic invests $100M to train 10,000 engineers and tackle the enterprise AI talent gap; Ohio Rep. David Taylor Bought Up to $45K Worth of Amgen Stock",
+      "notes": "",
+      "position": null
+    }
+  }
+}
