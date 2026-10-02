@@ -18,7 +18,7 @@
       "pct_change": -0.13,
       "trend": "mixed \u2014 between MAs",
       "news": "Why Is The Market Celebrating A Weak Jobs Report?; Chicago Fed President Austan Goolsbee Says On Fox Business Rate Hike Or Pause On The Table; Inflation Side Of Fed's Job More Important With Labor Market Steady; U.S. Baker Hughes Oil Rig Count +1 To 456; U.S. Baker Hughes NatGas Rig Count -2 To 133; U.S. Baker Hughes Total Rig Count 598 Vs 599 Prior",
-      "notes": "",
+      "notes": "Hold \u2014 below SMA20, no entry",
       "position": null
     },
     "QQQ": {
@@ -48,7 +48,7 @@
       "pct_change": -0.4,
       "trend": "bullish \u2014 above both MAs",
       "news": "Why Is The Market Celebrating A Weak Jobs Report?; EXCLUSIVE: Top 12 Most-Searched Tickers in September on Benzinga Pro \u2013 Meta Rises, SpaceX Falls, Dell & Bloom Energy Join List; Exploring The Competitive Space: Apple Versus Industry Peers In Technology Hardware, Storage &amp; Peripherals",
-      "notes": "",
+      "notes": "Hold \u2014 position open, no exit signal",
       "position": {
         "asset_id": "b0b6dd9d-8b9b-48a9-ba46-b9d54906e415",
         "symbol": "AAPL",
@@ -77,8 +77,27 @@
       "pct_change": -0.92,
       "trend": "mixed \u2014 between MAs",
       "news": "Why Is The Market Celebrating A Weak Jobs Report?; Anthropic invests $100M to train 10,000 engineers and tackle the enterprise AI talent gap; Ohio Rep. David Taylor Bought Up to $45K Worth of Amgen Stock",
-      "notes": "",
+      "notes": "Hold \u2014 below SMA20, no entry",
       "position": null
     }
-  }
+  },
+  "trades": [
+    {
+      "time": "17:36",
+      "symbol": "QQQ",
+      "action": "BUY",
+      "qty": 14,
+      "price": 722.8,
+      "reasoning": "Above SMA20 ($713.25) and SMA50 ($709.94), pct_change=0.62%"
+    },
+    {
+      "time": "17:36",
+      "symbol": "NVDA",
+      "action": "BUY",
+      "qty": 36,
+      "price": 222.48,
+      "reasoning": "Above SMA20 ($218.89) and SMA50 ($214.29), pct_change=1.20%"
+    }
+  ],
+  "closed": []
 }
