@@ -1,0 +1,84 @@
+{
+  "portfolio": {
+    "cash": 93875.35,
+    "total_value": 102194.98,
+    "positions": [
+      {
+        "symbol": "AAPL",
+        "qty": 25,
+        "avg_price": 313.262
+      }
+    ]
+  },
+  "research": {
+    "SPY": {
+      "sma20": 765.15,
+      "sma50": 760.55,
+      "last_close": 773.44,
+      "pct_change": -0.01,
+      "trend": "bullish \u2014 above both MAs",
+      "news": "Former TD Bank Employee Pleads Guilty To Accepting Bribes, Laundering $4.8M To Colombia; S&P Eyes Record High, Yet Concentration Risk Looms; Nvidia, Apple, Microsoft Now Drive 21% of S&P 500: Here\u2019s How Much ETF Investors Own",
+      "notes": "",
+      "position": null
+    },
+    "QQQ": {
+      "sma20": 716.7,
+      "sma50": 710.97,
+      "last_close": 747.43,
+      "pct_change": 0.81,
+      "trend": "bullish \u2014 above both MAs",
+      "news": "S&P Eyes Record High, Yet Concentration Risk Looms; Nvidia, Apple, Microsoft Now Drive 21% of S&P 500: Here\u2019s How Much ETF Investors Own; S&P 500, Nasdaq Hit Records, Power Stocks Rally on Google's Nuclear Deal: Stock Market Today",
+      "notes": "",
+      "position": null
+    },
+    "NVDA": {
+      "sma20": 220.54,
+      "sma50": 215.12,
+      "last_close": 228.85,
+      "pct_change": 0.68,
+      "trend": "bullish \u2014 above both MAs",
+      "news": "Challenging Nvidia's Dominance: Broadcom Pairs Custom TPU Chips with $60 Billion Debt Package; Nvidia, Apple, Microsoft Now Drive 21% of S&P 500: Here\u2019s How Much ETF Investors Own; Nvidia Partner Boost Run Tops $2.6B in Contracts with New AI Deal",
+      "notes": "",
+      "position": null
+    },
+    "AAPL": {
+      "sma20": 325.61,
+      "sma50": 321.06,
+      "last_close": 339.85,
+      "pct_change": 0.25,
+      "trend": "bullish \u2014 above both MAs",
+      "news": "S&P Eyes Record High, Yet Concentration Risk Looms; Nvidia, Apple, Microsoft Now Drive 21% of S&P 500: Here\u2019s How Much ETF Investors Own; Assessing Apple's Performance Against Competitors In Technology Hardware, Storage &amp; Peripherals Industry",
+      "notes": "",
+      "position": {
+        "asset_id": "b0b6dd9d-8b9b-48a9-ba46-b9d54906e415",
+        "symbol": "AAPL",
+        "exchange": "NASDAQ",
+        "asset_class": "us_equity",
+        "asset_marginable": true,
+        "qty": "25",
+        "qty_available": "25",
+        "avg_entry_price": "313.262",
+        "side": "long",
+        "market_value": "8319.625",
+        "cost_basis": "7831.55",
+        "unrealized_pl": "488.075",
+        "unrealized_plpc": "0.06232",
+        "unrealized_intraday_pl": "-2.625",
+        "unrealized_intraday_plpc": "-0.00032",
+        "current_price": "332.785",
+        "lastday_price": "332.89",
+        "change_today": "-0.00032"
+      }
+    },
+    "MSFT": {
+      "sma20": 498.92,
+      "sma50": 469.17,
+      "last_close": 498,
+      "pct_change": -0.73,
+      "trend": "mixed \u2014 between MAs",
+      "news": "Anthropic Announces Claude Now Works With Google Docs, Sheets, And Slides; OpenAI Announces Advancing Computer Use With Ironclad; Nvidia, Apple, Microsoft Now Drive 21% of S&P 500: Here\u2019s How Much ETF Investors Own",
+      "notes": "",
+      "position": null
+    }
+  }
+}
