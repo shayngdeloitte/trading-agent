@@ -48,7 +48,7 @@
       "pct_change": 0.25,
       "trend": "bullish \u2014 above both MAs",
       "news": "S&P Eyes Record High, Yet Concentration Risk Looms; Nvidia, Apple, Microsoft Now Drive 21% of S&P 500: Here\u2019s How Much ETF Investors Own; Assessing Apple's Performance Against Competitors In Technology Hardware, Storage &amp; Peripherals Industry",
-      "notes": "",
+      "notes": "Hold \u2014 position open, no exit signal",
       "position": {
         "asset_id": "b0b6dd9d-8b9b-48a9-ba46-b9d54906e415",
         "symbol": "AAPL",
@@ -77,8 +77,35 @@
       "pct_change": -0.73,
       "trend": "mixed \u2014 between MAs",
       "news": "Anthropic Announces Claude Now Works With Google Docs, Sheets, And Slides; OpenAI Announces Advancing Computer Use With Ironclad; Nvidia, Apple, Microsoft Now Drive 21% of S&P 500: Here\u2019s How Much ETF Investors Own",
-      "notes": "",
+      "notes": "Hold \u2014 below SMA20, no entry",
       "position": null
     }
-  }
+  },
+  "trades": [
+    {
+      "time": "18:03",
+      "symbol": "SPY",
+      "action": "BUY",
+      "qty": 19,
+      "price": 774.99,
+      "reasoning": "Above SMA20 ($765.15) and SMA50 ($760.55), pct_change=-0.01%"
+    },
+    {
+      "time": "18:03",
+      "symbol": "QQQ",
+      "action": "BUY",
+      "qty": 13,
+      "price": 748.92,
+      "reasoning": "Above SMA20 ($716.7) and SMA50 ($710.97), pct_change=0.81%"
+    },
+    {
+      "time": "18:03",
+      "symbol": "NVDA",
+      "action": "BUY",
+      "qty": 35,
+      "price": 229.31,
+      "reasoning": "Above SMA20 ($220.54) and SMA50 ($215.12), pct_change=0.68%"
+    }
+  ],
+  "closed": []
 }
