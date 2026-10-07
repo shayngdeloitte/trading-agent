@@ -48,7 +48,7 @@
       "pct_change": -0.88,
       "trend": "bullish \u2014 above both MAs",
       "news": "Global Bond Selloff Dents Market Bullishness \u2014 Treasury Auction To Test Sentiment; 10 Information Technology Stocks Whale Activity In Today\u2019s Session; Nvidia Inside: Microsoft's New Laptop Runs AI Agents Without the Cloud",
-      "notes": "",
+      "notes": "Hold \u2014 position open, no exit signal",
       "position": {
         "asset_id": "b0b6dd9d-8b9b-48a9-ba46-b9d54906e415",
         "symbol": "AAPL",
@@ -80,5 +80,40 @@
       "notes": "",
       "position": null
     }
-  }
+  },
+  "trades": [
+    {
+      "time": "18:35",
+      "symbol": "SPY",
+      "action": "BUY",
+      "qty": 19,
+      "price": 769.47,
+      "reasoning": "Above SMA20 ($765.26) and SMA50 ($760.87), pct_change=-0.71%"
+    },
+    {
+      "time": "18:35",
+      "symbol": "QQQ",
+      "action": "BUY",
+      "qty": 13,
+      "price": 742.65,
+      "reasoning": "Above SMA20 ($718.23) and SMA50 ($711.4), pct_change=-0.84%"
+    },
+    {
+      "time": "18:35",
+      "symbol": "NVDA",
+      "action": "BUY",
+      "qty": 36,
+      "price": 226.07,
+      "reasoning": "Above SMA20 ($221.17) and SMA50 ($215.4), pct_change=-1.41%"
+    },
+    {
+      "time": "18:35",
+      "symbol": "MSFT",
+      "action": "BUY",
+      "qty": 16,
+      "price": 501.62,
+      "reasoning": "Above SMA20 ($499.38) and SMA50 ($471.49), pct_change=0.53%"
+    }
+  ],
+  "closed": []
 }
