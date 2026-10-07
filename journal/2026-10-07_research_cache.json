@@ -1,0 +1,84 @@
+{
+  "portfolio": {
+    "cash": 93875.35,
+    "total_value": 102295.85,
+    "positions": [
+      {
+        "symbol": "AAPL",
+        "qty": 25,
+        "avg_price": 313.262
+      }
+    ]
+  },
+  "research": {
+    "SPY": {
+      "sma20": 765.26,
+      "sma50": 760.87,
+      "last_close": 767.93,
+      "pct_change": -0.71,
+      "trend": "bullish \u2014 above both MAs",
+      "news": "Fed Minutes Says Participants Generally Saw Inflation Risks As Skewed To The Upside, Some Saw Those Risks Becoming More Skewed In Recent Months; Many Participants Said That Despite Recent Rise In Long-term Treasury Yields, Financial Conditions Appeared Supportive Of Economic Growth; Staff Economic Outlook Was Stronger Than The One Prepared For July Meeting; Fed Minutes Says Almost All Participants Saw Inflation Risks Tilted To The Upside, Job Market Risks As Broadly Balanced; Some Participants Saw AI Buildout Possibly Causing Aggregate Demand To Outpace Supply Over Medium Term, Putting Upward Pressure On Inflation; Fed Minutes Says All Participants At Fed's September 15-16 Meeting Supported 25 Basis Point Rate Hike And Most Assessed Another Increase Would Likely Be Appropriate By End Of Year; Participants Offered A Range Of Views For Why They Supported A Rate Increase; Participants Generally Emphasized That Inflation Remained Elevated And Job Market Appeared Near Full Employment",
+      "notes": "",
+      "position": null
+    },
+    "QQQ": {
+      "sma20": 718.23,
+      "sma50": 711.4,
+      "last_close": 741.17,
+      "pct_change": -0.84,
+      "trend": "bullish \u2014 above both MAs",
+      "news": "Global Bond Selloff Dents Market Bullishness \u2014 Treasury Auction To Test Sentiment; The Stock Market Is Falling: VIX Says Investors Aren\u2019t Really Scared Yet; Stock Market Today: S&P 500, Russell 2000 Fall as 30-Year Yield Hits 5.7%",
+      "notes": "",
+      "position": null
+    },
+    "NVDA": {
+      "sma20": 221.17,
+      "sma50": 215.4,
+      "last_close": 225.62,
+      "pct_change": -1.41,
+      "trend": "bullish \u2014 above both MAs",
+      "news": "Dell Technologies Rolls Out Nvidia RTX Spark-Powered XPS 16 Creator Edition; Starlink Cash Can Carry SpaceX's $40 Billion AI Tab, Dan Ives Says; Intuitive Machines Stock Drops Wednesday: What's Going On?",
+      "notes": "",
+      "position": null
+    },
+    "AAPL": {
+      "sma20": 326.95,
+      "sma50": 321.5,
+      "last_close": 336.87,
+      "pct_change": -0.88,
+      "trend": "bullish \u2014 above both MAs",
+      "news": "Global Bond Selloff Dents Market Bullishness \u2014 Treasury Auction To Test Sentiment; 10 Information Technology Stocks Whale Activity In Today\u2019s Session; Nvidia Inside: Microsoft's New Laptop Runs AI Agents Without the Cloud",
+      "notes": "",
+      "position": {
+        "asset_id": "b0b6dd9d-8b9b-48a9-ba46-b9d54906e415",
+        "symbol": "AAPL",
+        "exchange": "NASDAQ",
+        "asset_class": "us_equity",
+        "asset_marginable": true,
+        "qty": "25",
+        "qty_available": "25",
+        "avg_entry_price": "313.262",
+        "side": "long",
+        "market_value": "8420.5",
+        "cost_basis": "7831.55",
+        "unrealized_pl": "588.95",
+        "unrealized_plpc": "0.0752",
+        "unrealized_intraday_pl": "79.75",
+        "unrealized_intraday_plpc": "0.00956",
+        "current_price": "336.82",
+        "lastday_price": "333.63",
+        "change_today": "0.00956"
+      }
+    },
+    "MSFT": {
+      "sma20": 499.38,
+      "sma50": 471.49,
+      "last_close": 500.62,
+      "pct_change": 0.53,
+      "trend": "bullish \u2014 above both MAs",
+      "news": "OpenAI Introduces GPT\u20116 And Intelligent UI For Everyone; Why Is BKV Stock Surging Wednesday?; Anthropic Introduces Claude Haiku 5.5: The Cheapest, Fastest, And Most Capable Small Model We\u2019ve Ever Released",
+      "notes": "",
+      "position": null
+    }
+  }
+}
