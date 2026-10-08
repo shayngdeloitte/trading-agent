@@ -1,0 +1,84 @@
+{
+  "portfolio": {
+    "cash": 93875.35,
+    "total_value": 102366.6,
+    "positions": [
+      {
+        "symbol": "AAPL",
+        "qty": 25,
+        "avg_price": 313.262
+      }
+    ]
+  },
+  "research": {
+    "SPY": {
+      "sma20": 765.33,
+      "sma50": 761.12,
+      "last_close": 767.29,
+      "pct_change": -0.08,
+      "trend": "bullish \u2014 above both MAs",
+      "news": "'Four Senior Leaders Of Trump's AI Task Force To Meet On Thursday; Vice Chair Kupor Expects Full AI Task Force To Meet Next Week; Kupor Expects AI Task Force To Release Its Charter After First Full Group Meeting' - Reuters Exclusive; Live On Bloomberg TV, Fed's Musalem Says Important To Keep Government Debt Management And Monetary Policy Seperate; Financial Conditions Have Tightened Modestly But Are Accomodative And Supporting Growth; Credit Conditions Solid And Good Amid Some 'Slight' Issues In Market; Live On Bloomberg TV, Fed's Musalem Says It's Possible Government Debt Levels May Eventually Create Risks; Fed Does Not Focus On Government Debt Management; Monetary Policy Independence Is A Valuable Asset",
+      "notes": "",
+      "position": null
+    },
+    "QQQ": {
+      "sma20": 719.72,
+      "sma50": 711.86,
+      "last_close": 741.09,
+      "pct_change": -0.01,
+      "trend": "bullish \u2014 above both MAs",
+      "news": "Stock Reaction To Samsung And TSMC Earnings Is An Early Indicator Of A Market Character Shift\u2014Watch Oil And Yields; Stock Market Today: S&P 500 Slips as Oil Spikes 5%, 10-Year Yields Near 5.35%; AI Bubble Nearing a Breaking Point? Ray Dalio\u2019s Warning Reveals a Risk Hiding in These ETFs",
+      "notes": "",
+      "position": null
+    },
+    "NVDA": {
+      "sma20": 221.91,
+      "sma50": 215.64,
+      "last_close": 224.58,
+      "pct_change": -0.46,
+      "trend": "bullish \u2014 above both MAs",
+      "news": "OpenAI Revenue $20B Below Previous Reports, ORCL, NVDA Tumble; Stock Reaction To Samsung And TSMC Earnings Is An Early Indicator Of A Market Character Shift\u2014Watch Oil And Yields; 10 Information Technology Stocks With Whale Alerts In Today\u2019s Session",
+      "notes": "",
+      "position": null
+    },
+    "AAPL": {
+      "sma20": 328.07,
+      "sma50": 321.66,
+      "last_close": 335.88,
+      "pct_change": -0.29,
+      "trend": "bullish \u2014 above both MAs",
+      "news": "'Apple Names New M&A Chief in Latest Shake-Up Under CEO John Ternus' - Bloomberg News; Stock Reaction To Samsung And TSMC Earnings Is An Early Indicator Of A Market Character Shift\u2014Watch Oil And Yields; 'Apple fixed The Trade Desk\u2019s Safari ad problem\u2014but broader ad tech restrictions could be next'- AdAge",
+      "notes": "",
+      "position": {
+        "asset_id": "b0b6dd9d-8b9b-48a9-ba46-b9d54906e415",
+        "symbol": "AAPL",
+        "exchange": "NASDAQ",
+        "asset_class": "us_equity",
+        "asset_marginable": true,
+        "qty": "25",
+        "qty_available": "25",
+        "avg_entry_price": "313.262",
+        "side": "long",
+        "market_value": "8491.25",
+        "cost_basis": "7831.55",
+        "unrealized_pl": "659.7",
+        "unrealized_plpc": "0.08424",
+        "unrealized_intraday_pl": "74.5",
+        "unrealized_intraday_plpc": "0.00885",
+        "current_price": "339.65",
+        "lastday_price": "336.67",
+        "change_today": "0.00885"
+      }
+    },
+    "MSFT": {
+      "sma20": 499.44,
+      "sma50": 473.53,
+      "last_close": 497.58,
+      "pct_change": -0.61,
+      "trend": "mixed \u2014 between MAs",
+      "news": "OpenAI Revenue $20B Below Previous Reports, ORCL, NVDA Tumble; Stock Reaction To Samsung And TSMC Earnings Is An Early Indicator Of A Market Character Shift\u2014Watch Oil And Yields; Microsoft On U.S. Government Suspending Perm Program, Says \"We Look Forward To Providing The Administration With Additional Information\"; We Pay Our H-1B Employees The Same As Any Other Employees Doing Comparable Work; Vast Majority Of Microsoft Employees In The United States Are Americans; About 80% Of H-1B Visa Applications Co Submitted Last Fiscal Year Were To Extend/Change Status Of Existing Microsoft Employees",
+      "notes": "",
+      "position": null
+    }
+  }
+}
