@@ -48,7 +48,7 @@
       "pct_change": -0.29,
       "trend": "bullish \u2014 above both MAs",
       "news": "'Apple Names New M&A Chief in Latest Shake-Up Under CEO John Ternus' - Bloomberg News; Stock Reaction To Samsung And TSMC Earnings Is An Early Indicator Of A Market Character Shift\u2014Watch Oil And Yields; 'Apple fixed The Trade Desk\u2019s Safari ad problem\u2014but broader ad tech restrictions could be next'- AdAge",
-      "notes": "",
+      "notes": "Hold \u2014 position open, no exit signal",
       "position": {
         "asset_id": "b0b6dd9d-8b9b-48a9-ba46-b9d54906e415",
         "symbol": "AAPL",
@@ -77,8 +77,35 @@
       "pct_change": -0.61,
       "trend": "mixed \u2014 between MAs",
       "news": "OpenAI Revenue $20B Below Previous Reports, ORCL, NVDA Tumble; Stock Reaction To Samsung And TSMC Earnings Is An Early Indicator Of A Market Character Shift\u2014Watch Oil And Yields; Microsoft On U.S. Government Suspending Perm Program, Says \"We Look Forward To Providing The Administration With Additional Information\"; We Pay Our H-1B Employees The Same As Any Other Employees Doing Comparable Work; Vast Majority Of Microsoft Employees In The United States Are Americans; About 80% Of H-1B Visa Applications Co Submitted Last Fiscal Year Were To Extend/Change Status Of Existing Microsoft Employees",
-      "notes": "",
+      "notes": "Hold \u2014 below SMA20, no entry",
       "position": null
     }
-  }
+  },
+  "trades": [
+    {
+      "time": "18:34",
+      "symbol": "SPY",
+      "action": "BUY",
+      "qty": 20,
+      "price": 768.82,
+      "reasoning": "Above SMA20 ($765.33) and SMA50 ($761.12), pct_change=-0.08%"
+    },
+    {
+      "time": "18:34",
+      "symbol": "QQQ",
+      "action": "BUY",
+      "qty": 13,
+      "price": 742.57,
+      "reasoning": "Above SMA20 ($719.72) and SMA50 ($711.86), pct_change=-0.01%"
+    },
+    {
+      "time": "18:34",
+      "symbol": "NVDA",
+      "action": "BUY",
+      "qty": 36,
+      "price": 225.03,
+      "reasoning": "Above SMA20 ($221.91) and SMA50 ($215.64), pct_change=-0.46%"
+    }
+  ],
+  "closed": []
 }
