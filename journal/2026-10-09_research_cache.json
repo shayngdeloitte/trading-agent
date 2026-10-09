@@ -48,7 +48,7 @@
       "pct_change": 1.53,
       "trend": "bullish \u2014 above both MAs",
       "news": "Stock Market Today: Nasdaq 100 Rebounds From OpenAI Scare, T-Mobile Tumbles 12%; Nvidia-Backed Data Center IPO Collapses\u2014OpenAI Revenue Questions\u2014Apple customers Are Not Price Insensitive; Apple's Next MacBook Pro Could Help Make OLED the New Premium Laptop Standard",
-      "notes": "",
+      "notes": "Hold \u2014 position open, no exit signal",
       "position": {
         "asset_id": "b0b6dd9d-8b9b-48a9-ba46-b9d54906e415",
         "symbol": "AAPL",
@@ -80,5 +80,40 @@
       "notes": "",
       "position": null
     }
-  }
+  },
+  "trades": [
+    {
+      "time": "18:05",
+      "symbol": "SPY",
+      "action": "BUY",
+      "qty": 19,
+      "price": 772.89,
+      "reasoning": "Above SMA20 ($765.34) and SMA50 ($761.53), pct_change=0.53%"
+    },
+    {
+      "time": "18:05",
+      "symbol": "QQQ",
+      "action": "BUY",
+      "qty": 13,
+      "price": 745.93,
+      "reasoning": "Above SMA20 ($720.88) and SMA50 ($712.63), pct_change=0.45%"
+    },
+    {
+      "time": "18:05",
+      "symbol": "NVDA",
+      "action": "BUY",
+      "qty": 36,
+      "price": 225.49,
+      "reasoning": "Above SMA20 ($221.76) and SMA50 ($215.99), pct_change=0.20%"
+    },
+    {
+      "time": "18:05",
+      "symbol": "MSFT",
+      "action": "BUY",
+      "qty": 15,
+      "price": 517.18,
+      "reasoning": "Above SMA20 ($500.0) and SMA50 ($475.83), pct_change=3.73%"
+    }
+  ],
+  "closed": []
 }
