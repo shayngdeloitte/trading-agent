@@ -1,0 +1,84 @@
+{
+  "portfolio": {
+    "cash": 93875.35,
+    "total_value": 102254.48,
+    "positions": [
+      {
+        "symbol": "AAPL",
+        "qty": 25,
+        "avg_price": 313.262
+      }
+    ]
+  },
+  "research": {
+    "SPY": {
+      "sma20": 765.34,
+      "sma50": 761.53,
+      "last_close": 771.35,
+      "pct_change": 0.53,
+      "trend": "bullish \u2014 above both MAs",
+      "news": "President Trump To Issue Directive To U.S. Officials That Seeks To Control Cost Of Diesel; Directive On Diesel Will Push U.S. Department Heads To Find Ways To Bypass Local, State Regulations Blocking Energy Production; Directive Will Push U.S. Officials To Use Defense Production Act To Find Ways To Increase Production Of Oil And Fuel; 'Donald Trump pressures Mexico for energy deals in crunch trade talks' - Financial Times; U.S. Baker Hughes Oil Rig Count +6 To 462; U.S. Baker Hughes NatGas Rig Count -1 To 132; U.S. Baker Hughes Total Rig Count 603 Vs 598 Prior",
+      "notes": "",
+      "position": null
+    },
+    "QQQ": {
+      "sma20": 720.88,
+      "sma50": 712.63,
+      "last_close": 744.44,
+      "pct_change": 0.45,
+      "trend": "bullish \u2014 above both MAs",
+      "news": "Stock Market Today: Nasdaq 100 Rebounds From OpenAI Scare, T-Mobile Tumbles 12%; Nvidia-Backed Data Center IPO Collapses\u2014OpenAI Revenue Questions\u2014Apple customers Are Not Price Insensitive; 9 Of 11 Sectors Rise Friday As Real Estate Leads",
+      "notes": "",
+      "position": null
+    },
+    "NVDA": {
+      "sma20": 221.76,
+      "sma50": 215.99,
+      "last_close": 225.04,
+      "pct_change": 0.2,
+      "trend": "bullish \u2014 above both MAs",
+      "news": "10 Information Technology Stocks With Whale Alerts In Today\u2019s Session; Strategy Faces \u2018Dilution Drag\u2019 as TD Cowen Raises Bitcoin Forecast to $109,000; Stock Market Today: Nasdaq 100 Rebounds From OpenAI Scare, T-Mobile Tumbles 12%",
+      "notes": "",
+      "position": null
+    },
+    "AAPL": {
+      "sma20": 329.4,
+      "sma50": 321.82,
+      "last_close": 341.02,
+      "pct_change": 1.53,
+      "trend": "bullish \u2014 above both MAs",
+      "news": "Stock Market Today: Nasdaq 100 Rebounds From OpenAI Scare, T-Mobile Tumbles 12%; Nvidia-Backed Data Center IPO Collapses\u2014OpenAI Revenue Questions\u2014Apple customers Are Not Price Insensitive; Apple's Next MacBook Pro Could Help Make OLED the New Premium Laptop Standard",
+      "notes": "",
+      "position": {
+        "asset_id": "b0b6dd9d-8b9b-48a9-ba46-b9d54906e415",
+        "symbol": "AAPL",
+        "exchange": "NASDAQ",
+        "asset_class": "us_equity",
+        "asset_marginable": true,
+        "qty": "25",
+        "qty_available": "25",
+        "avg_entry_price": "313.262",
+        "side": "long",
+        "market_value": "8379.125",
+        "cost_basis": "7831.55",
+        "unrealized_pl": "547.575",
+        "unrealized_plpc": "0.06992",
+        "unrealized_intraday_pl": "-131.375",
+        "unrealized_intraday_plpc": "-0.01544",
+        "current_price": "335.165",
+        "lastday_price": "340.42",
+        "change_today": "-0.01544"
+      }
+    },
+    "MSFT": {
+      "sma20": 500.0,
+      "sma50": 475.83,
+      "last_close": 516.15,
+      "pct_change": 3.73,
+      "trend": "bullish \u2014 above both MAs",
+      "news": "Stock Market Today: Nasdaq 100 Rebounds From OpenAI Scare, T-Mobile Tumbles 12%; Nvidia-Backed Data Center IPO Collapses\u2014OpenAI Revenue Questions\u2014Apple customers Are Not Price Insensitive; Google Could 'Eat OpenAI's Lunch,' Warns Cal Newport",
+      "notes": "",
+      "position": null
+    }
+  }
+}
