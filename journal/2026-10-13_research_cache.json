@@ -48,7 +48,7 @@
       "pct_change": -0.77,
       "trend": "bullish \u2014 above both MAs",
       "news": "10 Information Technology Stocks With Whale Alerts In Today\u2019s Session; Samsung, SK Hynix Fall In Seoul On China Memory Threat\u2014Broadcom CEO Compares AI Investors To Casino Gamblers\u2014JPM Whipsaws; Google, Amazon and Apple Are in AI's Inner Circle. These 15 Domains Made the Cut",
-      "notes": "",
+      "notes": "Hold \u2014 position open, no exit signal",
       "position": {
         "asset_id": "b0b6dd9d-8b9b-48a9-ba46-b9d54906e415",
         "symbol": "AAPL",
@@ -80,5 +80,40 @@
       "notes": "",
       "position": null
     }
-  }
+  },
+  "trades": [
+    {
+      "time": "19:00",
+      "symbol": "SPY",
+      "action": "BUY",
+      "qty": 20,
+      "price": 767.02,
+      "reasoning": "Above SMA20 ($765.15) and SMA50 ($761.98), pct_change=-0.76%"
+    },
+    {
+      "time": "19:00",
+      "symbol": "QQQ",
+      "action": "BUY",
+      "qty": 13,
+      "price": 738.02,
+      "reasoning": "Above SMA20 ($721.89) and SMA50 ($713.46), pct_change=-1.06%"
+    },
+    {
+      "time": "19:00",
+      "symbol": "NVDA",
+      "action": "BUY",
+      "qty": 35,
+      "price": 229.35,
+      "reasoning": "Above SMA20 ($222.32) and SMA50 ($216.51), pct_change=1.71%"
+    },
+    {
+      "time": "19:00",
+      "symbol": "MSFT",
+      "action": "BUY",
+      "qty": 16,
+      "price": 510.38,
+      "reasoning": "Above SMA20 ($499.78) and SMA50 ($478.14), pct_change=-1.32%"
+    }
+  ],
+  "closed": []
 }
