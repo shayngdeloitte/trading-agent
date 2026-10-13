@@ -1,0 +1,84 @@
+{
+  "portfolio": {
+    "cash": 93875.35,
+    "total_value": 102430.85,
+    "positions": [
+      {
+        "symbol": "AAPL",
+        "qty": 25,
+        "avg_price": 313.262
+      }
+    ]
+  },
+  "research": {
+    "SPY": {
+      "sma20": 765.15,
+      "sma50": 761.98,
+      "last_close": 765.49,
+      "pct_change": -0.76,
+      "trend": "bullish \u2014 above both MAs",
+      "news": "'Sheinbaum Vows to Buy More Goods From the US to Sign Trade Deal' - Bloomberg; 'Israeli Prime Minister Benjamin Netanyahu And President Trump Last Week Discussed The Possibility Of Launching A Major New Operation Against Iran Before The Israeli And U.S. Elections, According To Two U.S. Officials' - Axios; BZ Analysis: The S&P 500 Now Has The Highest Number Of Stocks With A Negative Beta In History",
+      "notes": "",
+      "position": null
+    },
+    "QQQ": {
+      "sma20": 721.89,
+      "sma50": 713.46,
+      "last_close": 736.55,
+      "pct_change": -1.06,
+      "trend": "bullish \u2014 above both MAs",
+      "news": "Chip Stocks Slide as South Korea's KOSPI Plunges, J&J Sinks 6%: Stock Market Today; Samsung, SK Hynix Fall In Seoul On China Memory Threat\u2014Broadcom CEO Compares AI Investors To Casino Gamblers\u2014JPM Whipsaws; Cyclicals Lead Sectors In Tuesday Trading As Health Care Trails",
+      "notes": "",
+      "position": null
+    },
+    "NVDA": {
+      "sma20": 222.32,
+      "sma50": 216.51,
+      "last_close": 228.89,
+      "pct_change": 1.71,
+      "trend": "bullish \u2014 above both MAs",
+      "news": "EXCLUSIVE: Micron Is Not Close to Peak Earnings, Jordi Visser Says. But He Prefers Optics and Crypto; 10 Information Technology Stocks With Whale Alerts In Today\u2019s Session; 'Nvidia Acquires A Stake In Doctolib; No Terms Disclosed; Doctolib Was Valued At \u20ac3.6 Billion Last April. NVIDIA Will Not Sit On Doctolib's Board Of Directors' - Le Figaro",
+      "notes": "",
+      "position": null
+    },
+    "AAPL": {
+      "sma20": 330.34,
+      "sma50": 321.91,
+      "last_close": 338.4,
+      "pct_change": -0.77,
+      "trend": "bullish \u2014 above both MAs",
+      "news": "10 Information Technology Stocks With Whale Alerts In Today\u2019s Session; Samsung, SK Hynix Fall In Seoul On China Memory Threat\u2014Broadcom CEO Compares AI Investors To Casino Gamblers\u2014JPM Whipsaws; Google, Amazon and Apple Are in AI's Inner Circle. These 15 Domains Made the Cut",
+      "notes": "",
+      "position": {
+        "asset_id": "b0b6dd9d-8b9b-48a9-ba46-b9d54906e415",
+        "symbol": "AAPL",
+        "exchange": "NASDAQ",
+        "asset_class": "us_equity",
+        "asset_marginable": true,
+        "qty": "25",
+        "qty_available": "25",
+        "avg_entry_price": "313.262",
+        "side": "long",
+        "market_value": "8555.5",
+        "cost_basis": "7831.55",
+        "unrealized_pl": "723.95",
+        "unrealized_plpc": "0.09244",
+        "unrealized_intraday_pl": "31.25",
+        "unrealized_intraday_plpc": "0.00367",
+        "current_price": "342.22",
+        "lastday_price": "340.97",
+        "change_today": "0.00367"
+      }
+    },
+    "MSFT": {
+      "sma20": 499.78,
+      "sma50": 478.14,
+      "last_close": 509.36,
+      "pct_change": -1.32,
+      "trend": "bullish \u2014 above both MAs",
+      "news": "10 Information Technology Stocks With Whale Alerts In Today\u2019s Session; Barclays Maintains Overweight on Microsoft, Raises Price Target to $600; Oracle Stock Moves Higher: What's Happening?",
+      "notes": "",
+      "position": null
+    }
+  }
+}
