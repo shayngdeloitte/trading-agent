@@ -23,7 +23,7 @@
       "pct_change": -0.15,
       "trend": "mixed \u2014 between MAs",
       "news": "President Trump, On Social Media, Announces U.S. Secures Offtake Commitment From Taiwan For $70B - $80B For Alaska LNG; Taiwan To Also Invest $4.4B In Alaska LNG Project As Equity; Reported Earlier: 'Container ship sinks near Hormuz after being hit by projectile' - Reuters; 8 Of 11 Sectors Fall Wednesday As Defensives Lead",
-      "notes": "",
+      "notes": "Hold \u2014 below SMA20, no entry",
       "position": null
     },
     "QQQ": {
@@ -43,7 +43,7 @@
       "pct_change": -0.72,
       "trend": "bullish \u2014 above both MAs",
       "news": "NVIDIA Expands CUDA-X AI Tools For Semiconductor Manufacturing, Delivering 2\u20133x Faster Atom-Level Simulations And 30x Faster Chipmaking Simulations; Why Is Super Micro Computer Stock Falling on Wednesday?; Nasdaq 100 Drops 1% on Hot CPI, SOXX Falls 7th Day: Stock Market Today",
-      "notes": "",
+      "notes": "Hold \u2014 position open, no exit signal",
       "position": {
         "asset_id": "4ce9353c-66d1-46c2-898f-fce867ab0247",
         "symbol": "NVDA",
@@ -104,5 +104,34 @@
       "notes": "",
       "position": null
     }
-  }
+  },
+  "trades": [
+    {
+      "time": "16:44",
+      "symbol": "QQQ",
+      "action": "BUY",
+      "qty": 13,
+      "price": 739.44,
+      "reasoning": "Above SMA20 ($722.95) and SMA50 ($714.3), pct_change=0.19%"
+    },
+    {
+      "time": "16:44",
+      "symbol": "AAPL",
+      "action": "SELL",
+      "qty": 25,
+      "price": 328.92,
+      "reasoning": "Price $329.58 crossed below SMA20 $330.96"
+    },
+    {
+      "time": "16:44",
+      "symbol": "MSFT",
+      "action": "BUY",
+      "qty": 16,
+      "price": 509.94,
+      "reasoning": "Above SMA20 ($499.88) and SMA50 ($480.26), pct_change=-0.09%"
+    }
+  ],
+  "closed": [
+    "AAPL"
+  ]
 }
