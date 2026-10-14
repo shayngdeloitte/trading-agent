@@ -1,0 +1,108 @@
+{
+  "portfolio": {
+    "cash": 85915.53,
+    "total_value": 102310.36,
+    "positions": [
+      {
+        "symbol": "AAPL",
+        "qty": 25,
+        "avg_price": 313.262
+      },
+      {
+        "symbol": "NVDA",
+        "qty": 35,
+        "avg_price": 227.423143
+      }
+    ]
+  },
+  "research": {
+    "SPY": {
+      "sma20": 765.02,
+      "sma50": 762.42,
+      "last_close": 764.38,
+      "pct_change": -0.15,
+      "trend": "mixed \u2014 between MAs",
+      "news": "President Trump, On Social Media, Announces U.S. Secures Offtake Commitment From Taiwan For $70B - $80B For Alaska LNG; Taiwan To Also Invest $4.4B In Alaska LNG Project As Equity; Reported Earlier: 'Container ship sinks near Hormuz after being hit by projectile' - Reuters; 8 Of 11 Sectors Fall Wednesday As Defensives Lead",
+      "notes": "",
+      "position": null
+    },
+    "QQQ": {
+      "sma20": 722.95,
+      "sma50": 714.3,
+      "last_close": 737.96,
+      "pct_change": 0.19,
+      "trend": "bullish \u2014 above both MAs",
+      "news": "Nasdaq 100 Drops 1% on Hot CPI, SOXX Falls 7th Day: Stock Market Today; 8 Of 11 Sectors Fall Wednesday As Defensives Lead; Wall Street\u2019s \u2018Last Men Standing\u2019: The Mag 7 Are Propping Up the S&P 500, Then Why Are Your ETFs at Risk?",
+      "notes": "",
+      "position": null
+    },
+    "NVDA": {
+      "sma20": 222.64,
+      "sma50": 216.99,
+      "last_close": 227.24,
+      "pct_change": -0.72,
+      "trend": "bullish \u2014 above both MAs",
+      "news": "NVIDIA Expands CUDA-X AI Tools For Semiconductor Manufacturing, Delivering 2\u20133x Faster Atom-Level Simulations And 30x Faster Chipmaking Simulations; Why Is Super Micro Computer Stock Falling on Wednesday?; Nasdaq 100 Drops 1% on Hot CPI, SOXX Falls 7th Day: Stock Market Today",
+      "notes": "",
+      "position": {
+        "asset_id": "4ce9353c-66d1-46c2-898f-fce867ab0247",
+        "symbol": "NVDA",
+        "exchange": "NASDAQ",
+        "asset_class": "us_equity",
+        "asset_marginable": true,
+        "qty": "35",
+        "qty_available": "35",
+        "avg_entry_price": "227.423143",
+        "side": "long",
+        "market_value": "7783.3",
+        "cost_basis": "7959.810005",
+        "unrealized_pl": "-176.510005",
+        "unrealized_plpc": "-0.02218",
+        "unrealized_intraday_pl": "-214.9",
+        "unrealized_intraday_plpc": "-0.02687",
+        "current_price": "222.38",
+        "lastday_price": "228.52",
+        "change_today": "-0.02687"
+      }
+    },
+    "AAPL": {
+      "sma20": 330.96,
+      "sma50": 321.97,
+      "last_close": 329.58,
+      "pct_change": -2.61,
+      "trend": "mixed \u2014 between MAs",
+      "news": "Apple Has a $299 Smart-Home Bet: The Real Money May Be in Subscriptions; Nasdaq 100 Drops 1% on Hot CPI, SOXX Falls 7th Day: Stock Market Today; Apple Has Found No Evidence To Support OpenAI's Allegations; Says Apple Has Searched For The One File That OpenAI Has Identified, But Has Not Found It On Any Apple System; Co Has Strict Policies & Procedures In Place To Help Ensure That New Employees Don't Use Any Confidential Information From Prior Employer; Says OpenAI Has Failed To Respond To Apple\u2019s Request For More Information That Would Aid In Its Investigation",
+      "notes": "",
+      "position": {
+        "asset_id": "b0b6dd9d-8b9b-48a9-ba46-b9d54906e415",
+        "symbol": "AAPL",
+        "exchange": "NASDAQ",
+        "asset_class": "us_equity",
+        "asset_marginable": true,
+        "qty": "25",
+        "qty_available": "25",
+        "avg_entry_price": "313.262",
+        "side": "long",
+        "market_value": "8611.875",
+        "cost_basis": "7831.55",
+        "unrealized_pl": "780.325",
+        "unrealized_plpc": "0.09964",
+        "unrealized_intraday_pl": "80.125",
+        "unrealized_intraday_plpc": "0.00939",
+        "current_price": "344.475",
+        "lastday_price": "341.27",
+        "change_today": "0.00939"
+      }
+    },
+    "MSFT": {
+      "sma20": 499.88,
+      "sma50": 480.26,
+      "last_close": 508.92,
+      "pct_change": -0.09,
+      "trend": "bullish \u2014 above both MAs",
+      "news": "'OpenAI Names Uday Ruddarraju to Lead Data Center, Computing Unit' - Bloomberg; Apple Has Found No Evidence To Support OpenAI's Allegations; Says Apple Has Searched For The One File That OpenAI Has Identified, But Has Not Found It On Any Apple System; Co Has Strict Policies & Procedures In Place To Help Ensure That New Employees Don't Use Any Confidential Information From Prior Employer; Says OpenAI Has Failed To Respond To Apple\u2019s Request For More Information That Would Aid In Its Investigation; OpenAI Brief In Apple Vs OpenAI Lawsuit Say Files Leaked Include Detailed Unreleased Device Images, Engineering Data, Supplier Info; Says Apple Has Not Assured It Is Not In Possession Of & Has Not Used OpenAI Confidential Data; Files Leaked By Employee Also Include Manufacturing Data About Devices",
+      "notes": "",
+      "position": null
+    }
+  }
+}
