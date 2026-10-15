@@ -1,0 +1,108 @@
+{
+  "portfolio": {
+    "cash": 85017.84,
+    "total_value": 101982.65,
+    "positions": [
+      {
+        "symbol": "NVDA",
+        "qty": 35,
+        "avg_price": 227.423143
+      },
+      {
+        "symbol": "QQQ",
+        "qty": 13,
+        "avg_price": 731.461538
+      }
+    ]
+  },
+  "research": {
+    "SPY": {
+      "sma20": 765.06,
+      "sma50": 762.71,
+      "last_close": 762.34,
+      "pct_change": -0.27,
+      "trend": "bearish \u2014 below both MAs",
+      "news": "EIA Weekly Distillates Stocks 2.527M Barrel Draw Vs 1.600M Barrel Draw Est.; Defensives Lead Sectors In Thursday Trading As Technology Trails; U.S. Consumer Product Safety Commission Eliminates Unnecessary Fuel Additive Regulations, Saving American Businesses Up To $10.7B",
+      "notes": "",
+      "position": null
+    },
+    "QQQ": {
+      "sma20": 724.54,
+      "sma50": 714.91,
+      "last_close": 739.51,
+      "pct_change": 0.21,
+      "trend": "bullish \u2014 above both MAs",
+      "news": "Defensives Lead Sectors In Thursday Trading As Technology Trails; Will Tesla's Roadster Fly Tonight? Prediction Markets Say It's Likely; Stock Market Today: Dow Futures Gain, S&P 500, Nasdaq Fall As Chip Stock Sell-Off Intensifies \u2014 SKHY, TSM, RKLB in Focus (UPDATED)",
+      "notes": "",
+      "position": {
+        "asset_id": "2d9e926c-e17c-47c3-ad8c-26c7a594e48f",
+        "symbol": "QQQ",
+        "exchange": "NASDAQ",
+        "asset_class": "us_equity",
+        "asset_marginable": true,
+        "qty": "13",
+        "qty_available": "13",
+        "avg_entry_price": "731.461538",
+        "side": "long",
+        "market_value": "9395.36",
+        "cost_basis": "9508.999994",
+        "unrealized_pl": "-113.639994",
+        "unrealized_plpc": "-0.01195",
+        "unrealized_intraday_pl": "-80.99",
+        "unrealized_intraday_plpc": "-0.00855",
+        "current_price": "722.72",
+        "lastday_price": "728.95",
+        "change_today": "-0.00855"
+      }
+    },
+    "NVDA": {
+      "sma20": 223.18,
+      "sma50": 217.41,
+      "last_close": 228.29,
+      "pct_change": 0.46,
+      "trend": "bullish \u2014 above both MAs",
+      "news": "AI Financing Fears Hammer Chip Stocks: These 2 ETFs Are Cashing In on the Sell-Off; Why Is SMCI Stock Falling on Thursday?; SOXX Vs. SMH: Which ETF Faces More Risk as CoreWeave Debt Crisis Rattles AI Stocks?",
+      "notes": "",
+      "position": {
+        "asset_id": "4ce9353c-66d1-46c2-898f-fce867ab0247",
+        "symbol": "NVDA",
+        "exchange": "NASDAQ",
+        "asset_class": "us_equity",
+        "asset_marginable": true,
+        "qty": "35",
+        "qty_available": "35",
+        "avg_entry_price": "227.423143",
+        "side": "long",
+        "market_value": "7569.45",
+        "cost_basis": "7959.810005",
+        "unrealized_pl": "-390.360005",
+        "unrealized_plpc": "-0.04904",
+        "unrealized_intraday_pl": "-176.05",
+        "unrealized_intraday_plpc": "-0.02273",
+        "current_price": "216.27",
+        "lastday_price": "221.3",
+        "change_today": "-0.02273"
+      }
+    },
+    "AAPL": {
+      "sma20": 331.36,
+      "sma50": 322.08,
+      "last_close": 333.21,
+      "pct_change": 1.1,
+      "trend": "bullish \u2014 above both MAs",
+      "news": "Defensives Lead Sectors In Thursday Trading As Technology Trails; Apple Intelligence Reportedly Nears China Debut After Delays. What to Expect; Micron Stock Slides Again Thursday: What's Going On?",
+      "notes": "",
+      "position": null
+    },
+    "MSFT": {
+      "sma20": 500.47,
+      "sma50": 482.57,
+      "last_close": 512.91,
+      "pct_change": 0.78,
+      "trend": "bullish \u2014 above both MAs",
+      "news": "FTC Spokesman Says President Trump Task Force On AI To Meet Thursday; TD Cowen Maintains Buy on Microsoft, Raises Price Target to $625; Politico Reported Microsoft President Warned White House Against Crackdown On Skilled Immigration",
+      "notes": "",
+      "position": null
+    }
+  }
+}
