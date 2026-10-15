@@ -23,7 +23,7 @@
       "pct_change": -0.27,
       "trend": "bearish \u2014 below both MAs",
       "news": "EIA Weekly Distillates Stocks 2.527M Barrel Draw Vs 1.600M Barrel Draw Est.; Defensives Lead Sectors In Thursday Trading As Technology Trails; U.S. Consumer Product Safety Commission Eliminates Unnecessary Fuel Additive Regulations, Saving American Businesses Up To $10.7B",
-      "notes": "",
+      "notes": "Hold \u2014 below SMA20, no entry",
       "position": null
     },
     "QQQ": {
@@ -33,7 +33,7 @@
       "pct_change": 0.21,
       "trend": "bullish \u2014 above both MAs",
       "news": "Defensives Lead Sectors In Thursday Trading As Technology Trails; Will Tesla's Roadster Fly Tonight? Prediction Markets Say It's Likely; Stock Market Today: Dow Futures Gain, S&P 500, Nasdaq Fall As Chip Stock Sell-Off Intensifies \u2014 SKHY, TSM, RKLB in Focus (UPDATED)",
-      "notes": "",
+      "notes": "Hold \u2014 position open, no exit signal",
       "position": {
         "asset_id": "2d9e926c-e17c-47c3-ad8c-26c7a594e48f",
         "symbol": "QQQ",
@@ -62,7 +62,7 @@
       "pct_change": 0.46,
       "trend": "bullish \u2014 above both MAs",
       "news": "AI Financing Fears Hammer Chip Stocks: These 2 ETFs Are Cashing In on the Sell-Off; Why Is SMCI Stock Falling on Thursday?; SOXX Vs. SMH: Which ETF Faces More Risk as CoreWeave Debt Crisis Rattles AI Stocks?",
-      "notes": "",
+      "notes": "Hold \u2014 position open, no exit signal",
       "position": {
         "asset_id": "4ce9353c-66d1-46c2-898f-fce867ab0247",
         "symbol": "NVDA",
@@ -104,5 +104,24 @@
       "notes": "",
       "position": null
     }
-  }
+  },
+  "trades": [
+    {
+      "time": "16:30",
+      "symbol": "AAPL",
+      "action": "BUY",
+      "qty": 24,
+      "price": 333.88,
+      "reasoning": "Above SMA20 ($331.36) and SMA50 ($322.08), pct_change=1.10%"
+    },
+    {
+      "time": "16:30",
+      "symbol": "MSFT",
+      "action": "BUY",
+      "qty": 15,
+      "price": 513.94,
+      "reasoning": "Above SMA20 ($500.47) and SMA50 ($482.57), pct_change=0.78%"
+    }
+  ],
+  "closed": []
 }
