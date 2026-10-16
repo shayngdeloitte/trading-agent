@@ -23,7 +23,7 @@
       "pct_change": 0.23,
       "trend": "mixed \u2014 between MAs",
       "news": "Barclays Expects U.S. Fed To Deliver A 25 BP Rate Hike Each In December And January Vs Prior Forecast Of A Hike In December This Year; 9 Of 11 Sectors Rise In Friday Trading As Cyclicals Lead; Putin's Envoy Dmitriev Says U.S., Russia Discuss Joint Data Centres Projects, Including With Usage Of Russian Nuclear Power Stations; We Will Implement Other Projects Before The End Of Russia's Special Military Operation",
-      "notes": "",
+      "notes": "Hold \u2014 below SMA20, no entry",
       "position": null
     },
     "QQQ": {
@@ -33,7 +33,7 @@
       "pct_change": 0.34,
       "trend": "bullish \u2014 above both MAs",
       "news": "9 Of 11 Sectors Rise In Friday Trading As Cyclicals Lead; AI Bubble Worries Hand Long-Term Treasuries Their Best Week Since March 2025; Stock Market Today: Dow Jones, S&P 500 Futures Rise, Nasdaq Falls as Bessent Intensifies Economic Pressure on Iran\u2014 TSLA, AA, IBKR in Focus (UPDATED)",
-      "notes": "",
+      "notes": "Hold \u2014 position open, no exit signal",
       "position": {
         "asset_id": "2d9e926c-e17c-47c3-ad8c-26c7a594e48f",
         "symbol": "QQQ",
@@ -62,7 +62,7 @@
       "pct_change": 1.2,
       "trend": "bullish \u2014 above both MAs",
       "news": "Nvidia, Micron and Broadcom Already Trade Like Cisco Post Dot-Com Burst: Bank of America; CoreWeave Has \u2018Darwin Moment\u2019 As Credit Markets Price In 60% Default Odds; Trump\u2019s $330 Million White House Ballroom Donor List Reveals Nvidia, Apple and Google Among Top Tech Contributors: Report (UPDATED)",
-      "notes": "",
+      "notes": "Hold \u2014 position open, no exit signal",
       "position": {
         "asset_id": "4ce9353c-66d1-46c2-898f-fce867ab0247",
         "symbol": "NVDA",
@@ -91,7 +91,7 @@
       "pct_change": -0.83,
       "trend": "mixed \u2014 between MAs",
       "news": "'Apple Set For UK Legal Fight Over iPhone Tap-To-Pay Rules' - Financial Times; 'PayPal And Epic Games Have Discussed Concerns With The Justice Department That A Settlement With Apple Could Fail To Meaningfully Curb Its Restrictions On Rival Apps And Devices' - The Information; Trump\u2019s $330 Million White House Ballroom Donor List Reveals Nvidia, Apple and Google Among Top Tech Contributors: Report (UPDATED)",
-      "notes": "",
+      "notes": "Hold \u2014 below SMA20, no entry",
       "position": null
     },
     "MSFT": {
@@ -104,5 +104,16 @@
       "notes": "",
       "position": null
     }
-  }
+  },
+  "trades": [
+    {
+      "time": "16:15",
+      "symbol": "MSFT",
+      "action": "BUY",
+      "qty": 15,
+      "price": 513.74,
+      "reasoning": "Above SMA20 ($501.26) and SMA50 ($485.02), pct_change=-0.04%"
+    }
+  ],
+  "closed": []
 }
