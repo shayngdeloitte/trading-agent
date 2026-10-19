@@ -33,7 +33,7 @@
       "pct_change": 0.88,
       "trend": "bullish \u2014 above both MAs",
       "news": "Dow Jones Industrial Average in Spotlight: 5 Stocks Report This Week, Including 2 of the Worst Performing; Stock Market Today: Nasdaq 100 Rises as AI Chip Rout Reverses, SanDisk Jumps 7%; Why Is AMD Stock Surging on Monday?",
-      "notes": "",
+      "notes": "Hold \u2014 position open, no exit signal",
       "position": {
         "asset_id": "2d9e926c-e17c-47c3-ad8c-26c7a594e48f",
         "symbol": "QQQ",
@@ -62,7 +62,7 @@
       "pct_change": 2.13,
       "trend": "bullish \u2014 above both MAs",
       "news": "Nvidia Researchers Using Supercomputer Jupiter For Fault-Tolerant Computing Simulation; 10 Information Technology Stocks With Whale Alerts In Today\u2019s Session; 'DeepSeek Working With Huawei Technologies To Shape Design Of Future AI Chips' - The Information",
-      "notes": "",
+      "notes": "Hold \u2014 position open, no exit signal",
       "position": {
         "asset_id": "4ce9353c-66d1-46c2-898f-fce867ab0247",
         "symbol": "NVDA",
@@ -104,5 +104,32 @@
       "notes": "",
       "position": null
     }
-  }
+  },
+  "trades": [
+    {
+      "time": "18:27",
+      "symbol": "SPY",
+      "action": "BUY",
+      "qty": 19,
+      "price": 776.52,
+      "reasoning": "Above SMA20 ($765.07) and SMA50 ($764.39), pct_change=0.69%"
+    },
+    {
+      "time": "18:27",
+      "symbol": "AAPL",
+      "action": "BUY",
+      "qty": 24,
+      "price": 333.78,
+      "reasoning": "Above SMA20 ($332.56) and SMA50 ($322.42), pct_change=-0.19%"
+    },
+    {
+      "time": "18:27",
+      "symbol": "MSFT",
+      "action": "BUY",
+      "qty": 15,
+      "price": 526.06,
+      "reasoning": "Above SMA20 ($502.9) and SMA50 ($490.6), pct_change=1.49%"
+    }
+  ],
+  "closed": []
 }
