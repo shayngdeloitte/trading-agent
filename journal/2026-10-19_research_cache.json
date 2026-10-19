@@ -1,0 +1,108 @@
+{
+  "portfolio": {
+    "cash": 85017.84,
+    "total_value": 101951.13,
+    "positions": [
+      {
+        "symbol": "NVDA",
+        "qty": 35,
+        "avg_price": 227.423143
+      },
+      {
+        "symbol": "QQQ",
+        "qty": 13,
+        "avg_price": 731.461538
+      }
+    ]
+  },
+  "research": {
+    "SPY": {
+      "sma20": 765.07,
+      "sma50": 764.39,
+      "last_close": 774.97,
+      "pct_change": 0.69,
+      "trend": "bullish \u2014 above both MAs",
+      "news": "Homebuilder Sentiment Hits 2012 Lows As Stocks Trade Like They Did During COVID-19 Pandemic; Dow Jones Industrial Average in Spotlight: 5 Stocks Report This Week, Including 2 of the Worst Performing; U.S. Transportation Secretary Sean P. Duffy Announces Over $2.3B Investment Into Rail Infrastructure, Safety Across America",
+      "notes": "",
+      "position": null
+    },
+    "QQQ": {
+      "sma20": 729.62,
+      "sma50": 718.24,
+      "last_close": 756.09,
+      "pct_change": 0.88,
+      "trend": "bullish \u2014 above both MAs",
+      "news": "Dow Jones Industrial Average in Spotlight: 5 Stocks Report This Week, Including 2 of the Worst Performing; Stock Market Today: Nasdaq 100 Rises as AI Chip Rout Reverses, SanDisk Jumps 7%; Why Is AMD Stock Surging on Monday?",
+      "notes": "",
+      "position": {
+        "asset_id": "2d9e926c-e17c-47c3-ad8c-26c7a594e48f",
+        "symbol": "QQQ",
+        "exchange": "NASDAQ",
+        "asset_class": "us_equity",
+        "asset_marginable": true,
+        "qty": "13",
+        "qty_available": "13",
+        "avg_entry_price": "731.461538",
+        "side": "long",
+        "market_value": "9338.03",
+        "cost_basis": "9508.999994",
+        "unrealized_pl": "-170.969994",
+        "unrealized_plpc": "-0.01798",
+        "unrealized_intraday_pl": "110.63",
+        "unrealized_intraday_plpc": "0.01199",
+        "current_price": "718.31",
+        "lastday_price": "709.8",
+        "change_today": "0.01199"
+      }
+    },
+    "NVDA": {
+      "sma20": 224.22,
+      "sma50": 218.93,
+      "last_close": 238.98,
+      "pct_change": 2.13,
+      "trend": "bullish \u2014 above both MAs",
+      "news": "Nvidia Researchers Using Supercomputer Jupiter For Fault-Tolerant Computing Simulation; 10 Information Technology Stocks With Whale Alerts In Today\u2019s Session; 'DeepSeek Working With Huawei Technologies To Shape Design Of Future AI Chips' - The Information",
+      "notes": "",
+      "position": {
+        "asset_id": "4ce9353c-66d1-46c2-898f-fce867ab0247",
+        "symbol": "NVDA",
+        "exchange": "NASDAQ",
+        "asset_class": "us_equity",
+        "asset_marginable": true,
+        "qty": "35",
+        "qty_available": "35",
+        "avg_entry_price": "227.423143",
+        "side": "long",
+        "market_value": "7594.3",
+        "cost_basis": "7959.810005",
+        "unrealized_pl": "-365.510005",
+        "unrealized_plpc": "-0.04592",
+        "unrealized_intraday_pl": "99.75",
+        "unrealized_intraday_plpc": "0.01331",
+        "current_price": "216.98",
+        "lastday_price": "214.13",
+        "change_today": "0.01331"
+      }
+    },
+    "AAPL": {
+      "sma20": 332.56,
+      "sma50": 322.42,
+      "last_close": 333.11,
+      "pct_change": -0.19,
+      "trend": "bullish \u2014 above both MAs",
+      "news": "10 Information Technology Stocks With Whale Alerts In Today\u2019s Session; 'Apple Announces Oct. 28 Event for Touch-Screen MacBook Pro' - Bloomberg; Apple SVP Marketing Greg Joswiak, On Social Media, Hints At New Product Announcement Next Week",
+      "notes": "",
+      "position": null
+    },
+    "MSFT": {
+      "sma20": 502.9,
+      "sma50": 490.6,
+      "last_close": 525.01,
+      "pct_change": 1.49,
+      "trend": "bullish \u2014 above both MAs",
+      "news": "Putin\u2019s Proposed Trump-Xi Summit In China Could Hurt US Stocks Long Term; Meta And Tesla Earnings Ahead; 'Of Course' Bitcoin Could Grow to $50 Trillion, Jordi Visser Says: But How?; Ex-OpenAI Employee Accused Of Planting Recording Device Appears To Have Received 'Considerable Support' From Saudi Government",
+      "notes": "",
+      "position": null
+    }
+  }
+}
