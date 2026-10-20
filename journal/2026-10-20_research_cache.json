@@ -1,0 +1,132 @@
+{
+  "portfolio": {
+    "cash": 70444.46,
+    "total_value": 102004.73,
+    "positions": [
+      {
+        "symbol": "NVDA",
+        "qty": 35,
+        "avg_price": 227.423143
+      },
+      {
+        "symbol": "QQQ",
+        "qty": 13,
+        "avg_price": 731.461538
+      },
+      {
+        "symbol": "SPY",
+        "qty": 19,
+        "avg_price": 767.019474
+      }
+    ]
+  },
+  "research": {
+    "SPY": {
+      "sma20": 765.07,
+      "sma50": 764.39,
+      "last_close": 774.97,
+      "pct_change": 0.69,
+      "trend": "bullish \u2014 above both MAs",
+      "news": "408x Oversubscribed AI IPO Crashes 32%\u2014Democratic Sweep Prospects Trigger Selling in Data Center Stocks; 'HHS releases new kidney care plan' - Axios Exclusive; Live On CNN News18, U.S. Secretary Of State Rubio Says Oil Going Through Hormuz Nearly Equal To Before War",
+      "notes": "",
+      "position": {
+        "asset_id": "b28f4066-5c6d-479b-a2af-85dc1a8f16fb",
+        "symbol": "SPY",
+        "exchange": "ARCA",
+        "asset_class": "us_equity",
+        "asset_marginable": true,
+        "qty": "19",
+        "qty_available": "19",
+        "avg_entry_price": "767.019474",
+        "side": "long",
+        "market_value": "14615.18",
+        "cost_basis": "14573.370006",
+        "unrealized_pl": "41.809994",
+        "unrealized_plpc": "0.00287",
+        "unrealized_intraday_pl": "52.06",
+        "unrealized_intraday_plpc": "0.00357",
+        "current_price": "769.22",
+        "lastday_price": "766.48",
+        "change_today": "0.00357"
+      }
+    },
+    "QQQ": {
+      "sma20": 729.62,
+      "sma50": 718.24,
+      "last_close": 756.09,
+      "pct_change": 0.88,
+      "trend": "bullish \u2014 above both MAs",
+      "news": "408x Oversubscribed AI IPO Crashes 32%\u2014Democratic Sweep Prospects Trigger Selling in Data Center Stocks; Energy Only Sector Lower In Tuesday Trading As Defensives Lead; Stock Market Today:  Dow Jones, S&P 500, Nasdaq 100 Futures Fall as Iran Threatens to Target Undersea Cables \u2014 SPCX, NFLX, STLD in Focus (UPDATED)",
+      "notes": "",
+      "position": {
+        "asset_id": "2d9e926c-e17c-47c3-ad8c-26c7a594e48f",
+        "symbol": "QQQ",
+        "exchange": "NASDAQ",
+        "asset_class": "us_equity",
+        "asset_marginable": true,
+        "qty": "13",
+        "qty_available": "13",
+        "avg_entry_price": "731.461538",
+        "side": "long",
+        "market_value": "9348.69",
+        "cost_basis": "9508.999994",
+        "unrealized_pl": "-160.309994",
+        "unrealized_plpc": "-0.01686",
+        "unrealized_intraday_pl": "10.01",
+        "unrealized_intraday_plpc": "0.00107",
+        "current_price": "719.13",
+        "lastday_price": "718.36",
+        "change_today": "0.00107"
+      }
+    },
+    "NVDA": {
+      "sma20": 224.22,
+      "sma50": 218.93,
+      "last_close": 238.98,
+      "pct_change": 2.13,
+      "trend": "bullish \u2014 above both MAs",
+      "news": "408x Oversubscribed AI IPO Crashes 32%\u2014Democratic Sweep Prospects Trigger Selling in Data Center Stocks; Michael Burry Sees a 2000-Style Rotation Out of the Market's Winners; 'A Surprisingly Large Amount Of Your Investment Is Divided Across Just 7 Companies' \u2014 Former Investment Banker Says She's Changing How She Invests",
+      "notes": "",
+      "position": {
+        "asset_id": "4ce9353c-66d1-46c2-898f-fce867ab0247",
+        "symbol": "NVDA",
+        "exchange": "NASDAQ",
+        "asset_class": "us_equity",
+        "asset_marginable": true,
+        "qty": "35",
+        "qty_available": "35",
+        "avg_entry_price": "227.423143",
+        "side": "long",
+        "market_value": "7597.1",
+        "cost_basis": "7959.810005",
+        "unrealized_pl": "-362.710005",
+        "unrealized_plpc": "-0.04557",
+        "unrealized_intraday_pl": "-1.05",
+        "unrealized_intraday_plpc": "-0.00014",
+        "current_price": "217.06",
+        "lastday_price": "217.09",
+        "change_today": "-0.00014"
+      }
+    },
+    "AAPL": {
+      "sma20": 332.56,
+      "sma50": 322.42,
+      "last_close": 333.11,
+      "pct_change": -0.19,
+      "trend": "bullish \u2014 above both MAs",
+      "news": "408x Oversubscribed AI IPO Crashes 32%\u2014Democratic Sweep Prospects Trigger Selling in Data Center Stocks; Michael Burry Sees a 2000-Style Rotation Out of the Market's Winners; 'A Surprisingly Large Amount Of Your Investment Is Divided Across Just 7 Companies' \u2014 Former Investment Banker Says She's Changing How She Invests",
+      "notes": "",
+      "position": null
+    },
+    "MSFT": {
+      "sma20": 502.9,
+      "sma50": 490.6,
+      "last_close": 525.01,
+      "pct_change": 1.49,
+      "trend": "bullish \u2014 above both MAs",
+      "news": "408x Oversubscribed AI IPO Crashes 32%\u2014Democratic Sweep Prospects Trigger Selling in Data Center Stocks; Michael Burry Sees a 2000-Style Rotation Out of the Market's Winners; 'A Surprisingly Large Amount Of Your Investment Is Divided Across Just 7 Companies' \u2014 Former Investment Banker Says She's Changing How She Invests",
+      "notes": "",
+      "position": null
+    }
+  }
+}
