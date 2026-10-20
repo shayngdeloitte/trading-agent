@@ -28,7 +28,7 @@
       "pct_change": 0.69,
       "trend": "bullish \u2014 above both MAs",
       "news": "408x Oversubscribed AI IPO Crashes 32%\u2014Democratic Sweep Prospects Trigger Selling in Data Center Stocks; 'HHS releases new kidney care plan' - Axios Exclusive; Live On CNN News18, U.S. Secretary Of State Rubio Says Oil Going Through Hormuz Nearly Equal To Before War",
-      "notes": "",
+      "notes": "Hold \u2014 position open, no exit signal",
       "position": {
         "asset_id": "b28f4066-5c6d-479b-a2af-85dc1a8f16fb",
         "symbol": "SPY",
@@ -57,7 +57,7 @@
       "pct_change": 0.88,
       "trend": "bullish \u2014 above both MAs",
       "news": "408x Oversubscribed AI IPO Crashes 32%\u2014Democratic Sweep Prospects Trigger Selling in Data Center Stocks; Energy Only Sector Lower In Tuesday Trading As Defensives Lead; Stock Market Today:  Dow Jones, S&P 500, Nasdaq 100 Futures Fall as Iran Threatens to Target Undersea Cables \u2014 SPCX, NFLX, STLD in Focus (UPDATED)",
-      "notes": "",
+      "notes": "Hold \u2014 position open, no exit signal",
       "position": {
         "asset_id": "2d9e926c-e17c-47c3-ad8c-26c7a594e48f",
         "symbol": "QQQ",
@@ -86,7 +86,7 @@
       "pct_change": 2.13,
       "trend": "bullish \u2014 above both MAs",
       "news": "408x Oversubscribed AI IPO Crashes 32%\u2014Democratic Sweep Prospects Trigger Selling in Data Center Stocks; Michael Burry Sees a 2000-Style Rotation Out of the Market's Winners; 'A Surprisingly Large Amount Of Your Investment Is Divided Across Just 7 Companies' \u2014 Former Investment Banker Says She's Changing How She Invests",
-      "notes": "",
+      "notes": "Hold \u2014 position open, no exit signal",
       "position": {
         "asset_id": "4ce9353c-66d1-46c2-898f-fce867ab0247",
         "symbol": "NVDA",
@@ -128,5 +128,24 @@
       "notes": "",
       "position": null
     }
-  }
+  },
+  "trades": [
+    {
+      "time": "16:30",
+      "symbol": "AAPL",
+      "action": "BUY",
+      "qty": 24,
+      "price": 333.78,
+      "reasoning": "Above SMA20 ($332.56) and SMA50 ($322.42), pct_change=-0.19%"
+    },
+    {
+      "time": "16:30",
+      "symbol": "MSFT",
+      "action": "BUY",
+      "qty": 15,
+      "price": 526.06,
+      "reasoning": "Above SMA20 ($502.9) and SMA50 ($490.6), pct_change=1.49%"
+    }
+  ],
+  "closed": []
 }
