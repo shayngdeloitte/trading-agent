@@ -28,7 +28,7 @@
       "pct_change": 0.53,
       "trend": "bullish \u2014 above both MAs",
       "news": "SpaceX's Strong AI Computing Returns And Hidden Risk; 'Putin agrees to trilateral talks with Ukraine, US to end war' - New York Post; Cyclicals Top Sectors In Wednesday Trading As Defensives Trail",
-      "notes": "",
+      "notes": "Hold \u2014 position open, no exit signal",
       "position": {
         "asset_id": "b28f4066-5c6d-479b-a2af-85dc1a8f16fb",
         "symbol": "SPY",
@@ -57,7 +57,7 @@
       "pct_change": 0.47,
       "trend": "bullish \u2014 above both MAs",
       "news": "SpaceX's Strong AI Computing Returns And Hidden Risk; Cyclicals Top Sectors In Wednesday Trading As Defensives Trail; Larry Fink Warns Data Center Slowdown Could Push US Into \u2018Recession\u2019 as Trump Orders Facilities to Generate Their Own Power and \u2018Make Deals\u2019",
-      "notes": "",
+      "notes": "Hold \u2014 position open, no exit signal",
       "position": {
         "asset_id": "2d9e926c-e17c-47c3-ad8c-26c7a594e48f",
         "symbol": "QQQ",
@@ -86,7 +86,7 @@
       "pct_change": 0.08,
       "trend": "bullish \u2014 above both MAs",
       "news": "Supermicro AI-RAN Deal Targets 5G Efficiency and Future 6G Networks; SpaceX's Strong AI Computing Returns And Hidden Risk; Amkor Secures $1.3 Billion NVIDIA Deal To Expand AI Packaging",
-      "notes": "",
+      "notes": "Hold \u2014 position open, no exit signal",
       "position": {
         "asset_id": "4ce9353c-66d1-46c2-898f-fce867ab0247",
         "symbol": "NVDA",
@@ -128,5 +128,24 @@
       "notes": "",
       "position": null
     }
-  }
+  },
+  "trades": [
+    {
+      "time": "16:47",
+      "symbol": "AAPL",
+      "action": "BUY",
+      "qty": 24,
+      "price": 334.39,
+      "reasoning": "Above SMA20 ($333.44) and SMA50 ($322.35), pct_change=0.18%"
+    },
+    {
+      "time": "16:47",
+      "symbol": "MSFT",
+      "action": "BUY",
+      "qty": 15,
+      "price": 530.44,
+      "reasoning": "Above SMA20 ($504.67) and SMA50 ($493.4), pct_change=0.83%"
+    }
+  ],
+  "closed": []
 }
