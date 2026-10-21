@@ -1,0 +1,132 @@
+{
+  "portfolio": {
+    "cash": 70444.46,
+    "total_value": 102311.24,
+    "positions": [
+      {
+        "symbol": "NVDA",
+        "qty": 35,
+        "avg_price": 227.423143
+      },
+      {
+        "symbol": "QQQ",
+        "qty": 13,
+        "avg_price": 731.461538
+      },
+      {
+        "symbol": "SPY",
+        "qty": 19,
+        "avg_price": 767.019474
+      }
+    ]
+  },
+  "research": {
+    "SPY": {
+      "sma20": 765.72,
+      "sma50": 765.2,
+      "last_close": 779.1,
+      "pct_change": 0.53,
+      "trend": "bullish \u2014 above both MAs",
+      "news": "SpaceX's Strong AI Computing Returns And Hidden Risk; 'Putin agrees to trilateral talks with Ukraine, US to end war' - New York Post; Cyclicals Top Sectors In Wednesday Trading As Defensives Trail",
+      "notes": "",
+      "position": {
+        "asset_id": "b28f4066-5c6d-479b-a2af-85dc1a8f16fb",
+        "symbol": "SPY",
+        "exchange": "ARCA",
+        "asset_class": "us_equity",
+        "asset_marginable": true,
+        "qty": "19",
+        "qty_available": "19",
+        "avg_entry_price": "767.019474",
+        "side": "long",
+        "market_value": "14687.456",
+        "cost_basis": "14573.370006",
+        "unrealized_pl": "114.085994",
+        "unrealized_plpc": "0.00783",
+        "unrealized_intraday_pl": "75.506",
+        "unrealized_intraday_plpc": "0.00517",
+        "current_price": "773.024",
+        "lastday_price": "769.05",
+        "change_today": "0.00517"
+      }
+    },
+    "QQQ": {
+      "sma20": 731.68,
+      "sma50": 719.79,
+      "last_close": 759.62,
+      "pct_change": 0.47,
+      "trend": "bullish \u2014 above both MAs",
+      "news": "SpaceX's Strong AI Computing Returns And Hidden Risk; Cyclicals Top Sectors In Wednesday Trading As Defensives Trail; Larry Fink Warns Data Center Slowdown Could Push US Into \u2018Recession\u2019 as Trump Orders Facilities to Generate Their Own Power and \u2018Make Deals\u2019",
+      "notes": "",
+      "position": {
+        "asset_id": "2d9e926c-e17c-47c3-ad8c-26c7a594e48f",
+        "symbol": "QQQ",
+        "exchange": "NASDAQ",
+        "asset_class": "us_equity",
+        "asset_marginable": true,
+        "qty": "13",
+        "qty_available": "13",
+        "avg_entry_price": "731.461538",
+        "side": "long",
+        "market_value": "9445.15",
+        "cost_basis": "9508.999994",
+        "unrealized_pl": "-63.849994",
+        "unrealized_plpc": "-0.00671",
+        "unrealized_intraday_pl": "115.96",
+        "unrealized_intraday_plpc": "0.01243",
+        "current_price": "726.55",
+        "lastday_price": "717.63",
+        "change_today": "0.01243"
+      }
+    },
+    "NVDA": {
+      "sma20": 224.89,
+      "sma50": 219.78,
+      "last_close": 239.17,
+      "pct_change": 0.08,
+      "trend": "bullish \u2014 above both MAs",
+      "news": "Supermicro AI-RAN Deal Targets 5G Efficiency and Future 6G Networks; SpaceX's Strong AI Computing Returns And Hidden Risk; Amkor Secures $1.3 Billion NVIDIA Deal To Expand AI Packaging",
+      "notes": "",
+      "position": {
+        "asset_id": "4ce9353c-66d1-46c2-898f-fce867ab0247",
+        "symbol": "NVDA",
+        "exchange": "NASDAQ",
+        "asset_class": "us_equity",
+        "asset_marginable": true,
+        "qty": "35",
+        "qty_available": "35",
+        "avg_entry_price": "227.423143",
+        "side": "long",
+        "market_value": "7733.95",
+        "cost_basis": "7959.810005",
+        "unrealized_pl": "-225.860005",
+        "unrealized_plpc": "-0.02838",
+        "unrealized_intraday_pl": "157.5",
+        "unrealized_intraday_plpc": "0.02079",
+        "current_price": "220.97",
+        "lastday_price": "216.47",
+        "change_today": "0.02079"
+      }
+    },
+    "AAPL": {
+      "sma20": 333.44,
+      "sma50": 322.35,
+      "last_close": 333.72,
+      "pct_change": 0.18,
+      "trend": "bullish \u2014 above both MAs",
+      "news": "SpaceX's Strong AI Computing Returns And Hidden Risk; Omdia Reports Global Smartphone Market Contraction in 3Q26; Cyclicals Top Sectors In Wednesday Trading As Defensives Trail",
+      "notes": "",
+      "position": null
+    },
+    "MSFT": {
+      "sma20": 504.67,
+      "sma50": 493.4,
+      "last_close": 529.38,
+      "pct_change": 0.83,
+      "trend": "bullish \u2014 above both MAs",
+      "news": "Trump to Tout Crypto Scam Crackdown at White House Event Wednesday; SpaceX's Strong AI Computing Returns And Hidden Risk; Volkswagen Group Partners with Microsoft for Autonomous Vehicle AI Development",
+      "notes": "",
+      "position": null
+    }
+  }
+}
