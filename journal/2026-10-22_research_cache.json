@@ -33,7 +33,7 @@
       "pct_change": -0.25,
       "trend": "bullish \u2014 above both MAs",
       "news": "'Qatar Scours for More LNG to Boost Supply Outside Middle East' - Bloomberg Exclusive; Warren Buffett Who? Berkshire Stock Hits Records as These Holdings Drive Gains Under Greg Abel; President Trump Posts On Truth Social \"Iran is doing everything they can to drive up the price of Oil prior to the U.S. Midterm Election. They are even making up fake hits, mines, and everything else, because more Oil is coming through the Hormuz Strait now than it did even prior to the beginning of the Conflict....\"",
-      "notes": "",
+      "notes": "Hold \u2014 position open, no exit signal",
       "position": {
         "asset_id": "b28f4066-5c6d-479b-a2af-85dc1a8f16fb",
         "symbol": "SPY",
@@ -62,7 +62,7 @@
       "pct_change": -0.25,
       "trend": "bullish \u2014 above both MAs",
       "news": "Defensives Lead Sectors In Thursday Trading As Growth Trails; Questcorp Mining to Acquire Remaining 49% Interest in North Island Copper Project; Stock Market Today: S&P 500, Dow Jones, Nasdaq 100 Futures Drop Following Asian Market Sell-off, Middle East Tensions\u2014 NFLX, SPCX, SMCI in Focus (UPDATED)",
-      "notes": "",
+      "notes": "Hold \u2014 position open, no exit signal",
       "position": {
         "asset_id": "2d9e926c-e17c-47c3-ad8c-26c7a594e48f",
         "symbol": "QQQ",
@@ -91,7 +91,7 @@
       "pct_change": -0.74,
       "trend": "bullish \u2014 above both MAs",
       "news": "Stock Drops 5% After Big Rally: Super Micro Computer Pulls Back During AI Supply Fears; Dell Stock Drops in Tech Sell-Off: Profit-Taking Hits AI Server Giant; Jensen Huang Downplays Memory Glut Fears: Will Micron Rebound Next?",
-      "notes": "",
+      "notes": "Hold \u2014 position open, no exit signal",
       "position": {
         "asset_id": "4ce9353c-66d1-46c2-898f-fce867ab0247",
         "symbol": "NVDA",
@@ -130,7 +130,7 @@
       "pct_change": 0.06,
       "trend": "bullish \u2014 above both MAs",
       "news": "Uber Brings ChatGPT Work To All Employees With OpenAI; Microsoft and Boehringer Ingelheim Announce Strategic AI Collaboration; Merck Collaborates with Microsoft, NVIDIA, and Dawn Health on Patient Support Programs",
-      "notes": "",
+      "notes": "Hold \u2014 position open, no exit signal",
       "position": {
         "asset_id": "b6d1aa75-5c9c-4353-a305-9e2caa1925ab",
         "symbol": "MSFT",
@@ -152,5 +152,16 @@
         "change_today": "-0.01582"
       }
     }
-  }
+  },
+  "trades": [
+    {
+      "time": "16:48",
+      "symbol": "AAPL",
+      "action": "BUY",
+      "qty": 24,
+      "price": 337.25,
+      "reasoning": "Above SMA20 ($334.5) and SMA50 ($322.29), pct_change=0.86%"
+    }
+  ],
+  "closed": []
 }
