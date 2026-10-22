@@ -1,0 +1,156 @@
+{
+  "portfolio": {
+    "cash": 62488.3,
+    "total_value": 101465.6,
+    "positions": [
+      {
+        "symbol": "MSFT",
+        "qty": 15,
+        "avg_price": 530.41
+      },
+      {
+        "symbol": "NVDA",
+        "qty": 35,
+        "avg_price": 227.423143
+      },
+      {
+        "symbol": "QQQ",
+        "qty": 13,
+        "avg_price": 731.461538
+      },
+      {
+        "symbol": "SPY",
+        "qty": 19,
+        "avg_price": 767.019474
+      }
+    ]
+  },
+  "research": {
+    "SPY": {
+      "sma20": 766.46,
+      "sma50": 765.92,
+      "last_close": 777.15,
+      "pct_change": -0.25,
+      "trend": "bullish \u2014 above both MAs",
+      "news": "'Qatar Scours for More LNG to Boost Supply Outside Middle East' - Bloomberg Exclusive; Warren Buffett Who? Berkshire Stock Hits Records as These Holdings Drive Gains Under Greg Abel; President Trump Posts On Truth Social \"Iran is doing everything they can to drive up the price of Oil prior to the U.S. Midterm Election. They are even making up fake hits, mines, and everything else, because more Oil is coming through the Hormuz Strait now than it did even prior to the beginning of the Conflict....\"",
+      "notes": "",
+      "position": {
+        "asset_id": "b28f4066-5c6d-479b-a2af-85dc1a8f16fb",
+        "symbol": "SPY",
+        "exchange": "ARCA",
+        "asset_class": "us_equity",
+        "asset_marginable": true,
+        "qty": "19",
+        "qty_available": "19",
+        "avg_entry_price": "767.019474",
+        "side": "long",
+        "market_value": "14487.88",
+        "cost_basis": "14573.370006",
+        "unrealized_pl": "-85.490006",
+        "unrealized_plpc": "-0.00587",
+        "unrealized_intraday_pl": "-200.83",
+        "unrealized_intraday_plpc": "-0.01367",
+        "current_price": "762.52",
+        "lastday_price": "773.09",
+        "change_today": "-0.01367"
+      }
+    },
+    "QQQ": {
+      "sma20": 733.75,
+      "sma50": 721.43,
+      "last_close": 757.74,
+      "pct_change": -0.25,
+      "trend": "bullish \u2014 above both MAs",
+      "news": "Defensives Lead Sectors In Thursday Trading As Growth Trails; Questcorp Mining to Acquire Remaining 49% Interest in North Island Copper Project; Stock Market Today: S&P 500, Dow Jones, Nasdaq 100 Futures Drop Following Asian Market Sell-off, Middle East Tensions\u2014 NFLX, SPCX, SMCI in Focus (UPDATED)",
+      "notes": "",
+      "position": {
+        "asset_id": "2d9e926c-e17c-47c3-ad8c-26c7a594e48f",
+        "symbol": "QQQ",
+        "exchange": "NASDAQ",
+        "asset_class": "us_equity",
+        "asset_marginable": true,
+        "qty": "13",
+        "qty_available": "13",
+        "avg_entry_price": "731.461538",
+        "side": "long",
+        "market_value": "9174.1",
+        "cost_basis": "9508.999994",
+        "unrealized_pl": "-334.899994",
+        "unrealized_plpc": "-0.03522",
+        "unrealized_intraday_pl": "-253.5",
+        "unrealized_intraday_plpc": "-0.02689",
+        "current_price": "705.7",
+        "lastday_price": "725.2",
+        "change_today": "-0.02689"
+      }
+    },
+    "NVDA": {
+      "sma20": 225.57,
+      "sma50": 220.59,
+      "last_close": 237.4,
+      "pct_change": -0.74,
+      "trend": "bullish \u2014 above both MAs",
+      "news": "Stock Drops 5% After Big Rally: Super Micro Computer Pulls Back During AI Supply Fears; Dell Stock Drops in Tech Sell-Off: Profit-Taking Hits AI Server Giant; Jensen Huang Downplays Memory Glut Fears: Will Micron Rebound Next?",
+      "notes": "",
+      "position": {
+        "asset_id": "4ce9353c-66d1-46c2-898f-fce867ab0247",
+        "symbol": "NVDA",
+        "exchange": "NASDAQ",
+        "asset_class": "us_equity",
+        "asset_marginable": true,
+        "qty": "35",
+        "qty_available": "35",
+        "avg_entry_price": "227.423143",
+        "side": "long",
+        "market_value": "7447.65",
+        "cost_basis": "7959.810005",
+        "unrealized_pl": "-512.160005",
+        "unrealized_plpc": "-0.06434",
+        "unrealized_intraday_pl": "-321.3",
+        "unrealized_intraday_plpc": "-0.04136",
+        "current_price": "212.79",
+        "lastday_price": "221.97",
+        "change_today": "-0.04136"
+      }
+    },
+    "AAPL": {
+      "sma20": 334.5,
+      "sma50": 322.29,
+      "last_close": 336.58,
+      "pct_change": 0.86,
+      "trend": "bullish \u2014 above both MAs",
+      "news": "Warren Buffett Who? Berkshire Stock Hits Records as These Holdings Drive Gains Under Greg Abel; Orangetheory Fitness Launches OTconnect for Apple Watch; Investigating Apple's Standing In Technology Hardware, Storage &amp; Peripherals Industry Compared To Competitors",
+      "notes": "",
+      "position": null
+    },
+    "MSFT": {
+      "sma20": 506.57,
+      "sma50": 496.13,
+      "last_close": 529.7,
+      "pct_change": 0.06,
+      "trend": "bullish \u2014 above both MAs",
+      "news": "Uber Brings ChatGPT Work To All Employees With OpenAI; Microsoft and Boehringer Ingelheim Announce Strategic AI Collaboration; Merck Collaborates with Microsoft, NVIDIA, and Dawn Health on Patient Support Programs",
+      "notes": "",
+      "position": {
+        "asset_id": "b6d1aa75-5c9c-4353-a305-9e2caa1925ab",
+        "symbol": "MSFT",
+        "exchange": "NASDAQ",
+        "asset_class": "us_equity",
+        "asset_marginable": true,
+        "qty": "15",
+        "qty_available": "15",
+        "avg_entry_price": "530.41",
+        "side": "long",
+        "market_value": "7867.8",
+        "cost_basis": "7956.15",
+        "unrealized_pl": "-88.35",
+        "unrealized_plpc": "-0.0111",
+        "unrealized_intraday_pl": "-126.45",
+        "unrealized_intraday_plpc": "-0.01582",
+        "current_price": "524.52",
+        "lastday_price": "532.95",
+        "change_today": "-0.01582"
+      }
+    }
+  }
+}
