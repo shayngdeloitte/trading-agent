@@ -1,0 +1,156 @@
+{
+  "portfolio": {
+    "cash": 62488.3,
+    "total_value": 101447.04,
+    "positions": [
+      {
+        "symbol": "MSFT",
+        "qty": 15,
+        "avg_price": 530.41
+      },
+      {
+        "symbol": "NVDA",
+        "qty": 35,
+        "avg_price": 227.423143
+      },
+      {
+        "symbol": "QQQ",
+        "qty": 13,
+        "avg_price": 731.461538
+      },
+      {
+        "symbol": "SPY",
+        "qty": 19,
+        "avg_price": 767.019474
+      }
+    ]
+  },
+  "research": {
+    "SPY": {
+      "sma20": 767.26,
+      "sma50": 766.81,
+      "last_close": 773.88,
+      "pct_change": -0.42,
+      "trend": "bullish \u2014 above both MAs",
+      "news": "Republican Senator Blackburn Raises Concerns About Facebook-parent Meta Plan To Update Commercial Terms, Saying It Could 'Exploit American Creators And Businesses'; 'TikTok U.S. hunts for multiple gigawatts of computing capacity' - CNBC; 'CFTC Takes Oil Trading Oversight Very Seriously, Selig Says' - Bloomberg",
+      "notes": "",
+      "position": {
+        "asset_id": "b28f4066-5c6d-479b-a2af-85dc1a8f16fb",
+        "symbol": "SPY",
+        "exchange": "ARCA",
+        "asset_class": "us_equity",
+        "asset_marginable": true,
+        "qty": "19",
+        "qty_available": "19",
+        "avg_entry_price": "767.019474",
+        "side": "long",
+        "market_value": "14478.285",
+        "cost_basis": "14573.370006",
+        "unrealized_pl": "-95.085006",
+        "unrealized_plpc": "-0.00652",
+        "unrealized_intraday_pl": "-36.955",
+        "unrealized_intraday_plpc": "-0.00255",
+        "current_price": "762.015",
+        "lastday_price": "763.96",
+        "change_today": "-0.00255"
+      }
+    },
+    "QQQ": {
+      "sma20": 735.68,
+      "sma50": 723.15,
+      "last_close": 747.5,
+      "pct_change": -1.35,
+      "trend": "bullish \u2014 above both MAs",
+      "news": "8 Of 11 Sectors Fall In Friday Trading As Energy Leads; Stock Market Today: S&P 500, Nasdaq 100, Dow Jones Futures Fall Ahead of Global PMI Data\u2014Western Digital, Newmont, Crown Castle in Focus (UPDATED); Tom Lee Urges Buying the Tech Dip, Calls Sell-Off a \u2018Healthy Correction,\u2019 Points to $30 Trillion Infrastructure Boom Ahead",
+      "notes": "",
+      "position": {
+        "asset_id": "2d9e926c-e17c-47c3-ad8c-26c7a594e48f",
+        "symbol": "QQQ",
+        "exchange": "NASDAQ",
+        "asset_class": "us_equity",
+        "asset_marginable": true,
+        "qty": "13",
+        "qty_available": "13",
+        "avg_entry_price": "731.461538",
+        "side": "long",
+        "market_value": "9189.05",
+        "cost_basis": "9508.999994",
+        "unrealized_pl": "-319.949994",
+        "unrealized_plpc": "-0.03365",
+        "unrealized_intraday_pl": "30.94",
+        "unrealized_intraday_plpc": "0.00338",
+        "current_price": "706.85",
+        "lastday_price": "704.47",
+        "change_today": "0.00338"
+      }
+    },
+    "NVDA": {
+      "sma20": 226.18,
+      "sma50": 221.4,
+      "last_close": 230.57,
+      "pct_change": -2.88,
+      "trend": "bullish \u2014 above both MAs",
+      "news": "Blackstone's $2.3 Billion CoreWeave Bet Sparked a Trillion-Dollar AI Lending Boom; EXCLUSIVE: Korea's Chip Selloff Flashes Rare 'Capitulation' Signal Ahead of SK Hynix Earnings, Analyst Says; EXCLUSIVE: Paul Kedrosky Warns AI Data Center Boom Could Fail Even as AI Adoption Soars",
+      "notes": "",
+      "position": {
+        "asset_id": "4ce9353c-66d1-46c2-898f-fce867ab0247",
+        "symbol": "NVDA",
+        "exchange": "NASDAQ",
+        "asset_class": "us_equity",
+        "asset_marginable": true,
+        "qty": "35",
+        "qty_available": "35",
+        "avg_entry_price": "227.423143",
+        "side": "long",
+        "market_value": "7420",
+        "cost_basis": "7959.810005",
+        "unrealized_pl": "-539.810005",
+        "unrealized_plpc": "-0.06782",
+        "unrealized_intraday_pl": "-7.35",
+        "unrealized_intraday_plpc": "-0.00099",
+        "current_price": "212",
+        "lastday_price": "212.21",
+        "change_today": "-0.00099"
+      }
+    },
+    "AAPL": {
+      "sma20": 335.19,
+      "sma50": 322.33,
+      "last_close": 340.43,
+      "pct_change": 1.14,
+      "trend": "bullish \u2014 above both MAs",
+      "news": "Can Apple Top Nvidia? iPhone Duo and Nov. 2 Earnings Hold the Key; Apple Insider Sells Shares Worth $814,748; Assessing Apple's Performance Against Competitors In Technology Hardware, Storage &amp; Peripherals Industry",
+      "notes": "",
+      "position": null
+    },
+    "MSFT": {
+      "sma20": 508.08,
+      "sma50": 498.76,
+      "last_close": 522.71,
+      "pct_change": -1.32,
+      "trend": "bullish \u2014 above both MAs",
+      "news": "Blackstone's $2.3 Billion CoreWeave Bet Sparked a Trillion-Dollar AI Lending Boom; 8 Of 11 Sectors Fall In Friday Trading As Energy Leads; Microsoft's Earnings Are Days Away: Here\u2019s What Investors Need to Know",
+      "notes": "",
+      "position": {
+        "asset_id": "b6d1aa75-5c9c-4353-a305-9e2caa1925ab",
+        "symbol": "MSFT",
+        "exchange": "NASDAQ",
+        "asset_class": "us_equity",
+        "asset_marginable": true,
+        "qty": "15",
+        "qty_available": "15",
+        "avg_entry_price": "530.41",
+        "side": "long",
+        "market_value": "7871.4",
+        "cost_basis": "7956.15",
+        "unrealized_pl": "-84.75",
+        "unrealized_plpc": "-0.01065",
+        "unrealized_intraday_pl": "55.2",
+        "unrealized_intraday_plpc": "0.00706",
+        "current_price": "524.76",
+        "lastday_price": "521.08",
+        "change_today": "0.00706"
+      }
+    }
+  }
+}
