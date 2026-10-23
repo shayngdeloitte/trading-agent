@@ -33,7 +33,7 @@
       "pct_change": -0.42,
       "trend": "bullish \u2014 above both MAs",
       "news": "Republican Senator Blackburn Raises Concerns About Facebook-parent Meta Plan To Update Commercial Terms, Saying It Could 'Exploit American Creators And Businesses'; 'TikTok U.S. hunts for multiple gigawatts of computing capacity' - CNBC; 'CFTC Takes Oil Trading Oversight Very Seriously, Selig Says' - Bloomberg",
-      "notes": "",
+      "notes": "Hold \u2014 position open, no exit signal",
       "position": {
         "asset_id": "b28f4066-5c6d-479b-a2af-85dc1a8f16fb",
         "symbol": "SPY",
@@ -62,7 +62,7 @@
       "pct_change": -1.35,
       "trend": "bullish \u2014 above both MAs",
       "news": "8 Of 11 Sectors Fall In Friday Trading As Energy Leads; Stock Market Today: S&P 500, Nasdaq 100, Dow Jones Futures Fall Ahead of Global PMI Data\u2014Western Digital, Newmont, Crown Castle in Focus (UPDATED); Tom Lee Urges Buying the Tech Dip, Calls Sell-Off a \u2018Healthy Correction,\u2019 Points to $30 Trillion Infrastructure Boom Ahead",
-      "notes": "",
+      "notes": "Hold \u2014 position open, no exit signal",
       "position": {
         "asset_id": "2d9e926c-e17c-47c3-ad8c-26c7a594e48f",
         "symbol": "QQQ",
@@ -91,7 +91,7 @@
       "pct_change": -2.88,
       "trend": "bullish \u2014 above both MAs",
       "news": "Blackstone's $2.3 Billion CoreWeave Bet Sparked a Trillion-Dollar AI Lending Boom; EXCLUSIVE: Korea's Chip Selloff Flashes Rare 'Capitulation' Signal Ahead of SK Hynix Earnings, Analyst Says; EXCLUSIVE: Paul Kedrosky Warns AI Data Center Boom Could Fail Even as AI Adoption Soars",
-      "notes": "",
+      "notes": "Hold \u2014 position open, no exit signal",
       "position": {
         "asset_id": "4ce9353c-66d1-46c2-898f-fce867ab0247",
         "symbol": "NVDA",
@@ -130,7 +130,7 @@
       "pct_change": -1.32,
       "trend": "bullish \u2014 above both MAs",
       "news": "Blackstone's $2.3 Billion CoreWeave Bet Sparked a Trillion-Dollar AI Lending Boom; 8 Of 11 Sectors Fall In Friday Trading As Energy Leads; Microsoft's Earnings Are Days Away: Here\u2019s What Investors Need to Know",
-      "notes": "",
+      "notes": "Hold \u2014 position open, no exit signal",
       "position": {
         "asset_id": "b6d1aa75-5c9c-4353-a305-9e2caa1925ab",
         "symbol": "MSFT",
@@ -152,5 +152,16 @@
         "change_today": "0.00706"
       }
     }
-  }
+  },
+  "trades": [
+    {
+      "time": "16:39",
+      "symbol": "AAPL",
+      "action": "BUY",
+      "qty": 23,
+      "price": 341.11,
+      "reasoning": "Above SMA20 ($335.19) and SMA50 ($322.33), pct_change=1.14%"
+    }
+  ],
+  "closed": []
 }
