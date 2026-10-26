@@ -33,7 +33,7 @@
       "pct_change": -0.06,
       "trend": "bullish \u2014 above both MAs",
       "news": "'FTC is demanding Anthropic execs testify in expanding AI safety probe' - Axios; 5 Myths And Misunderstandings About Investing In The Stock Market; Neoclouds Face Guppy-Level Death; 36% Of S&P 500 Earnings This Week; Brazil Stocks Plunge On Election Outcome",
-      "notes": "",
+      "notes": "Hold \u2014 position open, no exit signal",
       "position": {
         "asset_id": "b28f4066-5c6d-479b-a2af-85dc1a8f16fb",
         "symbol": "SPY",
@@ -62,7 +62,7 @@
       "pct_change": -0.7,
       "trend": "bullish \u2014 above both MAs",
       "news": "Neoclouds Face Guppy-Level Death; 36% Of S&P 500 Earnings This Week; Brazil Stocks Plunge On Election Outcome; Nasdaq 100 Rallies on Chip Rebound; Brazil ETF Sinks 21%: Stock Market Today; Magnificent 7 Stocks Get Weekly Spotlight: What to Expect from Microsoft, Alphabet, Amazon",
-      "notes": "",
+      "notes": "Hold \u2014 position open, no exit signal",
       "position": {
         "asset_id": "2d9e926c-e17c-47c3-ad8c-26c7a594e48f",
         "symbol": "QQQ",
@@ -130,7 +130,7 @@
       "pct_change": 1.1,
       "trend": "bullish \u2014 above both MAs",
       "news": "OpenAI Rolls Out GPT-6.1 Terra To All Plus, Pro, Enterprise, And Edu Users In ChatGPT Work, Codex; Microsoft\u2019s Copilot, Azure Demand Signals Stronger AI Monetization: Analyst; Oppenheimer Maintains Outperform on Microsoft, Raises Price Target to $625",
-      "notes": "",
+      "notes": "Hold \u2014 position open, no exit signal",
       "position": {
         "asset_id": "b6d1aa75-5c9c-4353-a305-9e2caa1925ab",
         "symbol": "MSFT",
@@ -152,5 +152,26 @@
         "change_today": "0.01394"
       }
     }
-  }
+  },
+  "trades": [
+    {
+      "time": "18:24",
+      "symbol": "NVDA",
+      "action": "SELL",
+      "qty": 35,
+      "price": 226.01,
+      "reasoning": "Price $226.46 crossed below SMA20 $227.52"
+    },
+    {
+      "time": "18:24",
+      "symbol": "AAPL",
+      "action": "BUY",
+      "qty": 23,
+      "price": 341.73,
+      "reasoning": "Above SMA20 ($335.8) and SMA50 ($323.04), pct_change=1.36%"
+    }
+  ],
+  "closed": [
+    "NVDA"
+  ]
 }
