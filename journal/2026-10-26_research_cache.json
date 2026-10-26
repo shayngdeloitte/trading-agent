@@ -1,0 +1,156 @@
+{
+  "portfolio": {
+    "cash": 62488.3,
+    "total_value": 101857.1,
+    "positions": [
+      {
+        "symbol": "MSFT",
+        "qty": 15,
+        "avg_price": 530.41
+      },
+      {
+        "symbol": "NVDA",
+        "qty": 35,
+        "avg_price": 227.423143
+      },
+      {
+        "symbol": "QQQ",
+        "qty": 13,
+        "avg_price": 731.461538
+      },
+      {
+        "symbol": "SPY",
+        "qty": 19,
+        "avg_price": 767.019474
+      }
+    ]
+  },
+  "research": {
+    "SPY": {
+      "sma20": 768.84,
+      "sma50": 768.17,
+      "last_close": 778.03,
+      "pct_change": -0.06,
+      "trend": "bullish \u2014 above both MAs",
+      "news": "'FTC is demanding Anthropic execs testify in expanding AI safety probe' - Axios; 5 Myths And Misunderstandings About Investing In The Stock Market; Neoclouds Face Guppy-Level Death; 36% Of S&P 500 Earnings This Week; Brazil Stocks Plunge On Election Outcome",
+      "notes": "",
+      "position": {
+        "asset_id": "b28f4066-5c6d-479b-a2af-85dc1a8f16fb",
+        "symbol": "SPY",
+        "exchange": "ARCA",
+        "asset_class": "us_equity",
+        "asset_marginable": true,
+        "qty": "19",
+        "qty_available": "19",
+        "avg_entry_price": "767.019474",
+        "side": "long",
+        "market_value": "14545.07",
+        "cost_basis": "14573.370006",
+        "unrealized_pl": "-28.300006",
+        "unrealized_plpc": "-0.00194",
+        "unrealized_intraday_pl": "105.64",
+        "unrealized_intraday_plpc": "0.00732",
+        "current_price": "765.53",
+        "lastday_price": "759.97",
+        "change_today": "0.00732"
+      }
+    },
+    "QQQ": {
+      "sma20": 739.34,
+      "sma50": 725.67,
+      "last_close": 746,
+      "pct_change": -0.7,
+      "trend": "bullish \u2014 above both MAs",
+      "news": "Neoclouds Face Guppy-Level Death; 36% Of S&P 500 Earnings This Week; Brazil Stocks Plunge On Election Outcome; Nasdaq 100 Rallies on Chip Rebound; Brazil ETF Sinks 21%: Stock Market Today; Magnificent 7 Stocks Get Weekly Spotlight: What to Expect from Microsoft, Alphabet, Amazon",
+      "notes": "",
+      "position": {
+        "asset_id": "2d9e926c-e17c-47c3-ad8c-26c7a594e48f",
+        "symbol": "QQQ",
+        "exchange": "NASDAQ",
+        "asset_class": "us_equity",
+        "asset_marginable": true,
+        "qty": "13",
+        "qty_available": "13",
+        "avg_entry_price": "731.461538",
+        "side": "long",
+        "market_value": "9276.28",
+        "cost_basis": "9508.999994",
+        "unrealized_pl": "-232.719994",
+        "unrealized_plpc": "-0.02447",
+        "unrealized_intraday_pl": "119.08",
+        "unrealized_intraday_plpc": "0.013",
+        "current_price": "713.56",
+        "lastday_price": "704.4",
+        "change_today": "0.013"
+      }
+    },
+    "NVDA": {
+      "sma20": 227.52,
+      "sma50": 222.6,
+      "last_close": 226.46,
+      "pct_change": -1.26,
+      "trend": "mixed \u2014 between MAs",
+      "news": "10 Information Technology Stocks Whale Activity In Today\u2019s Session; Neoclouds Face Guppy-Level Death; 36% Of S&P 500 Earnings This Week; Brazil Stocks Plunge On Election Outcome; Nasdaq 100 Rallies on Chip Rebound; Brazil ETF Sinks 21%: Stock Market Today",
+      "notes": "",
+      "position": {
+        "asset_id": "4ce9353c-66d1-46c2-898f-fce867ab0247",
+        "symbol": "NVDA",
+        "exchange": "NASDAQ",
+        "asset_class": "us_equity",
+        "asset_marginable": true,
+        "qty": "35",
+        "qty_available": "35",
+        "avg_entry_price": "227.423143",
+        "side": "long",
+        "market_value": "7570.15",
+        "cost_basis": "7959.810005",
+        "unrealized_pl": "-389.660005",
+        "unrealized_plpc": "-0.04895",
+        "unrealized_intraday_pl": "186.55",
+        "unrealized_intraday_plpc": "0.02527",
+        "current_price": "216.29",
+        "lastday_price": "210.96",
+        "change_today": "0.02527"
+      }
+    },
+    "AAPL": {
+      "sma20": 335.8,
+      "sma50": 323.04,
+      "last_close": 341.05,
+      "pct_change": 1.36,
+      "trend": "bullish \u2014 above both MAs",
+      "news": "Apple Releases Public Software Updates; Apple\u2019s iPhone Duo Buyers Face a Wait That Could Stretch Into January; 'Apple Responds to iPhone Duo Display Cracking Reports' - MacRumors",
+      "notes": "",
+      "position": null
+    },
+    "MSFT": {
+      "sma20": 511.83,
+      "sma50": 501.96,
+      "last_close": 541.09,
+      "pct_change": 1.1,
+      "trend": "bullish \u2014 above both MAs",
+      "news": "OpenAI Rolls Out GPT-6.1 Terra To All Plus, Pro, Enterprise, And Edu Users In ChatGPT Work, Codex; Microsoft\u2019s Copilot, Azure Demand Signals Stronger AI Monetization: Analyst; Oppenheimer Maintains Outperform on Microsoft, Raises Price Target to $625",
+      "notes": "",
+      "position": {
+        "asset_id": "b6d1aa75-5c9c-4353-a305-9e2caa1925ab",
+        "symbol": "MSFT",
+        "exchange": "NASDAQ",
+        "asset_class": "us_equity",
+        "asset_marginable": true,
+        "qty": "15",
+        "qty_available": "15",
+        "avg_entry_price": "530.41",
+        "side": "long",
+        "market_value": "7977.3",
+        "cost_basis": "7956.15",
+        "unrealized_pl": "21.15",
+        "unrealized_plpc": "0.00266",
+        "unrealized_intraday_pl": "109.65",
+        "unrealized_intraday_plpc": "0.01394",
+        "current_price": "531.82",
+        "lastday_price": "524.51",
+        "change_today": "0.01394"
+      }
+    }
+  }
+}
