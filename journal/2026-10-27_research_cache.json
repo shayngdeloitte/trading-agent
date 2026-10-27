@@ -1,0 +1,156 @@
+{
+  "portfolio": {
+    "cash": 62488.3,
+    "total_value": 102095.3,
+    "positions": [
+      {
+        "symbol": "MSFT",
+        "qty": 15,
+        "avg_price": 530.41
+      },
+      {
+        "symbol": "NVDA",
+        "qty": 35,
+        "avg_price": 227.423143
+      },
+      {
+        "symbol": "QQQ",
+        "qty": 13,
+        "avg_price": 731.461538
+      },
+      {
+        "symbol": "SPY",
+        "qty": 19,
+        "avg_price": 767.019474
+      }
+    ]
+  },
+  "research": {
+    "SPY": {
+      "sma20": 768.84,
+      "sma50": 768.17,
+      "last_close": 778.03,
+      "pct_change": -0.06,
+      "trend": "bullish \u2014 above both MAs",
+      "news": "'Fl\u00e1vio Bolsonaro\u2019s Allies Say He Has Already Left For The U.S.; Flight Expected To Arrive Within Hours' - Folha De S. Paulo; Alphabet Q3 Earnings Preview: 'Bears Have Technical Advantage,' Here's What Could Help Bulls; Reported October 26, 2026: USDA To Invest $57M To Boost American Meat Processing Capacity And Support U.S. Ranchers",
+      "notes": "",
+      "position": {
+        "asset_id": "b28f4066-5c6d-479b-a2af-85dc1a8f16fb",
+        "symbol": "SPY",
+        "exchange": "ARCA",
+        "asset_class": "us_equity",
+        "asset_marginable": true,
+        "qty": "19",
+        "qty_available": "19",
+        "avg_entry_price": "767.019474",
+        "side": "long",
+        "market_value": "14623.54",
+        "cost_basis": "14573.370006",
+        "unrealized_pl": "50.169994",
+        "unrealized_plpc": "0.00344",
+        "unrealized_intraday_pl": "81.51",
+        "unrealized_intraday_plpc": "0.00561",
+        "current_price": "769.66",
+        "lastday_price": "765.37",
+        "change_today": "0.00561"
+      }
+    },
+    "QQQ": {
+      "sma20": 739.34,
+      "sma50": 725.67,
+      "last_close": 746,
+      "pct_change": -0.7,
+      "trend": "bullish \u2014 above both MAs",
+      "news": "Alphabet Q3 Earnings Preview: 'Bears Have Technical Advantage,' Here's What Could Help Bulls; Nasdaq 100 Climbs on Chip Rally, Boeing Sinks 10%: Stock Market Today; Microsoft Q1 Preview: AI, Cloud Key As Company Eyes 15th Straight Double Beat",
+      "notes": "",
+      "position": {
+        "asset_id": "2d9e926c-e17c-47c3-ad8c-26c7a594e48f",
+        "symbol": "QQQ",
+        "exchange": "NASDAQ",
+        "asset_class": "us_equity",
+        "asset_marginable": true,
+        "qty": "13",
+        "qty_available": "13",
+        "avg_entry_price": "731.461538",
+        "side": "long",
+        "market_value": "9374.43",
+        "cost_basis": "9508.999994",
+        "unrealized_pl": "-134.569994",
+        "unrealized_plpc": "-0.01415",
+        "unrealized_intraday_pl": "115.83",
+        "unrealized_intraday_plpc": "0.01251",
+        "current_price": "721.11",
+        "lastday_price": "712.2",
+        "change_today": "0.01251"
+      }
+    },
+    "NVDA": {
+      "sma20": 227.52,
+      "sma50": 222.6,
+      "last_close": 226.46,
+      "pct_change": -1.26,
+      "trend": "mixed \u2014 between MAs",
+      "news": "10 Information Technology Stocks Whale Activity In Today\u2019s Session; What Is Going On With Meta Stock on Tuesday?; Nasdaq 100 Climbs on Chip Rally, Boeing Sinks 10%: Stock Market Today",
+      "notes": "",
+      "position": {
+        "asset_id": "4ce9353c-66d1-46c2-898f-fce867ab0247",
+        "symbol": "NVDA",
+        "exchange": "NASDAQ",
+        "asset_class": "us_equity",
+        "asset_marginable": true,
+        "qty": "35",
+        "qty_available": "35",
+        "avg_entry_price": "227.423143",
+        "side": "long",
+        "market_value": "7621.6",
+        "cost_basis": "7959.810005",
+        "unrealized_pl": "-338.210005",
+        "unrealized_plpc": "-0.04249",
+        "unrealized_intraday_pl": "61.6",
+        "unrealized_intraday_plpc": "0.00815",
+        "current_price": "217.76",
+        "lastday_price": "216",
+        "change_today": "0.00815"
+      }
+    },
+    "AAPL": {
+      "sma20": 335.8,
+      "sma50": 323.04,
+      "last_close": 341.05,
+      "pct_change": 1.36,
+      "trend": "bullish \u2014 above both MAs",
+      "news": "CNBC Halftime Report Final Trades: Apple, UnitedHealth Group, Delta Air Lines, American Tower; What Is Going On With Apple Stock on Tuesday?; Growth Leads Sectors In Tuesday Trading As Defensives Trail",
+      "notes": "",
+      "position": null
+    },
+    "MSFT": {
+      "sma20": 511.83,
+      "sma50": 501.96,
+      "last_close": 541.09,
+      "pct_change": 1.1,
+      "trend": "bullish \u2014 above both MAs",
+      "news": "Anthropic\u2019s $750B Compute Ambition Puts SOXX, SMH and AI Infrastructure ETFs in Focus; Oracle Partners With OpenAI To Integrate ChatGPT, Codex Into Its Operations; Oracle Launches AI Security Mesh Powered By OpenAI\u2019s Frontier Cyber Models To Accelerate Vulnerability Detection And Remediation",
+      "notes": "",
+      "position": {
+        "asset_id": "b6d1aa75-5c9c-4353-a305-9e2caa1925ab",
+        "symbol": "MSFT",
+        "exchange": "NASDAQ",
+        "asset_class": "us_equity",
+        "asset_marginable": true,
+        "qty": "15",
+        "qty_available": "15",
+        "avg_entry_price": "530.41",
+        "side": "long",
+        "market_value": "7988.325",
+        "cost_basis": "7956.15",
+        "unrealized_pl": "32.175",
+        "unrealized_plpc": "0.00404",
+        "unrealized_intraday_pl": "-0.675",
+        "unrealized_intraday_plpc": "-0.00008",
+        "current_price": "532.555",
+        "lastday_price": "532.6",
+        "change_today": "-0.00008"
+      }
+    }
+  }
+}
