@@ -33,7 +33,7 @@
       "pct_change": -0.06,
       "trend": "bullish \u2014 above both MAs",
       "news": "'Fl\u00e1vio Bolsonaro\u2019s Allies Say He Has Already Left For The U.S.; Flight Expected To Arrive Within Hours' - Folha De S. Paulo; Alphabet Q3 Earnings Preview: 'Bears Have Technical Advantage,' Here's What Could Help Bulls; Reported October 26, 2026: USDA To Invest $57M To Boost American Meat Processing Capacity And Support U.S. Ranchers",
-      "notes": "",
+      "notes": "Hold \u2014 position open, no exit signal",
       "position": {
         "asset_id": "b28f4066-5c6d-479b-a2af-85dc1a8f16fb",
         "symbol": "SPY",
@@ -62,7 +62,7 @@
       "pct_change": -0.7,
       "trend": "bullish \u2014 above both MAs",
       "news": "Alphabet Q3 Earnings Preview: 'Bears Have Technical Advantage,' Here's What Could Help Bulls; Nasdaq 100 Climbs on Chip Rally, Boeing Sinks 10%: Stock Market Today; Microsoft Q1 Preview: AI, Cloud Key As Company Eyes 15th Straight Double Beat",
-      "notes": "",
+      "notes": "Hold \u2014 position open, no exit signal",
       "position": {
         "asset_id": "2d9e926c-e17c-47c3-ad8c-26c7a594e48f",
         "symbol": "QQQ",
@@ -130,7 +130,7 @@
       "pct_change": 1.1,
       "trend": "bullish \u2014 above both MAs",
       "news": "Anthropic\u2019s $750B Compute Ambition Puts SOXX, SMH and AI Infrastructure ETFs in Focus; Oracle Partners With OpenAI To Integrate ChatGPT, Codex Into Its Operations; Oracle Launches AI Security Mesh Powered By OpenAI\u2019s Frontier Cyber Models To Accelerate Vulnerability Detection And Remediation",
-      "notes": "",
+      "notes": "Hold \u2014 position open, no exit signal",
       "position": {
         "asset_id": "b6d1aa75-5c9c-4353-a305-9e2caa1925ab",
         "symbol": "MSFT",
@@ -152,5 +152,26 @@
         "change_today": "-0.00008"
       }
     }
-  }
+  },
+  "trades": [
+    {
+      "time": "17:39",
+      "symbol": "NVDA",
+      "action": "SELL",
+      "qty": 35,
+      "price": 226.01,
+      "reasoning": "Price $226.46 crossed below SMA20 $227.52"
+    },
+    {
+      "time": "17:39",
+      "symbol": "AAPL",
+      "action": "BUY",
+      "qty": 23,
+      "price": 341.73,
+      "reasoning": "Above SMA20 ($335.8) and SMA50 ($323.04), pct_change=1.36%"
+    }
+  ],
+  "closed": [
+    "NVDA"
+  ]
 }
