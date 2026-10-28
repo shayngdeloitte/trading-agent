@@ -33,7 +33,7 @@
       "pct_change": 0.0,
       "trend": "bullish \u2014 above both MAs",
       "news": "'U.S. Banking Regulator Warns Hundreds About Potential Job Cuts' - Bloomberg Law; BZ Analysis: The 6-Month Correlation Between The S&P 500 Energy Sector And The S&P 500 Is Down To -0.38, Near Its Lowest On Record; Iran Foreign Minister Abbas Araghchi, On Social Media, Says While Our Brave Armed Forces Are Fully Prepared To Defend The Homeland, Iran Continues To Give Diplomacy A Chance To Succeed; We Remain In Close And Ongoing Contact With Intermediaries To Review Ideas That Can Ensure Implementation Of Our 7-Day Plan In Even Less Than A Week",
-      "notes": "",
+      "notes": "Hold \u2014 position open, no exit signal",
       "position": {
         "asset_id": "b28f4066-5c6d-479b-a2af-85dc1a8f16fb",
         "symbol": "SPY",
@@ -62,7 +62,7 @@
       "pct_change": -0.32,
       "trend": "bullish \u2014 above both MAs",
       "news": "SK Hynix, Vertiv Rescue AI Trade As Oil Tops $102 Before Fed: Stock Market Today; Microsoft And Google Face Monetization Test Amid Expected Fed Pause\u2014 Seagate And Oil Cloud AI Trade; Cyclicals Lead Sectors In Wednesday Trading As Real Estate Trails",
-      "notes": "",
+      "notes": "Hold \u2014 position open, no exit signal",
       "position": {
         "asset_id": "2d9e926c-e17c-47c3-ad8c-26c7a594e48f",
         "symbol": "QQQ",
@@ -91,7 +91,7 @@
       "pct_change": 0.9,
       "trend": "bullish \u2014 above both MAs",
       "news": "10 Information Technology Stocks Whale Activity In Today\u2019s Session; High-Yield ETFs for Retirement: Why JEPI, QQQI Could Come with a Catch; Live On CNBC, Bill Baruch Announces Trimmed Nvidia Position; Trimmed Micron Technology; Trimmed Broadcom",
-      "notes": "",
+      "notes": "Hold \u2014 position open, no exit signal",
       "position": {
         "asset_id": "4ce9353c-66d1-46c2-898f-fce867ab0247",
         "symbol": "NVDA",
@@ -130,7 +130,7 @@
       "pct_change": 0.45,
       "trend": "bullish \u2014 above both MAs",
       "news": "10 Information Technology Stocks Whale Activity In Today\u2019s Session; High-Yield ETFs for Retirement: Why JEPI, QQQI Could Come with a Catch; SK Hynix, Vertiv Rescue AI Trade As Oil Tops $102 Before Fed: Stock Market Today",
-      "notes": "",
+      "notes": "Hold \u2014 position open, no exit signal",
       "position": {
         "asset_id": "b6d1aa75-5c9c-4353-a305-9e2caa1925ab",
         "symbol": "MSFT",
@@ -152,5 +152,16 @@
         "change_today": "-0.0084"
       }
     }
-  }
+  },
+  "trades": [
+    {
+      "time": "18:00",
+      "symbol": "AAPL",
+      "action": "BUY",
+      "qty": 23,
+      "price": 342.01,
+      "reasoning": "Above SMA20 ($336.3) and SMA50 ($323.8), pct_change=0.08%"
+    }
+  ],
+  "closed": []
 }
