@@ -1,0 +1,156 @@
+{
+  "portfolio": {
+    "cash": 62488.3,
+    "total_value": 102036.56,
+    "positions": [
+      {
+        "symbol": "MSFT",
+        "qty": 15,
+        "avg_price": 530.41
+      },
+      {
+        "symbol": "NVDA",
+        "qty": 35,
+        "avg_price": 227.423143
+      },
+      {
+        "symbol": "QQQ",
+        "qty": 13,
+        "avg_price": 731.461538
+      },
+      {
+        "symbol": "SPY",
+        "qty": 19,
+        "avg_price": 767.019474
+      }
+    ]
+  },
+  "research": {
+    "SPY": {
+      "sma20": 769.87,
+      "sma50": 768.58,
+      "last_close": 778.03,
+      "pct_change": 0.0,
+      "trend": "bullish \u2014 above both MAs",
+      "news": "'U.S. Banking Regulator Warns Hundreds About Potential Job Cuts' - Bloomberg Law; BZ Analysis: The 6-Month Correlation Between The S&P 500 Energy Sector And The S&P 500 Is Down To -0.38, Near Its Lowest On Record; Iran Foreign Minister Abbas Araghchi, On Social Media, Says While Our Brave Armed Forces Are Fully Prepared To Defend The Homeland, Iran Continues To Give Diplomacy A Chance To Succeed; We Remain In Close And Ongoing Contact With Intermediaries To Review Ideas That Can Ensure Implementation Of Our 7-Day Plan In Even Less Than A Week",
+      "notes": "",
+      "position": {
+        "asset_id": "b28f4066-5c6d-479b-a2af-85dc1a8f16fb",
+        "symbol": "SPY",
+        "exchange": "ARCA",
+        "asset_class": "us_equity",
+        "asset_marginable": true,
+        "qty": "19",
+        "qty_available": "19",
+        "avg_entry_price": "767.019474",
+        "side": "long",
+        "market_value": "14655.46",
+        "cost_basis": "14573.370006",
+        "unrealized_pl": "82.089994",
+        "unrealized_plpc": "0.00563",
+        "unrealized_intraday_pl": "31.92",
+        "unrealized_intraday_plpc": "0.00218",
+        "current_price": "771.34",
+        "lastday_price": "769.66",
+        "change_today": "0.00218"
+      }
+    },
+    "QQQ": {
+      "sma20": 741.29,
+      "sma50": 726.54,
+      "last_close": 743.64,
+      "pct_change": -0.32,
+      "trend": "bullish \u2014 above both MAs",
+      "news": "SK Hynix, Vertiv Rescue AI Trade As Oil Tops $102 Before Fed: Stock Market Today; Microsoft And Google Face Monetization Test Amid Expected Fed Pause\u2014 Seagate And Oil Cloud AI Trade; Cyclicals Lead Sectors In Wednesday Trading As Real Estate Trails",
+      "notes": "",
+      "position": {
+        "asset_id": "2d9e926c-e17c-47c3-ad8c-26c7a594e48f",
+        "symbol": "QQQ",
+        "exchange": "NASDAQ",
+        "asset_class": "us_equity",
+        "asset_marginable": true,
+        "qty": "13",
+        "qty_available": "13",
+        "avg_entry_price": "731.461538",
+        "side": "long",
+        "market_value": "9394.125",
+        "cost_basis": "9508.999994",
+        "unrealized_pl": "-114.874994",
+        "unrealized_plpc": "-0.01208",
+        "unrealized_intraday_pl": "17.875",
+        "unrealized_intraday_plpc": "0.00191",
+        "current_price": "722.625",
+        "lastday_price": "721.25",
+        "change_today": "0.00191"
+      }
+    },
+    "NVDA": {
+      "sma20": 228.33,
+      "sma50": 223.04,
+      "last_close": 228.5,
+      "pct_change": 0.9,
+      "trend": "bullish \u2014 above both MAs",
+      "news": "10 Information Technology Stocks Whale Activity In Today\u2019s Session; High-Yield ETFs for Retirement: Why JEPI, QQQI Could Come with a Catch; Live On CNBC, Bill Baruch Announces Trimmed Nvidia Position; Trimmed Micron Technology; Trimmed Broadcom",
+      "notes": "",
+      "position": {
+        "asset_id": "4ce9353c-66d1-46c2-898f-fce867ab0247",
+        "symbol": "NVDA",
+        "exchange": "NASDAQ",
+        "asset_class": "us_equity",
+        "asset_marginable": true,
+        "qty": "35",
+        "qty_available": "35",
+        "avg_entry_price": "227.423143",
+        "side": "long",
+        "market_value": "7595.7",
+        "cost_basis": "7959.810005",
+        "unrealized_pl": "-364.110005",
+        "unrealized_plpc": "-0.04574",
+        "unrealized_intraday_pl": "-32.2",
+        "unrealized_intraday_plpc": "-0.00422",
+        "current_price": "217.02",
+        "lastday_price": "217.94",
+        "change_today": "-0.00422"
+      }
+    },
+    "AAPL": {
+      "sma20": 336.3,
+      "sma50": 323.8,
+      "last_close": 341.33,
+      "pct_change": 0.08,
+      "trend": "bullish \u2014 above both MAs",
+      "news": "Apple New 14-Inch,  16-Inch MacBook Pro With PROLED XDR Display, Tandem OLED Technology, M5 Pro Chip, Starting At $2,899, $3,399, Respectively; Apple Introduced New 14-Inch, 16-Inch MacBook Pro With PROLED XDR Display Featuring Breakthrough Tandem OLED Technology; High-Yield ETFs for Retirement: Why JEPI, QQQI Could Come with a Catch",
+      "notes": "",
+      "position": null
+    },
+    "MSFT": {
+      "sma20": 514.15,
+      "sma50": 503.08,
+      "last_close": 543.51,
+      "pct_change": 0.45,
+      "trend": "bullish \u2014 above both MAs",
+      "news": "10 Information Technology Stocks Whale Activity In Today\u2019s Session; High-Yield ETFs for Retirement: Why JEPI, QQQI Could Come with a Catch; SK Hynix, Vertiv Rescue AI Trade As Oil Tops $102 Before Fed: Stock Market Today",
+      "notes": "",
+      "position": {
+        "asset_id": "b6d1aa75-5c9c-4353-a305-9e2caa1925ab",
+        "symbol": "MSFT",
+        "exchange": "NASDAQ",
+        "asset_class": "us_equity",
+        "asset_marginable": true,
+        "qty": "15",
+        "qty_available": "15",
+        "avg_entry_price": "530.41",
+        "side": "long",
+        "market_value": "7902.975",
+        "cost_basis": "7956.15",
+        "unrealized_pl": "-53.175",
+        "unrealized_plpc": "-0.00668",
+        "unrealized_intraday_pl": "-66.975",
+        "unrealized_intraday_plpc": "-0.0084",
+        "current_price": "526.865",
+        "lastday_price": "531.33",
+        "change_today": "-0.0084"
+      }
+    }
+  }
+}
