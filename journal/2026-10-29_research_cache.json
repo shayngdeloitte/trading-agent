@@ -1,0 +1,156 @@
+{
+  "portfolio": {
+    "cash": 62488.3,
+    "total_value": 101707.57,
+    "positions": [
+      {
+        "symbol": "MSFT",
+        "qty": 15,
+        "avg_price": 530.41
+      },
+      {
+        "symbol": "NVDA",
+        "qty": 35,
+        "avg_price": 227.423143
+      },
+      {
+        "symbol": "QQQ",
+        "qty": 13,
+        "avg_price": 731.461538
+      },
+      {
+        "symbol": "SPY",
+        "qty": 19,
+        "avg_price": 767.019474
+      }
+    ]
+  },
+  "research": {
+    "SPY": {
+      "sma20": 770.65,
+      "sma50": 768.55,
+      "last_close": 769.65,
+      "pct_change": -1.08,
+      "trend": "mixed \u2014 between MAs",
+      "news": "We Will Not Take Any Steps Before The U.S. Implements Our Conditions Al-Mayadeen Has Clarified, Citing An Informed Iranian Source, Regarding The Correspondence Between JD Vance And Major General Rezaei; Trump's Claim That Vance's Letter Was In Response To Iran's Request For Equipment And Medicine Is Completely False; Senior Iranian Security Official Confirms U.S. Vice President Sent Letter To SNSC Secretary Major General Mohsen Rezaee; Tehran Has Not Responded To Vance\u2019s Message; Alphabet Stock Down 12% As AI Hits Google's Core Search Business",
+      "notes": "",
+      "position": {
+        "asset_id": "b28f4066-5c6d-479b-a2af-85dc1a8f16fb",
+        "symbol": "SPY",
+        "exchange": "ARCA",
+        "asset_class": "us_equity",
+        "asset_marginable": true,
+        "qty": "19",
+        "qty_available": "19",
+        "avg_entry_price": "767.019474",
+        "side": "long",
+        "market_value": "14579.84",
+        "cost_basis": "14573.370006",
+        "unrealized_pl": "6.469994",
+        "unrealized_plpc": "0.00044",
+        "unrealized_intraday_pl": "-94.05",
+        "unrealized_intraday_plpc": "-0.00641",
+        "current_price": "767.36",
+        "lastday_price": "772.31",
+        "change_today": "-0.00641"
+      }
+    },
+    "QQQ": {
+      "sma20": 742.51,
+      "sma50": 726.64,
+      "last_close": 728.99,
+      "pct_change": -1.97,
+      "trend": "mixed \u2014 between MAs",
+      "news": "Alphabet Stock Down 12% As AI Hits Google's Core Search Business; Alphabet Sinks 11.8%, Small Caps Rally on Strong GDP Growth: Stock Market Today; 8 Of 11 Sectors Rise Thursday As Defensives Lead",
+      "notes": "",
+      "position": {
+        "asset_id": "2d9e926c-e17c-47c3-ad8c-26c7a594e48f",
+        "symbol": "QQQ",
+        "exchange": "NASDAQ",
+        "asset_class": "us_equity",
+        "asset_marginable": true,
+        "qty": "13",
+        "qty_available": "13",
+        "avg_entry_price": "731.461538",
+        "side": "long",
+        "market_value": "9270.56",
+        "cost_basis": "9508.999994",
+        "unrealized_pl": "-238.439994",
+        "unrealized_plpc": "-0.02508",
+        "unrealized_intraday_pl": "-162.37",
+        "unrealized_intraday_plpc": "-0.01721",
+        "current_price": "713.12",
+        "lastday_price": "725.61",
+        "change_today": "-0.01721"
+      }
+    },
+    "NVDA": {
+      "sma20": 228.71,
+      "sma50": 223.23,
+      "last_close": 221.49,
+      "pct_change": -3.07,
+      "trend": "bearish \u2014 below both MAs",
+      "news": "Alphabet Stock Down 12% As AI Hits Google's Core Search Business; 'Canada, Nvidia Back Cohere in Round at Over $20 Billion Value' - Bloomberg News; Eclypsium Partners with NVIDIA to Advance Infrastructure Assurance",
+      "notes": "",
+      "position": {
+        "asset_id": "4ce9353c-66d1-46c2-898f-fce867ab0247",
+        "symbol": "NVDA",
+        "exchange": "NASDAQ",
+        "asset_class": "us_equity",
+        "asset_marginable": true,
+        "qty": "35",
+        "qty_available": "35",
+        "avg_entry_price": "227.423143",
+        "side": "long",
+        "market_value": "7449.7255",
+        "cost_basis": "7959.810005",
+        "unrealized_pl": "-510.084505",
+        "unrealized_plpc": "-0.06408",
+        "unrealized_intraday_pl": "-88.5745",
+        "unrealized_intraday_plpc": "-0.01175",
+        "current_price": "212.8493",
+        "lastday_price": "215.38",
+        "change_today": "-0.01175"
+      }
+    },
+    "AAPL": {
+      "sma20": 336.83,
+      "sma50": 324.48,
+      "last_close": 343.01,
+      "pct_change": 0.49,
+      "trend": "bullish \u2014 above both MAs",
+      "news": "Apple Cuts Taiwan App Store Commission Rate In Taiwan From 30% To 26%, Effective Oct. 31; Alphabet Stock Down 12% As AI Hits Google's Core Search Business; Alphabet Sinks 11.8%, Small Caps Rally on Strong GDP Growth: Stock Market Today",
+      "notes": "",
+      "position": null
+    },
+    "MSFT": {
+      "sma20": 516.33,
+      "sma50": 503.91,
+      "last_close": 534.04,
+      "pct_change": -1.74,
+      "trend": "bullish \u2014 above both MAs",
+      "news": "Why Is Micron Stock Falling on Thursday?; Microsoft And Alphabet's Two Different Market Stories\u2014AI Keeps Building; Microsoft Stock Slips Despite Strong Azure Growth: Analysts Debate AI Spending",
+      "notes": "",
+      "position": {
+        "asset_id": "b6d1aa75-5c9c-4353-a305-9e2caa1925ab",
+        "symbol": "MSFT",
+        "exchange": "NASDAQ",
+        "asset_class": "us_equity",
+        "asset_marginable": true,
+        "qty": "15",
+        "qty_available": "15",
+        "avg_entry_price": "530.41",
+        "side": "long",
+        "market_value": "7919.1",
+        "cost_basis": "7956.15",
+        "unrealized_pl": "-37.05",
+        "unrealized_plpc": "-0.00466",
+        "unrealized_intraday_pl": "-46.05",
+        "unrealized_intraday_plpc": "-0.00578",
+        "current_price": "527.94",
+        "lastday_price": "531.01",
+        "change_today": "-0.00578"
+      }
+    }
+  }
+}
