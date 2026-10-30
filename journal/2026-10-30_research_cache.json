@@ -1,0 +1,132 @@
+{
+  "portfolio": {
+    "cash": 77082.1,
+    "total_value": 100970.4,
+    "positions": [
+      {
+        "symbol": "MSFT",
+        "qty": 15,
+        "avg_price": 530.41
+      },
+      {
+        "symbol": "NVDA",
+        "qty": 35,
+        "avg_price": 227.423143
+      },
+      {
+        "symbol": "QQQ",
+        "qty": 13,
+        "avg_price": 731.461538
+      }
+    ]
+  },
+  "research": {
+    "SPY": {
+      "sma20": 771.11,
+      "sma50": 768.59,
+      "last_close": 771.77,
+      "pct_change": 0.28,
+      "trend": "bullish \u2014 above both MAs",
+      "news": "Fed's Logan Says Long-Term Rates Have Risen, But Don't Represent As Much As A Drag On Economy As Might Be Expected; Economic Growth Is Strong, Consumer Spending Solid; Labor Market Is Balanced, Perhaps Tightening A Bit; Fed's Logan Says 'Unacceptable' That Inflation Is Not Headed Back To Fed's 2% Target; After 50 BPs Of Rate Hikes, A Pause Would Make Sense To Determine What Further Action Is Appropriate; Financial Conditions Are Providing A Tailwind To The Economy; Higher Market Rates A Message That Investors Believe Monetary Policy Has Work To Do; Fed's Logan Says Fed Needs At Least Two More Quarter-Point Rate Hikes; Skipping A Meeting Doesn't Change Policy Destination; Adjusting Policy Gradually Can Reduce Risks Of Sharp Economic Deterioration; Gradual Policy Adjustment Helps Households, Businesses, Investors Adapt To Higher Rates;  End Goal Is To Make Policy Modestly Restrictive; Making Policy Rate Destination Clear Helps Economy Adapt, Obtain Benefits Of A Skip",
+      "notes": "",
+      "position": null
+    },
+    "QQQ": {
+      "sma20": 743.07,
+      "sma50": 726.86,
+      "last_close": 728.19,
+      "pct_change": -0.11,
+      "trend": "mixed \u2014 between MAs",
+      "news": "Nasdaq Tumbles Over 3%, Chip Stocks Sink: Stock Market Today; Intel\u2019s Agentic AI Overshadowed By Weak PC Sales; Soft Retail Overshadows Amazon AI; Record Crypto Heist; Defensives Lead Sectors In Friday Trading As Growth Trails",
+      "notes": "",
+      "position": {
+        "asset_id": "2d9e926c-e17c-47c3-ad8c-26c7a594e48f",
+        "symbol": "QQQ",
+        "exchange": "NASDAQ",
+        "asset_class": "us_equity",
+        "asset_marginable": true,
+        "qty": "13",
+        "qty_available": "13",
+        "avg_entry_price": "731.461538",
+        "side": "long",
+        "market_value": "8949.07",
+        "cost_basis": "9508.999994",
+        "unrealized_pl": "-559.929994",
+        "unrealized_plpc": "-0.05888",
+        "unrealized_intraday_pl": "-350.35",
+        "unrealized_intraday_plpc": "-0.03767",
+        "current_price": "688.39",
+        "lastday_price": "715.34",
+        "change_today": "-0.03767"
+      }
+    },
+    "NVDA": {
+      "sma20": 228.61,
+      "sma50": 223.19,
+      "last_close": 217.33,
+      "pct_change": -1.88,
+      "trend": "bearish \u2014 below both MAs",
+      "news": "10 Information Technology Stocks With Whale Alerts In Today\u2019s Session; Nasdaq Tumbles Over 3%, Chip Stocks Sink: Stock Market Today; Chip Stocks Wipe Out $1 Trillion in Friday Bloodbath: 5 Stocks Alone Account for 60% of the Damage",
+      "notes": "",
+      "position": {
+        "asset_id": "4ce9353c-66d1-46c2-898f-fce867ab0247",
+        "symbol": "NVDA",
+        "exchange": "NASDAQ",
+        "asset_class": "us_equity",
+        "asset_marginable": true,
+        "qty": "35",
+        "qty_available": "35",
+        "avg_entry_price": "227.423143",
+        "side": "long",
+        "market_value": "7106.827",
+        "cost_basis": "7959.810005",
+        "unrealized_pl": "-852.983005",
+        "unrealized_plpc": "-0.10716",
+        "unrealized_intraday_pl": "-371.273",
+        "unrealized_intraday_plpc": "-0.04965",
+        "current_price": "203.0522",
+        "lastday_price": "213.66",
+        "change_today": "-0.04965"
+      }
+    },
+    "AAPL": {
+      "sma20": 337.07,
+      "sma50": 325.1,
+      "last_close": 341.91,
+      "pct_change": -0.32,
+      "trend": "bullish \u2014 above both MAs",
+      "news": "Nasdaq Tumbles Over 3%, Chip Stocks Sink: Stock Market Today; Intel\u2019s Agentic AI Overshadowed By Weak PC Sales; Soft Retail Overshadows Amazon AI; Record Crypto Heist; 'Apple Acquires Ascend.io' - MacRumors",
+      "notes": "",
+      "position": null
+    },
+    "MSFT": {
+      "sma20": 518.42,
+      "sma50": 504.94,
+      "last_close": 539.36,
+      "pct_change": 1.0,
+      "trend": "bullish \u2014 above both MAs",
+      "news": "Why Is Nebius Stock Falling on Friday?; 10 Information Technology Stocks With Whale Alerts In Today\u2019s Session; Intel\u2019s Agentic AI Overshadowed By Weak PC Sales; Soft Retail Overshadows Amazon AI; Record Crypto Heist",
+      "notes": "",
+      "position": {
+        "asset_id": "b6d1aa75-5c9c-4353-a305-9e2caa1925ab",
+        "symbol": "MSFT",
+        "exchange": "NASDAQ",
+        "asset_class": "us_equity",
+        "asset_marginable": true,
+        "qty": "15",
+        "qty_available": "15",
+        "avg_entry_price": "530.41",
+        "side": "long",
+        "market_value": "7832.4",
+        "cost_basis": "7956.15",
+        "unrealized_pl": "-123.75",
+        "unrealized_plpc": "-0.01555",
+        "unrealized_intraday_pl": "-119.7",
+        "unrealized_intraday_plpc": "-0.01505",
+        "current_price": "522.16",
+        "lastday_price": "530.14",
+        "change_today": "-0.01505"
+      }
+    }
+  }
+}
