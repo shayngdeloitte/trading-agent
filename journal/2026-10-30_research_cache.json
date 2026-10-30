@@ -106,7 +106,7 @@
       "pct_change": 1.0,
       "trend": "bullish \u2014 above both MAs",
       "news": "Why Is Nebius Stock Falling on Friday?; 10 Information Technology Stocks With Whale Alerts In Today\u2019s Session; Intel\u2019s Agentic AI Overshadowed By Weak PC Sales; Soft Retail Overshadows Amazon AI; Record Crypto Heist",
-      "notes": "",
+      "notes": "Hold \u2014 position open, no exit signal",
       "position": {
         "asset_id": "b6d1aa75-5c9c-4353-a305-9e2caa1925ab",
         "symbol": "MSFT",
@@ -128,5 +128,43 @@
         "change_today": "-0.01505"
       }
     }
-  }
+  },
+  "trades": [
+    {
+      "time": "17:48",
+      "symbol": "SPY",
+      "action": "BUY",
+      "qty": 19,
+      "price": 773.31,
+      "reasoning": "Above SMA20 ($771.11) and SMA50 ($768.59), pct_change=0.28%"
+    },
+    {
+      "time": "17:48",
+      "symbol": "QQQ",
+      "action": "SELL",
+      "qty": 13,
+      "price": 726.73,
+      "reasoning": "Price $728.19 crossed below SMA20 $743.07"
+    },
+    {
+      "time": "17:48",
+      "symbol": "NVDA",
+      "action": "SELL",
+      "qty": 35,
+      "price": 216.9,
+      "reasoning": "Price $217.33 crossed below SMA20 $228.61"
+    },
+    {
+      "time": "17:48",
+      "symbol": "AAPL",
+      "action": "BUY",
+      "qty": 23,
+      "price": 342.59,
+      "reasoning": "Above SMA20 ($337.07) and SMA50 ($325.1), pct_change=-0.32%"
+    }
+  ],
+  "closed": [
+    "QQQ",
+    "NVDA"
+  ]
 }
