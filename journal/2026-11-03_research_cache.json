@@ -1,0 +1,180 @@
+{
+  "portfolio": {
+    "cash": 54862.8,
+    "total_value": 100851.86,
+    "positions": [
+      {
+        "symbol": "AAPL",
+        "qty": 23,
+        "avg_price": 342.59
+      },
+      {
+        "symbol": "MSFT",
+        "qty": 15,
+        "avg_price": 530.41
+      },
+      {
+        "symbol": "NVDA",
+        "qty": 35,
+        "avg_price": 227.423143
+      },
+      {
+        "symbol": "QQQ",
+        "qty": 13,
+        "avg_price": 731.461538
+      },
+      {
+        "symbol": "SPY",
+        "qty": 19,
+        "avg_price": 754.722105
+      }
+    ]
+  },
+  "research": {
+    "SPY": {
+      "sma20": 770.85,
+      "sma50": 768.35,
+      "last_close": 766.6,
+      "pct_change": 0.43,
+      "trend": "bearish \u2014 below both MAs",
+      "news": "Reuters Reported US Officials Have Held Up Approval For American Chipmaking Equipment Needed By SK Hynix To Expand Production In China; This Midterm Nightmare Scenario Puts S&P 500 Down 10% by Year-End, Evercore Warns; Bitcoin Could Face Third and Final 2026 Low in Q4 if S&P500 Drops, Analyst Cautions",
+      "notes": "",
+      "position": {
+        "asset_id": "b28f4066-5c6d-479b-a2af-85dc1a8f16fb",
+        "symbol": "SPY",
+        "exchange": "ARCA",
+        "asset_class": "us_equity",
+        "asset_marginable": true,
+        "qty": "19",
+        "qty_available": "19",
+        "avg_entry_price": "754.722105",
+        "side": "long",
+        "market_value": "14352.98",
+        "cost_basis": "14339.719995",
+        "unrealized_pl": "13.260005",
+        "unrealized_plpc": "0.00092",
+        "unrealized_intraday_pl": "63.08",
+        "unrealized_intraday_plpc": "0.00441",
+        "current_price": "755.42",
+        "lastday_price": "752.1",
+        "change_today": "0.00441"
+      }
+    },
+    "QQQ": {
+      "sma20": 741.34,
+      "sma50": 726.67,
+      "last_close": 718.31,
+      "pct_change": 1.2,
+      "trend": "bearish \u2014 below both MAs",
+      "news": "This Midterm Nightmare Scenario Puts S&P 500 Down 10% by Year-End, Evercore Warns; QUICK SPARK: Trump Celebrates Republican Victory in Guam \u2014 'Wow, Hopefully an Indication for Things to Come!'; AMD Earnings To Test Whether PC Weakness Is Intel-Specific, Apple\u2019s AI Agent Problem",
+      "notes": "",
+      "position": {
+        "asset_id": "2d9e926c-e17c-47c3-ad8c-26c7a594e48f",
+        "symbol": "QQQ",
+        "exchange": "NASDAQ",
+        "asset_class": "us_equity",
+        "asset_marginable": true,
+        "qty": "13",
+        "qty_available": "13",
+        "avg_entry_price": "731.461538",
+        "side": "long",
+        "market_value": "8920.21",
+        "cost_basis": "9508.999994",
+        "unrealized_pl": "-588.789994",
+        "unrealized_plpc": "-0.06192",
+        "unrealized_intraday_pl": "66.04",
+        "unrealized_intraday_plpc": "0.00746",
+        "current_price": "686.17",
+        "lastday_price": "681.09",
+        "change_today": "0.00746"
+      }
+    },
+    "NVDA": {
+      "sma20": 227.7,
+      "sma50": 222.96,
+      "last_close": 217.09,
+      "pct_change": 1.38,
+      "trend": "bearish \u2014 below both MAs",
+      "news": "SpaceX Could Be Biggest Loser From Successful Anthropic IPO, Finance Professor Warns; AMD Earnings To Test Whether PC Weakness Is Intel-Specific, Apple\u2019s AI Agent Problem; What's Going on with Microsoft Stock on Tuesday?",
+      "notes": "",
+      "position": {
+        "asset_id": "4ce9353c-66d1-46c2-898f-fce867ab0247",
+        "symbol": "NVDA",
+        "exchange": "NASDAQ",
+        "asset_class": "us_equity",
+        "asset_marginable": true,
+        "qty": "35",
+        "qty_available": "35",
+        "avg_entry_price": "227.423143",
+        "side": "long",
+        "market_value": "7252.7",
+        "cost_basis": "7959.810005",
+        "unrealized_pl": "-707.110005",
+        "unrealized_plpc": "-0.08884",
+        "unrealized_intraday_pl": "180.6",
+        "unrealized_intraday_plpc": "0.02554",
+        "current_price": "207.22",
+        "lastday_price": "202.06",
+        "change_today": "0.02554"
+      }
+    },
+    "AAPL": {
+      "sma20": 337.65,
+      "sma50": 326.31,
+      "last_close": 342.99,
+      "pct_change": -0.12,
+      "trend": "bullish \u2014 above both MAs",
+      "news": "Apple Releases First Betas of iOS 27.3 and macOS Golden Gate 27.3; Apple Stock at \u2018Extreme Overvaluation\u2019: Analysts See Slowing Revenue Growth; Apple Announces Redesigned Health App Expands Language Support",
+      "notes": "",
+      "position": {
+        "asset_id": "b0b6dd9d-8b9b-48a9-ba46-b9d54906e415",
+        "symbol": "AAPL",
+        "exchange": "NASDAQ",
+        "asset_class": "us_equity",
+        "asset_marginable": true,
+        "qty": "23",
+        "qty_available": "23",
+        "avg_entry_price": "342.59",
+        "side": "long",
+        "market_value": "7644.1604",
+        "cost_basis": "7879.57",
+        "unrealized_pl": "-235.4096",
+        "unrealized_plpc": "-0.02988",
+        "unrealized_intraday_pl": "-137.1996",
+        "unrealized_intraday_plpc": "-0.01763",
+        "current_price": "332.3548",
+        "lastday_price": "338.32",
+        "change_today": "-0.01763"
+      }
+    },
+    "MSFT": {
+      "sma20": 521.81,
+      "sma50": 506.2,
+      "last_close": 533.64,
+      "pct_change": 0.88,
+      "trend": "bullish \u2014 above both MAs",
+      "news": "SpaceX Could Be Biggest Loser From Successful Anthropic IPO, Finance Professor Warns; 'Hollywood backs NYT in AI copyright battle versus OpenAI, Microsoft' - Axios; What Is Going on With Meta Platforms Stock on Tuesday?",
+      "notes": "",
+      "position": {
+        "asset_id": "b6d1aa75-5c9c-4353-a305-9e2caa1925ab",
+        "symbol": "MSFT",
+        "exchange": "NASDAQ",
+        "asset_class": "us_equity",
+        "asset_marginable": true,
+        "qty": "15",
+        "qty_available": "15",
+        "avg_entry_price": "530.41",
+        "side": "long",
+        "market_value": "7819.575",
+        "cost_basis": "7956.15",
+        "unrealized_pl": "-136.575",
+        "unrealized_plpc": "-0.01717",
+        "unrealized_intraday_pl": "212.775",
+        "unrealized_intraday_plpc": "0.02797",
+        "current_price": "521.305",
+        "lastday_price": "507.12",
+        "change_today": "0.02797"
+      }
+    }
+  }
+}
