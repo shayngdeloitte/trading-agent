@@ -125,7 +125,7 @@
       "pct_change": -0.12,
       "trend": "bullish \u2014 above both MAs",
       "news": "Apple Releases First Betas of iOS 27.3 and macOS Golden Gate 27.3; Apple Stock at \u2018Extreme Overvaluation\u2019: Analysts See Slowing Revenue Growth; Apple Announces Redesigned Health App Expands Language Support",
-      "notes": "",
+      "notes": "Hold \u2014 position open, no exit signal",
       "position": {
         "asset_id": "b0b6dd9d-8b9b-48a9-ba46-b9d54906e415",
         "symbol": "AAPL",
@@ -154,7 +154,7 @@
       "pct_change": 0.88,
       "trend": "bullish \u2014 above both MAs",
       "news": "SpaceX Could Be Biggest Loser From Successful Anthropic IPO, Finance Professor Warns; 'Hollywood backs NYT in AI copyright battle versus OpenAI, Microsoft' - Axios; What Is Going on With Meta Platforms Stock on Tuesday?",
-      "notes": "",
+      "notes": "Hold \u2014 position open, no exit signal",
       "position": {
         "asset_id": "b6d1aa75-5c9c-4353-a305-9e2caa1925ab",
         "symbol": "MSFT",
@@ -176,5 +176,36 @@
         "change_today": "0.02797"
       }
     }
-  }
+  },
+  "trades": [
+    {
+      "time": "19:13",
+      "symbol": "SPY",
+      "action": "SELL",
+      "qty": 19,
+      "price": 765.07,
+      "reasoning": "Price $766.6 crossed below SMA20 $770.85"
+    },
+    {
+      "time": "19:13",
+      "symbol": "QQQ",
+      "action": "SELL",
+      "qty": 13,
+      "price": 716.87,
+      "reasoning": "Price $718.31 crossed below SMA20 $741.34"
+    },
+    {
+      "time": "19:13",
+      "symbol": "NVDA",
+      "action": "SELL",
+      "qty": 35,
+      "price": 216.66,
+      "reasoning": "Price $217.09 crossed below SMA20 $227.7"
+    }
+  ],
+  "closed": [
+    "SPY",
+    "QQQ",
+    "NVDA"
+  ]
 }
