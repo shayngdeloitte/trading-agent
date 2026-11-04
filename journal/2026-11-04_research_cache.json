@@ -1,0 +1,180 @@
+{
+  "portfolio": {
+    "cash": 54862.8,
+    "total_value": 102051.58,
+    "positions": [
+      {
+        "symbol": "AAPL",
+        "qty": 23,
+        "avg_price": 342.59
+      },
+      {
+        "symbol": "MSFT",
+        "qty": 15,
+        "avg_price": 530.41
+      },
+      {
+        "symbol": "NVDA",
+        "qty": 35,
+        "avg_price": 227.423143
+      },
+      {
+        "symbol": "QQQ",
+        "qty": 13,
+        "avg_price": 731.461538
+      },
+      {
+        "symbol": "SPY",
+        "qty": 19,
+        "avg_price": 754.722105
+      }
+    ]
+  },
+  "research": {
+    "SPY": {
+      "sma20": 770.63,
+      "sma50": 768.27,
+      "last_close": 769.09,
+      "pct_change": 0.32,
+      "trend": "mixed \u2014 between MAs",
+      "news": "President Trump Says Iran War Will End Whenever I Want It To; Not Considering Replacing Hegseth; President Trump On Election, Says It's Largely True Election Loss Was Result Of Iran War; It Was Worth It; You Can't Let Iran Have A Nuclear Weapon;  I'll Get Along Probably With The Democrats Unless They Want to Be Destructive; If I Were On The Ballot We Would Have Won, We Weren't Able To Transfer The Love To Candidates; Says It Would Destroy Democratic Party If They Impeached Me; House Minority Leader Hakeem Jeffries Speaks After Democrats Win Control Of House; Says Have Not Heard From Trump; We Will Pass A Bill To Stop Trump Tariffs And End The Iran War",
+      "notes": "",
+      "position": {
+        "asset_id": "b28f4066-5c6d-479b-a2af-85dc1a8f16fb",
+        "symbol": "SPY",
+        "exchange": "ARCA",
+        "asset_class": "us_equity",
+        "asset_marginable": true,
+        "qty": "19",
+        "qty_available": "19",
+        "avg_entry_price": "754.722105",
+        "side": "long",
+        "market_value": "14590.48",
+        "cost_basis": "14339.719995",
+        "unrealized_pl": "250.760005",
+        "unrealized_plpc": "0.01749",
+        "unrealized_intraday_pl": "257.83",
+        "unrealized_intraday_plpc": "0.01799",
+        "current_price": "767.92",
+        "lastday_price": "754.35",
+        "change_today": "0.01799"
+      }
+    },
+    "QQQ": {
+      "sma20": 739.83,
+      "sma50": 726.6,
+      "last_close": 717.21,
+      "pct_change": -0.15,
+      "trend": "bearish \u2014 below both MAs",
+      "news": "Dow Rallies 2.9%, Oil Sinks 7% After Midterms: Stock Market Today; Why Investors May Be Getting The Blue Wave Trade Wrong; Iran Remains The Wild Card; 8 Of 11 Sectors Rise Wednesday As Growth Leads",
+      "notes": "",
+      "position": {
+        "asset_id": "2d9e926c-e17c-47c3-ad8c-26c7a594e48f",
+        "symbol": "QQQ",
+        "exchange": "NASDAQ",
+        "asset_class": "us_equity",
+        "asset_marginable": true,
+        "qty": "13",
+        "qty_available": "13",
+        "avg_entry_price": "731.461538",
+        "side": "long",
+        "market_value": "9018.49",
+        "cost_basis": "9508.999994",
+        "unrealized_pl": "-490.509994",
+        "unrealized_plpc": "-0.05158",
+        "unrealized_intraday_pl": "109.85",
+        "unrealized_intraday_plpc": "0.01233",
+        "current_price": "693.73",
+        "lastday_price": "685.28",
+        "change_today": "0.01233"
+      }
+    },
+    "NVDA": {
+      "sma20": 227.08,
+      "sma50": 222.94,
+      "last_close": 216.41,
+      "pct_change": -0.31,
+      "trend": "bearish \u2014 below both MAs",
+      "news": "AMD's AI Data Center Guarantees Reach $8.5 Billion as It Challenges Nvidia; Dow Rallies 2.9%, Oil Sinks 7% After Midterms: Stock Market Today; Why Investors May Be Getting The Blue Wave Trade Wrong; Iran Remains The Wild Card",
+      "notes": "",
+      "position": {
+        "asset_id": "4ce9353c-66d1-46c2-898f-fce867ab0247",
+        "symbol": "NVDA",
+        "exchange": "NASDAQ",
+        "asset_class": "us_equity",
+        "asset_marginable": true,
+        "qty": "35",
+        "qty_available": "35",
+        "avg_entry_price": "227.423143",
+        "side": "long",
+        "market_value": "7129.5665",
+        "cost_basis": "7959.810005",
+        "unrealized_pl": "-830.243505",
+        "unrealized_plpc": "-0.1043",
+        "unrealized_intraday_pl": "-104.5835",
+        "unrealized_intraday_plpc": "-0.01446",
+        "current_price": "203.7019",
+        "lastday_price": "206.69",
+        "change_today": "-0.01446"
+      }
+    },
+    "AAPL": {
+      "sma20": 337.64,
+      "sma50": 326.94,
+      "last_close": 339.66,
+      "pct_change": -0.97,
+      "trend": "bullish \u2014 above both MAs",
+      "news": "Apple Updates App Store Age-Rating Requirements for Dating and AI Companion Apps; CNBC Halftime Report Final Trades: Coeur Mining, Amazon, FTAI Aviation, Apple; What's Going on With Microsoft Stock on Wednesday?",
+      "notes": "",
+      "position": {
+        "asset_id": "b0b6dd9d-8b9b-48a9-ba46-b9d54906e415",
+        "symbol": "AAPL",
+        "exchange": "NASDAQ",
+        "asset_class": "us_equity",
+        "asset_marginable": true,
+        "qty": "23",
+        "qty_available": "23",
+        "avg_entry_price": "342.59",
+        "side": "long",
+        "market_value": "8123.37",
+        "cost_basis": "7879.57",
+        "unrealized_pl": "243.8",
+        "unrealized_plpc": "0.03094",
+        "unrealized_intraday_pl": "489.67",
+        "unrealized_intraday_plpc": "0.06415",
+        "current_price": "353.19",
+        "lastday_price": "331.9",
+        "change_today": "0.06415"
+      }
+    },
+    "MSFT": {
+      "sma20": 523.51,
+      "sma50": 506.72,
+      "last_close": 532.02,
+      "pct_change": -0.3,
+      "trend": "bullish \u2014 above both MAs",
+      "news": "Above Security Joins Microsoft for Startups Pegasus Program; PowerDMARC Launches on Microsoft Marketplace; QUICK SPARK: Microsoft Stock Hits Record High as Midterm Results Boost AI Infrastructure Bets",
+      "notes": "",
+      "position": {
+        "asset_id": "b6d1aa75-5c9c-4353-a305-9e2caa1925ab",
+        "symbol": "MSFT",
+        "exchange": "NASDAQ",
+        "asset_class": "us_equity",
+        "asset_marginable": true,
+        "qty": "15",
+        "qty_available": "15",
+        "avg_entry_price": "530.41",
+        "side": "long",
+        "market_value": "8326.875",
+        "cost_basis": "7956.15",
+        "unrealized_pl": "370.725",
+        "unrealized_plpc": "0.0466",
+        "unrealized_intraday_pl": "512.025",
+        "unrealized_intraday_plpc": "0.06552",
+        "current_price": "555.125",
+        "lastday_price": "520.99",
+        "change_today": "0.06552"
+      }
+    }
+  }
+}
