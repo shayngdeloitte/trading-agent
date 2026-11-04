@@ -125,7 +125,7 @@
       "pct_change": -0.97,
       "trend": "bullish \u2014 above both MAs",
       "news": "Apple Updates App Store Age-Rating Requirements for Dating and AI Companion Apps; CNBC Halftime Report Final Trades: Coeur Mining, Amazon, FTAI Aviation, Apple; What's Going on With Microsoft Stock on Wednesday?",
-      "notes": "",
+      "notes": "Hold \u2014 position open, no exit signal",
       "position": {
         "asset_id": "b0b6dd9d-8b9b-48a9-ba46-b9d54906e415",
         "symbol": "AAPL",
@@ -154,7 +154,7 @@
       "pct_change": -0.3,
       "trend": "bullish \u2014 above both MAs",
       "news": "Above Security Joins Microsoft for Startups Pegasus Program; PowerDMARC Launches on Microsoft Marketplace; QUICK SPARK: Microsoft Stock Hits Record High as Midterm Results Boost AI Infrastructure Bets",
-      "notes": "",
+      "notes": "Hold \u2014 position open, no exit signal",
       "position": {
         "asset_id": "b6d1aa75-5c9c-4353-a305-9e2caa1925ab",
         "symbol": "MSFT",
@@ -176,5 +176,36 @@
         "change_today": "0.06552"
       }
     }
-  }
+  },
+  "trades": [
+    {
+      "time": "19:29",
+      "symbol": "SPY",
+      "action": "SELL",
+      "qty": 19,
+      "price": 767.55,
+      "reasoning": "Price $769.09 crossed below SMA20 $770.63"
+    },
+    {
+      "time": "19:29",
+      "symbol": "QQQ",
+      "action": "SELL",
+      "qty": 13,
+      "price": 715.78,
+      "reasoning": "Price $717.21 crossed below SMA20 $739.83"
+    },
+    {
+      "time": "19:29",
+      "symbol": "NVDA",
+      "action": "SELL",
+      "qty": 35,
+      "price": 215.98,
+      "reasoning": "Price $216.41 crossed below SMA20 $227.08"
+    }
+  ],
+  "closed": [
+    "SPY",
+    "QQQ",
+    "NVDA"
+  ]
 }
