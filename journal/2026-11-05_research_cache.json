@@ -1,0 +1,156 @@
+{
+  "portfolio": {
+    "cash": 69454.67,
+    "total_value": 100331.0,
+    "positions": [
+      {
+        "symbol": "AAPL",
+        "qty": 23,
+        "avg_price": 342.59
+      },
+      {
+        "symbol": "MSFT",
+        "qty": 15,
+        "avg_price": 530.41
+      },
+      {
+        "symbol": "NVDA",
+        "qty": 35,
+        "avg_price": 227.423143
+      },
+      {
+        "symbol": "QQQ",
+        "qty": 13,
+        "avg_price": 731.461538
+      }
+    ]
+  },
+  "research": {
+    "SPY": {
+      "sma20": 770.89,
+      "sma50": 768.33,
+      "last_close": 773.13,
+      "pct_change": 0.53,
+      "trend": "bullish \u2014 above both MAs",
+      "news": "Market Bets On Democrats' Magic Wands\u2014Why You Should Be Skeptical; CoreWeave and Nebius Tumble 15% as Amazon and Big Tech Hyperscalers Outlast AI Data Center Selloff; 'Marco Rubio \u2018on resignation watch\u2019 from Trump administration after midterms disaster' - Independent",
+      "notes": "",
+      "position": null
+    },
+    "QQQ": {
+      "sma20": 739.03,
+      "sma50": 726.74,
+      "last_close": 725.25,
+      "pct_change": 1.12,
+      "trend": "bearish \u2014 below both MAs",
+      "news": "From Micron to AMD, AI Stocks Crater \u2014 And Citi Just Flagged an 'Exponential' New Threat to Data Centers; VIX Spikes 39% as AI Tech Rout Wipes Out $2.2 Trillion: Stock Market Today; Market Bets On Democrats' Magic Wands\u2014Why You Should Be Skeptical",
+      "notes": "",
+      "position": {
+        "asset_id": "2d9e926c-e17c-47c3-ad8c-26c7a594e48f",
+        "symbol": "QQQ",
+        "exchange": "NASDAQ",
+        "asset_class": "us_equity",
+        "asset_marginable": true,
+        "qty": "13",
+        "qty_available": "13",
+        "avg_entry_price": "731.461538",
+        "side": "long",
+        "market_value": "8492.705",
+        "cost_basis": "9508.999994",
+        "unrealized_pl": "-1016.294994",
+        "unrealized_plpc": "-0.10688",
+        "unrealized_intraday_pl": "-502.645",
+        "unrealized_intraday_plpc": "-0.05588",
+        "current_price": "653.285",
+        "lastday_price": "691.95",
+        "change_today": "-0.05588"
+      }
+    },
+    "NVDA": {
+      "sma20": 226.89,
+      "sma50": 223.03,
+      "last_close": 221.9,
+      "pct_change": 2.54,
+      "trend": "bearish \u2014 below both MAs",
+      "news": "Nvidia Stock Is Now Cheaper Than a Toilet-Paper Company, Data Shows; SanDisk Leads Memory Stocks Lower: A Look Inside the Rout; NVIDIA Faces Logistics and Regulatory Challenges for H200 Chips in China",
+      "notes": "",
+      "position": {
+        "asset_id": "4ce9353c-66d1-46c2-898f-fce867ab0247",
+        "symbol": "NVDA",
+        "exchange": "NASDAQ",
+        "asset_class": "us_equity",
+        "asset_marginable": true,
+        "qty": "35",
+        "qty_available": "35",
+        "avg_entry_price": "227.423143",
+        "side": "long",
+        "market_value": "6415.85",
+        "cost_basis": "7959.810005",
+        "unrealized_pl": "-1543.960005",
+        "unrealized_plpc": "-0.19397",
+        "unrealized_intraday_pl": "-588.7",
+        "unrealized_intraday_plpc": "-0.08405",
+        "current_price": "183.31",
+        "lastday_price": "200.13",
+        "change_today": "-0.08405"
+      }
+    },
+    "AAPL": {
+      "sma20": 337.99,
+      "sma50": 327.72,
+      "last_close": 343.94,
+      "pct_change": 1.26,
+      "trend": "bullish \u2014 above both MAs",
+      "news": "'Apple Draws $31 Billion of Orders for High-Grade Bond Sale' - Bloomberg; Market Bets On Democrats' Magic Wands\u2014Why You Should Be Skeptical; Dan Ives Rides the Blue Tidal Wave of 2026 Midterm Election by Being Selective: Here\u2019s His 10 Stock Picks",
+      "notes": "",
+      "position": {
+        "asset_id": "b0b6dd9d-8b9b-48a9-ba46-b9d54906e415",
+        "symbol": "AAPL",
+        "exchange": "NASDAQ",
+        "asset_class": "us_equity",
+        "asset_marginable": true,
+        "qty": "23",
+        "qty_available": "23",
+        "avg_entry_price": "342.59",
+        "side": "long",
+        "market_value": "7911.195",
+        "cost_basis": "7879.57",
+        "unrealized_pl": "31.625",
+        "unrealized_plpc": "0.00401",
+        "unrealized_intraday_pl": "-127.535",
+        "unrealized_intraday_plpc": "-0.01587",
+        "current_price": "343.965",
+        "lastday_price": "349.51",
+        "change_today": "-0.01587"
+      }
+    },
+    "MSFT": {
+      "sma20": 525.12,
+      "sma50": 507.3,
+      "last_close": 532.8,
+      "pct_change": 0.15,
+      "trend": "bullish \u2014 above both MAs",
+      "news": "'GTA 6' Preorder Sales Hit $751 Million 2 Weeks Ahead of Release. Are Investors Ignoring Take-Two Stock Opportunity?; From Micron to AMD, AI Stocks Crater \u2014 And Citi Just Flagged an 'Exponential' New Threat to Data Centers; Market Bets On Democrats' Magic Wands\u2014Why You Should Be Skeptical",
+      "notes": "",
+      "position": {
+        "asset_id": "b6d1aa75-5c9c-4353-a305-9e2caa1925ab",
+        "symbol": "MSFT",
+        "exchange": "NASDAQ",
+        "asset_class": "us_equity",
+        "asset_marginable": true,
+        "qty": "15",
+        "qty_available": "15",
+        "avg_entry_price": "530.41",
+        "side": "long",
+        "market_value": "8056.575",
+        "cost_basis": "7956.15",
+        "unrealized_pl": "100.425",
+        "unrealized_plpc": "0.01262",
+        "unrealized_intraday_pl": "-280.425",
+        "unrealized_intraday_plpc": "-0.03364",
+        "current_price": "537.105",
+        "lastday_price": "555.8",
+        "change_today": "-0.03364"
+      }
+    }
+  }
+}
