@@ -101,7 +101,7 @@
       "pct_change": 1.26,
       "trend": "bullish \u2014 above both MAs",
       "news": "'Apple Draws $31 Billion of Orders for High-Grade Bond Sale' - Bloomberg; Market Bets On Democrats' Magic Wands\u2014Why You Should Be Skeptical; Dan Ives Rides the Blue Tidal Wave of 2026 Midterm Election by Being Selective: Here\u2019s His 10 Stock Picks",
-      "notes": "",
+      "notes": "Hold \u2014 position open, no exit signal",
       "position": {
         "asset_id": "b0b6dd9d-8b9b-48a9-ba46-b9d54906e415",
         "symbol": "AAPL",
@@ -130,7 +130,7 @@
       "pct_change": 0.15,
       "trend": "bullish \u2014 above both MAs",
       "news": "'GTA 6' Preorder Sales Hit $751 Million 2 Weeks Ahead of Release. Are Investors Ignoring Take-Two Stock Opportunity?; From Micron to AMD, AI Stocks Crater \u2014 And Citi Just Flagged an 'Exponential' New Threat to Data Centers; Market Bets On Democrats' Magic Wands\u2014Why You Should Be Skeptical",
-      "notes": "",
+      "notes": "Hold \u2014 position open, no exit signal",
       "position": {
         "asset_id": "b6d1aa75-5c9c-4353-a305-9e2caa1925ab",
         "symbol": "MSFT",
@@ -152,5 +152,35 @@
         "change_today": "-0.03364"
       }
     }
-  }
+  },
+  "trades": [
+    {
+      "time": "19:38",
+      "symbol": "SPY",
+      "action": "BUY",
+      "qty": 19,
+      "price": 774.68,
+      "reasoning": "Above SMA20 ($770.89) and SMA50 ($768.33), pct_change=0.53%"
+    },
+    {
+      "time": "19:38",
+      "symbol": "QQQ",
+      "action": "SELL",
+      "qty": 13,
+      "price": 723.8,
+      "reasoning": "Price $725.25 crossed below SMA20 $739.03"
+    },
+    {
+      "time": "19:38",
+      "symbol": "NVDA",
+      "action": "SELL",
+      "qty": 35,
+      "price": 221.46,
+      "reasoning": "Price $221.9 crossed below SMA20 $226.89"
+    }
+  ],
+  "closed": [
+    "QQQ",
+    "NVDA"
+  ]
 }
