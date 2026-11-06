@@ -125,7 +125,7 @@
       "pct_change": 1.28,
       "trend": "bullish \u2014 above both MAs",
       "news": "Jobs Report Boosts December Fed Rate Hike Bets; Apple Captures Record Share of Global Smartphone Revenue in Q3; Researcher Finds Apple Predictive Text Restrictions Include Political Terms",
-      "notes": "",
+      "notes": "Hold \u2014 position open, no exit signal",
       "position": {
         "asset_id": "b0b6dd9d-8b9b-48a9-ba46-b9d54906e415",
         "symbol": "AAPL",
@@ -176,5 +176,45 @@
         "change_today": "-0.00342"
       }
     }
-  }
+  },
+  "trades": [
+    {
+      "time": "19:00",
+      "symbol": "SPY",
+      "action": "SELL",
+      "qty": 19,
+      "price": 762.5,
+      "reasoning": "Price $764.03 crossed below SMA20 $770.73"
+    },
+    {
+      "time": "19:00",
+      "symbol": "QQQ",
+      "action": "SELL",
+      "qty": 13,
+      "price": 703.15,
+      "reasoning": "Price $704.56 crossed below SMA20 $737.21"
+    },
+    {
+      "time": "19:00",
+      "symbol": "NVDA",
+      "action": "SELL",
+      "qty": 35,
+      "price": 211.85,
+      "reasoning": "Price $212.27 crossed below SMA20 $226.28"
+    },
+    {
+      "time": "19:00",
+      "symbol": "MSFT",
+      "action": "SELL",
+      "qty": 15,
+      "price": 520.56,
+      "reasoning": "Price $521.6 crossed below SMA20 $526.32"
+    }
+  ],
+  "closed": [
+    "SPY",
+    "QQQ",
+    "NVDA",
+    "MSFT"
+  ]
 }
