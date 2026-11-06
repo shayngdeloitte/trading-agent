@@ -1,0 +1,180 @@
+{
+  "portfolio": {
+    "cash": 55460.02,
+    "total_value": 100568.08,
+    "positions": [
+      {
+        "symbol": "AAPL",
+        "qty": 23,
+        "avg_price": 342.59
+      },
+      {
+        "symbol": "MSFT",
+        "qty": 15,
+        "avg_price": 530.41
+      },
+      {
+        "symbol": "NVDA",
+        "qty": 35,
+        "avg_price": 227.423143
+      },
+      {
+        "symbol": "QQQ",
+        "qty": 13,
+        "avg_price": 731.461538
+      },
+      {
+        "symbol": "SPY",
+        "qty": 19,
+        "avg_price": 736.56
+      }
+    ]
+  },
+  "research": {
+    "SPY": {
+      "sma20": 770.73,
+      "sma50": 768.16,
+      "last_close": 764.03,
+      "pct_change": -1.18,
+      "trend": "bearish \u2014 below both MAs",
+      "news": "President Trump Posts On Truth Social \"I am pleased to announce that Mr. Stephen Miller, the current Deputy Chief of Staff of the Trump Administration, and one of my most trusted advisors, will become the Chief of Staff starting Monday, November 9, 2026. Susie Wiles, who has done an outstanding job, will be moving over to the Trump Political Operation. I want to thank her for her service as Chief of Staff \u2014 She has done a great job!\"; \"White House Weighs Executive Order Attaching Terrorist Label To Some Nonprofits; The Order, Which Hasn\u2019t Been Finalized, Would Immediately Suspend Groups\u2019 Tax-Exempt Status\" - WSJ Exclusive; Live On CNBC, Fed's Daly Says When You Step Back From 'painful' Volatility, This Is The Kind Of Rebalancing That You Would Hope For",
+      "notes": "",
+      "position": {
+        "asset_id": "b28f4066-5c6d-479b-a2af-85dc1a8f16fb",
+        "symbol": "SPY",
+        "exchange": "ARCA",
+        "asset_class": "us_equity",
+        "asset_marginable": true,
+        "qty": "19",
+        "qty_available": "19",
+        "avg_entry_price": "736.56",
+        "side": "long",
+        "market_value": "14037.39",
+        "cost_basis": "13994.64",
+        "unrealized_pl": "42.75",
+        "unrealized_plpc": "0.00305",
+        "unrealized_intraday_pl": "110.39",
+        "unrealized_intraday_plpc": "0.00793",
+        "current_price": "738.81",
+        "lastday_price": "733",
+        "change_today": "0.00793"
+      }
+    },
+    "QQQ": {
+      "sma20": 737.21,
+      "sma50": 726.36,
+      "last_close": 704.56,
+      "pct_change": -2.85,
+      "trend": "bearish \u2014 below both MAs",
+      "news": "Nasdaq 100 Rebounds 2% After Worst Day Since 2020, Payrolls Smash Estimates: Stock Market Today; Jobs Report Boosts December Fed Rate Hike Bets; What's Going On With Marvell Technology Stock Friday?",
+      "notes": "",
+      "position": {
+        "asset_id": "2d9e926c-e17c-47c3-ad8c-26c7a594e48f",
+        "symbol": "QQQ",
+        "exchange": "NASDAQ",
+        "asset_class": "us_equity",
+        "asset_marginable": true,
+        "qty": "13",
+        "qty_available": "13",
+        "avg_entry_price": "731.461538",
+        "side": "long",
+        "market_value": "8567.39",
+        "cost_basis": "9508.999994",
+        "unrealized_pl": "-941.609994",
+        "unrealized_plpc": "-0.09902",
+        "unrealized_intraday_pl": "155.74",
+        "unrealized_intraday_plpc": "0.01851",
+        "current_price": "659.03",
+        "lastday_price": "647.05",
+        "change_today": "0.01851"
+      }
+    },
+    "NVDA": {
+      "sma20": 226.28,
+      "sma50": 222.79,
+      "last_close": 212.27,
+      "pct_change": -4.34,
+      "trend": "bearish \u2014 below both MAs",
+      "news": "AI Stocks Could Fall Further Despite Surging GPU Demand, Research Firm Warns; Nasdaq 100 Rebounds 2% After Worst Day Since 2020, Payrolls Smash Estimates: Stock Market Today; Chip Stocks Are Now Cheaper Than the S&P 500 \u2014 Something Unseen During the Entire AI Boom",
+      "notes": "",
+      "position": {
+        "asset_id": "4ce9353c-66d1-46c2-898f-fce867ab0247",
+        "symbol": "NVDA",
+        "exchange": "NASDAQ",
+        "asset_class": "us_equity",
+        "asset_marginable": true,
+        "qty": "35",
+        "qty_available": "35",
+        "avg_entry_price": "227.423143",
+        "side": "long",
+        "market_value": "6562.85",
+        "cost_basis": "7959.810005",
+        "unrealized_pl": "-1396.960005",
+        "unrealized_plpc": "-0.1755",
+        "unrealized_intraday_pl": "206.85",
+        "unrealized_intraday_plpc": "0.03254",
+        "current_price": "187.51",
+        "lastday_price": "181.6",
+        "change_today": "0.03254"
+      }
+    },
+    "AAPL": {
+      "sma20": 338.62,
+      "sma50": 328.64,
+      "last_close": 348.34,
+      "pct_change": 1.28,
+      "trend": "bullish \u2014 above both MAs",
+      "news": "Jobs Report Boosts December Fed Rate Hike Bets; Apple Captures Record Share of Global Smartphone Revenue in Q3; Researcher Finds Apple Predictive Text Restrictions Include Political Terms",
+      "notes": "",
+      "position": {
+        "asset_id": "b0b6dd9d-8b9b-48a9-ba46-b9d54906e415",
+        "symbol": "AAPL",
+        "exchange": "NASDAQ",
+        "asset_class": "us_equity",
+        "asset_marginable": true,
+        "qty": "23",
+        "qty_available": "23",
+        "avg_entry_price": "342.59",
+        "side": "long",
+        "market_value": "7929.825",
+        "cost_basis": "7879.57",
+        "unrealized_pl": "50.255",
+        "unrealized_plpc": "0.00638",
+        "unrealized_intraday_pl": "13.915",
+        "unrealized_intraday_plpc": "0.00176",
+        "current_price": "344.775",
+        "lastday_price": "344.17",
+        "change_today": "0.00176"
+      }
+    },
+    "MSFT": {
+      "sma20": 526.32,
+      "sma50": 507.88,
+      "last_close": 521.6,
+      "pct_change": -2.1,
+      "trend": "mixed \u2014 between MAs",
+      "news": "Oracle Stock Slides as Microsoft Reportedly Pulls Back From AI Computing Deal; AI Stocks Got Hammered After Midterms, but This Analyst Says the Panic Is Overblown; OpenAI Announces Partnering With Hacktron To Find Vulnerabilities In OpenAI\u2019s Systems",
+      "notes": "",
+      "position": {
+        "asset_id": "b6d1aa75-5c9c-4353-a305-9e2caa1925ab",
+        "symbol": "MSFT",
+        "exchange": "NASDAQ",
+        "asset_class": "us_equity",
+        "asset_marginable": true,
+        "qty": "15",
+        "qty_available": "15",
+        "avg_entry_price": "530.41",
+        "side": "long",
+        "market_value": "8011.425",
+        "cost_basis": "7956.15",
+        "unrealized_pl": "55.275",
+        "unrealized_plpc": "0.00695",
+        "unrealized_intraday_pl": "-27.525",
+        "unrealized_intraday_plpc": "-0.00342",
+        "current_price": "534.095",
+        "lastday_price": "535.93",
+        "change_today": "-0.00342"
+      }
+    }
+  }
+}
