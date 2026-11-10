@@ -120,7 +120,7 @@
       "pct_change": -1.08,
       "trend": "bullish \u2014 above both MAs",
       "news": "ShiftCam ProRig Filmmaker Kit Launches at Apple Stores; 11 Of 11 Sectors Fall In Tuesday Trading As Leaders Move Together; Apple TV Series Named Finalists for 65th Rose d'Or Awards",
-      "notes": "",
+      "notes": "Hold \u2014 position open, no exit signal",
       "position": {
         "asset_id": "b0b6dd9d-8b9b-48a9-ba46-b9d54906e415",
         "symbol": "AAPL",
@@ -152,5 +152,44 @@
       "notes": "",
       "position": null
     }
-  }
+  },
+  "trades": [
+    {
+      "time": "19:26",
+      "symbol": "SPY",
+      "action": "SELL",
+      "qty": 19,
+      "price": 763.7,
+      "reasoning": "Price $765.23 crossed below SMA20 $770.14"
+    },
+    {
+      "time": "19:26",
+      "symbol": "QQQ",
+      "action": "SELL",
+      "qty": 13,
+      "price": 710.69,
+      "reasoning": "Price $712.11 crossed below SMA20 $733.97"
+    },
+    {
+      "time": "19:26",
+      "symbol": "NVDA",
+      "action": "SELL",
+      "qty": 35,
+      "price": 215.58,
+      "reasoning": "Price $216.01 crossed below SMA20 $224.93"
+    },
+    {
+      "time": "19:26",
+      "symbol": "MSFT",
+      "action": "BUY",
+      "qty": 15,
+      "price": 533.61,
+      "reasoning": "Above SMA20 ($527.89) and SMA50 ($509.17), pct_change=1.56%"
+    }
+  ],
+  "closed": [
+    "SPY",
+    "QQQ",
+    "NVDA"
+  ]
 }
