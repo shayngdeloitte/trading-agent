@@ -1,0 +1,156 @@
+{
+  "portfolio": {
+    "cash": 63470.19,
+    "total_value": 100303.85,
+    "positions": [
+      {
+        "symbol": "AAPL",
+        "qty": 23,
+        "avg_price": 342.59
+      },
+      {
+        "symbol": "NVDA",
+        "qty": 35,
+        "avg_price": 227.423143
+      },
+      {
+        "symbol": "QQQ",
+        "qty": 13,
+        "avg_price": 731.461538
+      },
+      {
+        "symbol": "SPY",
+        "qty": 19,
+        "avg_price": 736.56
+      }
+    ]
+  },
+  "research": {
+    "SPY": {
+      "sma20": 770.14,
+      "sma50": 767.57,
+      "last_close": 765.23,
+      "pct_change": 0.71,
+      "trend": "bearish \u2014 below both MAs",
+      "news": "Fed's Schmid Says A Lot Of Interesting Data Points Between Now And Fed\u2019s December Meeting; Fed's Schmid Says Predicting Instant Payments Will Leap Over Digital Asset Structures; Fed\u2019s Schmid Says Some Concerning Trends In Prices, Underneath The Whole Energy Story; Didnt Think Rate Was Restrictive Last Year, Believes Its Fairly Accommodative Today; U.S. Hiring Pretty Robust Lately; Could Argue Housing Is Going Through An \u2018interesting Dynamic\u2019 But Elsewhere Can\u2019t Find Any Restriction; Inflation Is Top Of Mind",
+      "notes": "",
+      "position": {
+        "asset_id": "b28f4066-5c6d-479b-a2af-85dc1a8f16fb",
+        "symbol": "SPY",
+        "exchange": "ARCA",
+        "asset_class": "us_equity",
+        "asset_marginable": true,
+        "qty": "19",
+        "qty_available": "19",
+        "avg_entry_price": "736.56",
+        "side": "long",
+        "market_value": "14219.22",
+        "cost_basis": "13994.64",
+        "unrealized_pl": "224.58",
+        "unrealized_plpc": "0.01605",
+        "unrealized_intraday_pl": "-81.89",
+        "unrealized_intraday_plpc": "-0.00573",
+        "current_price": "748.38",
+        "lastday_price": "752.69",
+        "change_today": "-0.00573"
+      }
+    },
+    "QQQ": {
+      "sma20": 733.97,
+      "sma50": 725.42,
+      "last_close": 712.11,
+      "pct_change": 1.12,
+      "trend": "bearish \u2014 below both MAs",
+      "news": "11 Of 11 Sectors Fall In Tuesday Trading As Leaders Move Together; Why Is Bloom Energy Stock Falling on Tuesday?; Stock Market Today: Dow Futures Rise, S&P 500 and Nasdaq 100 Futures Fall as Trump Signals Iran War to End \u2018Fairly Soon\u2019 \u2014 CRWV, TTWO, BW In Focus (UPDATED)",
+      "notes": "",
+      "position": {
+        "asset_id": "2d9e926c-e17c-47c3-ad8c-26c7a594e48f",
+        "symbol": "QQQ",
+        "exchange": "NASDAQ",
+        "asset_class": "us_equity",
+        "asset_marginable": true,
+        "qty": "13",
+        "qty_available": "13",
+        "avg_entry_price": "731.461538",
+        "side": "long",
+        "market_value": "8732.8839",
+        "cost_basis": "9508.999994",
+        "unrealized_pl": "-776.116094",
+        "unrealized_plpc": "-0.08162",
+        "unrealized_intraday_pl": "-98.6661",
+        "unrealized_intraday_plpc": "-0.01117",
+        "current_price": "671.7603",
+        "lastday_price": "679.35",
+        "change_today": "-0.01117"
+      }
+    },
+    "NVDA": {
+      "sma20": 224.93,
+      "sma50": 222.32,
+      "last_close": 216.01,
+      "pct_change": 2.36,
+      "trend": "bearish \u2014 below both MAs",
+      "news": "'UK data centre pioneer considers delaying $35bn listing after AI sell-off' - The Telegraph; 'Nvidia Hires Wachtell Lipton to Investigate C.E.O.\u2019s Affair With Chinese Executive; Wachtell Partner Joon H. Kim, A Former Acting U.S. Attorney, Is Leading The Inquiry Into The Chip Maker\u2019s Chief Executive' - NY Times; Dan Ives Says \u2018Spy Soap Opera\u2019 Could Send Nvidia Stock 30% Lower Without CEO: \u2018There is Only One Jensen\u2019",
+      "notes": "",
+      "position": {
+        "asset_id": "4ce9353c-66d1-46c2-898f-fce867ab0247",
+        "symbol": "NVDA",
+        "exchange": "NASDAQ",
+        "asset_class": "us_equity",
+        "asset_marginable": true,
+        "qty": "35",
+        "qty_available": "35",
+        "avg_entry_price": "227.423143",
+        "side": "long",
+        "market_value": "5867.4",
+        "cost_basis": "7959.810005",
+        "unrealized_pl": "-2092.410005",
+        "unrealized_plpc": "-0.26287",
+        "unrealized_intraday_pl": "-386.05",
+        "unrealized_intraday_plpc": "-0.06173",
+        "current_price": "167.64",
+        "lastday_price": "178.67",
+        "change_today": "-0.06173"
+      }
+    },
+    "AAPL": {
+      "sma20": 339.23,
+      "sma50": 330.25,
+      "last_close": 343.93,
+      "pct_change": -1.08,
+      "trend": "bullish \u2014 above both MAs",
+      "news": "ShiftCam ProRig Filmmaker Kit Launches at Apple Stores; 11 Of 11 Sectors Fall In Tuesday Trading As Leaders Move Together; Apple TV Series Named Finalists for 65th Rose d'Or Awards",
+      "notes": "",
+      "position": {
+        "asset_id": "b0b6dd9d-8b9b-48a9-ba46-b9d54906e415",
+        "symbol": "AAPL",
+        "exchange": "NASDAQ",
+        "asset_class": "us_equity",
+        "asset_marginable": true,
+        "qty": "23",
+        "qty_available": "23",
+        "avg_entry_price": "342.59",
+        "side": "long",
+        "market_value": "8014.35",
+        "cost_basis": "7879.57",
+        "unrealized_pl": "134.78",
+        "unrealized_plpc": "0.0171",
+        "unrealized_intraday_pl": "-51.52",
+        "unrealized_intraday_plpc": "-0.00639",
+        "current_price": "348.45",
+        "lastday_price": "350.69",
+        "change_today": "-0.00639"
+      }
+    },
+    "MSFT": {
+      "sma20": 527.89,
+      "sma50": 509.17,
+      "last_close": 532.54,
+      "pct_change": 1.56,
+      "trend": "bullish \u2014 above both MAs",
+      "news": "10 Information Technology Stocks Whale Activity In Today\u2019s Session; AvePoint Expands Strategic Partnership with Microsoft for AI Governance; IBM and Microsoft Announce New AI Agent Platform",
+      "notes": "",
+      "position": null
+    }
+  }
+}
