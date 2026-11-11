@@ -125,7 +125,7 @@
       "pct_change": 0.92,
       "trend": "bullish \u2014 above both MAs",
       "news": "Nvidia\u2019s Earnings Day Is \u2018Earnings Day for Your 401(k).\u2019 Here\u2019s Why; Is CoreWeave's Rally Durable? Nvidia Stock Can Fall 25% If Huang Leaves; What's Going On With Apple Stock Wednesday?",
-      "notes": "",
+      "notes": "Hold \u2014 position open, no exit signal",
       "position": {
         "asset_id": "b0b6dd9d-8b9b-48a9-ba46-b9d54906e415",
         "symbol": "AAPL",
@@ -154,7 +154,7 @@
       "pct_change": -0.18,
       "trend": "bullish \u2014 above both MAs",
       "news": "Nvidia\u2019s Earnings Day Is \u2018Earnings Day for Your 401(k).\u2019 Here\u2019s Why; Is CoreWeave's Rally Durable? Nvidia Stock Can Fall 25% If Huang Leaves; Nasdaq 100 Jumps 2.8% as CoreWeave, Nvidia Climb: Stock Market Today",
-      "notes": "",
+      "notes": "Hold \u2014 position open, no exit signal",
       "position": {
         "asset_id": "b6d1aa75-5c9c-4353-a305-9e2caa1925ab",
         "symbol": "MSFT",
@@ -176,5 +176,36 @@
         "change_today": "-0.02354"
       }
     }
-  }
+  },
+  "trades": [
+    {
+      "time": "19:20",
+      "symbol": "SPY",
+      "action": "SELL",
+      "qty": 19,
+      "price": 768.16,
+      "reasoning": "Price $769.7 crossed below SMA20 $770.41"
+    },
+    {
+      "time": "19:20",
+      "symbol": "QQQ",
+      "action": "SELL",
+      "qty": 13,
+      "price": 719.78,
+      "reasoning": "Price $721.22 crossed below SMA20 $733.14"
+    },
+    {
+      "time": "19:20",
+      "symbol": "NVDA",
+      "action": "SELL",
+      "qty": 35,
+      "price": 217.43,
+      "reasoning": "Price $217.87 crossed below SMA20 $224.46"
+    }
+  ],
+  "closed": [
+    "SPY",
+    "QQQ",
+    "NVDA"
+  ]
 }
