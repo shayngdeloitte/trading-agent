@@ -1,0 +1,180 @@
+{
+  "portfolio": {
+    "cash": 55466.11,
+    "total_value": 101006.44,
+    "positions": [
+      {
+        "symbol": "AAPL",
+        "qty": 23,
+        "avg_price": 342.59
+      },
+      {
+        "symbol": "MSFT",
+        "qty": 15,
+        "avg_price": 533.604667
+      },
+      {
+        "symbol": "NVDA",
+        "qty": 35,
+        "avg_price": 227.423143
+      },
+      {
+        "symbol": "QQQ",
+        "qty": 13,
+        "avg_price": 731.461538
+      },
+      {
+        "symbol": "SPY",
+        "qty": 19,
+        "avg_price": 736.56
+      }
+    ]
+  },
+  "research": {
+    "SPY": {
+      "sma20": 770.41,
+      "sma50": 767.52,
+      "last_close": 769.7,
+      "pct_change": 0.58,
+      "trend": "mixed \u2014 between MAs",
+      "news": "Nvidia\u2019s Earnings Day Is \u2018Earnings Day for Your 401(k).\u2019 Here\u2019s Why; Is CoreWeave's Rally Durable? Nvidia Stock Can Fall 25% If Huang Leaves; Cyclicals Lead Sectors In Wednesday Trading As Defensives Trail",
+      "notes": "",
+      "position": {
+        "asset_id": "b28f4066-5c6d-479b-a2af-85dc1a8f16fb",
+        "symbol": "SPY",
+        "exchange": "ARCA",
+        "asset_class": "us_equity",
+        "asset_marginable": true,
+        "qty": "19",
+        "qty_available": "19",
+        "avg_entry_price": "736.56",
+        "side": "long",
+        "market_value": "14438.48",
+        "cost_basis": "13994.64",
+        "unrealized_pl": "443.84",
+        "unrealized_plpc": "0.03171",
+        "unrealized_intraday_pl": "190",
+        "unrealized_intraday_plpc": "0.01333",
+        "current_price": "759.92",
+        "lastday_price": "749.92",
+        "change_today": "0.01333"
+      }
+    },
+    "QQQ": {
+      "sma20": 733.14,
+      "sma50": 725.25,
+      "last_close": 721.22,
+      "pct_change": 1.28,
+      "trend": "bearish \u2014 below both MAs",
+      "news": "CNBC Halftime Report Final Trades: Walt Disney, Monolithic Power Systems, Amphenol, Invesco QQQ Trust, Series 1; Is CoreWeave's Rally Durable? Nvidia Stock Can Fall 25% If Huang Leaves; Nasdaq 100 Jumps 2.8% as CoreWeave, Nvidia Climb: Stock Market Today",
+      "notes": "",
+      "position": {
+        "asset_id": "2d9e926c-e17c-47c3-ad8c-26c7a594e48f",
+        "symbol": "QQQ",
+        "exchange": "NASDAQ",
+        "asset_class": "us_equity",
+        "asset_marginable": true,
+        "qty": "13",
+        "qty_available": "13",
+        "avg_entry_price": "731.461538",
+        "side": "long",
+        "market_value": "8994.31",
+        "cost_basis": "9508.999994",
+        "unrealized_pl": "-514.689994",
+        "unrealized_plpc": "-0.05413",
+        "unrealized_intraday_pl": "222.43",
+        "unrealized_intraday_plpc": "0.02536",
+        "current_price": "691.87",
+        "lastday_price": "674.76",
+        "change_today": "0.02536"
+      }
+    },
+    "NVDA": {
+      "sma20": 224.46,
+      "sma50": 222.18,
+      "last_close": 217.87,
+      "pct_change": 0.86,
+      "trend": "bearish \u2014 below both MAs",
+      "news": "EXCLUSIVE: Jensen Huang Drama Puts Q3 Financials on Backburner, Expert Says \u2018No One Cares About Their Record Revenues\u2019; Nvidia\u2019s Earnings Day Is \u2018Earnings Day for Your 401(k).\u2019 Here\u2019s Why; James Altucher Posts On X \"My first patent, on a critical piece of infrastructure to make $NVDA GPUs faster. All credit to the amazing optical engineers at $FABC and $KOPN who let me put my name on it.\"",
+      "notes": "",
+      "position": {
+        "asset_id": "4ce9353c-66d1-46c2-898f-fce867ab0247",
+        "symbol": "NVDA",
+        "exchange": "NASDAQ",
+        "asset_class": "us_equity",
+        "asset_marginable": true,
+        "qty": "35",
+        "qty_available": "35",
+        "avg_entry_price": "227.423143",
+        "side": "long",
+        "market_value": "6139.7",
+        "cost_basis": "7959.810005",
+        "unrealized_pl": "-1820.110005",
+        "unrealized_plpc": "-0.22866",
+        "unrealized_intraday_pl": "228.55",
+        "unrealized_intraday_plpc": "0.03866",
+        "current_price": "175.42",
+        "lastday_price": "168.89",
+        "change_today": "0.03866"
+      }
+    },
+    "AAPL": {
+      "sma20": 340.1,
+      "sma50": 331.08,
+      "last_close": 347.1,
+      "pct_change": 0.92,
+      "trend": "bullish \u2014 above both MAs",
+      "news": "Nvidia\u2019s Earnings Day Is \u2018Earnings Day for Your 401(k).\u2019 Here\u2019s Why; Is CoreWeave's Rally Durable? Nvidia Stock Can Fall 25% If Huang Leaves; What's Going On With Apple Stock Wednesday?",
+      "notes": "",
+      "position": {
+        "asset_id": "b0b6dd9d-8b9b-48a9-ba46-b9d54906e415",
+        "symbol": "AAPL",
+        "exchange": "NASDAQ",
+        "asset_class": "us_equity",
+        "asset_marginable": true,
+        "qty": "23",
+        "qty_available": "23",
+        "avg_entry_price": "342.59",
+        "side": "long",
+        "market_value": "8158.79",
+        "cost_basis": "7879.57",
+        "unrealized_pl": "279.22",
+        "unrealized_plpc": "0.03544",
+        "unrealized_intraday_pl": "143.06",
+        "unrealized_intraday_plpc": "0.01785",
+        "current_price": "354.73",
+        "lastday_price": "348.51",
+        "change_today": "0.01785"
+      }
+    },
+    "MSFT": {
+      "sma20": 529.02,
+      "sma50": 510.19,
+      "last_close": 531.58,
+      "pct_change": -0.18,
+      "trend": "bullish \u2014 above both MAs",
+      "news": "Nvidia\u2019s Earnings Day Is \u2018Earnings Day for Your 401(k).\u2019 Here\u2019s Why; Is CoreWeave's Rally Durable? Nvidia Stock Can Fall 25% If Huang Leaves; Nasdaq 100 Jumps 2.8% as CoreWeave, Nvidia Climb: Stock Market Today",
+      "notes": "",
+      "position": {
+        "asset_id": "b6d1aa75-5c9c-4353-a305-9e2caa1925ab",
+        "symbol": "MSFT",
+        "exchange": "NASDAQ",
+        "asset_class": "us_equity",
+        "asset_marginable": true,
+        "qty": "15",
+        "qty_available": "15",
+        "avg_entry_price": "533.604667",
+        "side": "long",
+        "market_value": "7809.15",
+        "cost_basis": "8004.070005",
+        "unrealized_pl": "-194.920005",
+        "unrealized_plpc": "-0.02435",
+        "unrealized_intraday_pl": "-188.25",
+        "unrealized_intraday_plpc": "-0.02354",
+        "current_price": "520.61",
+        "lastday_price": "533.16",
+        "change_today": "-0.02354"
+      }
+    }
+  }
+}
