@@ -1,0 +1,180 @@
+{
+  "portfolio": {
+    "cash": 55466.11,
+    "total_value": 100543.65,
+    "positions": [
+      {
+        "symbol": "AAPL",
+        "qty": 23,
+        "avg_price": 342.59
+      },
+      {
+        "symbol": "MSFT",
+        "qty": 15,
+        "avg_price": 533.604667
+      },
+      {
+        "symbol": "NVDA",
+        "qty": 35,
+        "avg_price": 227.423143
+      },
+      {
+        "symbol": "QQQ",
+        "qty": 13,
+        "avg_price": 731.461538
+      },
+      {
+        "symbol": "SPY",
+        "qty": 19,
+        "avg_price": 736.56
+      }
+    ]
+  },
+  "research": {
+    "SPY": {
+      "sma20": 770.9,
+      "sma50": 767.61,
+      "last_close": 772.28,
+      "pct_change": 0.34,
+      "trend": "bullish \u2014 above both MAs",
+      "news": "Nvidia Crisis \u2013 Visionary Huang\u2019s Resignation Puts America's AI Advantage at Risk; Gold Falls Below $4000; Fed's Daly Says We Are In A Perfect Storm For Hiring; Fed's Daly Says We Have Many Many Quarters To Make Policy Decisions",
+      "notes": "",
+      "position": {
+        "asset_id": "b28f4066-5c6d-479b-a2af-85dc1a8f16fb",
+        "symbol": "SPY",
+        "exchange": "ARCA",
+        "asset_class": "us_equity",
+        "asset_marginable": true,
+        "qty": "19",
+        "qty_available": "19",
+        "avg_entry_price": "736.56",
+        "side": "long",
+        "market_value": "14396.319",
+        "cost_basis": "13994.64",
+        "unrealized_pl": "401.679",
+        "unrealized_plpc": "0.0287",
+        "unrealized_intraday_pl": "-40.071",
+        "unrealized_intraday_plpc": "-0.00278",
+        "current_price": "757.701",
+        "lastday_price": "759.81",
+        "change_today": "-0.00278"
+      }
+    },
+    "QQQ": {
+      "sma20": 732.44,
+      "sma50": 725.41,
+      "last_close": 725.59,
+      "pct_change": 0.61,
+      "trend": "mixed \u2014 between MAs",
+      "news": "Nvidia Crisis \u2013 Visionary Huang\u2019s Resignation Puts America's AI Advantage at Risk; Gold Falls Below $4000; Nasdaq 100 Turns Green Despite Nvidia's 5% Drop on Huang Exit: Stock Market Today; Nvidia ETFs Have a New Problem: Life After Jensen Huang",
+      "notes": "",
+      "position": {
+        "asset_id": "2d9e926c-e17c-47c3-ad8c-26c7a594e48f",
+        "symbol": "QQQ",
+        "exchange": "NASDAQ",
+        "asset_class": "us_equity",
+        "asset_marginable": true,
+        "qty": "13",
+        "qty_available": "13",
+        "avg_entry_price": "731.461538",
+        "side": "long",
+        "market_value": "8938.54",
+        "cost_basis": "9508.999994",
+        "unrealized_pl": "-570.459994",
+        "unrealized_plpc": "-0.05999",
+        "unrealized_intraday_pl": "-36.4",
+        "unrealized_intraday_plpc": "-0.00406",
+        "current_price": "687.58",
+        "lastday_price": "690.38",
+        "change_today": "-0.00406"
+      }
+    },
+    "NVDA": {
+      "sma20": 223.82,
+      "sma50": 222.09,
+      "last_close": 215.34,
+      "pct_change": -1.16,
+      "trend": "bearish \u2014 below both MAs",
+      "news": "Former Nvidia CEO Jensen Huang Had An Intimate Relationship With A Second Employee, Sources Say; Warren Buffett Said \u2018We Can Afford to Lose Money\u2019 But Not \u2018Even a Shred of Reputation\u2019 \u2014 Nvidia\u2019s Board Just Showed What That Means With Jensen Huang\u2019s Exit; Nvidia Crisis \u2013 Visionary Huang\u2019s Resignation Puts America's AI Advantage at Risk; Gold Falls Below $4000",
+      "notes": "",
+      "position": {
+        "asset_id": "4ce9353c-66d1-46c2-898f-fce867ab0247",
+        "symbol": "NVDA",
+        "exchange": "NASDAQ",
+        "asset_class": "us_equity",
+        "asset_marginable": true,
+        "qty": "35",
+        "qty_available": "35",
+        "avg_entry_price": "227.423143",
+        "side": "long",
+        "market_value": "5714.625",
+        "cost_basis": "7959.810005",
+        "unrealized_pl": "-2245.185005",
+        "unrealized_plpc": "-0.28207",
+        "unrealized_intraday_pl": "-365.925",
+        "unrealized_intraday_plpc": "-0.06018",
+        "current_price": "163.275",
+        "lastday_price": "173.73",
+        "change_today": "-0.06018"
+      }
+    },
+    "AAPL": {
+      "sma20": 340.64,
+      "sma50": 331.76,
+      "last_close": 344.06,
+      "pct_change": -0.88,
+      "trend": "bullish \u2014 above both MAs",
+      "news": "Nvidia Crisis \u2013 Visionary Huang\u2019s Resignation Puts America's AI Advantage at Risk; Gold Falls Below $4000; What Is Going on With Apple Stock on Thursday?; Can Nvidia Pull A Tim Cook? Apple's Post-Jobs Performance Offers Clues",
+      "notes": "",
+      "position": {
+        "asset_id": "b0b6dd9d-8b9b-48a9-ba46-b9d54906e415",
+        "symbol": "AAPL",
+        "exchange": "NASDAQ",
+        "asset_class": "us_equity",
+        "asset_marginable": true,
+        "qty": "23",
+        "qty_available": "23",
+        "avg_entry_price": "342.59",
+        "side": "long",
+        "market_value": "8180.6377",
+        "cost_basis": "7879.57",
+        "unrealized_pl": "301.0677",
+        "unrealized_plpc": "0.03821",
+        "unrealized_intraday_pl": "1.1477",
+        "unrealized_intraday_plpc": "0.00014",
+        "current_price": "355.6799",
+        "lastday_price": "355.63",
+        "change_today": "0.00014"
+      }
+    },
+    "MSFT": {
+      "sma20": 529.99,
+      "sma50": 511.2,
+      "last_close": 532.23,
+      "pct_change": 0.12,
+      "trend": "bullish \u2014 above both MAs",
+      "news": "Workday CEO Admits He\u2019s \u2018Absolutely\u2019 Worried About AI Job Displacement \u2014 Says \u2018Yes,\u2019 Companies Will Want to Replace Humans for Less; EXCLUSIVE: Google, Microsoft \u2018Fail to Sway\u2019 Democrats With AI Power Pledge; BetterUp Announces Collaboration with Microsoft to Support Managers",
+      "notes": "",
+      "position": {
+        "asset_id": "b6d1aa75-5c9c-4353-a305-9e2caa1925ab",
+        "symbol": "MSFT",
+        "exchange": "NASDAQ",
+        "asset_class": "us_equity",
+        "asset_marginable": true,
+        "qty": "15",
+        "qty_available": "15",
+        "avg_entry_price": "533.604667",
+        "side": "long",
+        "market_value": "7847.475",
+        "cost_basis": "8004.070005",
+        "unrealized_pl": "-156.595005",
+        "unrealized_plpc": "-0.01956",
+        "unrealized_intraday_pl": "30.6",
+        "unrealized_intraday_plpc": "0.00391",
+        "current_price": "523.165",
+        "lastday_price": "521.125",
+        "change_today": "0.00391"
+      }
+    }
+  }
+}
