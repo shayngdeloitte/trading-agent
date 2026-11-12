@@ -38,7 +38,7 @@
       "pct_change": 0.34,
       "trend": "bullish \u2014 above both MAs",
       "news": "Nvidia Crisis \u2013 Visionary Huang\u2019s Resignation Puts America's AI Advantage at Risk; Gold Falls Below $4000; Fed's Daly Says We Are In A Perfect Storm For Hiring; Fed's Daly Says We Have Many Many Quarters To Make Policy Decisions",
-      "notes": "",
+      "notes": "Hold \u2014 position open, no exit signal",
       "position": {
         "asset_id": "b28f4066-5c6d-479b-a2af-85dc1a8f16fb",
         "symbol": "SPY",
@@ -125,7 +125,7 @@
       "pct_change": -0.88,
       "trend": "bullish \u2014 above both MAs",
       "news": "Nvidia Crisis \u2013 Visionary Huang\u2019s Resignation Puts America's AI Advantage at Risk; Gold Falls Below $4000; What Is Going on With Apple Stock on Thursday?; Can Nvidia Pull A Tim Cook? Apple's Post-Jobs Performance Offers Clues",
-      "notes": "",
+      "notes": "Hold \u2014 position open, no exit signal",
       "position": {
         "asset_id": "b0b6dd9d-8b9b-48a9-ba46-b9d54906e415",
         "symbol": "AAPL",
@@ -154,7 +154,7 @@
       "pct_change": 0.12,
       "trend": "bullish \u2014 above both MAs",
       "news": "Workday CEO Admits He\u2019s \u2018Absolutely\u2019 Worried About AI Job Displacement \u2014 Says \u2018Yes,\u2019 Companies Will Want to Replace Humans for Less; EXCLUSIVE: Google, Microsoft \u2018Fail to Sway\u2019 Democrats With AI Power Pledge; BetterUp Announces Collaboration with Microsoft to Support Managers",
-      "notes": "",
+      "notes": "Hold \u2014 position open, no exit signal",
       "position": {
         "asset_id": "b6d1aa75-5c9c-4353-a305-9e2caa1925ab",
         "symbol": "MSFT",
@@ -176,5 +176,27 @@
         "change_today": "0.00391"
       }
     }
-  }
+  },
+  "trades": [
+    {
+      "time": "19:39",
+      "symbol": "QQQ",
+      "action": "SELL",
+      "qty": 13,
+      "price": 724.14,
+      "reasoning": "Price $725.59 crossed below SMA20 $732.44"
+    },
+    {
+      "time": "19:39",
+      "symbol": "NVDA",
+      "action": "SELL",
+      "qty": 35,
+      "price": 214.91,
+      "reasoning": "Price $215.34 crossed below SMA20 $223.82"
+    }
+  ],
+  "closed": [
+    "QQQ",
+    "NVDA"
+  ]
 }
