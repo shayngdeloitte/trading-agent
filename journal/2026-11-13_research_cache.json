@@ -1,0 +1,180 @@
+{
+  "portfolio": {
+    "cash": 55466.11,
+    "total_value": 100427.94,
+    "positions": [
+      {
+        "symbol": "AAPL",
+        "qty": 23,
+        "avg_price": 342.59
+      },
+      {
+        "symbol": "MSFT",
+        "qty": 15,
+        "avg_price": 533.604667
+      },
+      {
+        "symbol": "NVDA",
+        "qty": 35,
+        "avg_price": 227.423143
+      },
+      {
+        "symbol": "QQQ",
+        "qty": 13,
+        "avg_price": 731.461538
+      },
+      {
+        "symbol": "SPY",
+        "qty": 19,
+        "avg_price": 736.56
+      }
+    ]
+  },
+  "research": {
+    "SPY": {
+      "sma20": 771.17,
+      "sma50": 767.62,
+      "last_close": 769.49,
+      "pct_change": -0.36,
+      "trend": "mixed \u2014 between MAs",
+      "news": "'Hassett expected to depart White House'- Semafor; U.S. Trade Representative, Alongside Treasury, Held First Official U.S.-China Board Of Trade Meeting; Why Is IREN Stock Falling on Friday?",
+      "notes": "",
+      "position": {
+        "asset_id": "b28f4066-5c6d-479b-a2af-85dc1a8f16fb",
+        "symbol": "SPY",
+        "exchange": "ARCA",
+        "asset_class": "us_equity",
+        "asset_marginable": true,
+        "qty": "19",
+        "qty_available": "19",
+        "avg_entry_price": "736.56",
+        "side": "long",
+        "market_value": "14317.83",
+        "cost_basis": "13994.64",
+        "unrealized_pl": "323.19",
+        "unrealized_plpc": "0.02309",
+        "unrealized_intraday_pl": "-67.45",
+        "unrealized_intraday_plpc": "-0.00469",
+        "current_price": "753.57",
+        "lastday_price": "757.12",
+        "change_today": "-0.00469"
+      }
+    },
+    "QQQ": {
+      "sma20": 731.11,
+      "sma50": 725.39,
+      "last_close": 715.42,
+      "pct_change": -1.4,
+      "trend": "bearish \u2014 below both MAs",
+      "news": "AMD Sinks 10.5% as Chip Rally Unwinds, Nasdaq 100 Falls 1.7%: Stock Market Today; Why Is IREN Stock Falling on Friday?; AMD Benefits From Nvidia's Troubles, Smart Money Sells Nvidia; Cooler PPI; Bitcoin Below $70K",
+      "notes": "",
+      "position": {
+        "asset_id": "2d9e926c-e17c-47c3-ad8c-26c7a594e48f",
+        "symbol": "QQQ",
+        "exchange": "NASDAQ",
+        "asset_class": "us_equity",
+        "asset_marginable": true,
+        "qty": "13",
+        "qty_available": "13",
+        "avg_entry_price": "731.461538",
+        "side": "long",
+        "market_value": "8840.52",
+        "cost_basis": "9508.999994",
+        "unrealized_pl": "-668.479994",
+        "unrealized_plpc": "-0.0703",
+        "unrealized_intraday_pl": "-105.69",
+        "unrealized_intraday_plpc": "-0.01181",
+        "current_price": "680.04",
+        "lastday_price": "688.17",
+        "change_today": "-0.01181"
+      }
+    },
+    "NVDA": {
+      "sma20": 222.95,
+      "sma50": 222.01,
+      "last_close": 213.7,
+      "pct_change": -0.76,
+      "trend": "bearish \u2014 below both MAs",
+      "news": "CNBC Reporter Seema Mody Posts On X \"Nvidia board to @CNBC:\"We are in the process of selecting a search firm for the NVIDIA CEO role. We have not formally engaged any potential candidates. Any speculation regarding individual candidates, whether internal or external, is premature.\"; AMD Bulls Make a Killing With 2X ETFs, But Friday\u2019s 20% Rout Delivers a Reality Check; AMD Stock Has Outrun Nvidia 5X Since 2024. But There\u2019s a Valuation Catch",
+      "notes": "",
+      "position": {
+        "asset_id": "4ce9353c-66d1-46c2-898f-fce867ab0247",
+        "symbol": "NVDA",
+        "exchange": "NASDAQ",
+        "asset_class": "us_equity",
+        "asset_marginable": true,
+        "qty": "35",
+        "qty_available": "35",
+        "avg_entry_price": "227.423143",
+        "side": "long",
+        "market_value": "5696.25",
+        "cost_basis": "7959.810005",
+        "unrealized_pl": "-2263.560005",
+        "unrealized_plpc": "-0.28437",
+        "unrealized_intraday_pl": "-120.4",
+        "unrealized_intraday_plpc": "-0.0207",
+        "current_price": "162.75",
+        "lastday_price": "166.19",
+        "change_today": "-0.0207"
+      }
+    },
+    "AAPL": {
+      "sma20": 341.57,
+      "sma50": 332.4,
+      "last_close": 348.98,
+      "pct_change": 1.43,
+      "trend": "bullish \u2014 above both MAs",
+      "news": "Apple Launches HomeView Smart Home Hub; 10 Information Technology Stocks Whale Activity In Today\u2019s Session; AMD Benefits From Nvidia's Troubles, Smart Money Sells Nvidia; Cooler PPI; Bitcoin Below $70K",
+      "notes": "",
+      "position": {
+        "asset_id": "b0b6dd9d-8b9b-48a9-ba46-b9d54906e415",
+        "symbol": "AAPL",
+        "exchange": "NASDAQ",
+        "asset_class": "us_equity",
+        "asset_marginable": true,
+        "qty": "23",
+        "qty_available": "23",
+        "avg_entry_price": "342.59",
+        "side": "long",
+        "market_value": "8235.15",
+        "cost_basis": "7879.57",
+        "unrealized_pl": "355.58",
+        "unrealized_plpc": "0.04513",
+        "unrealized_intraday_pl": "72.91",
+        "unrealized_intraday_plpc": "0.00893",
+        "current_price": "358.05",
+        "lastday_price": "354.88",
+        "change_today": "0.00893"
+      }
+    },
+    "MSFT": {
+      "sma20": 530.87,
+      "sma50": 512.12,
+      "last_close": 530.39,
+      "pct_change": -0.35,
+      "trend": "mixed \u2014 between MAs",
+      "news": "Microsoft Experiences Widespread Global Service Outage; AMD Sinks 10.5% as Chip Rally Unwinds, Nasdaq 100 Falls 1.7%: Stock Market Today; Analyst Shrugs Off Nebius Data Center Delay As 'Slight Blemish' on Strong Quarter",
+      "notes": "",
+      "position": {
+        "asset_id": "b6d1aa75-5c9c-4353-a305-9e2caa1925ab",
+        "symbol": "MSFT",
+        "exchange": "NASDAQ",
+        "asset_class": "us_equity",
+        "asset_marginable": true,
+        "qty": "15",
+        "qty_available": "15",
+        "avg_entry_price": "533.604667",
+        "side": "long",
+        "market_value": "7872.075",
+        "cost_basis": "8004.070005",
+        "unrealized_pl": "-131.995005",
+        "unrealized_plpc": "-0.01649",
+        "unrealized_intraday_pl": "27.075",
+        "unrealized_intraday_plpc": "0.00345",
+        "current_price": "524.805",
+        "lastday_price": "523",
+        "change_today": "0.00345"
+      }
+    }
+  }
+}
