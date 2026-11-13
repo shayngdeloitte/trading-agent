@@ -125,7 +125,7 @@
       "pct_change": 1.43,
       "trend": "bullish \u2014 above both MAs",
       "news": "Apple Launches HomeView Smart Home Hub; 10 Information Technology Stocks Whale Activity In Today\u2019s Session; AMD Benefits From Nvidia's Troubles, Smart Money Sells Nvidia; Cooler PPI; Bitcoin Below $70K",
-      "notes": "",
+      "notes": "Hold \u2014 position open, no exit signal",
       "position": {
         "asset_id": "b0b6dd9d-8b9b-48a9-ba46-b9d54906e415",
         "symbol": "AAPL",
@@ -176,5 +176,45 @@
         "change_today": "0.00345"
       }
     }
-  }
+  },
+  "trades": [
+    {
+      "time": "19:20",
+      "symbol": "SPY",
+      "action": "SELL",
+      "qty": 19,
+      "price": 767.95,
+      "reasoning": "Price $769.49 crossed below SMA20 $771.17"
+    },
+    {
+      "time": "19:20",
+      "symbol": "QQQ",
+      "action": "SELL",
+      "qty": 13,
+      "price": 713.99,
+      "reasoning": "Price $715.42 crossed below SMA20 $731.11"
+    },
+    {
+      "time": "19:20",
+      "symbol": "NVDA",
+      "action": "SELL",
+      "qty": 35,
+      "price": 213.27,
+      "reasoning": "Price $213.7 crossed below SMA20 $222.95"
+    },
+    {
+      "time": "19:20",
+      "symbol": "MSFT",
+      "action": "SELL",
+      "qty": 15,
+      "price": 529.33,
+      "reasoning": "Price $530.39 crossed below SMA20 $530.87"
+    }
+  ],
+  "closed": [
+    "SPY",
+    "QQQ",
+    "NVDA",
+    "MSFT"
+  ]
 }
