@@ -1,0 +1,180 @@
+{
+  "portfolio": {
+    "cash": 55466.11,
+    "total_value": 98898.6,
+    "positions": [
+      {
+        "symbol": "AAPL",
+        "qty": 23,
+        "avg_price": 342.59
+      },
+      {
+        "symbol": "MSFT",
+        "qty": 15,
+        "avg_price": 533.604667
+      },
+      {
+        "symbol": "NVDA",
+        "qty": 35,
+        "avg_price": 227.423143
+      },
+      {
+        "symbol": "QQQ",
+        "qty": 13,
+        "avg_price": 731.461538
+      },
+      {
+        "symbol": "SPY",
+        "qty": 19,
+        "avg_price": 736.56
+      }
+    ]
+  },
+  "research": {
+    "SPY": {
+      "sma20": 769.33,
+      "sma50": 767.21,
+      "last_close": 752.04,
+      "pct_change": -0.49,
+      "trend": "bearish \u2014 below both MAs",
+      "news": "No recent news",
+      "notes": "",
+      "position": {
+        "asset_id": "b28f4066-5c6d-479b-a2af-85dc1a8f16fb",
+        "symbol": "SPY",
+        "exchange": "ARCA",
+        "asset_class": "us_equity",
+        "asset_marginable": true,
+        "qty": "19",
+        "qty_available": "19",
+        "avg_entry_price": "736.56",
+        "side": "long",
+        "market_value": "13889.38",
+        "cost_basis": "13994.64",
+        "unrealized_pl": "-105.26",
+        "unrealized_plpc": "-0.00752",
+        "unrealized_intraday_pl": "-169.67",
+        "unrealized_intraday_plpc": "-0.01207",
+        "current_price": "731.02",
+        "lastday_price": "739.95",
+        "change_today": "-0.01207"
+      }
+    },
+    "QQQ": {
+      "sma20": 724.42,
+      "sma50": 724.34,
+      "last_close": 681.22,
+      "pct_change": -1.35,
+      "trend": "bearish \u2014 below both MAs",
+      "news": "Questcorp Mining and Riverside Resources Commence Phase 2B Exploration at La Union Project; Questcorp Mining Completes Acquisition of 100% Interest in North Island Copper Project; Questcorp Mining to Acquire Remaining 49% Interest in North Island Copper Project",
+      "notes": "",
+      "position": {
+        "asset_id": "2d9e926c-e17c-47c3-ad8c-26c7a594e48f",
+        "symbol": "QQQ",
+        "exchange": "NASDAQ",
+        "asset_class": "us_equity",
+        "asset_marginable": true,
+        "qty": "13",
+        "qty_available": "13",
+        "avg_entry_price": "731.461538",
+        "side": "long",
+        "market_value": "8510.06",
+        "cost_basis": "9508.999994",
+        "unrealized_pl": "-998.939994",
+        "unrealized_plpc": "-0.10505",
+        "unrealized_intraday_pl": "-92.69",
+        "unrealized_intraday_plpc": "-0.01077",
+        "current_price": "654.62",
+        "lastday_price": "661.75",
+        "change_today": "-0.01077"
+      }
+    },
+    "NVDA": {
+      "sma20": 219.65,
+      "sma50": 221.52,
+      "last_close": 202.21,
+      "pct_change": -1.25,
+      "trend": "bearish \u2014 below both MAs",
+      "news": "Rockwell Automation Launches GPU-Enabled Industrial Computing with NVIDIA; NVIDIA Issues Warning to Chip Buyers Regarding US Export Compliance; NVIDIA Establishes National Security and Export Control Oversight Committee",
+      "notes": "",
+      "position": {
+        "asset_id": "4ce9353c-66d1-46c2-898f-fce867ab0247",
+        "symbol": "NVDA",
+        "exchange": "NASDAQ",
+        "asset_class": "us_equity",
+        "asset_marginable": true,
+        "qty": "35",
+        "qty_available": "35",
+        "avg_entry_price": "227.423143",
+        "side": "long",
+        "market_value": "5373.55",
+        "cost_basis": "7959.810005",
+        "unrealized_pl": "-2586.260005",
+        "unrealized_plpc": "-0.32491",
+        "unrealized_intraday_pl": "-91.35",
+        "unrealized_intraday_plpc": "-0.01672",
+        "current_price": "153.53",
+        "lastday_price": "156.14",
+        "change_today": "-0.01672"
+      }
+    },
+    "AAPL": {
+      "sma20": 342.4,
+      "sma50": 333.66,
+      "last_close": 338.7,
+      "pct_change": -1.76,
+      "trend": "mixed \u2014 between MAs",
+      "news": "Apple Reports Widespread Internal and Consumer Service Outages; Apple Reportedly Nearing Long-Term DRAM Supply Agreement With Samsung; Apple Faces French Trial Over Alleged Planned Obsolescence",
+      "notes": "",
+      "position": {
+        "asset_id": "b0b6dd9d-8b9b-48a9-ba46-b9d54906e415",
+        "symbol": "AAPL",
+        "exchange": "NASDAQ",
+        "asset_class": "us_equity",
+        "asset_marginable": true,
+        "qty": "23",
+        "qty_available": "23",
+        "avg_entry_price": "342.59",
+        "side": "long",
+        "market_value": "8067.135",
+        "cost_basis": "7879.57",
+        "unrealized_pl": "187.565",
+        "unrealized_plpc": "0.0238",
+        "unrealized_intraday_pl": "-46.805",
+        "unrealized_intraday_plpc": "-0.00577",
+        "current_price": "350.745",
+        "lastday_price": "352.78",
+        "change_today": "-0.00577"
+      }
+    },
+    "MSFT": {
+      "sma20": 530.21,
+      "sma50": 513.41,
+      "last_close": 507,
+      "pct_change": -2.87,
+      "trend": "bearish \u2014 below both MAs",
+      "news": "Microsoft Launches AI Transparency Initiative; Microsoft Commences Ignite 2026 Conference; Microsoft Expands Use of Haivision Live Video Ecosystem",
+      "notes": "",
+      "position": {
+        "asset_id": "b6d1aa75-5c9c-4353-a305-9e2caa1925ab",
+        "symbol": "MSFT",
+        "exchange": "NASDAQ",
+        "asset_class": "us_equity",
+        "asset_marginable": true,
+        "qty": "15",
+        "qty_available": "15",
+        "avg_entry_price": "533.604667",
+        "side": "long",
+        "market_value": "7589.325",
+        "cost_basis": "8004.070005",
+        "unrealized_pl": "-414.745005",
+        "unrealized_plpc": "-0.05182",
+        "unrealized_intraday_pl": "-180.525",
+        "unrealized_intraday_plpc": "-0.02323",
+        "current_price": "505.955",
+        "lastday_price": "517.99",
+        "change_today": "-0.02323"
+      }
+    }
+  }
+}
