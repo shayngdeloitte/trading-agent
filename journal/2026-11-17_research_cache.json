@@ -176,5 +176,54 @@
         "change_today": "-0.02323"
       }
     }
-  }
+  },
+  "trades": [
+    {
+      "time": "20:33",
+      "symbol": "SPY",
+      "action": "SELL",
+      "qty": 19,
+      "price": 750.54,
+      "reasoning": "Price $752.04 crossed below SMA20 $769.33"
+    },
+    {
+      "time": "20:33",
+      "symbol": "QQQ",
+      "action": "SELL",
+      "qty": 13,
+      "price": 679.86,
+      "reasoning": "Price $681.22 crossed below SMA20 $724.42"
+    },
+    {
+      "time": "20:33",
+      "symbol": "NVDA",
+      "action": "SELL",
+      "qty": 35,
+      "price": 201.81,
+      "reasoning": "Stop loss triggered: -11.1% from entry"
+    },
+    {
+      "time": "20:33",
+      "symbol": "AAPL",
+      "action": "SELL",
+      "qty": 23,
+      "price": 338.02,
+      "reasoning": "Price $338.7 crossed below SMA20 $342.4"
+    },
+    {
+      "time": "20:34",
+      "symbol": "MSFT",
+      "action": "SELL",
+      "qty": 15,
+      "price": 505.99,
+      "reasoning": "Price $507 crossed below SMA20 $530.21"
+    }
+  ],
+  "closed": [
+    "SPY",
+    "QQQ",
+    "NVDA",
+    "AAPL",
+    "MSFT"
+  ]
 }
