@@ -1,0 +1,132 @@
+{
+  "portfolio": {
+    "cash": 71135.3,
+    "total_value": 98878.94,
+    "positions": [
+      {
+        "symbol": "NVDA",
+        "qty": 35,
+        "avg_price": 227.423143
+      },
+      {
+        "symbol": "QQQ",
+        "qty": 13,
+        "avg_price": 731.461538
+      },
+      {
+        "symbol": "SPY",
+        "qty": 19,
+        "avg_price": 736.56
+      }
+    ]
+  },
+  "research": {
+    "SPY": {
+      "sma20": 768.09,
+      "sma50": 767.03,
+      "last_close": 754.38,
+      "pct_change": 0.31,
+      "trend": "bearish \u2014 below both MAs",
+      "news": "No recent news",
+      "notes": "",
+      "position": {
+        "asset_id": "b28f4066-5c6d-479b-a2af-85dc1a8f16fb",
+        "symbol": "SPY",
+        "exchange": "ARCA",
+        "asset_class": "us_equity",
+        "asset_marginable": true,
+        "qty": "19",
+        "qty_available": "19",
+        "avg_entry_price": "736.56",
+        "side": "long",
+        "market_value": "13885.39",
+        "cost_basis": "13994.64",
+        "unrealized_pl": "-109.25",
+        "unrealized_plpc": "-0.00781",
+        "unrealized_intraday_pl": "-30.97",
+        "unrealized_intraday_plpc": "-0.00223",
+        "current_price": "730.81",
+        "lastday_price": "732.44",
+        "change_today": "-0.00223"
+      }
+    },
+    "QQQ": {
+      "sma20": 720.7,
+      "sma50": 723.92,
+      "last_close": 685.32,
+      "pct_change": 0.6,
+      "trend": "bearish \u2014 below both MAs",
+      "news": "Questcorp Mining and Riverside Resources Commence Phase 2B Exploration at La Union Project; Questcorp Mining Completes Acquisition of 100% Interest in North Island Copper Project; Questcorp Mining to Acquire Remaining 49% Interest in North Island Copper Project",
+      "notes": "",
+      "position": {
+        "asset_id": "2d9e926c-e17c-47c3-ad8c-26c7a594e48f",
+        "symbol": "QQQ",
+        "exchange": "NASDAQ",
+        "asset_class": "us_equity",
+        "asset_marginable": true,
+        "qty": "13",
+        "qty_available": "13",
+        "avg_entry_price": "731.461538",
+        "side": "long",
+        "market_value": "8569.795",
+        "cost_basis": "9508.999994",
+        "unrealized_pl": "-939.204994",
+        "unrealized_plpc": "-0.09877",
+        "unrealized_intraday_pl": "29.445",
+        "unrealized_intraday_plpc": "0.00345",
+        "current_price": "659.215",
+        "lastday_price": "656.95",
+        "change_today": "0.00345"
+      }
+    },
+    "NVDA": {
+      "sma20": 218.02,
+      "sma50": 221.48,
+      "last_close": 206.56,
+      "pct_change": 2.16,
+      "trend": "bearish \u2014 below both MAs",
+      "news": "NVIDIA Announces Expanded Multiyear Supply Chain Commitments; NVIDIA Faces SEC Investigation and Delays Quarterly 10-Q Filing; NVIDIA Co-Founder Jensen Huang Retains Director Nomination Rights",
+      "notes": "",
+      "position": {
+        "asset_id": "4ce9353c-66d1-46c2-898f-fce867ab0247",
+        "symbol": "NVDA",
+        "exchange": "NASDAQ",
+        "asset_class": "us_equity",
+        "asset_marginable": true,
+        "qty": "35",
+        "qty_available": "35",
+        "avg_entry_price": "227.423143",
+        "side": "long",
+        "market_value": "5288.85",
+        "cost_basis": "7959.810005",
+        "unrealized_pl": "-2670.960005",
+        "unrealized_plpc": "-0.33556",
+        "unrealized_intraday_pl": "-152.25",
+        "unrealized_intraday_plpc": "-0.02798",
+        "current_price": "151.11",
+        "lastday_price": "155.46",
+        "change_today": "-0.02798"
+      }
+    },
+    "AAPL": {
+      "sma20": 342.3,
+      "sma50": 334.08,
+      "last_close": 331.7,
+      "pct_change": -2.07,
+      "trend": "bearish \u2014 below both MAs",
+      "news": "Apple Announces Finalists for 2026 App Store Awards; Apple Services Experience Outage Following Internal Update; South Korean Regulator Orders Apple to Designate Legal Representatives",
+      "notes": "",
+      "position": null
+    },
+    "MSFT": {
+      "sma20": 529.78,
+      "sma50": 514.08,
+      "last_close": 520.84,
+      "pct_change": 2.73,
+      "trend": "mixed \u2014 between MAs",
+      "news": "Splashtop Joins Microsoft Virus Initiative; Microsoft and Intel Announce Joint Infrastructure Investments; Ema Launches AI Employees for HR, IT, and Finance on Microsoft Marketplace",
+      "notes": "",
+      "position": null
+    }
+  }
+}
