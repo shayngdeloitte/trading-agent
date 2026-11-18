@@ -115,7 +115,7 @@
       "pct_change": -2.07,
       "trend": "bearish \u2014 below both MAs",
       "news": "Apple Announces Finalists for 2026 App Store Awards; Apple Services Experience Outage Following Internal Update; South Korean Regulator Orders Apple to Designate Legal Representatives",
-      "notes": "",
+      "notes": "Hold \u2014 below SMA20, no entry",
       "position": null
     },
     "MSFT": {
@@ -125,8 +125,39 @@
       "pct_change": 2.73,
       "trend": "mixed \u2014 between MAs",
       "news": "Splashtop Joins Microsoft Virus Initiative; Microsoft and Intel Announce Joint Infrastructure Investments; Ema Launches AI Employees for HR, IT, and Finance on Microsoft Marketplace",
-      "notes": "",
+      "notes": "Hold \u2014 below SMA20, no entry",
       "position": null
     }
-  }
+  },
+  "trades": [
+    {
+      "time": "20:06",
+      "symbol": "SPY",
+      "action": "SELL",
+      "qty": 19,
+      "price": 752.87,
+      "reasoning": "Price $754.38 crossed below SMA20 $768.09"
+    },
+    {
+      "time": "20:06",
+      "symbol": "QQQ",
+      "action": "SELL",
+      "qty": 13,
+      "price": 683.95,
+      "reasoning": "Price $685.32 crossed below SMA20 $720.7"
+    },
+    {
+      "time": "20:06",
+      "symbol": "NVDA",
+      "action": "SELL",
+      "qty": 35,
+      "price": 206.15,
+      "reasoning": "Stop loss triggered: -9.2% from entry"
+    }
+  ],
+  "closed": [
+    "SPY",
+    "QQQ",
+    "NVDA"
+  ]
 }
