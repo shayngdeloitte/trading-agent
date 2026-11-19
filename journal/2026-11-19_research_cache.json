@@ -1,0 +1,132 @@
+{
+  "portfolio": {
+    "cash": 71135.3,
+    "total_value": 98272.48,
+    "positions": [
+      {
+        "symbol": "NVDA",
+        "qty": 35,
+        "avg_price": 227.423143
+      },
+      {
+        "symbol": "QQQ",
+        "qty": 13,
+        "avg_price": 731.461538
+      },
+      {
+        "symbol": "SPY",
+        "qty": 19,
+        "avg_price": 736.56
+      }
+    ]
+  },
+  "research": {
+    "SPY": {
+      "sma20": 767.57,
+      "sma50": 767.05,
+      "last_close": 766.73,
+      "pct_change": 1.64,
+      "trend": "bearish \u2014 below both MAs",
+      "news": "No recent news",
+      "notes": "",
+      "position": {
+        "asset_id": "b28f4066-5c6d-479b-a2af-85dc1a8f16fb",
+        "symbol": "SPY",
+        "exchange": "ARCA",
+        "asset_class": "us_equity",
+        "asset_marginable": true,
+        "qty": "19",
+        "qty_available": "19",
+        "avg_entry_price": "736.56",
+        "side": "long",
+        "market_value": "13607.021",
+        "cost_basis": "13994.64",
+        "unrealized_pl": "-387.619",
+        "unrealized_plpc": "-0.0277",
+        "unrealized_intraday_pl": "-266.779",
+        "unrealized_intraday_plpc": "-0.01923",
+        "current_price": "716.159",
+        "lastday_price": "730.2",
+        "change_today": "-0.01923"
+      }
+    },
+    "QQQ": {
+      "sma20": 717.4,
+      "sma50": 723.54,
+      "last_close": 691.68,
+      "pct_change": 0.93,
+      "trend": "bearish \u2014 below both MAs",
+      "news": "Questcorp Mining and Riverside Resources Commence Phase 2B Exploration at La Union Project; Questcorp Mining Completes Acquisition of 100% Interest in North Island Copper Project; Questcorp Mining to Acquire Remaining 49% Interest in North Island Copper Project",
+      "notes": "",
+      "position": {
+        "asset_id": "2d9e926c-e17c-47c3-ad8c-26c7a594e48f",
+        "symbol": "QQQ",
+        "exchange": "NASDAQ",
+        "asset_class": "us_equity",
+        "asset_marginable": true,
+        "qty": "13",
+        "qty_available": "13",
+        "avg_entry_price": "731.461538",
+        "side": "long",
+        "market_value": "8386.56",
+        "cost_basis": "9508.999994",
+        "unrealized_pl": "-1122.439994",
+        "unrealized_plpc": "-0.11804",
+        "unrealized_intraday_pl": "-187.07",
+        "unrealized_intraday_plpc": "-0.02182",
+        "current_price": "645.12",
+        "lastday_price": "659.51",
+        "change_today": "-0.02182"
+      }
+    },
+    "NVDA": {
+      "sma20": 216.16,
+      "sma50": 221.22,
+      "last_close": 200.17,
+      "pct_change": -3.1,
+      "trend": "bearish \u2014 below both MAs",
+      "news": "NVIDIA Receives Analyst Downgrades Following CEO Resignation; Daiwa Securities Adjusts Price Target on Nvidia to $185 From $245; Cantor Fitzgerald Maintains $250 Price Target on NVIDIA",
+      "notes": "",
+      "position": {
+        "asset_id": "4ce9353c-66d1-46c2-898f-fce867ab0247",
+        "symbol": "NVDA",
+        "exchange": "NASDAQ",
+        "asset_class": "us_equity",
+        "asset_marginable": true,
+        "qty": "35",
+        "qty_available": "35",
+        "avg_entry_price": "227.423143",
+        "side": "long",
+        "market_value": "5143.6",
+        "cost_basis": "7959.810005",
+        "unrealized_pl": "-2816.210005",
+        "unrealized_plpc": "-0.3538",
+        "unrealized_intraday_pl": "-140",
+        "unrealized_intraday_plpc": "-0.0265",
+        "current_price": "146.96",
+        "lastday_price": "150.96",
+        "change_today": "-0.0265"
+      }
+    },
+    "AAPL": {
+      "sma20": 342.95,
+      "sma50": 334.88,
+      "last_close": 349.56,
+      "pct_change": 5.38,
+      "trend": "bullish \u2014 above both MAs",
+      "news": "Apple Camera and Photos Software Chief Jon McCormack Departs; Apple Announces 2026 Black Friday Shopping Event; Apple Releases HomeView Software 27.2.1 Update",
+      "notes": "",
+      "position": null
+    },
+    "MSFT": {
+      "sma20": 531.1,
+      "sma50": 515.37,
+      "last_close": 556.07,
+      "pct_change": 6.76,
+      "trend": "bullish \u2014 above both MAs",
+      "news": "Profound Launches Integrations for Microsoft Teams and Microsoft 365; Microsoft Integrates IDEMIA Mobile Driver's License Verification into Entra; Microsoft Announces AI Innovations and Salesforce Partnership at Ignite",
+      "notes": "",
+      "position": null
+    }
+  }
+}
