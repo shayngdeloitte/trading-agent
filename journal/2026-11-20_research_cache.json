@@ -125,7 +125,7 @@
       "pct_change": -1.42,
       "trend": "bullish \u2014 above both MAs",
       "news": "Apple Developer Academy Showcase in Pohang; Apple Developing Autonomous AI Agent; U.K. Tribunal Orders Government to Confirm Secret Demand for Apple Customer Data",
-      "notes": "",
+      "notes": "Hold \u2014 position open, no exit signal",
       "position": {
         "asset_id": "b0b6dd9d-8b9b-48a9-ba46-b9d54906e415",
         "symbol": "AAPL",
@@ -154,7 +154,7 @@
       "pct_change": -3.56,
       "trend": "bullish \u2014 above both MAs",
       "news": "Danaher Collaborates with Microsoft to Advance AI-Powered Scientific Instrument Connectivity; Profound Launches Integrations for Microsoft Teams and Microsoft 365; Microsoft Integrates IDEMIA Mobile Driver's License Verification into Entra",
-      "notes": "",
+      "notes": "Hold \u2014 position open, no exit signal",
       "position": {
         "asset_id": "b6d1aa75-5c9c-4353-a305-9e2caa1925ab",
         "symbol": "MSFT",
@@ -176,5 +176,36 @@
         "change_today": "-0.02014"
       }
     }
-  }
+  },
+  "trades": [
+    {
+      "time": "19:42",
+      "symbol": "SPY",
+      "action": "SELL",
+      "qty": 19,
+      "price": 731.96,
+      "reasoning": "Price $733.43 crossed below SMA20 $765.55"
+    },
+    {
+      "time": "19:42",
+      "symbol": "QQQ",
+      "action": "SELL",
+      "qty": 13,
+      "price": 646.75,
+      "reasoning": "Stop loss triggered: -11.4% from entry"
+    },
+    {
+      "time": "19:42",
+      "symbol": "NVDA",
+      "action": "SELL",
+      "qty": 35,
+      "price": 181.23,
+      "reasoning": "Stop loss triggered: -20.2% from entry"
+    }
+  ],
+  "closed": [
+    "SPY",
+    "QQQ",
+    "NVDA"
+  ]
 }
