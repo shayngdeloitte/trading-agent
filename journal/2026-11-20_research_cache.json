@@ -1,0 +1,180 @@
+{
+  "portfolio": {
+    "cash": 56465.6,
+    "total_value": 96651.53,
+    "positions": [
+      {
+        "symbol": "AAPL",
+        "qty": 22,
+        "avg_price": 348.949545
+      },
+      {
+        "symbol": "MSFT",
+        "qty": 14,
+        "avg_price": 499.485714
+      },
+      {
+        "symbol": "NVDA",
+        "qty": 35,
+        "avg_price": 227.423143
+      },
+      {
+        "symbol": "QQQ",
+        "qty": 13,
+        "avg_price": 731.461538
+      },
+      {
+        "symbol": "SPY",
+        "qty": 19,
+        "avg_price": 736.56
+      }
+    ]
+  },
+  "research": {
+    "SPY": {
+      "sma20": 765.55,
+      "sma50": 766.4,
+      "last_close": 733.43,
+      "pct_change": -4.34,
+      "trend": "bearish \u2014 below both MAs",
+      "news": "No recent news",
+      "notes": "",
+      "position": {
+        "asset_id": "b28f4066-5c6d-479b-a2af-85dc1a8f16fb",
+        "symbol": "SPY",
+        "exchange": "ARCA",
+        "asset_class": "us_equity",
+        "asset_marginable": true,
+        "qty": "19",
+        "qty_available": "19",
+        "avg_entry_price": "736.56",
+        "side": "long",
+        "market_value": "13215.45",
+        "cost_basis": "13994.64",
+        "unrealized_pl": "-779.19",
+        "unrealized_plpc": "-0.05568",
+        "unrealized_intraday_pl": "-386.08",
+        "unrealized_intraday_plpc": "-0.02839",
+        "current_price": "695.55",
+        "lastday_price": "715.87",
+        "change_today": "-0.02839"
+      }
+    },
+    "QQQ": {
+      "sma20": 712.43,
+      "sma50": 722.28,
+      "last_close": 648.05,
+      "pct_change": -6.31,
+      "trend": "bearish \u2014 below both MAs",
+      "news": "Questcorp Mining and Riverside Resources Commence Phase 2B Exploration at La Union Project; Questcorp Mining Completes Acquisition of 100% Interest in North Island Copper Project; Questcorp Mining to Acquire Remaining 49% Interest in North Island Copper Project",
+      "notes": "",
+      "position": {
+        "asset_id": "2d9e926c-e17c-47c3-ad8c-26c7a594e48f",
+        "symbol": "QQQ",
+        "exchange": "NASDAQ",
+        "asset_class": "us_equity",
+        "asset_marginable": true,
+        "qty": "13",
+        "qty_available": "13",
+        "avg_entry_price": "731.461538",
+        "side": "long",
+        "market_value": "8002.4581",
+        "cost_basis": "9508.999994",
+        "unrealized_pl": "-1506.541894",
+        "unrealized_plpc": "-0.15843",
+        "unrealized_intraday_pl": "-383.0619",
+        "unrealized_intraday_plpc": "-0.04568",
+        "current_price": "615.5737",
+        "lastday_price": "645.04",
+        "change_today": "-0.04568"
+      }
+    },
+    "NVDA": {
+      "sma20": 213.71,
+      "sma50": 220.66,
+      "last_close": 181.59,
+      "pct_change": -9.28,
+      "trend": "bearish \u2014 below both MAs",
+      "news": "NVIDIA Subject to Congressional Probe Regarding China Sales; California Attorney General Launches Investigation into NVIDIA; 5C Group Joins NVIDIA Partner Network as Data Center Partner",
+      "notes": "",
+      "position": {
+        "asset_id": "4ce9353c-66d1-46c2-898f-fce867ab0247",
+        "symbol": "NVDA",
+        "exchange": "NASDAQ",
+        "asset_class": "us_equity",
+        "asset_marginable": true,
+        "qty": "35",
+        "qty_available": "35",
+        "avg_entry_price": "227.423143",
+        "side": "long",
+        "market_value": "4549.8985",
+        "cost_basis": "7959.810005",
+        "unrealized_pl": "-3409.911505",
+        "unrealized_plpc": "-0.42839",
+        "unrealized_intraday_pl": "-559.4015",
+        "unrealized_intraday_plpc": "-0.10949",
+        "current_price": "129.9971",
+        "lastday_price": "145.98",
+        "change_today": "-0.10949"
+      }
+    },
+    "AAPL": {
+      "sma20": 343.16,
+      "sma50": 335.5,
+      "last_close": 344.6,
+      "pct_change": -1.42,
+      "trend": "bullish \u2014 above both MAs",
+      "news": "Apple Developer Academy Showcase in Pohang; Apple Developing Autonomous AI Agent; U.K. Tribunal Orders Government to Confirm Secret Demand for Apple Customer Data",
+      "notes": "",
+      "position": {
+        "asset_id": "b0b6dd9d-8b9b-48a9-ba46-b9d54906e415",
+        "symbol": "AAPL",
+        "exchange": "NASDAQ",
+        "asset_class": "us_equity",
+        "asset_marginable": true,
+        "qty": "22",
+        "qty_available": "22",
+        "avg_entry_price": "348.949545",
+        "side": "long",
+        "market_value": "7582.41",
+        "cost_basis": "7676.88999",
+        "unrealized_pl": "-94.47999",
+        "unrealized_plpc": "-0.01231",
+        "unrealized_intraday_pl": "-100.21",
+        "unrealized_intraday_plpc": "-0.01304",
+        "current_price": "344.655",
+        "lastday_price": "349.21",
+        "change_today": "-0.01304"
+      }
+    },
+    "MSFT": {
+      "sma20": 531.78,
+      "sma50": 516.17,
+      "last_close": 536.29,
+      "pct_change": -3.56,
+      "trend": "bullish \u2014 above both MAs",
+      "news": "Danaher Collaborates with Microsoft to Advance AI-Powered Scientific Instrument Connectivity; Profound Launches Integrations for Microsoft Teams and Microsoft 365; Microsoft Integrates IDEMIA Mobile Driver's License Verification into Entra",
+      "notes": "",
+      "position": {
+        "asset_id": "b6d1aa75-5c9c-4353-a305-9e2caa1925ab",
+        "symbol": "MSFT",
+        "exchange": "NASDAQ",
+        "asset_class": "us_equity",
+        "asset_marginable": true,
+        "qty": "14",
+        "qty_available": "14",
+        "avg_entry_price": "499.485714",
+        "side": "long",
+        "market_value": "6835.71",
+        "cost_basis": "6992.799996",
+        "unrealized_pl": "-157.089996",
+        "unrealized_plpc": "-0.02246",
+        "unrealized_intraday_pl": "-140.49",
+        "unrealized_intraday_plpc": "-0.02014",
+        "current_price": "488.265",
+        "lastday_price": "498.3",
+        "change_today": "-0.02014"
+      }
+    }
+  }
+}
